@@ -4,63 +4,86 @@
 
 ## Table of contents
 
-### Modules
-
-- [&lt;internal\&gt;](deck_components._internal_.md)
-
-### Enumerations
-
-- [DisplayStatus](../enums/deck_components.DisplayStatus.md)
-- [GamepadButton](../enums/deck_components.GamepadButton.md)
-- [NavEntryPositionPreferences](../enums/deck_components.NavEntryPositionPreferences.md)
-- [QuickAccessTab](../enums/deck_components.QuickAccessTab.md)
-- [SideMenu](../enums/deck_components.SideMenu.md)
-
-### Interfaces
-
-- [ButtonItemProps](../interfaces/deck_components.ButtonItemProps.md)
-- [ButtonProps](../interfaces/deck_components.ButtonProps.md)
-- [CarouselProps](../interfaces/deck_components.CarouselProps.md)
-- [ConfirmModalProps](../interfaces/deck_components.ConfirmModalProps.md)
-- [DialogButtonProps](../interfaces/deck_components.DialogButtonProps.md)
-- [DialogCommonProps](../interfaces/deck_components.DialogCommonProps.md)
-- [DropdownItemProps](../interfaces/deck_components.DropdownItemProps.md)
-- [DropdownProps](../interfaces/deck_components.DropdownProps.md)
-- [FieldProps](../interfaces/deck_components.FieldProps.md)
-- [FocusRingProps](../interfaces/deck_components.FocusRingProps.md)
-- [FocusableProps](../interfaces/deck_components.FocusableProps.md)
-- [FooterLegendProps](../interfaces/deck_components.FooterLegendProps.md)
-- [GamepadEventDetail](../interfaces/deck_components.GamepadEventDetail.md)
-- [MenuGroupProps](../interfaces/deck_components.MenuGroupProps.md)
-- [MenuItemProps](../interfaces/deck_components.MenuItemProps.md)
-- [MenuProps](../interfaces/deck_components.MenuProps.md)
-- [ModalRootProps](../interfaces/deck_components.ModalRootProps.md)
-- [MultiDropdownOption](../interfaces/deck_components.MultiDropdownOption.md)
-- [NotchLabel](../interfaces/deck_components.NotchLabel.md)
-- [PanelSectionProps](../interfaces/deck_components.PanelSectionProps.md)
-- [ProgressBarItemProps](../interfaces/deck_components.ProgressBarItemProps.md)
-- [ProgressBarProps](../interfaces/deck_components.ProgressBarProps.md)
-- [ProgressBarWithInfoProps](../interfaces/deck_components.ProgressBarWithInfoProps.md)
-- [Router](../interfaces/deck_components.Router.md)
-- [ShowModalProps](../interfaces/deck_components.ShowModalProps.md)
-- [ShowModalResult](../interfaces/deck_components.ShowModalResult.md)
-- [SidebarNavigationPages](../interfaces/deck_components.SidebarNavigationPages.md)
-- [SidebarNavigationProps](../interfaces/deck_components.SidebarNavigationProps.md)
-- [SingleDropdownOption](../interfaces/deck_components.SingleDropdownOption.md)
-- [SliderFieldProps](../interfaces/deck_components.SliderFieldProps.md)
-- [TextFieldProps](../interfaces/deck_components.TextFieldProps.md)
-- [ToggleFieldProps](../interfaces/deck_components.ToggleFieldProps.md)
-- [ToggleProps](../interfaces/deck_components.ToggleProps.md)
-
-### Type Aliases
+### References
 
 - [AppOverview](deck_components.md#appoverview)
+- [Button](deck_components.md#button)
+- [ButtonItem](deck_components.md#buttonitem)
+- [ButtonItemProps](deck_components.md#buttonitemprops)
+- [ButtonProps](deck_components.md#buttonprops)
+- [Carousel](deck_components.md#carousel)
+- [CarouselProps](deck_components.md#carouselprops)
+- [ConfirmModal](deck_components.md#confirmmodal)
+- [ConfirmModalProps](deck_components.md#confirmmodalprops)
+- [DialogBody](deck_components.md#dialogbody)
+- [DialogBodyText](deck_components.md#dialogbodytext)
+- [DialogButton](deck_components.md#dialogbutton)
+- [DialogButtonPrimary](deck_components.md#dialogbuttonprimary)
+- [DialogButtonProps](deck_components.md#dialogbuttonprops)
+- [DialogButtonSecondary](deck_components.md#dialogbuttonsecondary)
+- [DialogButtonSmall](deck_components.md#dialogbuttonsmall)
+- [DialogCommonProps](deck_components.md#dialogcommonprops)
+- [DialogControlsSection](deck_components.md#dialogcontrolssection)
+- [DialogControlsSectionHeader](deck_components.md#dialogcontrolssectionheader)
+- [DialogFooter](deck_components.md#dialogfooter)
+- [DialogHeader](deck_components.md#dialogheader)
+- [DialogLabel](deck_components.md#dialoglabel)
+- [DialogSubHeader](deck_components.md#dialogsubheader)
+- [DisplayStatus](deck_components.md#displaystatus)
+- [Dropdown](deck_components.md#dropdown)
+- [DropdownItem](deck_components.md#dropdownitem)
+- [DropdownItemProps](deck_components.md#dropdownitemprops)
 - [DropdownOption](deck_components.md#dropdownoption)
+- [DropdownProps](deck_components.md#dropdownprops)
+- [Field](deck_components.md#field)
+- [FieldProps](deck_components.md#fieldprops)
+- [FocusRing](deck_components.md#focusring)
+- [FocusRingProps](deck_components.md#focusringprops)
+- [Focusable](deck_components.md#focusable)
+- [FocusableProps](deck_components.md#focusableprops)
+- [FooterLegendProps](deck_components.md#footerlegendprops)
+- [GamepadButton](deck_components.md#gamepadbutton)
 - [GamepadEvent](deck_components.md#gamepadevent)
-
-### Variables
-
+- [GamepadEventDetail](deck_components.md#gamepadeventdetail)
+- [Menu](deck_components.md#menu)
+- [MenuGroup](deck_components.md#menugroup)
+- [MenuGroupProps](deck_components.md#menugroupprops)
+- [MenuItem](deck_components.md#menuitem)
+- [MenuItemProps](deck_components.md#menuitemprops)
+- [MenuProps](deck_components.md#menuprops)
+- [ModalRoot](deck_components.md#modalroot)
+- [ModalRootProps](deck_components.md#modalrootprops)
+- [MultiDropdownOption](deck_components.md#multidropdownoption)
+- [NavEntryPositionPreferences](deck_components.md#naventrypositionpreferences)
+- [NotchLabel](deck_components.md#notchlabel)
+- [PanelSection](deck_components.md#panelsection)
+- [PanelSectionProps](deck_components.md#panelsectionprops)
+- [PanelSectionRow](deck_components.md#panelsectionrow)
+- [ProgressBar](deck_components.md#progressbar)
+- [ProgressBarItem](deck_components.md#progressbaritem)
+- [ProgressBarItemProps](deck_components.md#progressbaritemprops)
+- [ProgressBarProps](deck_components.md#progressbarprops)
+- [ProgressBarWithInfo](deck_components.md#progressbarwithinfo)
+- [ProgressBarWithInfoProps](deck_components.md#progressbarwithinfoprops)
+- [QuickAccessTab](deck_components.md#quickaccesstab)
 - [Router](deck_components.md#router)
+- [ShowModalProps](deck_components.md#showmodalprops)
+- [ShowModalResult](deck_components.md#showmodalresult)
+- [SideMenu](deck_components.md#sidemenu)
+- [SidebarNavigation](deck_components.md#sidebarnavigation)
+- [SidebarNavigationPages](deck_components.md#sidebarnavigationpages)
+- [SidebarNavigationProps](deck_components.md#sidebarnavigationprops)
+- [SingleDropdownOption](deck_components.md#singledropdownoption)
+- [SliderField](deck_components.md#sliderfield)
+- [SliderFieldProps](deck_components.md#sliderfieldprops)
+- [Spinner](deck_components.md#spinner)
+- [SteamSpinner](deck_components.md#steamspinner)
+- [TextField](deck_components.md#textfield)
+- [TextFieldProps](deck_components.md#textfieldprops)
+- [Toggle](deck_components.md#toggle)
+- [ToggleField](deck_components.md#togglefield)
+- [ToggleFieldProps](deck_components.md#togglefieldprops)
+- [ToggleProps](deck_components.md#toggleprops)
 - [gamepadDialogClasses](deck_components.md#gamepaddialogclasses)
 - [gamepadSliderClasses](deck_components.md#gamepadsliderclasses)
 - [playSectionClasses](deck_components.md#playsectionclasses)
@@ -68,1016 +91,541 @@
 - [quickAccessMenuClasses](deck_components.md#quickaccessmenuclasses)
 - [scrollClasses](deck_components.md#scrollclasses)
 - [scrollPanelClasses](deck_components.md#scrollpanelclasses)
+- [showContextMenu](deck_components.md#showcontextmenu)
+- [showModal](deck_components.md#showmodal)
 - [staticClasses](deck_components.md#staticclasses)
 - [updaterFieldClasses](deck_components.md#updaterfieldclasses)
 
-### Functions
-
-- [Button](deck_components.md#button)
-- [ButtonItem](deck_components.md#buttonitem)
-- [Carousel](deck_components.md#carousel)
-- [ConfirmModal](deck_components.md#confirmmodal)
-- [DialogBody](deck_components.md#dialogbody)
-- [DialogBodyText](deck_components.md#dialogbodytext)
-- [DialogButton](deck_components.md#dialogbutton)
-- [DialogButtonPrimary](deck_components.md#dialogbuttonprimary)
-- [DialogButtonSecondary](deck_components.md#dialogbuttonsecondary)
-- [DialogButtonSmall](deck_components.md#dialogbuttonsmall)
-- [DialogControlsSection](deck_components.md#dialogcontrolssection)
-- [DialogControlsSectionHeader](deck_components.md#dialogcontrolssectionheader)
-- [DialogFooter](deck_components.md#dialogfooter)
-- [DialogHeader](deck_components.md#dialogheader)
-- [DialogLabel](deck_components.md#dialoglabel)
-- [DialogSubHeader](deck_components.md#dialogsubheader)
-- [Dropdown](deck_components.md#dropdown)
-- [DropdownItem](deck_components.md#dropdownitem)
-- [Field](deck_components.md#field)
-- [FocusRing](deck_components.md#focusring)
-- [Focusable](deck_components.md#focusable)
-- [Menu](deck_components.md#menu)
-- [MenuGroup](deck_components.md#menugroup)
-- [MenuItem](deck_components.md#menuitem)
-- [ModalRoot](deck_components.md#modalroot)
-- [PanelSection](deck_components.md#panelsection)
-- [PanelSectionRow](deck_components.md#panelsectionrow)
-- [ProgressBar](deck_components.md#progressbar)
-- [ProgressBarItem](deck_components.md#progressbaritem)
-- [ProgressBarWithInfo](deck_components.md#progressbarwithinfo)
-- [SidebarNavigation](deck_components.md#sidebarnavigation)
-- [SliderField](deck_components.md#sliderfield)
-- [Spinner](deck_components.md#spinner)
-- [SteamSpinner](deck_components.md#steamspinner)
-- [TextField](deck_components.md#textfield)
-- [Toggle](deck_components.md#toggle)
-- [ToggleField](deck_components.md#togglefield)
-- [showContextMenu](deck_components.md#showcontextmenu)
-- [showModal](deck_components.md#showmodal)
-
-## Type Aliases
+## References
 
 ### AppOverview
 
-Ƭ **AppOverview**: `Object`
-
-#### Type declaration
-
-| Name | Type |
-| :------ | :------ |
-| `appid` | `string` |
-| `display_name` | `string` |
-| `display_status` | [`DisplayStatus`](../enums/deck_components.DisplayStatus.md) |
-| `sort_as` | `string` |
-
-#### Defined in
-
-[src/deck-components/Router.tsx:59](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/33dd4e5/src/deck-components/Router.tsx#L59)
+Re-exports [AppOverview](deck_components_Router.md#appoverview)
 
 ___
-
-### DropdownOption
-
-Ƭ **DropdownOption**: [`SingleDropdownOption`](../interfaces/deck_components.SingleDropdownOption.md) \| [`MultiDropdownOption`](../interfaces/deck_components.MultiDropdownOption.md)
-
-#### Defined in
-
-[src/deck-components/Dropdown.tsx:20](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/33dd4e5/src/deck-components/Dropdown.tsx#L20)
-
-___
-
-### GamepadEvent
-
-Ƭ **GamepadEvent**: [`CustomEvent`]( https://developer.mozilla.org/en-US/docs/Web/API/CustomEvent )<[`GamepadEventDetail`](../interfaces/deck_components.GamepadEventDetail.md)\>
-
-#### Defined in
-
-[src/deck-components/FooterLegend.ts:47](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/33dd4e5/src/deck-components/FooterLegend.ts#L47)
-
-## Variables
-
-### Router
-
-• **Router**: [`Router`](deck_components.md#router)
-
-#### Defined in
-
-[src/deck-components/Router.tsx:66](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/33dd4e5/src/deck-components/Router.tsx#L66)
-
-[src/deck-components/Router.tsx:93](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/33dd4e5/src/deck-components/Router.tsx#L93)
-
-___
-
-### gamepadDialogClasses
-
-• `Const` **gamepadDialogClasses**: [`GamepadDialogClasses`](deck_components._internal_.md#gamepaddialogclasses)
-
-#### Defined in
-
-[src/deck-components/static-classes.ts:368](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/33dd4e5/src/deck-components/static-classes.ts#L368)
-
-___
-
-### gamepadSliderClasses
-
-• `Const` **gamepadSliderClasses**: [`GamepadSliderClasses`](deck_components._internal_.md#gamepadsliderclasses)
-
-#### Defined in
-
-[src/deck-components/static-classes.ts:372](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/33dd4e5/src/deck-components/static-classes.ts#L372)
-
-___
-
-### playSectionClasses
-
-• `Const` **playSectionClasses**: [`PlaySectionClasses`](deck_components._internal_.md#playsectionclasses)
-
-#### Defined in
-
-[src/deck-components/static-classes.ts:371](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/33dd4e5/src/deck-components/static-classes.ts#L371)
-
-___
-
-### quickAccessControlsClasses
-
-• `Const` **quickAccessControlsClasses**: [`QuickAccessControlsClasses`](deck_components._internal_.md#quickaccesscontrolsclasses)
-
-#### Defined in
-
-[src/deck-components/static-classes.ts:369](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/33dd4e5/src/deck-components/static-classes.ts#L369)
-
-___
-
-### quickAccessMenuClasses
-
-• `Const` **quickAccessMenuClasses**: [`QuickAccessMenuClasses`](deck_components._internal_.md#quickaccessmenuclasses)
-
-#### Defined in
-
-[src/deck-components/static-classes.ts:358](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/33dd4e5/src/deck-components/static-classes.ts#L358)
-
-___
-
-### scrollClasses
-
-• `Const` **scrollClasses**: [`ScrollPanelClasses`](deck_components._internal_.md#scrollpanelclasses) = `scrollPanelClasses`
-
-**`Depreciated`**
-
-please use scrollPanelClasses instead
-
-#### Defined in
-
-[src/deck-components/static-classes.ts:367](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/33dd4e5/src/deck-components/static-classes.ts#L367)
-
-___
-
-### scrollPanelClasses
-
-• `Const` **scrollPanelClasses**: [`ScrollPanelClasses`](deck_components._internal_.md#scrollpanelclasses)
-
-#### Defined in
-
-[src/deck-components/static-classes.ts:363](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/33dd4e5/src/deck-components/static-classes.ts#L363)
-
-___
-
-### staticClasses
-
-• `Const` **staticClasses**: [`QuickAccessMenuClasses`](deck_components._internal_.md#quickaccessmenuclasses) = `quickAccessMenuClasses`
-
-**`Depreciated`**
-
-please use quickAccessMenuClasses instead
-
-#### Defined in
-
-[src/deck-components/static-classes.ts:362](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/33dd4e5/src/deck-components/static-classes.ts#L362)
-
-___
-
-### updaterFieldClasses
-
-• `Const` **updaterFieldClasses**: [`UpdaterFieldClasses`](deck_components._internal_.md#updaterfieldclasses)
-
-#### Defined in
-
-[src/deck-components/static-classes.ts:370](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/33dd4e5/src/deck-components/static-classes.ts#L370)
-
-## Functions
 
 ### Button
 
-▸ **Button**(`props`, `context?`): ``null`` \| `ReactElement`<`any`, `any`\>
-
-#### Parameters
-
-| Name | Type |
-| :------ | :------ |
-| `props` | `PropsWithChildren`<[`ButtonProps`](../interfaces/deck_components.ButtonProps.md)\> |
-| `context?` | `any` |
-
-#### Returns
-
-``null`` \| `ReactElement`<`any`, `any`\>
-
-#### Defined in
-
-node_modules/@types/react/index.d.ts:544
+Re-exports [Button](deck_components_Button.md#button)
 
 ___
 
 ### ButtonItem
 
-▸ **ButtonItem**(`props`, `context?`): ``null`` \| `ReactElement`<`any`, `any`\>
+Re-exports [ButtonItem](deck_components_ButtonItem.md#buttonitem)
 
-#### Parameters
+___
 
-| Name | Type |
-| :------ | :------ |
-| `props` | `PropsWithChildren`<[`ButtonItemProps`](../interfaces/deck_components.ButtonItemProps.md)\> |
-| `context?` | `any` |
+### ButtonItemProps
 
-#### Returns
+Re-exports [ButtonItemProps](../interfaces/deck_components_ButtonItem.ButtonItemProps.md)
 
-``null`` \| `ReactElement`<`any`, `any`\>
+___
 
-#### Defined in
+### ButtonProps
 
-node_modules/@types/react/index.d.ts:544
+Re-exports [ButtonProps](../interfaces/deck_components_Button.ButtonProps.md)
 
 ___
 
 ### Carousel
 
-▸ **Carousel**(`props`, `context?`): ``null`` \| `ReactElement`<`any`, `any`\>
+Re-exports [Carousel](deck_components_Carousel.md#carousel)
 
-#### Parameters
+___
 
-| Name | Type |
-| :------ | :------ |
-| `props` | [`CarouselProps`](../interfaces/deck_components.CarouselProps.md) & `RefAttributes`<[`HTMLDivElement`]( https://developer.mozilla.org/en-US/docs/Web/API/HTMLDivElement )\> |
-| `context?` | `any` |
+### CarouselProps
 
-#### Returns
-
-``null`` \| `ReactElement`<`any`, `any`\>
-
-#### Defined in
-
-node_modules/@types/react/index.d.ts:554
+Re-exports [CarouselProps](../interfaces/deck_components_Carousel.CarouselProps.md)
 
 ___
 
 ### ConfirmModal
 
-▸ **ConfirmModal**(`props`, `context?`): ``null`` \| `ReactElement`<`any`, `any`\>
+Re-exports [ConfirmModal](deck_components_Modal.md#confirmmodal)
 
-#### Parameters
+___
 
-| Name | Type |
-| :------ | :------ |
-| `props` | `PropsWithChildren`<[`ConfirmModalProps`](../interfaces/deck_components.ConfirmModalProps.md)\> |
-| `context?` | `any` |
+### ConfirmModalProps
 
-#### Returns
-
-``null`` \| `ReactElement`<`any`, `any`\>
-
-#### Defined in
-
-node_modules/@types/react/index.d.ts:544
+Re-exports [ConfirmModalProps](../interfaces/deck_components_Modal.ConfirmModalProps.md)
 
 ___
 
 ### DialogBody
 
-▸ **DialogBody**(`props`, `context?`): ``null`` \| `ReactElement`<`any`, `any`\>
-
-#### Parameters
-
-| Name | Type |
-| :------ | :------ |
-| `props` | `PropsWithChildren`<[`DialogCommonProps`](../interfaces/deck_components.DialogCommonProps.md)\> |
-| `context?` | `any` |
-
-#### Returns
-
-``null`` \| `ReactElement`<`any`, `any`\>
-
-#### Defined in
-
-node_modules/@types/react/index.d.ts:544
+Re-exports [DialogBody](deck_components_Dialog.md#dialogbody)
 
 ___
 
 ### DialogBodyText
 
-▸ **DialogBodyText**(`props`, `context?`): ``null`` \| `ReactElement`<`any`, `any`\>
-
-#### Parameters
-
-| Name | Type |
-| :------ | :------ |
-| `props` | `PropsWithChildren`<[`DialogCommonProps`](../interfaces/deck_components.DialogCommonProps.md)\> |
-| `context?` | `any` |
-
-#### Returns
-
-``null`` \| `ReactElement`<`any`, `any`\>
-
-#### Defined in
-
-node_modules/@types/react/index.d.ts:544
+Re-exports [DialogBodyText](deck_components_Dialog.md#dialogbodytext)
 
 ___
 
 ### DialogButton
 
-▸ **DialogButton**(`props`, `context?`): ``null`` \| `ReactElement`<`any`, `any`\>
-
-#### Parameters
-
-| Name | Type |
-| :------ | :------ |
-| `props` | `PropsWithChildren`<[`DialogButtonProps`](../interfaces/deck_components.DialogButtonProps.md)\> |
-| `context?` | `any` |
-
-#### Returns
-
-``null`` \| `ReactElement`<`any`, `any`\>
-
-#### Defined in
-
-node_modules/@types/react/index.d.ts:544
+Re-exports [DialogButton](deck_components_Dialog.md#dialogbutton)
 
 ___
 
 ### DialogButtonPrimary
 
-▸ **DialogButtonPrimary**(`props`, `context?`): ``null`` \| `ReactElement`<`any`, `any`\>
+Re-exports [DialogButtonPrimary](deck_components_Dialog.md#dialogbuttonprimary)
 
-#### Parameters
+___
 
-| Name | Type |
-| :------ | :------ |
-| `props` | `PropsWithChildren`<[`DialogButtonProps`](../interfaces/deck_components.DialogButtonProps.md)\> |
-| `context?` | `any` |
+### DialogButtonProps
 
-#### Returns
-
-``null`` \| `ReactElement`<`any`, `any`\>
-
-#### Defined in
-
-node_modules/@types/react/index.d.ts:544
+Re-exports [DialogButtonProps](../interfaces/deck_components_Dialog.DialogButtonProps.md)
 
 ___
 
 ### DialogButtonSecondary
 
-▸ **DialogButtonSecondary**(`props`, `context?`): ``null`` \| `ReactElement`<`any`, `any`\>
-
-#### Parameters
-
-| Name | Type |
-| :------ | :------ |
-| `props` | `PropsWithChildren`<[`DialogButtonProps`](../interfaces/deck_components.DialogButtonProps.md)\> |
-| `context?` | `any` |
-
-#### Returns
-
-``null`` \| `ReactElement`<`any`, `any`\>
-
-#### Defined in
-
-node_modules/@types/react/index.d.ts:544
+Re-exports [DialogButtonSecondary](deck_components_Dialog.md#dialogbuttonsecondary)
 
 ___
 
 ### DialogButtonSmall
 
-▸ **DialogButtonSmall**(`props`, `context?`): ``null`` \| `ReactElement`<`any`, `any`\>
+Re-exports [DialogButtonSmall](deck_components_Dialog.md#dialogbuttonsmall)
 
-#### Parameters
+___
 
-| Name | Type |
-| :------ | :------ |
-| `props` | `PropsWithChildren`<[`DialogButtonProps`](../interfaces/deck_components.DialogButtonProps.md)\> |
-| `context?` | `any` |
+### DialogCommonProps
 
-#### Returns
-
-``null`` \| `ReactElement`<`any`, `any`\>
-
-#### Defined in
-
-node_modules/@types/react/index.d.ts:544
+Re-exports [DialogCommonProps](../interfaces/deck_components_Dialog.DialogCommonProps.md)
 
 ___
 
 ### DialogControlsSection
 
-▸ **DialogControlsSection**(`props`, `context?`): ``null`` \| `ReactElement`<`any`, `any`\>
-
-#### Parameters
-
-| Name | Type |
-| :------ | :------ |
-| `props` | `PropsWithChildren`<[`DialogCommonProps`](../interfaces/deck_components.DialogCommonProps.md)\> |
-| `context?` | `any` |
-
-#### Returns
-
-``null`` \| `ReactElement`<`any`, `any`\>
-
-#### Defined in
-
-node_modules/@types/react/index.d.ts:544
+Re-exports [DialogControlsSection](deck_components_Dialog.md#dialogcontrolssection)
 
 ___
 
 ### DialogControlsSectionHeader
 
-▸ **DialogControlsSectionHeader**(`props`, `context?`): ``null`` \| `ReactElement`<`any`, `any`\>
-
-#### Parameters
-
-| Name | Type |
-| :------ | :------ |
-| `props` | `PropsWithChildren`<[`DialogCommonProps`](../interfaces/deck_components.DialogCommonProps.md)\> |
-| `context?` | `any` |
-
-#### Returns
-
-``null`` \| `ReactElement`<`any`, `any`\>
-
-#### Defined in
-
-node_modules/@types/react/index.d.ts:544
+Re-exports [DialogControlsSectionHeader](deck_components_Dialog.md#dialogcontrolssectionheader)
 
 ___
 
 ### DialogFooter
 
-▸ **DialogFooter**(`props`, `context?`): ``null`` \| `ReactElement`<`any`, `any`\>
-
-#### Parameters
-
-| Name | Type |
-| :------ | :------ |
-| `props` | `PropsWithChildren`<[`DialogCommonProps`](../interfaces/deck_components.DialogCommonProps.md)\> |
-| `context?` | `any` |
-
-#### Returns
-
-``null`` \| `ReactElement`<`any`, `any`\>
-
-#### Defined in
-
-node_modules/@types/react/index.d.ts:544
+Re-exports [DialogFooter](deck_components_Dialog.md#dialogfooter)
 
 ___
 
 ### DialogHeader
 
-▸ **DialogHeader**(`props`, `context?`): ``null`` \| `ReactElement`<`any`, `any`\>
-
-#### Parameters
-
-| Name | Type |
-| :------ | :------ |
-| `props` | `PropsWithChildren`<[`DialogCommonProps`](../interfaces/deck_components.DialogCommonProps.md)\> |
-| `context?` | `any` |
-
-#### Returns
-
-``null`` \| `ReactElement`<`any`, `any`\>
-
-#### Defined in
-
-node_modules/@types/react/index.d.ts:544
+Re-exports [DialogHeader](deck_components_Dialog.md#dialogheader)
 
 ___
 
 ### DialogLabel
 
-▸ **DialogLabel**(`props`, `context?`): ``null`` \| `ReactElement`<`any`, `any`\>
-
-#### Parameters
-
-| Name | Type |
-| :------ | :------ |
-| `props` | `PropsWithChildren`<[`DialogCommonProps`](../interfaces/deck_components.DialogCommonProps.md)\> |
-| `context?` | `any` |
-
-#### Returns
-
-``null`` \| `ReactElement`<`any`, `any`\>
-
-#### Defined in
-
-node_modules/@types/react/index.d.ts:544
+Re-exports [DialogLabel](deck_components_Dialog.md#dialoglabel)
 
 ___
 
 ### DialogSubHeader
 
-▸ **DialogSubHeader**(`props`, `context?`): ``null`` \| `ReactElement`<`any`, `any`\>
+Re-exports [DialogSubHeader](deck_components_Dialog.md#dialogsubheader)
 
-#### Parameters
+___
 
-| Name | Type |
-| :------ | :------ |
-| `props` | `PropsWithChildren`<[`DialogCommonProps`](../interfaces/deck_components.DialogCommonProps.md)\> |
-| `context?` | `any` |
+### DisplayStatus
 
-#### Returns
-
-``null`` \| `ReactElement`<`any`, `any`\>
-
-#### Defined in
-
-node_modules/@types/react/index.d.ts:544
+Re-exports [DisplayStatus](../enums/deck_components_Router.DisplayStatus.md)
 
 ___
 
 ### Dropdown
 
-▸ **Dropdown**(`props`, `context?`): ``null`` \| `ReactElement`<`any`, `any`\>
-
-#### Parameters
-
-| Name | Type |
-| :------ | :------ |
-| `props` | [`DropdownProps`](../interfaces/deck_components.DropdownProps.md) |
-| `context?` | `any` |
-
-#### Returns
-
-``null`` \| `ReactElement`<`any`, `any`\>
-
-#### Defined in
-
-node_modules/@types/react/index.d.ts:554
+Re-exports [Dropdown](deck_components_Dropdown.md#dropdown)
 
 ___
 
 ### DropdownItem
 
-▸ **DropdownItem**(`props`, `context?`): ``null`` \| `ReactElement`<`any`, `any`\>
+Re-exports [DropdownItem](deck_components_Dropdown.md#dropdownitem)
 
-#### Parameters
+___
 
-| Name | Type |
-| :------ | :------ |
-| `props` | [`DropdownItemProps`](../interfaces/deck_components.DropdownItemProps.md) |
-| `context?` | `any` |
+### DropdownItemProps
 
-#### Returns
+Re-exports [DropdownItemProps](../interfaces/deck_components_Dropdown.DropdownItemProps.md)
 
-``null`` \| `ReactElement`<`any`, `any`\>
+___
 
-#### Defined in
+### DropdownOption
 
-node_modules/@types/react/index.d.ts:554
+Re-exports [DropdownOption](deck_components_Dropdown.md#dropdownoption)
+
+___
+
+### DropdownProps
+
+Re-exports [DropdownProps](../interfaces/deck_components_Dropdown.DropdownProps.md)
 
 ___
 
 ### Field
 
-▸ **Field**(`props`, `context?`): ``null`` \| `ReactElement`<`any`, `any`\>
+Re-exports [Field](deck_components_Field.md#field)
 
-#### Parameters
+___
 
-| Name | Type |
-| :------ | :------ |
-| `props` | `PropsWithChildren`<[`FieldProps`](../interfaces/deck_components.FieldProps.md) & `RefAttributes`<[`HTMLDivElement`]( https://developer.mozilla.org/en-US/docs/Web/API/HTMLDivElement )\>\> |
-| `context?` | `any` |
+### FieldProps
 
-#### Returns
-
-``null`` \| `ReactElement`<`any`, `any`\>
-
-#### Defined in
-
-node_modules/@types/react/index.d.ts:544
+Re-exports [FieldProps](../interfaces/deck_components_Field.FieldProps.md)
 
 ___
 
 ### FocusRing
 
-▸ **FocusRing**(`props`, `context?`): ``null`` \| `ReactElement`<`any`, `any`\>
+Re-exports [FocusRing](deck_components_FocusRing.md#focusring)
 
-#### Parameters
+___
 
-| Name | Type |
-| :------ | :------ |
-| `props` | `PropsWithChildren`<[`FocusRingProps`](../interfaces/deck_components.FocusRingProps.md)\> |
-| `context?` | `any` |
+### FocusRingProps
 
-#### Returns
-
-``null`` \| `ReactElement`<`any`, `any`\>
-
-#### Defined in
-
-node_modules/@types/react/index.d.ts:544
+Re-exports [FocusRingProps](../interfaces/deck_components_FocusRing.FocusRingProps.md)
 
 ___
 
 ### Focusable
 
-▸ **Focusable**(`props`, `context?`): ``null`` \| `ReactElement`<`any`, `any`\>
+Re-exports [Focusable](deck_components_Focusable.md#focusable)
 
-#### Parameters
+___
 
-| Name | Type |
-| :------ | :------ |
-| `props` | [`FocusableProps`](../interfaces/deck_components.FocusableProps.md) & `RefAttributes`<[`HTMLDivElement`]( https://developer.mozilla.org/en-US/docs/Web/API/HTMLDivElement )\> |
-| `context?` | `any` |
+### FocusableProps
 
-#### Returns
+Re-exports [FocusableProps](../interfaces/deck_components_Focusable.FocusableProps.md)
 
-``null`` \| `ReactElement`<`any`, `any`\>
+___
 
-#### Defined in
+### FooterLegendProps
 
-node_modules/@types/react/index.d.ts:554
+Re-exports [FooterLegendProps](../interfaces/deck_components_FooterLegend.FooterLegendProps.md)
+
+___
+
+### GamepadButton
+
+Re-exports [GamepadButton](../enums/deck_components_FooterLegend.GamepadButton.md)
+
+___
+
+### GamepadEvent
+
+Re-exports [GamepadEvent](deck_components_FooterLegend.md#gamepadevent)
+
+___
+
+### GamepadEventDetail
+
+Re-exports [GamepadEventDetail](../interfaces/deck_components_FooterLegend.GamepadEventDetail.md)
 
 ___
 
 ### Menu
 
-▸ **Menu**(`props`, `context?`): ``null`` \| `ReactElement`<`any`, `any`\>
-
-#### Parameters
-
-| Name | Type |
-| :------ | :------ |
-| `props` | `PropsWithChildren`<[`MenuProps`](../interfaces/deck_components.MenuProps.md)\> |
-| `context?` | `any` |
-
-#### Returns
-
-``null`` \| `ReactElement`<`any`, `any`\>
-
-#### Defined in
-
-node_modules/@types/react/index.d.ts:544
+Re-exports [Menu](deck_components_Menu.md#menu)
 
 ___
 
 ### MenuGroup
 
-▸ **MenuGroup**(`props`, `context?`): ``null`` \| `ReactElement`<`any`, `any`\>
+Re-exports [MenuGroup](deck_components_Menu.md#menugroup)
 
-#### Parameters
+___
 
-| Name | Type |
-| :------ | :------ |
-| `props` | `PropsWithChildren`<[`MenuGroupProps`](../interfaces/deck_components.MenuGroupProps.md)\> |
-| `context?` | `any` |
+### MenuGroupProps
 
-#### Returns
-
-``null`` \| `ReactElement`<`any`, `any`\>
-
-#### Defined in
-
-node_modules/@types/react/index.d.ts:544
+Re-exports [MenuGroupProps](../interfaces/deck_components_Menu.MenuGroupProps.md)
 
 ___
 
 ### MenuItem
 
-▸ **MenuItem**(`props`, `context?`): ``null`` \| `ReactElement`<`any`, `any`\>
+Re-exports [MenuItem](deck_components_Menu.md#menuitem)
 
-#### Parameters
+___
 
-| Name | Type |
-| :------ | :------ |
-| `props` | `PropsWithChildren`<[`MenuItemProps`](../interfaces/deck_components.MenuItemProps.md)\> |
-| `context?` | `any` |
+### MenuItemProps
 
-#### Returns
+Re-exports [MenuItemProps](../interfaces/deck_components_Menu.MenuItemProps.md)
 
-``null`` \| `ReactElement`<`any`, `any`\>
+___
 
-#### Defined in
+### MenuProps
 
-node_modules/@types/react/index.d.ts:544
+Re-exports [MenuProps](../interfaces/deck_components_Menu.MenuProps.md)
 
 ___
 
 ### ModalRoot
 
-▸ **ModalRoot**(`props`, `context?`): ``null`` \| `ReactElement`<`any`, `any`\>
+Re-exports [ModalRoot](deck_components_Modal.md#modalroot)
 
-#### Parameters
+___
 
-| Name | Type |
-| :------ | :------ |
-| `props` | `PropsWithChildren`<[`ModalRootProps`](../interfaces/deck_components.ModalRootProps.md)\> |
-| `context?` | `any` |
+### ModalRootProps
 
-#### Returns
+Re-exports [ModalRootProps](../interfaces/deck_components_Modal.ModalRootProps.md)
 
-``null`` \| `ReactElement`<`any`, `any`\>
+___
 
-#### Defined in
+### MultiDropdownOption
 
-node_modules/@types/react/index.d.ts:544
+Re-exports [MultiDropdownOption](../interfaces/deck_components_Dropdown.MultiDropdownOption.md)
+
+___
+
+### NavEntryPositionPreferences
+
+Re-exports [NavEntryPositionPreferences](../enums/deck_components_FooterLegend.NavEntryPositionPreferences.md)
+
+___
+
+### NotchLabel
+
+Re-exports [NotchLabel](../interfaces/deck_components_SliderField.NotchLabel.md)
 
 ___
 
 ### PanelSection
 
-▸ **PanelSection**(`props`, `context?`): ``null`` \| `ReactElement`<`any`, `any`\>
+Re-exports [PanelSection](deck_components_Panel.md#panelsection)
 
-#### Parameters
+___
 
-| Name | Type |
-| :------ | :------ |
-| `props` | `PropsWithChildren`<[`PanelSectionProps`](../interfaces/deck_components.PanelSectionProps.md)\> |
-| `context?` | `any` |
+### PanelSectionProps
 
-#### Returns
-
-``null`` \| `ReactElement`<`any`, `any`\>
-
-#### Defined in
-
-node_modules/@types/react/index.d.ts:544
+Re-exports [PanelSectionProps](../interfaces/deck_components_Panel.PanelSectionProps.md)
 
 ___
 
 ### PanelSectionRow
 
-▸ **PanelSectionRow**(`props`, `context?`): ``null`` \| `ReactElement`<`any`, `any`\>
-
-#### Parameters
-
-| Name | Type |
-| :------ | :------ |
-| `props` | `Object` |
-| `context?` | `any` |
-
-#### Returns
-
-``null`` \| `ReactElement`<`any`, `any`\>
-
-#### Defined in
-
-node_modules/@types/react/index.d.ts:544
+Re-exports [PanelSectionRow](deck_components_Panel.md#panelsectionrow)
 
 ___
 
 ### ProgressBar
 
-▸ **ProgressBar**(`props`, `context?`): ``null`` \| `ReactElement`<`any`, `any`\>
-
-#### Parameters
-
-| Name | Type |
-| :------ | :------ |
-| `props` | [`ProgressBarProps`](../interfaces/deck_components.ProgressBarProps.md) |
-| `context?` | `any` |
-
-#### Returns
-
-``null`` \| `ReactElement`<`any`, `any`\>
-
-#### Defined in
-
-node_modules/@types/react/index.d.ts:554
+Re-exports [ProgressBar](deck_components_ProgressBar.md#progressbar)
 
 ___
 
 ### ProgressBarItem
 
-▸ **ProgressBarItem**(`props`, `context?`): ``null`` \| `ReactElement`<`any`, `any`\>
+Re-exports [ProgressBarItem](deck_components_ProgressBar.md#progressbaritem)
 
-#### Parameters
+___
 
-| Name | Type |
-| :------ | :------ |
-| `props` | [`ProgressBarItemProps`](../interfaces/deck_components.ProgressBarItemProps.md) |
-| `context?` | `any` |
+### ProgressBarItemProps
 
-#### Returns
+Re-exports [ProgressBarItemProps](../interfaces/deck_components_ProgressBar.ProgressBarItemProps.md)
 
-``null`` \| `ReactElement`<`any`, `any`\>
+___
 
-#### Defined in
+### ProgressBarProps
 
-node_modules/@types/react/index.d.ts:554
+Re-exports [ProgressBarProps](../interfaces/deck_components_ProgressBar.ProgressBarProps.md)
 
 ___
 
 ### ProgressBarWithInfo
 
-▸ **ProgressBarWithInfo**(`props`, `context?`): ``null`` \| `ReactElement`<`any`, `any`\>
+Re-exports [ProgressBarWithInfo](deck_components_ProgressBar.md#progressbarwithinfo)
 
-#### Parameters
+___
 
-| Name | Type |
-| :------ | :------ |
-| `props` | [`ProgressBarWithInfoProps`](../interfaces/deck_components.ProgressBarWithInfoProps.md) |
-| `context?` | `any` |
+### ProgressBarWithInfoProps
 
-#### Returns
+Re-exports [ProgressBarWithInfoProps](../interfaces/deck_components_ProgressBar.ProgressBarWithInfoProps.md)
 
-``null`` \| `ReactElement`<`any`, `any`\>
+___
 
-#### Defined in
+### QuickAccessTab
 
-node_modules/@types/react/index.d.ts:554
+Re-exports [QuickAccessTab](../enums/deck_components_Router.QuickAccessTab.md)
+
+___
+
+### Router
+
+Re-exports [Router](deck_components_Router.md#router)
+
+___
+
+### ShowModalProps
+
+Re-exports [ShowModalProps](../interfaces/deck_components_Modal.ShowModalProps.md)
+
+___
+
+### ShowModalResult
+
+Re-exports [ShowModalResult](../interfaces/deck_components_Modal.ShowModalResult.md)
+
+___
+
+### SideMenu
+
+Re-exports [SideMenu](../enums/deck_components_Router.SideMenu.md)
 
 ___
 
 ### SidebarNavigation
 
-▸ **SidebarNavigation**(`props`, `context?`): ``null`` \| `ReactElement`<`any`, `any`\>
+Re-exports [SidebarNavigation](deck_components_SidebarNavigation.md#sidebarnavigation)
 
-#### Parameters
+___
 
-| Name | Type |
-| :------ | :------ |
-| `props` | [`SidebarNavigationProps`](../interfaces/deck_components.SidebarNavigationProps.md) |
-| `context?` | `any` |
+### SidebarNavigationPages
 
-#### Returns
+Re-exports [SidebarNavigationPages](../interfaces/deck_components_SidebarNavigation.SidebarNavigationPages.md)
 
-``null`` \| `ReactElement`<`any`, `any`\>
+___
 
-#### Defined in
+### SidebarNavigationProps
 
-node_modules/@types/react/index.d.ts:554
+Re-exports [SidebarNavigationProps](../interfaces/deck_components_SidebarNavigation.SidebarNavigationProps.md)
+
+___
+
+### SingleDropdownOption
+
+Re-exports [SingleDropdownOption](../interfaces/deck_components_Dropdown.SingleDropdownOption.md)
 
 ___
 
 ### SliderField
 
-▸ **SliderField**(`props`, `context?`): ``null`` \| `ReactElement`<`any`, `any`\>
+Re-exports [SliderField](deck_components_SliderField.md#sliderfield)
 
-#### Parameters
+___
 
-| Name | Type |
-| :------ | :------ |
-| `props` | `PropsWithChildren`<[`SliderFieldProps`](../interfaces/deck_components.SliderFieldProps.md)\> |
-| `context?` | `any` |
+### SliderFieldProps
 
-#### Returns
-
-``null`` \| `ReactElement`<`any`, `any`\>
-
-#### Defined in
-
-node_modules/@types/react/index.d.ts:544
+Re-exports [SliderFieldProps](../interfaces/deck_components_SliderField.SliderFieldProps.md)
 
 ___
 
 ### Spinner
 
-▸ **Spinner**(`props`, `context?`): ``null`` \| `ReactElement`<`any`, `any`\>
-
-#### Parameters
-
-| Name | Type |
-| :------ | :------ |
-| `props` | `PropsWithChildren`<`SVGAttributes`<[`SVGElement`]( https://developer.mozilla.org/en-US/docs/Web/API/SVGElement )\>\> |
-| `context?` | `any` |
-
-#### Returns
-
-``null`` \| `ReactElement`<`any`, `any`\>
-
-#### Defined in
-
-node_modules/@types/react/index.d.ts:544
+Re-exports [Spinner](deck_components_Spinner.md#spinner)
 
 ___
 
 ### SteamSpinner
 
-▸ **SteamSpinner**(`props`, `context?`): ``null`` \| `ReactElement`<`any`, `any`\>
-
-#### Parameters
-
-| Name | Type |
-| :------ | :------ |
-| `props` | `PropsWithChildren`<`SVGAttributes`<[`SVGElement`]( https://developer.mozilla.org/en-US/docs/Web/API/SVGElement )\>\> |
-| `context?` | `any` |
-
-#### Returns
-
-``null`` \| `ReactElement`<`any`, `any`\>
-
-#### Defined in
-
-node_modules/@types/react/index.d.ts:544
+Re-exports [SteamSpinner](deck_components_SteamSpinner.md#steamspinner)
 
 ___
 
 ### TextField
 
-▸ **TextField**(`props`, `context?`): ``null`` \| `ReactElement`<`any`, `any`\>
+Re-exports [TextField](deck_components_TextField.md#textfield)
 
-#### Parameters
+___
 
-| Name | Type |
-| :------ | :------ |
-| `props` | [`TextFieldProps`](../interfaces/deck_components.TextFieldProps.md) |
-| `context?` | `any` |
+### TextFieldProps
 
-#### Returns
-
-``null`` \| `ReactElement`<`any`, `any`\>
-
-#### Defined in
-
-node_modules/@types/react/index.d.ts:554
+Re-exports [TextFieldProps](../interfaces/deck_components_TextField.TextFieldProps.md)
 
 ___
 
 ### Toggle
 
-▸ **Toggle**(`props`, `context?`): ``null`` \| `ReactElement`<`any`, `any`\>
-
-#### Parameters
-
-| Name | Type |
-| :------ | :------ |
-| `props` | `PropsWithChildren`<[`ToggleProps`](../interfaces/deck_components.ToggleProps.md)\> |
-| `context?` | `any` |
-
-#### Returns
-
-``null`` \| `ReactElement`<`any`, `any`\>
-
-#### Defined in
-
-node_modules/@types/react/index.d.ts:544
+Re-exports [Toggle](deck_components_Toggle.md#toggle)
 
 ___
 
 ### ToggleField
 
-▸ **ToggleField**(`props`, `context?`): ``null`` \| `ReactElement`<`any`, `any`\>
+Re-exports [ToggleField](deck_components_ToggleField.md#togglefield)
 
-#### Parameters
+___
 
-| Name | Type |
-| :------ | :------ |
-| `props` | `PropsWithChildren`<[`ToggleFieldProps`](../interfaces/deck_components.ToggleFieldProps.md)\> |
-| `context?` | `any` |
+### ToggleFieldProps
 
-#### Returns
+Re-exports [ToggleFieldProps](../interfaces/deck_components_ToggleField.ToggleFieldProps.md)
 
-``null`` \| `ReactElement`<`any`, `any`\>
+___
 
-#### Defined in
+### ToggleProps
 
-node_modules/@types/react/index.d.ts:544
+Re-exports [ToggleProps](../interfaces/deck_components_Toggle.ToggleProps.md)
+
+___
+
+### gamepadDialogClasses
+
+Re-exports [gamepadDialogClasses](deck_components_static_classes.md#gamepaddialogclasses)
+
+___
+
+### gamepadSliderClasses
+
+Re-exports [gamepadSliderClasses](deck_components_static_classes.md#gamepadsliderclasses)
+
+___
+
+### playSectionClasses
+
+Re-exports [playSectionClasses](deck_components_static_classes.md#playsectionclasses)
+
+___
+
+### quickAccessControlsClasses
+
+Re-exports [quickAccessControlsClasses](deck_components_static_classes.md#quickaccesscontrolsclasses)
+
+___
+
+### quickAccessMenuClasses
+
+Re-exports [quickAccessMenuClasses](deck_components_static_classes.md#quickaccessmenuclasses)
+
+___
+
+### scrollClasses
+
+Re-exports [scrollClasses](deck_components_static_classes.md#scrollclasses)
+
+___
+
+### scrollPanelClasses
+
+Re-exports [scrollPanelClasses](deck_components_static_classes.md#scrollpanelclasses)
 
 ___
 
 ### showContextMenu
 
-▸ **showContextMenu**(`children`, `parent?`): `void`
-
-#### Parameters
-
-| Name | Type |
-| :------ | :------ |
-| `children` | `ReactNode` |
-| `parent?` | [`EventTarget`]( https://developer.mozilla.org/en-US/docs/Web/API/EventTarget ) |
-
-#### Returns
-
-`void`
-
-#### Defined in
-
-[src/deck-components/Menu.tsx:5](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/33dd4e5/src/deck-components/Menu.tsx#L5)
+Re-exports [showContextMenu](deck_components_Menu.md#showcontextmenu)
 
 ___
 
 ### showModal
 
-▸ **showModal**(`modal`, `parent?`, `props?`): [`Promise`]( https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise )<[`ShowModalResult`](../interfaces/deck_components.ShowModalResult.md)\>
+Re-exports [showModal](deck_components_Modal.md#showmodal)
 
-#### Parameters
+___
 
-| Name | Type |
-| :------ | :------ |
-| `modal` | `ReactNode` |
-| `parent?` | [`EventTarget`]( https://developer.mozilla.org/en-US/docs/Web/API/EventTarget ) |
-| `props?` | [`ShowModalProps`](../interfaces/deck_components.ShowModalProps.md) |
+### staticClasses
 
-#### Returns
+Re-exports [staticClasses](deck_components_static_classes.md#staticclasses)
 
-[`Promise`]( https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise )<[`ShowModalResult`](../interfaces/deck_components.ShowModalResult.md)\>
+___
 
-#### Defined in
+### updaterFieldClasses
 
-[src/deck-components/Modal.tsx:30](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/33dd4e5/src/deck-components/Modal.tsx#L30)
+Re-exports [updaterFieldClasses](deck_components_static_classes.md#updaterfieldclasses)

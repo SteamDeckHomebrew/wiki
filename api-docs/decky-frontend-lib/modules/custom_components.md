@@ -4,53 +4,19 @@
 
 ## Table of contents
 
-### Modules
-
-- [&lt;internal\&gt;](custom_components._internal_.md)
-
-### Functions
+### References
 
 - [ColorPickerModal](custom_components.md#colorpickermodal)
 - [SuspensefulImage](custom_components.md#suspensefulimage)
 
-## Functions
+## References
 
 ### ColorPickerModal
 
-▸ **ColorPickerModal**(`props`, `context?`): ``null`` \| `ReactElement`<`any`, `any`\>
-
-#### Parameters
-
-| Name | Type |
-| :------ | :------ |
-| `props` | `PropsWithChildren`<[`ColorPickerModalProps`](../interfaces/custom_components._internal_.ColorPickerModalProps.md)\> |
-| `context?` | `any` |
-
-#### Returns
-
-``null`` \| `ReactElement`<`any`, `any`\>
-
-#### Defined in
-
-node_modules/@types/react/index.d.ts:544
+Re-exports [ColorPickerModal](custom_components_ColorPickerModal.md#colorpickermodal)
 
 ___
 
 ### SuspensefulImage
 
-▸ **SuspensefulImage**(`props`, `context?`): ``null`` \| `ReactElement`<`any`, `any`\>
-
-#### Parameters
-
-| Name | Type |
-| :------ | :------ |
-| `props` | `PropsWithChildren`<[`SuspensefulImageProps`](../interfaces/custom_components._internal_.SuspensefulImageProps.md)\> |
-| `context?` | `any` |
-
-#### Returns
-
-``null`` \| `ReactElement`<`any`, `any`\>
-
-#### Defined in
-
-node_modules/@types/react/index.d.ts:544
+Re-exports [SuspensefulImage](custom_components_SuspensefulImage.md#suspensefulimage)

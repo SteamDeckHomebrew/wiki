@@ -30,85 +30,85 @@
 
 ### Patch
 
-Re-exports [Patch](../interfaces/index.Patch.md)
+Re-exports [Patch](../interfaces/utils_patcher.Patch.md)
 
 ___
 
 ### PatchOptions
 
-Re-exports [PatchOptions](../interfaces/index.PatchOptions.md)
+Re-exports [PatchOptions](../interfaces/utils_patcher.PatchOptions.md)
 
 ___
 
 ### afterPatch
 
-Re-exports [afterPatch](index.md#afterpatch)
+Re-exports [afterPatch](utils_patcher.md#afterpatch)
 
 ___
 
 ### beforePatch
 
-Re-exports [beforePatch](index.md#beforepatch)
+Re-exports [beforePatch](utils_patcher.md#beforepatch)
 
 ___
 
 ### callOriginal
 
-Re-exports [callOriginal](index.md#calloriginal)
+Re-exports [callOriginal](utils_patcher.md#calloriginal)
 
 ___
 
 ### fakeRenderComponent
 
-Re-exports [fakeRenderComponent](index.md#fakerendercomponent)
+Re-exports [fakeRenderComponent](utils_react.md#fakerendercomponent)
 
 ___
 
 ### findInReactTree
 
-Re-exports [findInReactTree](index.md#findinreacttree)
+Re-exports [findInReactTree](utils_react.md#findinreacttree)
 
 ___
 
 ### findInTree
 
-Re-exports [findInTree](index.md#findintree)
+Re-exports [findInTree](utils_react.md#findintree)
 
 ___
 
 ### findInTreeFilter
 
-Re-exports [findInTreeFilter](index.md#findintreefilter)
+Re-exports [findInTreeFilter](utils_react.md#findintreefilter)
 
 ___
 
 ### findInTreeOpts
 
-Re-exports [findInTreeOpts](../interfaces/index.findInTreeOpts.md)
+Re-exports [findInTreeOpts](../interfaces/utils_react.findInTreeOpts.md)
 
 ___
 
 ### getReactInstance
 
-Re-exports [getReactInstance](index.md#getreactinstance)
+Re-exports [getReactInstance](utils_react.md#getreactinstance)
 
 ___
 
 ### replacePatch
 
-Re-exports [replacePatch](index.md#replacepatch)
+Re-exports [replacePatch](utils_patcher.md#replacepatch)
 
 ___
 
 ### wrapReactClass
 
-Re-exports [wrapReactClass](index.md#wrapreactclass)
+Re-exports [wrapReactClass](utils_react.md#wrapreactclass)
 
 ___
 
 ### wrapReactType
 
-Re-exports [wrapReactType](index.md#wrapreacttype)
+Re-exports [wrapReactType](utils_react.md#wrapreacttype)
 
 ## Functions
 
@@ -128,7 +128,7 @@ Re-exports [wrapReactType](index.md#wrapreacttype)
 
 #### Defined in
 
-[src/utils/index.ts:4](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/33dd4e5/src/utils/index.ts#L4)
+[src/utils/index.ts:4](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/fbd936d/src/utils/index.ts#L4)
 
 ___
 
@@ -148,4 +148,4 @@ ___
 
 #### Defined in
 
-[src/utils/index.ts:8](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/33dd4e5/src/utils/index.ts#L8)
+[src/utils/index.ts:8](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/fbd936d/src/utils/index.ts#L8)
