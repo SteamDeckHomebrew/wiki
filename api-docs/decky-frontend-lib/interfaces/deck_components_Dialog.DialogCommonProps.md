@@ -27,7 +27,7 @@
 
 #### Defined in
 
-[src/deck-components/Dialog.tsx:7](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/fbd936d/src/deck-components/Dialog.tsx#L7)
+[src/deck-components/Dialog.tsx:7](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/0f205e8/src/deck-components/Dialog.tsx#L7)
 
 ___
 
@@ -37,4 +37,4 @@ ___
 
 #### Defined in
 
-[src/deck-components/Dialog.tsx:6](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/fbd936d/src/deck-components/Dialog.tsx#L6)
+[src/deck-components/Dialog.tsx:6](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/0f205e8/src/deck-components/Dialog.tsx#L6)
