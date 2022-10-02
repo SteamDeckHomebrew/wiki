@@ -2,7 +2,7 @@
 title: Decky Loader
 description: 
 published: true
-date: 2022-07-29T23:30:52.477Z
+date: 2022-10-02T16:12:34.902Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-08T14:58:44.638Z
@@ -36,6 +36,7 @@ We'd like to expand our support but don't have the time to do so. We invite pull
 ### Plugin Development
 - [Getting Started](/en/plugin-dev/getting-started)
 - [Submitting Plugins](/en/plugin-dev/submitting-plugins)
+- [decky-frontend-lib API docs](/en/api-docs/decky-frontend-lib/README.md)
 
 --- 
 
