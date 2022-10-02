@@ -1,0 +1,299 @@
+[decky-frontend-lib](../README.md) / [Modules](../modules.md) / [deck-components](../modules/deck_components.md) / SliderFieldProps
+
+# Interface: SliderFieldProps
+
+[deck-components](../modules/deck_components.md).SliderFieldProps
+
+## Hierarchy
+
+- [`ItemProps`](deck_components._internal_.ItemProps.md)
+
+  ↳ **`SliderFieldProps`**
+
+## Table of contents
+
+### Properties
+
+- [bottomSeparator](deck_components.SliderFieldProps.md#bottomseparator)
+- [description](deck_components.SliderFieldProps.md#description)
+- [disabled](deck_components.SliderFieldProps.md#disabled)
+- [editableValue](deck_components.SliderFieldProps.md#editablevalue)
+- [icon](deck_components.SliderFieldProps.md#icon)
+- [indentLevel](deck_components.SliderFieldProps.md#indentlevel)
+- [label](deck_components.SliderFieldProps.md#label)
+- [layout](deck_components.SliderFieldProps.md#layout)
+- [max](deck_components.SliderFieldProps.md#max)
+- [min](deck_components.SliderFieldProps.md#min)
+- [minimumDpadGranularity](deck_components.SliderFieldProps.md#minimumdpadgranularity)
+- [notchCount](deck_components.SliderFieldProps.md#notchcount)
+- [notchLabels](deck_components.SliderFieldProps.md#notchlabels)
+- [notchTicksVisible](deck_components.SliderFieldProps.md#notchticksvisible)
+- [resetValue](deck_components.SliderFieldProps.md#resetvalue)
+- [showValue](deck_components.SliderFieldProps.md#showvalue)
+- [step](deck_components.SliderFieldProps.md#step)
+- [tooltip](deck_components.SliderFieldProps.md#tooltip)
+- [validValues](deck_components.SliderFieldProps.md#validvalues)
+- [value](deck_components.SliderFieldProps.md#value)
+- [valueSuffix](deck_components.SliderFieldProps.md#valuesuffix)
+
+### Methods
+
+- [onChange](deck_components.SliderFieldProps.md#onchange)
+
+## Properties
+
+### bottomSeparator
+
+• `Optional` **bottomSeparator**: ``"standard"`` \| ``"thick"`` \| ``"none"``
+
+#### Inherited from
+
+[ItemProps](deck_components._internal_.ItemProps.md).[bottomSeparator](deck_components._internal_.ItemProps.md#bottomseparator)
+
+#### Defined in
+
+[src/deck-components/Item.tsx:8](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/82f604a/src/deck-components/Item.tsx#L8)
+
+___
+
+### description
+
+• `Optional` **description**: `string`
+
+#### Inherited from
+
+[ItemProps](deck_components._internal_.ItemProps.md).[description](deck_components._internal_.ItemProps.md#description)
+
+#### Defined in
+
+[src/deck-components/Item.tsx:5](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/82f604a/src/deck-components/Item.tsx#L5)
+
+___
+
+### disabled
+
+• `Optional` **disabled**: `boolean`
+
+#### Defined in
+
+[src/deck-components/SliderField.tsx:22](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/82f604a/src/deck-components/SliderField.tsx#L22)
+
+___
+
+### editableValue
+
+• `Optional` **editableValue**: `boolean`
+
+#### Defined in
+
+[src/deck-components/SliderField.tsx:23](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/82f604a/src/deck-components/SliderField.tsx#L23)
+
+___
+
+### icon
+
+• `Optional` **icon**: `ReactNode`
+
+#### Inherited from
+
+[ItemProps](deck_components._internal_.ItemProps.md).[icon](deck_components._internal_.ItemProps.md#icon)
+
+#### Defined in
+
+[src/deck-components/Item.tsx:7](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/82f604a/src/deck-components/Item.tsx#L7)
+
+___
+
+### indentLevel
+
+• `Optional` **indentLevel**: `number`
+
+#### Inherited from
+
+[ItemProps](deck_components._internal_.ItemProps.md).[indentLevel](deck_components._internal_.ItemProps.md#indentlevel)
+
+#### Defined in
+
+[src/deck-components/Item.tsx:9](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/82f604a/src/deck-components/Item.tsx#L9)
+
+___
+
+### label
+
+• `Optional` **label**: `string`
+
+#### Inherited from
+
+[ItemProps](deck_components._internal_.ItemProps.md).[label](deck_components._internal_.ItemProps.md#label)
+
+#### Defined in
+
+[src/deck-components/Item.tsx:4](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/82f604a/src/deck-components/Item.tsx#L4)
+
+___
+
+### layout
+
+• `Optional` **layout**: ``"below"`` \| ``"inline"``
+
+#### Inherited from
+
+[ItemProps](deck_components._internal_.ItemProps.md).[layout](deck_components._internal_.ItemProps.md#layout)
+
+#### Defined in
+
+[src/deck-components/Item.tsx:6](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/82f604a/src/deck-components/Item.tsx#L6)
+
+___
+
+### max
+
+• `Optional` **max**: `number`
+
+#### Defined in
+
+[src/deck-components/SliderField.tsx:15](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/82f604a/src/deck-components/SliderField.tsx#L15)
+
+___
+
+### min
+
+• `Optional` **min**: `number`
+
+#### Defined in
+
+[src/deck-components/SliderField.tsx:14](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/82f604a/src/deck-components/SliderField.tsx#L14)
+
+___
+
+### minimumDpadGranularity
+
+• `Optional` **minimumDpadGranularity**: `number`
+
+#### Defined in
+
+[src/deck-components/SliderField.tsx:26](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/82f604a/src/deck-components/SliderField.tsx#L26)
+
+___
+
+### notchCount
+
+• `Optional` **notchCount**: `number`
+
+#### Defined in
+
+[src/deck-components/SliderField.tsx:17](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/82f604a/src/deck-components/SliderField.tsx#L17)
+
+___
+
+### notchLabels
+
+• `Optional` **notchLabels**: [`NotchLabel`](deck_components.NotchLabel.md)[]
+
+#### Defined in
+
+[src/deck-components/SliderField.tsx:18](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/82f604a/src/deck-components/SliderField.tsx#L18)
+
+___
+
+### notchTicksVisible
+
+• `Optional` **notchTicksVisible**: `boolean`
+
+#### Defined in
+
+[src/deck-components/SliderField.tsx:19](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/82f604a/src/deck-components/SliderField.tsx#L19)
+
+___
+
+### resetValue
+
+• `Optional` **resetValue**: `number`
+
+#### Defined in
+
+[src/deck-components/SliderField.tsx:21](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/82f604a/src/deck-components/SliderField.tsx#L21)
+
+___
+
+### showValue
+
+• `Optional` **showValue**: `boolean`
+
+#### Defined in
+
+[src/deck-components/SliderField.tsx:20](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/82f604a/src/deck-components/SliderField.tsx#L20)
+
+___
+
+### step
+
+• `Optional` **step**: `number`
+
+#### Defined in
+
+[src/deck-components/SliderField.tsx:16](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/82f604a/src/deck-components/SliderField.tsx#L16)
+
+___
+
+### tooltip
+
+• `Optional` **tooltip**: `string`
+
+#### Inherited from
+
+[ItemProps](deck_components._internal_.ItemProps.md).[tooltip](deck_components._internal_.ItemProps.md#tooltip)
+
+#### Defined in
+
+[src/deck-components/Item.tsx:10](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/82f604a/src/deck-components/Item.tsx#L10)
+
+___
+
+### validValues
+
+• `Optional` **validValues**: ``"steps"`` \| ``"range"`` \| (`value`: `number`) => `boolean`
+
+#### Defined in
+
+[src/deck-components/SliderField.tsx:24](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/82f604a/src/deck-components/SliderField.tsx#L24)
+
+___
+
+### value
+
+• **value**: `number`
+
+#### Defined in
+
+[src/deck-components/SliderField.tsx:13](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/82f604a/src/deck-components/SliderField.tsx#L13)
+
+___
+
+### valueSuffix
+
+• `Optional` **valueSuffix**: `string`
+
+#### Defined in
+
+[src/deck-components/SliderField.tsx:25](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/82f604a/src/deck-components/SliderField.tsx#L25)
+
+## Methods
+
+### onChange
+
+▸ `Optional` **onChange**(`value`): `void`
+
+#### Parameters
+
+| Name | Type |
+| :------ | :------ |
+| `value` | `number` |
+
+#### Returns
+
+`void`
+
+#### Defined in
+
+[src/deck-components/SliderField.tsx:27](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/82f604a/src/deck-components/SliderField.tsx#L27)

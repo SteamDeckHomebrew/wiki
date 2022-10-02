@@ -1,0 +1,322 @@
+[decky-frontend-lib](../README.md) / [Modules](../modules.md) / [deck-components](../modules/deck_components.md) / ConfirmModalProps
+
+# Interface: ConfirmModalProps
+
+[deck-components](../modules/deck_components.md).ConfirmModalProps
+
+## Hierarchy
+
+- [`ModalRootProps`](deck_components.ModalRootProps.md)
+
+  ↳ **`ConfirmModalProps`**
+
+## Table of contents
+
+### Properties
+
+- [bAlertDialog](deck_components.ConfirmModalProps.md#balertdialog)
+- [bAllowFullSize](deck_components.ConfirmModalProps.md#ballowfullsize)
+- [bCancelDisabled](deck_components.ConfirmModalProps.md#bcanceldisabled)
+- [bDestructiveWarning](deck_components.ConfirmModalProps.md#bdestructivewarning)
+- [bDisableBackgroundDismiss](deck_components.ConfirmModalProps.md#bdisablebackgrounddismiss)
+- [bHideCloseIcon](deck_components.ConfirmModalProps.md#bhidecloseicon)
+- [bMiddleDisabled](deck_components.ConfirmModalProps.md#bmiddledisabled)
+- [bOKDisabled](deck_components.ConfirmModalProps.md#bokdisabled)
+- [children](deck_components.ConfirmModalProps.md#children)
+- [className](deck_components.ConfirmModalProps.md#classname)
+- [modalClassName](deck_components.ConfirmModalProps.md#modalclassname)
+- [strCancelButtonText](deck_components.ConfirmModalProps.md#strcancelbuttontext)
+- [strDescription](deck_components.ConfirmModalProps.md#strdescription)
+- [strMiddleButtonText](deck_components.ConfirmModalProps.md#strmiddlebuttontext)
+- [strOKButtonText](deck_components.ConfirmModalProps.md#strokbuttontext)
+- [strTitle](deck_components.ConfirmModalProps.md#strtitle)
+
+### Methods
+
+- [closeModal](deck_components.ConfirmModalProps.md#closemodal)
+- [onCancel](deck_components.ConfirmModalProps.md#oncancel)
+- [onEscKeypress](deck_components.ConfirmModalProps.md#onesckeypress)
+- [onMiddleButton](deck_components.ConfirmModalProps.md#onmiddlebutton)
+- [onOK](deck_components.ConfirmModalProps.md#onok)
+
+## Properties
+
+### bAlertDialog
+
+• `Optional` **bAlertDialog**: `boolean`
+
+#### Defined in
+
+[src/deck-components/Modal.tsx:62](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/82f604a/src/deck-components/Modal.tsx#L62)
+
+___
+
+### bAllowFullSize
+
+• `Optional` **bAllowFullSize**: `boolean`
+
+#### Inherited from
+
+[ModalRootProps](deck_components.ModalRootProps.md).[bAllowFullSize](deck_components.ModalRootProps.md#ballowfullsize)
+
+#### Defined in
+
+[src/deck-components/Modal.tsx:47](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/82f604a/src/deck-components/Modal.tsx#L47)
+
+___
+
+### bCancelDisabled
+
+• `Optional` **bCancelDisabled**: `boolean`
+
+#### Inherited from
+
+[ModalRootProps](deck_components.ModalRootProps.md).[bCancelDisabled](deck_components.ModalRootProps.md#bcanceldisabled)
+
+#### Defined in
+
+[src/deck-components/Modal.tsx:52](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/82f604a/src/deck-components/Modal.tsx#L52)
+
+___
+
+### bDestructiveWarning
+
+• `Optional` **bDestructiveWarning**: `boolean`
+
+#### Inherited from
+
+[ModalRootProps](deck_components.ModalRootProps.md).[bDestructiveWarning](deck_components.ModalRootProps.md#bdestructivewarning)
+
+#### Defined in
+
+[src/deck-components/Modal.tsx:48](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/82f604a/src/deck-components/Modal.tsx#L48)
+
+___
+
+### bDisableBackgroundDismiss
+
+• `Optional` **bDisableBackgroundDismiss**: `boolean`
+
+#### Inherited from
+
+[ModalRootProps](deck_components.ModalRootProps.md).[bDisableBackgroundDismiss](deck_components.ModalRootProps.md#bdisablebackgrounddismiss)
+
+#### Defined in
+
+[src/deck-components/Modal.tsx:49](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/82f604a/src/deck-components/Modal.tsx#L49)
+
+___
+
+### bHideCloseIcon
+
+• `Optional` **bHideCloseIcon**: `boolean`
+
+#### Inherited from
+
+[ModalRootProps](deck_components.ModalRootProps.md).[bHideCloseIcon](deck_components.ModalRootProps.md#bhidecloseicon)
+
+#### Defined in
+
+[src/deck-components/Modal.tsx:50](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/82f604a/src/deck-components/Modal.tsx#L50)
+
+___
+
+### bMiddleDisabled
+
+• `Optional` **bMiddleDisabled**: `boolean`
+
+#### Defined in
+
+[src/deck-components/Modal.tsx:63](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/82f604a/src/deck-components/Modal.tsx#L63)
+
+___
+
+### bOKDisabled
+
+• `Optional` **bOKDisabled**: `boolean`
+
+#### Inherited from
+
+[ModalRootProps](deck_components.ModalRootProps.md).[bOKDisabled](deck_components.ModalRootProps.md#bokdisabled)
+
+#### Defined in
+
+[src/deck-components/Modal.tsx:51](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/82f604a/src/deck-components/Modal.tsx#L51)
+
+___
+
+### children
+
+• `Optional` **children**: `ReactNode`
+
+#### Inherited from
+
+[ModalRootProps](deck_components.ModalRootProps.md).[children](deck_components.ModalRootProps.md#children)
+
+#### Defined in
+
+[src/deck-components/Modal.tsx:40](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/82f604a/src/deck-components/Modal.tsx#L40)
+
+___
+
+### className
+
+• `Optional` **className**: `string`
+
+#### Inherited from
+
+[ModalRootProps](deck_components.ModalRootProps.md).[className](deck_components.ModalRootProps.md#classname)
+
+#### Defined in
+
+[src/deck-components/Modal.tsx:45](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/82f604a/src/deck-components/Modal.tsx#L45)
+
+___
+
+### modalClassName
+
+• `Optional` **modalClassName**: `string`
+
+#### Inherited from
+
+[ModalRootProps](deck_components.ModalRootProps.md).[modalClassName](deck_components.ModalRootProps.md#modalclassname)
+
+#### Defined in
+
+[src/deck-components/Modal.tsx:46](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/82f604a/src/deck-components/Modal.tsx#L46)
+
+___
+
+### strCancelButtonText
+
+• `Optional` **strCancelButtonText**: `ReactNode`
+
+#### Defined in
+
+[src/deck-components/Modal.tsx:60](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/82f604a/src/deck-components/Modal.tsx#L60)
+
+___
+
+### strDescription
+
+• `Optional` **strDescription**: `ReactNode`
+
+#### Defined in
+
+[src/deck-components/Modal.tsx:58](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/82f604a/src/deck-components/Modal.tsx#L58)
+
+___
+
+### strMiddleButtonText
+
+• `Optional` **strMiddleButtonText**: `ReactNode`
+
+#### Defined in
+
+[src/deck-components/Modal.tsx:61](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/82f604a/src/deck-components/Modal.tsx#L61)
+
+___
+
+### strOKButtonText
+
+• `Optional` **strOKButtonText**: `ReactNode`
+
+#### Defined in
+
+[src/deck-components/Modal.tsx:59](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/82f604a/src/deck-components/Modal.tsx#L59)
+
+___
+
+### strTitle
+
+• `Optional` **strTitle**: `ReactNode`
+
+#### Defined in
+
+[src/deck-components/Modal.tsx:57](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/82f604a/src/deck-components/Modal.tsx#L57)
+
+## Methods
+
+### closeModal
+
+▸ `Optional` **closeModal**(): `void`
+
+#### Returns
+
+`void`
+
+#### Inherited from
+
+[ModalRootProps](deck_components.ModalRootProps.md).[closeModal](deck_components.ModalRootProps.md#closemodal)
+
+#### Defined in
+
+[src/deck-components/Modal.tsx:42](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/82f604a/src/deck-components/Modal.tsx#L42)
+
+___
+
+### onCancel
+
+▸ `Optional` **onCancel**(): `void`
+
+#### Returns
+
+`void`
+
+#### Inherited from
+
+[ModalRootProps](deck_components.ModalRootProps.md).[onCancel](deck_components.ModalRootProps.md#oncancel)
+
+#### Defined in
+
+[src/deck-components/Modal.tsx:41](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/82f604a/src/deck-components/Modal.tsx#L41)
+
+___
+
+### onEscKeypress
+
+▸ `Optional` **onEscKeypress**(): `void`
+
+#### Returns
+
+`void`
+
+#### Inherited from
+
+[ModalRootProps](deck_components.ModalRootProps.md).[onEscKeypress](deck_components.ModalRootProps.md#onesckeypress)
+
+#### Defined in
+
+[src/deck-components/Modal.tsx:44](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/82f604a/src/deck-components/Modal.tsx#L44)
+
+___
+
+### onMiddleButton
+
+▸ `Optional` **onMiddleButton**(): `void`
+
+#### Returns
+
+`void`
+
+#### Defined in
+
+[src/deck-components/Modal.tsx:56](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/82f604a/src/deck-components/Modal.tsx#L56)
+
+___
+
+### onOK
+
+▸ `Optional` **onOK**(): `void`
+
+#### Returns
+
+`void`
+
+#### Inherited from
+
+[ModalRootProps](deck_components.ModalRootProps.md).[onOK](deck_components.ModalRootProps.md#onok)
+
+#### Defined in
+
+[src/deck-components/Modal.tsx:43](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/82f604a/src/deck-components/Modal.tsx#L43)
