@@ -31,7 +31,7 @@
 
 #### Defined in
 
-[src/webpack.ts:10](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/82f604a/src/webpack.ts#L10)
+[src/webpack.ts:10](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/33dd4e5/src/webpack.ts#L10)
 
 ___
 
@@ -55,4 +55,4 @@ ___
 
 #### Defined in
 
-[src/webpack.ts:11](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/82f604a/src/webpack.ts#L11)
+[src/webpack.ts:11](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/33dd4e5/src/webpack.ts#L11)

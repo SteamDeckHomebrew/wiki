@@ -32,7 +32,7 @@
 
 #### Defined in
 
-[src/plugin.tsx:27](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/82f604a/src/plugin.tsx#L27)
+[src/plugin.tsx:27](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/33dd4e5/src/plugin.tsx#L27)
 
 ___
 
@@ -54,7 +54,7 @@ ___
 
 #### Defined in
 
-[src/plugin.tsx:26](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/82f604a/src/plugin.tsx#L26)
+[src/plugin.tsx:26](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/33dd4e5/src/plugin.tsx#L26)
 
 ___
 
@@ -75,7 +75,7 @@ ___
 
 #### Defined in
 
-[src/plugin.tsx:28](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/82f604a/src/plugin.tsx#L28)
+[src/plugin.tsx:28](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/33dd4e5/src/plugin.tsx#L28)
 
 ___
 
@@ -95,4 +95,4 @@ ___
 
 #### Defined in
 
-[src/plugin.tsx:29](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/82f604a/src/plugin.tsx#L29)
+[src/plugin.tsx:29](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/33dd4e5/src/plugin.tsx#L29)

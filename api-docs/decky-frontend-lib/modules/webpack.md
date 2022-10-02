@@ -34,7 +34,7 @@
 
 #### Defined in
 
-[src/webpack.ts:9](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/82f604a/src/webpack.ts#L9)
+[src/webpack.ts:9](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/33dd4e5/src/webpack.ts#L9)
 
 ## Variables
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[src/webpack.ts:73](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/82f604a/src/webpack.ts#L73)
+[src/webpack.ts:73](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/33dd4e5/src/webpack.ts#L73)
 
 ___
 
@@ -54,7 +54,7 @@ ___
 
 #### Defined in
 
-[src/webpack.ts:81](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/82f604a/src/webpack.ts#L81)
+[src/webpack.ts:81](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/33dd4e5/src/webpack.ts#L81)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[src/webpack.ts:89](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/82f604a/src/webpack.ts#L89)
+[src/webpack.ts:89](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/33dd4e5/src/webpack.ts#L89)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[src/webpack.ts:38](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/82f604a/src/webpack.ts#L38)
+[src/webpack.ts:38](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/33dd4e5/src/webpack.ts#L38)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[src/webpack.ts:13](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/82f604a/src/webpack.ts#L13)
+[src/webpack.ts:13](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/33dd4e5/src/webpack.ts#L13)
 
 ## Functions
 
@@ -104,7 +104,7 @@ ___
 
 #### Defined in
 
-[src/webpack.ts:62](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/82f604a/src/webpack.ts#L62)
+[src/webpack.ts:62](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/33dd4e5/src/webpack.ts#L62)
 
 ___
 
@@ -124,7 +124,7 @@ ___
 
 #### Defined in
 
-[src/webpack.ts:42](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/82f604a/src/webpack.ts#L42)
+[src/webpack.ts:42](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/33dd4e5/src/webpack.ts#L42)
 
 ___
 
@@ -144,4 +144,4 @@ ___
 
 #### Defined in
 
-[src/webpack.ts:49](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/82f604a/src/webpack.ts#L49)
+[src/webpack.ts:49](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/33dd4e5/src/webpack.ts#L49)

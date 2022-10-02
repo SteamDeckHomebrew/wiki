@@ -28,4 +28,4 @@
 
 #### Defined in
 
-[src/plugin.tsx:45](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/82f604a/src/plugin.tsx#L45)
+[src/plugin.tsx:45](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/33dd4e5/src/plugin.tsx#L45)

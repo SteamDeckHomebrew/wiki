@@ -39,7 +39,7 @@
 
 #### Defined in
 
-[src/plugin.tsx:21](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/82f604a/src/plugin.tsx#L21)
+[src/plugin.tsx:21](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/33dd4e5/src/plugin.tsx#L21)
 
 ## Functions
 
@@ -59,4 +59,4 @@
 
 #### Defined in
 
-[src/plugin.tsx:68](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/82f604a/src/plugin.tsx#L68)
+[src/plugin.tsx:68](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/33dd4e5/src/plugin.tsx#L68)

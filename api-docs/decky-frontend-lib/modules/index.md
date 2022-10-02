@@ -836,7 +836,7 @@ Re-exports [webpackCache](webpack.md#webpackcache)
 
 #### Defined in
 
-[src/utils/react.ts:65](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/82f604a/src/utils/react.ts#L65)
+[src/utils/react.ts:65](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/33dd4e5/src/utils/react.ts#L65)
 
 ## Variables
 
@@ -846,7 +846,7 @@ Re-exports [webpackCache](webpack.md#webpackcache)
 
 #### Defined in
 
-[src/utils/patcher.ts:3](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/82f604a/src/utils/patcher.ts#L3)
+[src/utils/patcher.ts:3](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/33dd4e5/src/utils/patcher.ts#L3)
 
 ## Functions
 
@@ -869,7 +869,7 @@ Re-exports [webpackCache](webpack.md#webpackcache)
 
 #### Defined in
 
-[src/utils/patcher.ts:38](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/82f604a/src/utils/patcher.ts#L38)
+[src/utils/patcher.ts:38](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/33dd4e5/src/utils/patcher.ts#L38)
 
 ___
 
@@ -892,7 +892,7 @@ ___
 
 #### Defined in
 
-[src/utils/patcher.ts:24](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/82f604a/src/utils/patcher.ts#L24)
+[src/utils/patcher.ts:24](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/33dd4e5/src/utils/patcher.ts#L24)
 
 ___
 
@@ -912,7 +912,7 @@ ___
 
 #### Defined in
 
-[src/utils/react.ts:11](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/82f604a/src/utils/react.ts#L11)
+[src/utils/react.ts:11](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/33dd4e5/src/utils/react.ts#L11)
 
 ___
 
@@ -933,7 +933,7 @@ ___
 
 #### Defined in
 
-[src/utils/react.ts:84](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/82f604a/src/utils/react.ts#L84)
+[src/utils/react.ts:84](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/33dd4e5/src/utils/react.ts#L84)
 
 ___
 
@@ -955,7 +955,7 @@ ___
 
 #### Defined in
 
-[src/utils/react.ts:67](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/82f604a/src/utils/react.ts#L67)
+[src/utils/react.ts:67](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/33dd4e5/src/utils/react.ts#L67)
 
 ___
 
@@ -975,7 +975,7 @@ ___
 
 #### Defined in
 
-[src/utils/react.ts:55](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/82f604a/src/utils/react.ts#L55)
+[src/utils/react.ts:55](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/33dd4e5/src/utils/react.ts#L55)
 
 ___
 
@@ -998,7 +998,7 @@ ___
 
 #### Defined in
 
-[src/utils/patcher.ts:52](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/82f604a/src/utils/patcher.ts#L52)
+[src/utils/patcher.ts:52](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/33dd4e5/src/utils/patcher.ts#L52)
 
 ___
 
@@ -1019,7 +1019,7 @@ typeof [`__class`](../classes/index._internal_.__class.md)
 
 #### Defined in
 
-[src/utils/react.ts:49](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/82f604a/src/utils/react.ts#L49)
+[src/utils/react.ts:49](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/33dd4e5/src/utils/react.ts#L49)
 
 ___
 
@@ -1040,4 +1040,4 @@ ___
 
 #### Defined in
 
-[src/utils/react.ts:45](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/82f604a/src/utils/react.ts#L45)
+[src/utils/react.ts:45](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/33dd4e5/src/utils/react.ts#L45)
