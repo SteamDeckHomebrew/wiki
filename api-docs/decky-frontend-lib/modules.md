@@ -35,6 +35,8 @@
 - [deck-components/Toggle](modules/deck_components_Toggle.md)
 - [deck-components/ToggleField](modules/deck_components_ToggleField.md)
 - [deck-components/static-classes](modules/deck_components_static_classes.md)
+- [deck-hooks](modules/deck_hooks.md)
+- [deck-hooks/useParams](modules/deck_hooks_useParams.md)
 - [utils](modules/utils.md)
 - [utils/patcher](modules/utils_patcher.md)
 - [utils/react](modules/utils_react.md)
