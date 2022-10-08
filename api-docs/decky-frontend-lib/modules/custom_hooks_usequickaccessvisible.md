@@ -60,4 +60,4 @@ export const PluginPanelView: VFC<{}> = ({ }) => {
 
 #### Defined in
 
-[src/custom-hooks/usequickaccessvisible.tsx:44](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/e2920dd/src/custom-hooks/usequickaccessvisible.tsx#L44)
+[src/custom-hooks/usequickaccessvisible.tsx:44](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/abbd3cd/src/custom-hooks/usequickaccessvisible.tsx#L44)

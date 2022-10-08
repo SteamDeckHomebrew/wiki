@@ -24,7 +24,7 @@
 
 #### Defined in
 
-[src/deck-components/Toggle.tsx:7](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/e2920dd/src/deck-components/Toggle.tsx#L7)
+[src/deck-components/Toggle.tsx:7](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/abbd3cd/src/deck-components/Toggle.tsx#L7)
 
 ___
 
@@ -34,7 +34,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/Toggle.tsx:9](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/e2920dd/src/deck-components/Toggle.tsx#L9)
+[src/deck-components/Toggle.tsx:9](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/abbd3cd/src/deck-components/Toggle.tsx#L9)
 
 ___
 
@@ -44,7 +44,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/Toggle.tsx:6](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/e2920dd/src/deck-components/Toggle.tsx#L6)
+[src/deck-components/Toggle.tsx:6](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/abbd3cd/src/deck-components/Toggle.tsx#L6)
 
 ## Methods
 
@@ -64,4 +64,4 @@ ___
 
 #### Defined in
 
-[src/deck-components/Toggle.tsx:8](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/e2920dd/src/deck-components/Toggle.tsx#L8)
+[src/deck-components/Toggle.tsx:8](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/abbd3cd/src/deck-components/Toggle.tsx#L8)

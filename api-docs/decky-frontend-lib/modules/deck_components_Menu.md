@@ -99,4 +99,4 @@ ___
 
 #### Defined in
 
-[src/deck-components/Menu.tsx:5](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/e2920dd/src/deck-components/Menu.tsx#L5)
+[src/deck-components/Menu.tsx:5](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/abbd3cd/src/deck-components/Menu.tsx#L5)
