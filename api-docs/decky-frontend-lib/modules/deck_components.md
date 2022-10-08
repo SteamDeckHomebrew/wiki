@@ -21,7 +21,6 @@
 - [DialogButtonPrimary](deck_components.md#dialogbuttonprimary)
 - [DialogButtonProps](deck_components.md#dialogbuttonprops)
 - [DialogButtonSecondary](deck_components.md#dialogbuttonsecondary)
-- [DialogButtonSmall](deck_components.md#dialogbuttonsmall)
 - [DialogCommonProps](deck_components.md#dialogcommonprops)
 - [DialogControlsSection](deck_components.md#dialogcontrolssection)
 - [DialogControlsSectionHeader](deck_components.md#dialogcontrolssectionheader)
@@ -188,12 +187,6 @@ ___
 ### DialogButtonSecondary
 
 Re-exports [DialogButtonSecondary](deck_components_Dialog.md#dialogbuttonsecondary)
-
-___
-
-### DialogButtonSmall
-
-Re-exports [DialogButtonSmall](deck_components_Dialog.md#dialogbuttonsmall)
 
 ___
 

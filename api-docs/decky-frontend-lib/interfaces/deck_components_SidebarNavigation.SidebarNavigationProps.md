@@ -23,7 +23,7 @@
 
 #### Defined in
 
-[src/deck-components/SidebarNavigation.tsx:21](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/0ce1b54/src/deck-components/SidebarNavigation.tsx#L21)
+[src/deck-components/SidebarNavigation.tsx:21](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/5a5218a/src/deck-components/SidebarNavigation.tsx#L21)
 
 ___
 
@@ -47,7 +47,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/SidebarNavigation.tsx:23](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/0ce1b54/src/deck-components/SidebarNavigation.tsx#L23)
+[src/deck-components/SidebarNavigation.tsx:23](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/5a5218a/src/deck-components/SidebarNavigation.tsx#L23)
 
 ___
 
@@ -57,7 +57,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/SidebarNavigation.tsx:22](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/0ce1b54/src/deck-components/SidebarNavigation.tsx#L22)
+[src/deck-components/SidebarNavigation.tsx:22](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/5a5218a/src/deck-components/SidebarNavigation.tsx#L22)
 
 ___
 
@@ -67,7 +67,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/SidebarNavigation.tsx:19](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/0ce1b54/src/deck-components/SidebarNavigation.tsx#L19)
+[src/deck-components/SidebarNavigation.tsx:19](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/5a5218a/src/deck-components/SidebarNavigation.tsx#L19)
 
 ___
 
@@ -77,7 +77,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/SidebarNavigation.tsx:20](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/0ce1b54/src/deck-components/SidebarNavigation.tsx#L20)
+[src/deck-components/SidebarNavigation.tsx:20](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/5a5218a/src/deck-components/SidebarNavigation.tsx#L20)
 
 ___
 
@@ -87,4 +87,4 @@ ___
 
 #### Defined in
 
-[src/deck-components/SidebarNavigation.tsx:18](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/0ce1b54/src/deck-components/SidebarNavigation.tsx#L18)
+[src/deck-components/SidebarNavigation.tsx:18](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/5a5218a/src/deck-components/SidebarNavigation.tsx#L18)
