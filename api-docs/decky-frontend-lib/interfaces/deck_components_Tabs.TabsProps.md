@@ -16,7 +16,7 @@ tab to automatically focus, [id](deck_components_Tabs.Tab.md#id)
 
 **`Property`**
 
-Currently unknown.
+Currently unknown, but required.
 
 **`Property`**
 
@@ -43,7 +43,7 @@ Sets up button handlers and labels
 
 #### Defined in
 
-[src/deck-components/Tabs.tsx:33](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/0e0e0d2/src/deck-components/Tabs.tsx#L33)
+[src/deck-components/Tabs.tsx:33](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/7161e75/src/deck-components/Tabs.tsx#L33)
 
 ___
 
@@ -53,13 +53,13 @@ ___
 
 #### Defined in
 
-[src/deck-components/Tabs.tsx:35](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/0e0e0d2/src/deck-components/Tabs.tsx#L35)
+[src/deck-components/Tabs.tsx:35](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/7161e75/src/deck-components/Tabs.tsx#L35)
 
 ___
 
 ### onShowTab
 
-• `Optional` **onShowTab**: (...`args`: `unknown`[]) => `void`
+• **onShowTab**: (...`args`: `unknown`[]) => `void`
 
 #### Type declaration
 
@@ -77,7 +77,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/Tabs.tsx:34](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/0e0e0d2/src/deck-components/Tabs.tsx#L34)
+[src/deck-components/Tabs.tsx:34](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/7161e75/src/deck-components/Tabs.tsx#L34)
 
 ___
 
@@ -87,4 +87,4 @@ ___
 
 #### Defined in
 
-[src/deck-components/Tabs.tsx:32](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/0e0e0d2/src/deck-components/Tabs.tsx#L32)
+[src/deck-components/Tabs.tsx:32](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/7161e75/src/deck-components/Tabs.tsx#L32)
