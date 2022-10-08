@@ -71,7 +71,7 @@
 - [ShowModalResult](deck_components.md#showmodalresult)
 - [SideMenu](deck_components.md#sidemenu)
 - [SidebarNavigation](deck_components.md#sidebarnavigation)
-- [SidebarNavigationPages](deck_components.md#sidebarnavigationpages)
+- [SidebarNavigationPage](deck_components.md#sidebarnavigationpage)
 - [SidebarNavigationProps](deck_components.md#sidebarnavigationprops)
 - [SingleDropdownOption](deck_components.md#singledropdownoption)
 - [SliderField](deck_components.md#sliderfield)
@@ -491,9 +491,9 @@ Re-exports [SidebarNavigation](deck_components_SidebarNavigation.md#sidebarnavig
 
 ___
 
-### SidebarNavigationPages
+### SidebarNavigationPage
 
-Re-exports [SidebarNavigationPages](../interfaces/deck_components_SidebarNavigation.SidebarNavigationPages.md)
+Re-exports [SidebarNavigationPage](../interfaces/deck_components_SidebarNavigation.SidebarNavigationPage.md)
 
 ___
 

@@ -6,7 +6,7 @@
 
 ### Interfaces
 
-- [SidebarNavigationPages](../interfaces/deck_components_SidebarNavigation.SidebarNavigationPages.md)
+- [SidebarNavigationPage](../interfaces/deck_components_SidebarNavigation.SidebarNavigationPage.md)
 - [SidebarNavigationProps](../interfaces/deck_components_SidebarNavigation.SidebarNavigationProps.md)
 
 ### Functions
