@@ -6,25 +6,11 @@
 
 Individual tab objects for the Tabs component
 
-**`Property`**
-
-ID of this tab, can be used with activeTab to auto-focus a given tab
-
-**`Property`**
-
-Title shown in the header bar
-
-**`Property`**
-
-Return a ReactNode to render it next to the tab title, i.e. the counts for each tab on the Media page
-
-**`Property`**
-
-Content of the tab
-
-**`Property`**
-
-Sets up button handlers and labels
+`id` ID of this tab, can be used with activeTab to auto-focus a given tab
+`title` Title shown in the header bar
+`renderTabAddon` Return a ReactNode to render it next to the tab title, i.e. the counts for each tab on the Media page
+`content` Content of the tab
+`footer` Sets up button handlers and labels
 
 ## Table of contents
 
@@ -44,7 +30,7 @@ Sets up button handlers and labels
 
 #### Defined in
 
-[src/deck-components/Tabs.tsx:18](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/7161e75/src/deck-components/Tabs.tsx#L18)
+[src/deck-components/Tabs.tsx:18](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/4024b76/src/deck-components/Tabs.tsx#L18)
 
 ___
 
@@ -54,7 +40,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/Tabs.tsx:19](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/7161e75/src/deck-components/Tabs.tsx#L19)
+[src/deck-components/Tabs.tsx:19](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/4024b76/src/deck-components/Tabs.tsx#L19)
 
 ___
 
@@ -64,7 +50,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/Tabs.tsx:15](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/7161e75/src/deck-components/Tabs.tsx#L15)
+[src/deck-components/Tabs.tsx:15](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/4024b76/src/deck-components/Tabs.tsx#L15)
 
 ___
 
@@ -82,7 +68,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/Tabs.tsx:17](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/7161e75/src/deck-components/Tabs.tsx#L17)
+[src/deck-components/Tabs.tsx:17](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/4024b76/src/deck-components/Tabs.tsx#L17)
 
 ___
 
@@ -92,4 +78,4 @@ ___
 
 #### Defined in
 
-[src/deck-components/Tabs.tsx:16](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/7161e75/src/deck-components/Tabs.tsx#L16)
+[src/deck-components/Tabs.tsx:16](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/4024b76/src/deck-components/Tabs.tsx#L16)

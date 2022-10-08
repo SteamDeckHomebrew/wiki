@@ -6,25 +6,41 @@
 
 Props for the [Tabs](../modules/deck_components_Tabs.md#tabs)
 
-**`Property`**
+`tabs` array of [Tab](deck_components_Tabs.Tab.md)
+`activeTab` tab currently active, needs to be one of the tabs [id](deck_components_Tabs.Tab.md#id), must be set using a `useState` in the `onShowTab` handler
+`onShowTab` Called when the active tab should change, needs to set `activeTab`. See example.
+`autoFocusContents` Whether to automatically focus the tab contents or not.
+`footer` Sets up button handlers and labels
 
-array of [Tab](deck_components_Tabs.Tab.md)
+**`Example`**
 
-**`Property`**
+```ts
+const Component: FC = () => {
+const [currentTab, setCurrentTab] = useState<string>("Tab1");
 
-tab to automatically focus, [id](deck_components_Tabs.Tab.md#id)
-
-**`Property`**
-
-Currently unknown, but required.
-
-**`Property`**
-
-Whether to automatically focus the tab contents or not.
-
-**`Property`**
-
-Sets up button handlers and labels
+return (
+  <Tabs
+    title="Theme Manager"
+    activeTab={currentTabRoute}
+    onShowTab={(tabID: string) => {
+       setCurrentTabRoute(tabID);
+    }}
+    tabs={[
+      {
+        title: "Tab 1",
+        content: <Tab1Component />,
+        id: "Tab1",
+      },
+      {
+        title: "Tab 2",
+        content: <Tab2Component />,
+        id: "Tab2",
+      },
+    ]}
+  />
+ );
+};
+```
 
 ## Table of contents
 
@@ -39,11 +55,11 @@ Sets up button handlers and labels
 
 ### activeTab
 
-• `Optional` **activeTab**: `string`
+• **activeTab**: `string`
 
 #### Defined in
 
-[src/deck-components/Tabs.tsx:33](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/7161e75/src/deck-components/Tabs.tsx#L33)
+[src/deck-components/Tabs.tsx:60](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/4024b76/src/deck-components/Tabs.tsx#L60)
 
 ___
 
@@ -53,23 +69,23 @@ ___
 
 #### Defined in
 
-[src/deck-components/Tabs.tsx:35](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/7161e75/src/deck-components/Tabs.tsx#L35)
+[src/deck-components/Tabs.tsx:62](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/4024b76/src/deck-components/Tabs.tsx#L62)
 
 ___
 
 ### onShowTab
 
-• **onShowTab**: (...`args`: `unknown`[]) => `void`
+• **onShowTab**: (`tab`: `string`) => `void`
 
 #### Type declaration
 
-▸ (...`args`): `void`
+▸ (`tab`): `void`
 
 ##### Parameters
 
 | Name | Type |
 | :------ | :------ |
-| `...args` | `unknown`[] |
+| `tab` | `string` |
 
 ##### Returns
 
@@ -77,7 +93,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/Tabs.tsx:34](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/7161e75/src/deck-components/Tabs.tsx#L34)
+[src/deck-components/Tabs.tsx:61](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/4024b76/src/deck-components/Tabs.tsx#L61)
 
 ___
 
@@ -87,4 +103,4 @@ ___
 
 #### Defined in
 
-[src/deck-components/Tabs.tsx:32](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/7161e75/src/deck-components/Tabs.tsx#L32)
+[src/deck-components/Tabs.tsx:59](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/4024b76/src/deck-components/Tabs.tsx#L59)

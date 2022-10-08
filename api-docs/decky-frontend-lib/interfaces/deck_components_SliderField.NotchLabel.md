@@ -20,7 +20,7 @@
 
 #### Defined in
 
-[src/deck-components/SliderField.tsx:8](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/7161e75/src/deck-components/SliderField.tsx#L8)
+[src/deck-components/SliderField.tsx:8](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/4024b76/src/deck-components/SliderField.tsx#L8)
 
 ___
 
@@ -30,7 +30,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/SliderField.tsx:7](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/7161e75/src/deck-components/SliderField.tsx#L7)
+[src/deck-components/SliderField.tsx:7](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/4024b76/src/deck-components/SliderField.tsx#L7)
 
 ___
 
@@ -40,4 +40,4 @@ ___
 
 #### Defined in
 
-[src/deck-components/SliderField.tsx:9](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/7161e75/src/deck-components/SliderField.tsx#L9)
+[src/deck-components/SliderField.tsx:9](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/4024b76/src/deck-components/SliderField.tsx#L9)
