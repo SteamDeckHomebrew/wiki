@@ -44,7 +44,7 @@ Sets up button handlers and labels
 
 #### Defined in
 
-[src/deck-components/Tabs.tsx:18](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/abbd3cd/src/deck-components/Tabs.tsx#L18)
+[src/deck-components/Tabs.tsx:18](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/0e0e0d2/src/deck-components/Tabs.tsx#L18)
 
 ___
 
@@ -54,7 +54,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/Tabs.tsx:19](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/abbd3cd/src/deck-components/Tabs.tsx#L19)
+[src/deck-components/Tabs.tsx:19](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/0e0e0d2/src/deck-components/Tabs.tsx#L19)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/Tabs.tsx:15](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/abbd3cd/src/deck-components/Tabs.tsx#L15)
+[src/deck-components/Tabs.tsx:15](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/0e0e0d2/src/deck-components/Tabs.tsx#L15)
 
 ___
 
@@ -82,7 +82,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/Tabs.tsx:17](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/abbd3cd/src/deck-components/Tabs.tsx#L17)
+[src/deck-components/Tabs.tsx:17](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/0e0e0d2/src/deck-components/Tabs.tsx#L17)
 
 ___
 
@@ -92,4 +92,4 @@ ___
 
 #### Defined in
 
-[src/deck-components/Tabs.tsx:16](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/abbd3cd/src/deck-components/Tabs.tsx#L16)
+[src/deck-components/Tabs.tsx:16](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/0e0e0d2/src/deck-components/Tabs.tsx#L16)

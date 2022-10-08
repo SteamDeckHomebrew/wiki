@@ -19,7 +19,7 @@
 
 #### Defined in
 
-[src/utils/react.ts:62](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/abbd3cd/src/utils/react.ts#L62)
+[src/utils/react.ts:62](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/0e0e0d2/src/utils/react.ts#L62)
 
 ___
 
@@ -29,4 +29,4 @@ ___
 
 #### Defined in
 
-[src/utils/react.ts:61](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/abbd3cd/src/utils/react.ts#L61)
+[src/utils/react.ts:61](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/0e0e0d2/src/utils/react.ts#L61)

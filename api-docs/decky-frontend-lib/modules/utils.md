@@ -128,7 +128,7 @@ Re-exports [wrapReactType](utils_react.md#wrapreacttype)
 
 #### Defined in
 
-[src/utils/index.ts:4](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/abbd3cd/src/utils/index.ts#L4)
+[src/utils/index.ts:4](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/0e0e0d2/src/utils/index.ts#L4)
 
 ___
 
@@ -148,4 +148,4 @@ ___
 
 #### Defined in
 
-[src/utils/index.ts:8](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/abbd3cd/src/utils/index.ts#L8)
+[src/utils/index.ts:8](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/0e0e0d2/src/utils/index.ts#L8)
