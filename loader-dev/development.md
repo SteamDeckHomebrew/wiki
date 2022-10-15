@@ -2,14 +2,13 @@
 title: Developing for and Contributing to PluginLoader
 description: How to run the contribution install scripts and run development versions of Plugin Loader
 published: true
-date: 2022-07-04T18:50:00.791Z
+date: 2022-10-15T17:37:22.562Z
 tags: loader-dev
 editor: markdown
 dateCreated: 2022-06-02T20:18:49.956Z
 ---
 
 # Development for PluginLoader
-*(This page is best utilized for contributing to the current react-frontend-plugins branch.)*
 
 Here's how to install an in-development version of PluginLoader for contribution and testing your plugins with in-development versions of PluginLoader
 
