@@ -47,7 +47,7 @@
 
 #### Defined in
 
-[src/utils/react.ts:65](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/5a5218a/src/utils/react.ts#L65)
+[src/utils/react.ts:65](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/2fc2060/src/utils/react.ts#L65)
 
 ## Functions
 
@@ -67,7 +67,7 @@
 
 #### Defined in
 
-[src/utils/react.ts:11](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/5a5218a/src/utils/react.ts#L11)
+[src/utils/react.ts:11](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/2fc2060/src/utils/react.ts#L11)
 
 ___
 
@@ -88,7 +88,7 @@ ___
 
 #### Defined in
 
-[src/utils/react.ts:84](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/5a5218a/src/utils/react.ts#L84)
+[src/utils/react.ts:84](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/2fc2060/src/utils/react.ts#L84)
 
 ___
 
@@ -110,7 +110,7 @@ ___
 
 #### Defined in
 
-[src/utils/react.ts:67](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/5a5218a/src/utils/react.ts#L67)
+[src/utils/react.ts:67](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/2fc2060/src/utils/react.ts#L67)
 
 ___
 
@@ -130,7 +130,7 @@ ___
 
 #### Defined in
 
-[src/utils/react.ts:55](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/5a5218a/src/utils/react.ts#L55)
+[src/utils/react.ts:55](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/2fc2060/src/utils/react.ts#L55)
 
 ___
 
@@ -151,7 +151,7 @@ typeof [`__class`](../classes/utils_react._internal_.__class.md)
 
 #### Defined in
 
-[src/utils/react.ts:49](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/5a5218a/src/utils/react.ts#L49)
+[src/utils/react.ts:49](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/2fc2060/src/utils/react.ts#L49)
 
 ___
 
@@ -172,4 +172,4 @@ ___
 
 #### Defined in
 
-[src/utils/react.ts:45](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/5a5218a/src/utils/react.ts#L45)
+[src/utils/react.ts:45](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/2fc2060/src/utils/react.ts#L45)
