@@ -1,8 +1,8 @@
 ---
 title: Route Patching
 description: Using Route Patching to insert new components into the deck UI or edit existing.
-published: false
-date: 2022-10-23T15:01:04.377Z
+published: true
+date: 2022-10-23T15:02:02.106Z
 tags: route, patch, patching, component, react
 editor: markdown
 dateCreated: 2022-09-11T21:45:14.663Z
