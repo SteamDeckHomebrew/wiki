@@ -2,7 +2,7 @@
 title: Getting Started
 description: How-To guide about developing a plugin
 published: true
-date: 2022-07-18T23:10:13.451Z
+date: 2022-10-23T01:38:37.624Z
 tags: plugin-dev
 editor: markdown
 dateCreated: 2022-07-03T19:33:01.141Z
@@ -72,6 +72,10 @@ class Plugin:
 
 		# Function that can contain long-running code that will stay alive for the entire duration of your plugin
     async def _main(self):
+        pass
+        
+     # Function used to clean up a plugin when it's told to unload by Decky-Loader
+    async def _unload(self):
         pass
 
 ```
