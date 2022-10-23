@@ -2,7 +2,7 @@
 title: Route Patching
 description: Using Route Patching to insert new components into the deck UI or edit existing.
 published: true
-date: 2022-10-23T15:02:02.106Z
+date: 2022-10-23T15:06:05.509Z
 tags: route, patch, patching, component, react
 editor: markdown
 dateCreated: 2022-09-11T21:45:14.663Z
@@ -19,7 +19,7 @@ This guide assumes you've followed the [Getting Started guide](/en/plugin-dev/ge
 Our workflow will be:
 - Adding a new patch via `serverAPI` with `serverAPI.routerHook.addPatch` on our chosen route
 - Make our way down the react tree with using `afterPatch` where neccessary to render child components.
-- Use `wrapReactType` and `wrapReactClass` to make clones of the component before using `afterPatch`
+- Use `afterPatch` to move down the tree, combined with `wrapReactType` and `wrapReactClass` to make clones of the component `type` if it is not a function
 
 For an example check out the ProtonDB Badges plugin on [GitHub](https://github.com/OMGDuke/protondb-decky)
 
