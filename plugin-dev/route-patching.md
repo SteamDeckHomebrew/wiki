@@ -2,7 +2,7 @@
 title: Route Patching
 description: Using Route Patching to insert new components into the deck UI or edit existing.
 published: false
-date: 2022-09-11T22:03:06.184Z
+date: 2022-10-23T14:56:35.209Z
 tags: route, patch, patching, component, react
 editor: markdown
 dateCreated: 2022-09-11T21:45:14.663Z
@@ -65,7 +65,7 @@ Within our `addPatch` function we now have access to the children of our route. 
 
 Using react devtools, (or console logging `props.children`) start searching for the component you want to add to or edit. Sometimes you'll have to drill down `props.children.props.children` a few times to hit a class or function that you'll need to render to continue.
 
-If you hit a dead end you can run an `afterPatch`. Before running this you may need to clone the component you want to patch with `wrapReactType` for a function and `wrapReactClass` for a class.
+If you hit a dead end you can run an `afterPatch`. Before running this you may need to clone the component you want to patch with `wrapReactType` for a memoized function and `wrapReactClass` for a class.
 
 ```
 wrapReactType(THE_COMPONENT_YOU_WANT_TO_RENDER)
