@@ -30,4 +30,4 @@ curl -L https://github.com/SteamDeckHomebrew/decky-loader/raw/main/dist/install_
 8. Done! Reboot back into Gaming mode and enjoy your plugins!
 
 ## Install Plugins
-Plugins can be installed from **[plugins.deckbrew.xyz](https://plugins.deckbrew.xyz)**. For more information, read about the [plugin browser](https://deckbrew.xyz/en/user-guide/plugin-browser).
+Plugins can be installed from **[plugins.deckbrew.xyz](https://plugins.deckbrew.xyz)**. For more information, read about the [plugin store](https://deckbrew.xyz/en/user-guide/plugin-store).
