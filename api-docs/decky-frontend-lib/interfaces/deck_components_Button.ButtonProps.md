@@ -60,7 +60,7 @@
 
 #### Defined in
 
-[src/deck-components/FooterLegend.ts:50](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/5f0470c/src/deck-components/FooterLegend.ts#L50)
+[src/deck-components/FooterLegend.ts:50](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/3dbca1a/src/deck-components/FooterLegend.ts#L50)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/Dialog.tsx:7](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/5f0470c/src/deck-components/Dialog.tsx#L7)
+[src/deck-components/Dialog.tsx:7](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/3dbca1a/src/deck-components/Dialog.tsx#L7)
 
 ___
 
@@ -88,7 +88,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/Dialog.tsx:12](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/5f0470c/src/deck-components/Dialog.tsx#L12)
+[src/deck-components/Dialog.tsx:12](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/3dbca1a/src/deck-components/Dialog.tsx#L12)
 
 ___
 
@@ -102,7 +102,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/Dialog.tsx:11](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/5f0470c/src/deck-components/Dialog.tsx#L11)
+[src/deck-components/Dialog.tsx:11](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/3dbca1a/src/deck-components/Dialog.tsx#L11)
 
 ___
 
@@ -130,7 +130,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/FooterLegend.ts:56](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/5f0470c/src/deck-components/FooterLegend.ts#L56)
+[src/deck-components/FooterLegend.ts:56](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/3dbca1a/src/deck-components/FooterLegend.ts#L56)
 
 ___
 
@@ -158,7 +158,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/FooterLegend.ts:57](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/5f0470c/src/deck-components/FooterLegend.ts#L57)
+[src/deck-components/FooterLegend.ts:57](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/3dbca1a/src/deck-components/FooterLegend.ts#L57)
 
 ___
 
@@ -172,7 +172,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/FooterLegend.ts:52](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/5f0470c/src/deck-components/FooterLegend.ts#L52)
+[src/deck-components/FooterLegend.ts:52](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/3dbca1a/src/deck-components/FooterLegend.ts#L52)
 
 ___
 
@@ -200,7 +200,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/FooterLegend.ts:59](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/5f0470c/src/deck-components/FooterLegend.ts#L59)
+[src/deck-components/FooterLegend.ts:59](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/3dbca1a/src/deck-components/FooterLegend.ts#L59)
 
 ___
 
@@ -228,7 +228,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/FooterLegend.ts:64](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/5f0470c/src/deck-components/FooterLegend.ts#L64)
+[src/deck-components/FooterLegend.ts:64](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/3dbca1a/src/deck-components/FooterLegend.ts#L64)
 
 ___
 
@@ -256,7 +256,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/FooterLegend.ts:62](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/5f0470c/src/deck-components/FooterLegend.ts#L62)
+[src/deck-components/FooterLegend.ts:62](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/3dbca1a/src/deck-components/FooterLegend.ts#L62)
 
 ___
 
@@ -284,7 +284,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/FooterLegend.ts:63](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/5f0470c/src/deck-components/FooterLegend.ts#L63)
+[src/deck-components/FooterLegend.ts:63](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/3dbca1a/src/deck-components/FooterLegend.ts#L63)
 
 ___
 
@@ -298,7 +298,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/FooterLegend.ts:55](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/5f0470c/src/deck-components/FooterLegend.ts#L55)
+[src/deck-components/FooterLegend.ts:55](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/3dbca1a/src/deck-components/FooterLegend.ts#L55)
 
 ___
 
@@ -326,7 +326,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/FooterLegend.ts:65](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/5f0470c/src/deck-components/FooterLegend.ts#L65)
+[src/deck-components/FooterLegend.ts:65](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/3dbca1a/src/deck-components/FooterLegend.ts#L65)
 
 ___
 
@@ -340,7 +340,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/FooterLegend.ts:51](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/5f0470c/src/deck-components/FooterLegend.ts#L51)
+[src/deck-components/FooterLegend.ts:51](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/3dbca1a/src/deck-components/FooterLegend.ts#L51)
 
 ___
 
@@ -368,7 +368,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/FooterLegend.ts:58](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/5f0470c/src/deck-components/FooterLegend.ts#L58)
+[src/deck-components/FooterLegend.ts:58](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/3dbca1a/src/deck-components/FooterLegend.ts#L58)
 
 ___
 
@@ -382,7 +382,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/FooterLegend.ts:54](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/5f0470c/src/deck-components/FooterLegend.ts#L54)
+[src/deck-components/FooterLegend.ts:54](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/3dbca1a/src/deck-components/FooterLegend.ts#L54)
 
 ___
 
@@ -410,7 +410,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/FooterLegend.ts:61](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/5f0470c/src/deck-components/FooterLegend.ts#L61)
+[src/deck-components/FooterLegend.ts:61](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/3dbca1a/src/deck-components/FooterLegend.ts#L61)
 
 ___
 
@@ -424,7 +424,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/FooterLegend.ts:53](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/5f0470c/src/deck-components/FooterLegend.ts#L53)
+[src/deck-components/FooterLegend.ts:53](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/3dbca1a/src/deck-components/FooterLegend.ts#L53)
 
 ___
 
@@ -452,7 +452,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/FooterLegend.ts:60](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/5f0470c/src/deck-components/FooterLegend.ts#L60)
+[src/deck-components/FooterLegend.ts:60](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/3dbca1a/src/deck-components/FooterLegend.ts#L60)
 
 ___
 
@@ -466,7 +466,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/Dialog.tsx:6](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/5f0470c/src/deck-components/Dialog.tsx#L6)
+[src/deck-components/Dialog.tsx:6](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/3dbca1a/src/deck-components/Dialog.tsx#L6)
 
 ## Methods
 
@@ -490,7 +490,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/Dialog.tsx:13](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/5f0470c/src/deck-components/Dialog.tsx#L13)
+[src/deck-components/Dialog.tsx:13](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/3dbca1a/src/deck-components/Dialog.tsx#L13)
 
 ___
 
@@ -514,7 +514,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/Dialog.tsx:17](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/5f0470c/src/deck-components/Dialog.tsx#L17)
+[src/deck-components/Dialog.tsx:17](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/3dbca1a/src/deck-components/Dialog.tsx#L17)
 
 ___
 
@@ -538,7 +538,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/Dialog.tsx:18](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/5f0470c/src/deck-components/Dialog.tsx#L18)
+[src/deck-components/Dialog.tsx:18](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/3dbca1a/src/deck-components/Dialog.tsx#L18)
 
 ___
 
@@ -562,7 +562,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/Dialog.tsx:16](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/5f0470c/src/deck-components/Dialog.tsx#L16)
+[src/deck-components/Dialog.tsx:16](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/3dbca1a/src/deck-components/Dialog.tsx#L16)
 
 ___
 
@@ -586,7 +586,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/Dialog.tsx:14](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/5f0470c/src/deck-components/Dialog.tsx#L14)
+[src/deck-components/Dialog.tsx:14](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/3dbca1a/src/deck-components/Dialog.tsx#L14)
 
 ___
 
@@ -610,7 +610,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/Dialog.tsx:15](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/5f0470c/src/deck-components/Dialog.tsx#L15)
+[src/deck-components/Dialog.tsx:15](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/3dbca1a/src/deck-components/Dialog.tsx#L15)
 
 ___
 
@@ -634,7 +634,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/Dialog.tsx:22](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/5f0470c/src/deck-components/Dialog.tsx#L22)
+[src/deck-components/Dialog.tsx:22](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/3dbca1a/src/deck-components/Dialog.tsx#L22)
 
 ___
 
@@ -658,7 +658,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/Dialog.tsx:21](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/5f0470c/src/deck-components/Dialog.tsx#L21)
+[src/deck-components/Dialog.tsx:21](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/3dbca1a/src/deck-components/Dialog.tsx#L21)
 
 ___
 
@@ -682,7 +682,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/Dialog.tsx:20](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/5f0470c/src/deck-components/Dialog.tsx#L20)
+[src/deck-components/Dialog.tsx:20](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/3dbca1a/src/deck-components/Dialog.tsx#L20)
 
 ___
 
@@ -706,4 +706,4 @@ ___
 
 #### Defined in
 
-[src/deck-components/Dialog.tsx:19](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/5f0470c/src/deck-components/Dialog.tsx#L19)
+[src/deck-components/Dialog.tsx:19](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/3dbca1a/src/deck-components/Dialog.tsx#L19)

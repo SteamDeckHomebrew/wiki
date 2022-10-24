@@ -77,9 +77,6 @@
 - [SliderFieldProps](deck_components.md#sliderfieldprops)
 - [Spinner](deck_components.md#spinner)
 - [SteamSpinner](deck_components.md#steamspinner)
-- [Tab](deck_components.md#tab)
-- [Tabs](deck_components.md#tabs)
-- [TabsProps](deck_components.md#tabsprops)
 - [TextField](deck_components.md#textfield)
 - [TextFieldProps](deck_components.md#textfieldprops)
 - [Toggle](deck_components.md#toggle)
@@ -523,24 +520,6 @@ ___
 ### SteamSpinner
 
 Re-exports [SteamSpinner](deck_components_SteamSpinner.md#steamspinner)
-
-___
-
-### Tab
-
-Re-exports [Tab](../interfaces/deck_components_Tabs.Tab.md)
-
-___
-
-### Tabs
-
-Re-exports [Tabs](deck_components_Tabs.md#tabs)
-
-___
-
-### TabsProps
-
-Re-exports [TabsProps](../interfaces/deck_components_Tabs.TabsProps.md)
 
 ___
 

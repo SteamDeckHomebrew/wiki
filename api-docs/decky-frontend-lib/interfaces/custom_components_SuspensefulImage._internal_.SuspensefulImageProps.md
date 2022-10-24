@@ -25,7 +25,7 @@
 
 #### Defined in
 
-[src/custom-components/SuspensefulImage.tsx:7](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/5f0470c/src/custom-components/SuspensefulImage.tsx#L7)
+[src/custom-components/SuspensefulImage.tsx:7](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/3dbca1a/src/custom-components/SuspensefulImage.tsx#L7)
 
 ___
 
@@ -35,4 +35,4 @@ ___
 
 #### Defined in
 
-[src/custom-components/SuspensefulImage.tsx:6](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/5f0470c/src/custom-components/SuspensefulImage.tsx#L6)
+[src/custom-components/SuspensefulImage.tsx:6](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/3dbca1a/src/custom-components/SuspensefulImage.tsx#L6)
