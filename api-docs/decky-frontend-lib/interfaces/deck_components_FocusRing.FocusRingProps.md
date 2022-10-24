@@ -22,7 +22,7 @@
 
 #### Defined in
 
-[src/deck-components/FocusRing.ts:9](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/c44c66f/src/deck-components/FocusRing.ts#L9)
+[src/deck-components/FocusRing.ts:9](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/5f0470c/src/deck-components/FocusRing.ts#L9)
 
 ___
 
@@ -32,7 +32,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/FocusRing.ts:8](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/c44c66f/src/deck-components/FocusRing.ts#L8)
+[src/deck-components/FocusRing.ts:8](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/5f0470c/src/deck-components/FocusRing.ts#L8)
 
 ___
 
@@ -42,7 +42,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/FocusRing.ts:5](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/c44c66f/src/deck-components/FocusRing.ts#L5)
+[src/deck-components/FocusRing.ts:5](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/5f0470c/src/deck-components/FocusRing.ts#L5)
 
 ___
 
@@ -52,7 +52,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/FocusRing.ts:7](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/c44c66f/src/deck-components/FocusRing.ts#L7)
+[src/deck-components/FocusRing.ts:7](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/5f0470c/src/deck-components/FocusRing.ts#L7)
 
 ___
 
@@ -62,4 +62,4 @@ ___
 
 #### Defined in
 
-[src/deck-components/FocusRing.ts:6](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/c44c66f/src/deck-components/FocusRing.ts#L6)
+[src/deck-components/FocusRing.ts:6](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/5f0470c/src/deck-components/FocusRing.ts#L6)

@@ -23,6 +23,7 @@
 
 ### Functions
 
+- [findSP](utils.md#findsp)
 - [joinClassNames](utils.md#joinclassnames)
 - [sleep](utils.md#sleep)
 
@@ -112,6 +113,22 @@ Re-exports [wrapReactType](utils_react.md#wrapreacttype)
 
 ## Functions
 
+### findSP
+
+▸ **findSP**(): [`Window`]( https://developer.mozilla.org/en-US/docs/Web/API/Window )
+
+Finds the SP window, since it is a render target as of {10-19-2022}'s beta
+
+#### Returns
+
+[`Window`]( https://developer.mozilla.org/en-US/docs/Web/API/Window )
+
+#### Defined in
+
+[src/utils/index.ts:15](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/5f0470c/src/utils/index.ts#L15)
+
+___
+
 ### joinClassNames
 
 ▸ **joinClassNames**(...`classes`): `string`
@@ -128,7 +145,7 @@ Re-exports [wrapReactType](utils_react.md#wrapreacttype)
 
 #### Defined in
 
-[src/utils/index.ts:4](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/c44c66f/src/utils/index.ts#L4)
+[src/utils/index.ts:4](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/5f0470c/src/utils/index.ts#L4)
 
 ___
 
@@ -148,4 +165,4 @@ ___
 
 #### Defined in
 
-[src/utils/index.ts:8](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/c44c66f/src/utils/index.ts#L8)
+[src/utils/index.ts:8](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/5f0470c/src/utils/index.ts#L8)

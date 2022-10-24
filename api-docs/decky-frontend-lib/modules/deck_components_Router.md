@@ -39,7 +39,7 @@
 
 #### Defined in
 
-[src/deck-components/Router.tsx:59](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/c44c66f/src/deck-components/Router.tsx#L59)
+[src/deck-components/Router.tsx:59](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/5f0470c/src/deck-components/Router.tsx#L59)
 
 ## Variables
 
@@ -49,6 +49,6 @@
 
 #### Defined in
 
-[src/deck-components/Router.tsx:66](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/c44c66f/src/deck-components/Router.tsx#L66)
+[src/deck-components/Router.tsx:66](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/5f0470c/src/deck-components/Router.tsx#L66)
 
-[src/deck-components/Router.tsx:93](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/c44c66f/src/deck-components/Router.tsx#L93)
+[src/deck-components/Router.tsx:93](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/5f0470c/src/deck-components/Router.tsx#L93)
