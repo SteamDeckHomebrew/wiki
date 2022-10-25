@@ -36,7 +36,7 @@
 
 #### Defined in
 
-node_modules/@types/react/index.d.ts:544
+node_modules/.pnpm/@types+react@16.14.0/node_modules/@types/react/index.d.ts:544
 
 ___
 
@@ -57,7 +57,7 @@ ___
 
 #### Defined in
 
-node_modules/@types/react/index.d.ts:544
+node_modules/.pnpm/@types+react@16.14.0/node_modules/@types/react/index.d.ts:544
 
 ___
 
@@ -79,4 +79,4 @@ ___
 
 #### Defined in
 
-[src/deck-components/Modal.tsx:40](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/3dbca1a/src/deck-components/Modal.tsx#L40)
+[src/deck-components/Modal.tsx:42](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/ed0b92d/src/deck-components/Modal.tsx#L42)

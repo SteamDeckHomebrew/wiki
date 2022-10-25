@@ -32,4 +32,4 @@
 
 #### Defined in
 
-node_modules/@types/react/index.d.ts:554
+node_modules/.pnpm/@types+react@16.14.0/node_modules/@types/react/index.d.ts:554

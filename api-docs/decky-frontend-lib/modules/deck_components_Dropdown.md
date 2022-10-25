@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[src/deck-components/Dropdown.tsx:20](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/3dbca1a/src/deck-components/Dropdown.tsx#L20)
+[src/deck-components/Dropdown.tsx:20](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/ed0b92d/src/deck-components/Dropdown.tsx#L20)
 
 ## Functions
 
@@ -49,7 +49,7 @@
 
 #### Defined in
 
-node_modules/@types/react/index.d.ts:554
+node_modules/.pnpm/@types+react@16.14.0/node_modules/@types/react/index.d.ts:554
 
 ___
 
@@ -70,4 +70,4 @@ ___
 
 #### Defined in
 
-node_modules/@types/react/index.d.ts:554
+node_modules/.pnpm/@types+react@16.14.0/node_modules/@types/react/index.d.ts:554

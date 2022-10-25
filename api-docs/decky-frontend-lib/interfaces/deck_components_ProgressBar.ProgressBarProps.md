@@ -21,7 +21,7 @@
 
 #### Defined in
 
-[src/deck-components/ProgressBar.tsx:17](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/3dbca1a/src/deck-components/ProgressBar.tsx#L17)
+[src/deck-components/ProgressBar.tsx:17](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/ed0b92d/src/deck-components/ProgressBar.tsx#L17)
 
 ___
 
@@ -31,7 +31,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/ProgressBar.tsx:14](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/3dbca1a/src/deck-components/ProgressBar.tsx#L14)
+[src/deck-components/ProgressBar.tsx:14](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/ed0b92d/src/deck-components/ProgressBar.tsx#L14)
 
 ___
 
@@ -41,7 +41,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/ProgressBar.tsx:16](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/3dbca1a/src/deck-components/ProgressBar.tsx#L16)
+[src/deck-components/ProgressBar.tsx:16](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/ed0b92d/src/deck-components/ProgressBar.tsx#L16)
 
 ___
 
@@ -51,4 +51,4 @@ ___
 
 #### Defined in
 
-[src/deck-components/ProgressBar.tsx:15](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/3dbca1a/src/deck-components/ProgressBar.tsx#L15)
+[src/deck-components/ProgressBar.tsx:15](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/ed0b92d/src/deck-components/ProgressBar.tsx#L15)

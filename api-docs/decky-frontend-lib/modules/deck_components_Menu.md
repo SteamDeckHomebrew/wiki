@@ -36,7 +36,7 @@
 
 #### Defined in
 
-node_modules/@types/react/index.d.ts:544
+node_modules/.pnpm/@types+react@16.14.0/node_modules/@types/react/index.d.ts:544
 
 ___
 
@@ -57,7 +57,7 @@ ___
 
 #### Defined in
 
-node_modules/@types/react/index.d.ts:544
+node_modules/.pnpm/@types+react@16.14.0/node_modules/@types/react/index.d.ts:544
 
 ___
 
@@ -78,7 +78,7 @@ ___
 
 #### Defined in
 
-node_modules/@types/react/index.d.ts:544
+node_modules/.pnpm/@types+react@16.14.0/node_modules/@types/react/index.d.ts:544
 
 ___
 
@@ -99,4 +99,4 @@ ___
 
 #### Defined in
 
-[src/deck-components/Menu.tsx:5](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/3dbca1a/src/deck-components/Menu.tsx#L5)
+[src/deck-components/Menu.tsx:5](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/ed0b92d/src/deck-components/Menu.tsx#L5)

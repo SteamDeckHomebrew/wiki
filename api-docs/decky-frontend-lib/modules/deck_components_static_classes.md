@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[src/deck-components/static-classes.ts:368](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/3dbca1a/src/deck-components/static-classes.ts#L368)
+[src/deck-components/static-classes.ts:366](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/ed0b92d/src/deck-components/static-classes.ts#L366)
 
 ___
 
@@ -38,7 +38,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/static-classes.ts:372](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/3dbca1a/src/deck-components/static-classes.ts#L372)
+[src/deck-components/static-classes.ts:378](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/ed0b92d/src/deck-components/static-classes.ts#L378)
 
 ___
 
@@ -48,7 +48,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/static-classes.ts:371](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/3dbca1a/src/deck-components/static-classes.ts#L371)
+[src/deck-components/static-classes.ts:375](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/ed0b92d/src/deck-components/static-classes.ts#L375)
 
 ___
 
@@ -58,7 +58,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/static-classes.ts:369](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/3dbca1a/src/deck-components/static-classes.ts#L369)
+[src/deck-components/static-classes.ts:369](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/ed0b92d/src/deck-components/static-classes.ts#L369)
 
 ___
 
@@ -68,7 +68,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/static-classes.ts:358](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/3dbca1a/src/deck-components/static-classes.ts#L358)
+[src/deck-components/static-classes.ts:352](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/ed0b92d/src/deck-components/static-classes.ts#L352)
 
 ___
 
@@ -82,7 +82,7 @@ please use scrollPanelClasses instead
 
 #### Defined in
 
-[src/deck-components/static-classes.ts:367](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/3dbca1a/src/deck-components/static-classes.ts#L367)
+[src/deck-components/static-classes.ts:365](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/ed0b92d/src/deck-components/static-classes.ts#L365)
 
 ___
 
@@ -92,7 +92,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/static-classes.ts:363](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/3dbca1a/src/deck-components/static-classes.ts#L363)
+[src/deck-components/static-classes.ts:359](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/ed0b92d/src/deck-components/static-classes.ts#L359)
 
 ___
 
@@ -106,7 +106,7 @@ please use quickAccessMenuClasses instead
 
 #### Defined in
 
-[src/deck-components/static-classes.ts:362](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/3dbca1a/src/deck-components/static-classes.ts#L362)
+[src/deck-components/static-classes.ts:358](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/ed0b92d/src/deck-components/static-classes.ts#L358)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[src/deck-components/static-classes.ts:370](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/3dbca1a/src/deck-components/static-classes.ts#L370)
+[src/deck-components/static-classes.ts:372](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/ed0b92d/src/deck-components/static-classes.ts#L372)

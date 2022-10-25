@@ -47,19 +47,20 @@
 
 #### Defined in
 
-[src/utils/react.ts:65](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/3dbca1a/src/utils/react.ts#L65)
+[src/utils/react.ts:68](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/ed0b92d/src/utils/react.ts#L68)
 
 ## Functions
 
 ### fakeRenderComponent
 
-▸ **fakeRenderComponent**(`fun`): `any`
+▸ **fakeRenderComponent**(`fun`, `customHooks?`): `any`
 
 #### Parameters
 
 | Name | Type |
 | :------ | :------ |
 | `fun` | [`Function`]( https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function ) |
+| `customHooks` | `any` |
 
 #### Returns
 
@@ -67,7 +68,7 @@
 
 #### Defined in
 
-[src/utils/react.ts:11](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/3dbca1a/src/utils/react.ts#L11)
+[src/utils/react.ts:11](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/ed0b92d/src/utils/react.ts#L11)
 
 ___
 
@@ -88,7 +89,7 @@ ___
 
 #### Defined in
 
-[src/utils/react.ts:84](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/3dbca1a/src/utils/react.ts#L84)
+[src/utils/react.ts:91](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/ed0b92d/src/utils/react.ts#L91)
 
 ___
 
@@ -110,7 +111,7 @@ ___
 
 #### Defined in
 
-[src/utils/react.ts:67](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/3dbca1a/src/utils/react.ts#L67)
+[src/utils/react.ts:70](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/ed0b92d/src/utils/react.ts#L70)
 
 ___
 
@@ -122,7 +123,7 @@ ___
 
 | Name | Type |
 | :------ | :------ |
-| `o` | [`Node`]( https://developer.mozilla.org/en-US/docs/Web/API/Node ) \| [`Element`]( https://developer.mozilla.org/en-US/docs/Web/API/Element ) \| [`HTMLElement`]( https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement ) |
+| `o` | [`HTMLElement`]( https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement ) \| [`Element`]( https://developer.mozilla.org/en-US/docs/Web/API/Element ) \| [`Node`]( https://developer.mozilla.org/en-US/docs/Web/API/Node ) |
 
 #### Returns
 
@@ -130,7 +131,7 @@ ___
 
 #### Defined in
 
-[src/utils/react.ts:55](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/3dbca1a/src/utils/react.ts#L55)
+[src/utils/react.ts:58](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/ed0b92d/src/utils/react.ts#L58)
 
 ___
 
@@ -151,7 +152,7 @@ typeof [`__class`](../classes/utils_react._internal_.__class.md)
 
 #### Defined in
 
-[src/utils/react.ts:49](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/3dbca1a/src/utils/react.ts#L49)
+[src/utils/react.ts:52](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/ed0b92d/src/utils/react.ts#L52)
 
 ___
 
@@ -172,4 +173,4 @@ ___
 
 #### Defined in
 
-[src/utils/react.ts:45](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/3dbca1a/src/utils/react.ts#L45)
+[src/utils/react.ts:48](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/ed0b92d/src/utils/react.ts#L48)
