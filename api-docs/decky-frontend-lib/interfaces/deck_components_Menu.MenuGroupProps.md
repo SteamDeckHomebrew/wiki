@@ -20,7 +20,7 @@
 
 #### Defined in
 
-[src/deck-components/Menu.tsx:34](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/ed0b92d/src/deck-components/Menu.tsx#L34)
+[src/deck-components/Menu.tsx:34](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/37a6658/src/deck-components/Menu.tsx#L34)
 
 ___
 
@@ -30,7 +30,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/Menu.tsx:33](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/ed0b92d/src/deck-components/Menu.tsx#L33)
+[src/deck-components/Menu.tsx:33](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/37a6658/src/deck-components/Menu.tsx#L33)
 
 ___
 
@@ -40,4 +40,4 @@ ___
 
 #### Defined in
 
-[src/deck-components/Menu.tsx:32](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/ed0b92d/src/deck-components/Menu.tsx#L32)
+[src/deck-components/Menu.tsx:32](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/37a6658/src/deck-components/Menu.tsx#L32)
