@@ -9,30 +9,19 @@
 - [Tab](../interfaces/deck_components_Tabs.Tab.md)
 - [TabsProps](../interfaces/deck_components_Tabs.TabsProps.md)
 
-### Functions
+### Variables
 
 - [Tabs](deck_components_Tabs.md#tabs)
 
-## Functions
+## Variables
 
 ### Tabs
 
-▸ **Tabs**(`props`, `context?`): ``null`` \| `ReactElement`<`any`, `any`\>
+• `Const` **Tabs**: `any`
 
 Tabs component as used in the library and media tabs. See [TabsProps](../interfaces/deck_components_Tabs.TabsProps.md)
 Unlike other components in `decky-frontend-lib`, this requires Decky Loader to be running.
 
-#### Parameters
-
-| Name | Type |
-| :------ | :------ |
-| `props` | `PropsWithChildren`<[`TabsProps`](../interfaces/deck_components_Tabs.TabsProps.md)\> |
-| `context?` | `any` |
-
-#### Returns
-
-``null`` \| `ReactElement`<`any`, `any`\>
-
 #### Defined in
 
-node_modules/.pnpm/@types+react@16.14.0/node_modules/@types/react/index.d.ts:544
+[src/deck-components/Tabs.tsx:121](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/f16e0b2/src/deck-components/Tabs.tsx#L121)

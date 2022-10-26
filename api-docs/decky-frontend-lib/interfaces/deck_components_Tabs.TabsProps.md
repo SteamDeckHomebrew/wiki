@@ -59,7 +59,7 @@ return (
 
 #### Defined in
 
-[src/deck-components/Tabs.tsx:62](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/37a6658/src/deck-components/Tabs.tsx#L62)
+[src/deck-components/Tabs.tsx:63](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/f16e0b2/src/deck-components/Tabs.tsx#L63)
 
 ___
 
@@ -69,7 +69,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/Tabs.tsx:64](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/37a6658/src/deck-components/Tabs.tsx#L64)
+[src/deck-components/Tabs.tsx:65](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/f16e0b2/src/deck-components/Tabs.tsx#L65)
 
 ___
 
@@ -93,7 +93,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/Tabs.tsx:63](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/37a6658/src/deck-components/Tabs.tsx#L63)
+[src/deck-components/Tabs.tsx:64](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/f16e0b2/src/deck-components/Tabs.tsx#L64)
 
 ___
 
@@ -103,4 +103,4 @@ ___
 
 #### Defined in
 
-[src/deck-components/Tabs.tsx:61](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/37a6658/src/deck-components/Tabs.tsx#L61)
+[src/deck-components/Tabs.tsx:62](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/f16e0b2/src/deck-components/Tabs.tsx#L62)
