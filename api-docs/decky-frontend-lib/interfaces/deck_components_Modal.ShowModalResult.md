@@ -27,7 +27,7 @@
 
 #### Defined in
 
-[src/deck-components/Modal.tsx:22](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/cfef1dc/src/deck-components/Modal.tsx#L22)
+[src/deck-components/Modal.tsx:22](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/a074277/src/deck-components/Modal.tsx#L22)
 
 ___
 
@@ -51,4 +51,4 @@ ___
 
 #### Defined in
 
-[src/deck-components/Modal.tsx:29](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/cfef1dc/src/deck-components/Modal.tsx#L29)
+[src/deck-components/Modal.tsx:29](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/a074277/src/deck-components/Modal.tsx#L29)
