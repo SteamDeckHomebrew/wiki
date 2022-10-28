@@ -24,4 +24,4 @@ Unlike other components in `decky-frontend-lib`, this requires Decky Loader to b
 
 #### Defined in
 
-[src/deck-components/Tabs.tsx:122](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/a074277/src/deck-components/Tabs.tsx#L122)
+[src/deck-components/Tabs.tsx:118](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/75f3588/src/deck-components/Tabs.tsx#L118)
