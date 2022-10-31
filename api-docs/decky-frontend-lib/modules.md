@@ -30,6 +30,7 @@
 - [deck-components/SidebarNavigation](modules/deck_components_SidebarNavigation.md)
 - [deck-components/SliderField](modules/deck_components_SliderField.md)
 - [deck-components/Spinner](modules/deck_components_Spinner.md)
+- [deck-components/SteamClient](modules/deck_components_SteamClient.md)
 - [deck-components/SteamSpinner](modules/deck_components_SteamSpinner.md)
 - [deck-components/Tabs](modules/deck_components_Tabs.md)
 - [deck-components/TextField](modules/deck_components_TextField.md)

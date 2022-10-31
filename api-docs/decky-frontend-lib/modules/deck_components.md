@@ -6,7 +6,11 @@
 
 ### References
 
+- [AppAchievements](deck_components.md#appachievements)
+- [AppDetails](deck_components.md#appdetails)
+- [AppLanguages](deck_components.md#applanguages)
 - [AppOverview](deck_components.md#appoverview)
+- [Apps](deck_components.md#apps)
 - [Button](deck_components.md#button)
 - [ButtonItem](deck_components.md#buttonitem)
 - [ButtonItemProps](deck_components.md#buttonitemprops)
@@ -44,6 +48,7 @@
 - [GamepadButton](deck_components.md#gamepadbutton)
 - [GamepadEvent](deck_components.md#gamepadevent)
 - [GamepadEventDetail](deck_components.md#gamepadeventdetail)
+- [LifetimeNotification](deck_components.md#lifetimenotification)
 - [Menu](deck_components.md#menu)
 - [MenuGroup](deck_components.md#menugroup)
 - [MenuGroupProps](deck_components.md#menugroupprops)
@@ -76,6 +81,9 @@
 - [SliderField](deck_components.md#sliderfield)
 - [SliderFieldProps](deck_components.md#sliderfieldprops)
 - [Spinner](deck_components.md#spinner)
+- [SteamAppOverview](deck_components.md#steamappoverview)
+- [SteamClient](deck_components.md#steamclient)
+- [SteamShortcut](deck_components.md#steamshortcut)
 - [SteamSpinner](deck_components.md#steamspinner)
 - [Tab](deck_components.md#tab)
 - [Tabs](deck_components.md#tabs)
@@ -86,6 +94,7 @@
 - [ToggleField](deck_components.md#togglefield)
 - [ToggleFieldProps](deck_components.md#togglefieldprops)
 - [ToggleProps](deck_components.md#toggleprops)
+- [Window](deck_components.md#window)
 - [gamepadDialogClasses](deck_components.md#gamepaddialogclasses)
 - [gamepadSliderClasses](deck_components.md#gamepadsliderclasses)
 - [playSectionClasses](deck_components.md#playsectionclasses)
@@ -100,9 +109,33 @@
 
 ## References
 
+### AppAchievements
+
+Re-exports [AppAchievements](deck_components_SteamClient.md#appachievements)
+
+___
+
+### AppDetails
+
+Re-exports [AppDetails](../interfaces/deck_components_SteamClient.AppDetails.md)
+
+___
+
+### AppLanguages
+
+Re-exports [AppLanguages](deck_components_SteamClient.md#applanguages)
+
+___
+
 ### AppOverview
 
 Re-exports [AppOverview](deck_components_Router.md#appoverview)
+
+___
+
+### Apps
+
+Re-exports [Apps](../interfaces/deck_components_SteamClient.Apps.md)
 
 ___
 
@@ -328,6 +361,12 @@ Re-exports [GamepadEventDetail](../interfaces/deck_components_FooterLegend.Gamep
 
 ___
 
+### LifetimeNotification
+
+Re-exports [LifetimeNotification](../interfaces/deck_components_SteamClient.LifetimeNotification.md)
+
+___
+
 ### Menu
 
 Re-exports [Menu](deck_components_Menu.md#menu)
@@ -520,6 +559,24 @@ Re-exports [Spinner](deck_components_Spinner.md#spinner)
 
 ___
 
+### SteamAppOverview
+
+Re-exports [SteamAppOverview](../interfaces/deck_components_SteamClient.SteamAppOverview.md)
+
+___
+
+### SteamClient
+
+Re-exports [SteamClient](../interfaces/deck_components_SteamClient.SteamClient.md)
+
+___
+
+### SteamShortcut
+
+Re-exports [SteamShortcut](../interfaces/deck_components_SteamClient.SteamShortcut.md)
+
+___
+
 ### SteamSpinner
 
 Re-exports [SteamSpinner](deck_components_SteamSpinner.md#steamspinner)
@@ -577,6 +634,12 @@ ___
 ### ToggleProps
 
 Re-exports [ToggleProps](../interfaces/deck_components_Toggle.ToggleProps.md)
+
+___
+
+### Window
+
+Re-exports [Window](../interfaces/deck_components_SteamClient.Window.md)
 
 ___
 
