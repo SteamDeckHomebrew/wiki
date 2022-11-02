@@ -2,7 +2,7 @@
 title: Submitting Plugins
 description: Guide on how to get your Plugin onto the Store
 published: true
-date: 2022-07-18T23:11:48.112Z
+date: 2022-11-02T23:48:42.180Z
 tags: plugin-dev, store
 editor: markdown
 dateCreated: 2022-07-03T19:53:34.932Z
@@ -19,6 +19,9 @@ Manual install is completely fine, but not recommended for security reasons.
 First, head over to the [Decky Plugin Database Repository](https://github.com/SteamDeckHomebrew/decky-plugin-database). All submitted plugins can be found in the `plugins` subfolder of the repo.
 
 In order to add your own plugin to the database, simply create a Fork of the repository, add a submodule pointing to the commit you'd like to submit to the `/plugins` folder. Once that's done, create a Pull Request with your changes to the Database Repository. This starts the review process. One of the Team Members will take a look at your Plugin and if it's deemed to be okay, the Pull Request will be approved and subsequentially merged
+
+All plugins submitted must include a license, provided as either ``LICENSE`` or ``LICENSE.MD``.
+If your plugin is based on the plugin template, copy you license to the top of the LICENSE file that already exists in the repo. This license is required for distribution on the store.
 
 ### Submitting an Update
 
