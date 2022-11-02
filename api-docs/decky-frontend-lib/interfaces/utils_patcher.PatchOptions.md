@@ -18,4 +18,4 @@
 
 #### Defined in
 
-[src/utils/patcher.ts:6](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/82ed487/src/utils/patcher.ts#L6)
+[src/utils/patcher.ts:6](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/e1f64a3/src/utils/patcher.ts#L6)

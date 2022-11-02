@@ -12,4 +12,4 @@
 
 ### useQuickAccessVisible
 
-Re-exports [useQuickAccessVisible](custom_hooks_usequickaccessvisible.md#usequickaccessvisible)
+Re-exports [useQuickAccessVisible](custom_hooks_useQuickAccessVisible.md#usequickaccessvisible)

@@ -1,12 +1,12 @@
-[decky-frontend-lib](../README.md) / [Modules](../modules.md) / custom-hooks/usequickaccessvisible
+[decky-frontend-lib](../README.md) / [Modules](../modules.md) / custom-hooks/useQuickAccessVisible
 
-# Module: custom-hooks/usequickaccessvisible
+# Module: custom-hooks/useQuickAccessVisible
 
 ## Table of contents
 
 ### Functions
 
-- [useQuickAccessVisible](custom_hooks_usequickaccessvisible.md#usequickaccessvisible)
+- [useQuickAccessVisible](custom_hooks_useQuickAccessVisible.md#usequickaccessvisible)
 
 ## Functions
 
@@ -60,4 +60,4 @@ export const PluginPanelView: VFC<{}> = ({ }) => {
 
 #### Defined in
 
-[src/custom-hooks/usequickaccessvisible.tsx:44](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/82ed487/src/custom-hooks/usequickaccessvisible.tsx#L44)
+[src/custom-hooks/useQuickAccessVisible.tsx:54](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/e1f64a3/src/custom-hooks/useQuickAccessVisible.tsx#L54)

@@ -10,7 +10,7 @@
 - [custom-components/ColorPickerModal](modules/custom_components_ColorPickerModal.md)
 - [custom-components/SuspensefulImage](modules/custom_components_SuspensefulImage.md)
 - [custom-hooks](modules/custom_hooks.md)
-- [custom-hooks/usequickaccessvisible](modules/custom_hooks_usequickaccessvisible.md)
+- [custom-hooks/useQuickAccessVisible](modules/custom_hooks_useQuickAccessVisible.md)
 - [deck-components](modules/deck_components.md)
 - [deck-components/Button](modules/deck_components_Button.md)
 - [deck-components/ButtonItem](modules/deck_components_ButtonItem.md)
