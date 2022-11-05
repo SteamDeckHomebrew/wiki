@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[src/deck-components/Dropdown.tsx:20](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/e1f64a3/src/deck-components/Dropdown.tsx#L20)
+[src/deck-components/Dropdown.tsx:20](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/82768e0/src/deck-components/Dropdown.tsx#L20)
 
 ## Functions
 

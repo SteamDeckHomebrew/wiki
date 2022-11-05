@@ -71,7 +71,7 @@ ___
 | :------ | :------ |
 | `modal` | `ReactNode` |
 | `parent?` | [`EventTarget`]( https://developer.mozilla.org/en-US/docs/Web/API/EventTarget ) |
-| `props?` | [`ShowModalProps`](../interfaces/deck_components_Modal.ShowModalProps.md) |
+| `props` | [`ShowModalProps`](../interfaces/deck_components_Modal.ShowModalProps.md) |
 
 #### Returns
 
@@ -79,4 +79,4 @@ ___
 
 #### Defined in
 
-[src/deck-components/Modal.tsx:42](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/e1f64a3/src/deck-components/Modal.tsx#L42)
+[src/deck-components/Modal.tsx:66](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/82768e0/src/deck-components/Modal.tsx#L66)

@@ -39,7 +39,7 @@
 
 #### Defined in
 
-[src/deck-components/Modal.tsx:54](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/e1f64a3/src/deck-components/Modal.tsx#L54)
+[src/deck-components/Modal.tsx:93](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/82768e0/src/deck-components/Modal.tsx#L93)
 
 ___
 
@@ -49,7 +49,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/Modal.tsx:59](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/e1f64a3/src/deck-components/Modal.tsx#L59)
+[src/deck-components/Modal.tsx:98](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/82768e0/src/deck-components/Modal.tsx#L98)
 
 ___
 
@@ -59,7 +59,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/Modal.tsx:55](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/e1f64a3/src/deck-components/Modal.tsx#L55)
+[src/deck-components/Modal.tsx:94](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/82768e0/src/deck-components/Modal.tsx#L94)
 
 ___
 
@@ -69,7 +69,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/Modal.tsx:56](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/e1f64a3/src/deck-components/Modal.tsx#L56)
+[src/deck-components/Modal.tsx:95](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/82768e0/src/deck-components/Modal.tsx#L95)
 
 ___
 
@@ -79,7 +79,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/Modal.tsx:57](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/e1f64a3/src/deck-components/Modal.tsx#L57)
+[src/deck-components/Modal.tsx:96](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/82768e0/src/deck-components/Modal.tsx#L96)
 
 ___
 
@@ -89,7 +89,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/Modal.tsx:58](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/e1f64a3/src/deck-components/Modal.tsx#L58)
+[src/deck-components/Modal.tsx:97](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/82768e0/src/deck-components/Modal.tsx#L97)
 
 ___
 
@@ -99,7 +99,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/Modal.tsx:47](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/e1f64a3/src/deck-components/Modal.tsx#L47)
+[src/deck-components/Modal.tsx:86](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/82768e0/src/deck-components/Modal.tsx#L86)
 
 ___
 
@@ -109,7 +109,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/Modal.tsx:52](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/e1f64a3/src/deck-components/Modal.tsx#L52)
+[src/deck-components/Modal.tsx:91](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/82768e0/src/deck-components/Modal.tsx#L91)
 
 ___
 
@@ -119,7 +119,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/Modal.tsx:53](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/e1f64a3/src/deck-components/Modal.tsx#L53)
+[src/deck-components/Modal.tsx:92](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/82768e0/src/deck-components/Modal.tsx#L92)
 
 ## Methods
 
@@ -133,7 +133,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/Modal.tsx:49](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/e1f64a3/src/deck-components/Modal.tsx#L49)
+[src/deck-components/Modal.tsx:88](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/82768e0/src/deck-components/Modal.tsx#L88)
 
 ___
 
@@ -147,7 +147,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/Modal.tsx:48](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/e1f64a3/src/deck-components/Modal.tsx#L48)
+[src/deck-components/Modal.tsx:87](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/82768e0/src/deck-components/Modal.tsx#L87)
 
 ___
 
@@ -161,7 +161,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/Modal.tsx:51](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/e1f64a3/src/deck-components/Modal.tsx#L51)
+[src/deck-components/Modal.tsx:90](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/82768e0/src/deck-components/Modal.tsx#L90)
 
 ___
 
@@ -175,4 +175,4 @@ ___
 
 #### Defined in
 
-[src/deck-components/Modal.tsx:50](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/e1f64a3/src/deck-components/Modal.tsx#L50)
+[src/deck-components/Modal.tsx:89](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/82768e0/src/deck-components/Modal.tsx#L89)
