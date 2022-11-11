@@ -26,7 +26,7 @@
 
 #### Defined in
 
-[src/deck-components/SidebarNavigation.tsx:7](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/82768e0/src/deck-components/SidebarNavigation.tsx#L7)
+[src/deck-components/SidebarNavigation.tsx:7](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/215156d/src/deck-components/SidebarNavigation.tsx#L7)
 
 ___
 
@@ -36,7 +36,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/SidebarNavigation.tsx:10](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/82768e0/src/deck-components/SidebarNavigation.tsx#L10)
+[src/deck-components/SidebarNavigation.tsx:10](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/215156d/src/deck-components/SidebarNavigation.tsx#L10)
 
 ___
 
@@ -46,7 +46,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/SidebarNavigation.tsx:8](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/82768e0/src/deck-components/SidebarNavigation.tsx#L8)
+[src/deck-components/SidebarNavigation.tsx:8](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/215156d/src/deck-components/SidebarNavigation.tsx#L8)
 
 ___
 
@@ -56,7 +56,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/SidebarNavigation.tsx:11](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/82768e0/src/deck-components/SidebarNavigation.tsx#L11)
+[src/deck-components/SidebarNavigation.tsx:11](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/215156d/src/deck-components/SidebarNavigation.tsx#L11)
 
 ___
 
@@ -66,7 +66,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/SidebarNavigation.tsx:13](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/82768e0/src/deck-components/SidebarNavigation.tsx#L13)
+[src/deck-components/SidebarNavigation.tsx:13](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/215156d/src/deck-components/SidebarNavigation.tsx#L13)
 
 ___
 
@@ -76,7 +76,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/SidebarNavigation.tsx:14](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/82768e0/src/deck-components/SidebarNavigation.tsx#L14)
+[src/deck-components/SidebarNavigation.tsx:14](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/215156d/src/deck-components/SidebarNavigation.tsx#L14)
 
 ___
 
@@ -86,7 +86,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/SidebarNavigation.tsx:12](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/82768e0/src/deck-components/SidebarNavigation.tsx#L12)
+[src/deck-components/SidebarNavigation.tsx:12](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/215156d/src/deck-components/SidebarNavigation.tsx#L12)
 
 ___
 
@@ -96,7 +96,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/SidebarNavigation.tsx:6](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/82768e0/src/deck-components/SidebarNavigation.tsx#L6)
+[src/deck-components/SidebarNavigation.tsx:6](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/215156d/src/deck-components/SidebarNavigation.tsx#L6)
 
 ___
 
@@ -106,4 +106,4 @@ ___
 
 #### Defined in
 
-[src/deck-components/SidebarNavigation.tsx:9](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/82768e0/src/deck-components/SidebarNavigation.tsx#L9)
+[src/deck-components/SidebarNavigation.tsx:9](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/215156d/src/deck-components/SidebarNavigation.tsx#L9)

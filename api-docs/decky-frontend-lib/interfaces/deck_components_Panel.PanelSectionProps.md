@@ -19,7 +19,7 @@
 
 #### Defined in
 
-[src/deck-components/Panel.tsx:7](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/82768e0/src/deck-components/Panel.tsx#L7)
+[src/deck-components/Panel.tsx:7](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/215156d/src/deck-components/Panel.tsx#L7)
 
 ___
 
@@ -29,4 +29,4 @@ ___
 
 #### Defined in
 
-[src/deck-components/Panel.tsx:6](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/82768e0/src/deck-components/Panel.tsx#L6)
+[src/deck-components/Panel.tsx:6](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/215156d/src/deck-components/Panel.tsx#L6)
