@@ -2,7 +2,7 @@
 title: Submitting Plugins
 description: Guide on how to get your Plugin onto the Store
 published: true
-date: 2022-11-02T23:48:42.180Z
+date: 2022-11-15T23:27:03.714Z
 tags: plugin-dev, store
 editor: markdown
 dateCreated: 2022-07-03T19:53:34.932Z
@@ -22,6 +22,8 @@ In order to add your own plugin to the database, simply create a Fork of the rep
 
 All plugins submitted must include a license, provided as either ``LICENSE`` or ``LICENSE.MD``.
 If your plugin is based on the plugin template, copy you license to the top of the LICENSE file that already exists in the repo. This license is required for distribution on the store.
+
+Your plugin will undergo a review process specified in [Review Process](/en/plugin-dev/review-and-testing). Please review the steps to make sure you are in compliance already which will make the review process far quicker for you.
 
 ### Submitting an Update
 
