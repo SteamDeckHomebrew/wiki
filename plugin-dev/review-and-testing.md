@@ -2,27 +2,13 @@
 title: Review and Testing Process
 description: More information on how we review your plugin before it can make it to users.
 published: false
-date: 2022-11-13T21:56:22.344Z
+date: 2022-11-15T23:13:44.890Z
 tags: plugin-dev, testing
 editor: markdown
 dateCreated: 2022-11-13T21:56:22.344Z
 ---
 
-# Submitting Plugins
+# Review Process
 
-The project-curated "store" for plugins is located at https://beta.deckbrew.xyz. 
-You can submit your own plugins there by following the instructions below. Keep in mind that plugins listed on the store must be approved by one of the Loader Team Members. This is done to ensure that plugins do not break the Deck or the Loader or are outright malicious, and is mostly done to protect the less tech-savvy users, who don't have the knowledge to audit plugins. You can obviously still install whatever you want, by copying folders to your plugin path or by using the `Manual plugin install` functionality in the [Loader Settings](/en/user-guide/settings).
-Manual install is completely fine, but not recommended for security reasons.
-
-## Submission 
-
-First, head over to the [Decky Plugin Database Repository](https://github.com/SteamDeckHomebrew/decky-plugin-database). All submitted plugins can be found in the `plugins` subfolder of the repo.
-
-In order to add your own plugin to the database, simply create a Fork of the repository, add a submodule pointing to the commit you'd like to submit to the `/plugins` folder. Once that's done, create a Pull Request with your changes to the Database Repository. This starts the review process. One of the Team Members will take a look at your Plugin and if it's deemed to be okay, the Pull Request will be approved and subsequentially merged
-
-All plugins submitted must include a license, provided as either ``LICENSE`` or ``LICENSE.MD``.
-If your plugin is based on the plugin template, copy you license to the top of the LICENSE file that already exists in the repo. This license is required for distribution on the store.
-
-### Submitting an Update
-
-To update your plugin, follow the same process as above and just make the submodule of your repository point to the new commit you want to submit.
+Upon initial PR to the Decky Plugin Database, we go through these steps to review your plugin.
+Please go through them yourself as well to make sure that we don't have to flag any issues and so your plugin can make it to the testing server quickly.
