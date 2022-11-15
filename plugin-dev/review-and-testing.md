@@ -1,8 +1,8 @@
 ---
 title: Review and Testing Process
 description: More information on how we review your plugin before it can make it to users.
-published: false
-date: 2022-11-15T23:20:38.147Z
+published: true
+date: 2022-11-15T23:22:36.239Z
 tags: plugin-dev, testing
 editor: markdown
 dateCreated: 2022-11-13T21:56:22.344Z
