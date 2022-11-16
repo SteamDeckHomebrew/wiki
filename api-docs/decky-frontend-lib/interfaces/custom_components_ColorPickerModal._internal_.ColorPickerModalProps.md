@@ -35,7 +35,7 @@
 
 #### Defined in
 
-[src/custom-components/ColorPickerModal.tsx:6](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/215156d/src/custom-components/ColorPickerModal.tsx#L6)
+[src/custom-components/ColorPickerModal.tsx:6](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/e167ef5/src/custom-components/ColorPickerModal.tsx#L6)
 
 ___
 
@@ -45,7 +45,7 @@ ___
 
 #### Defined in
 
-[src/custom-components/ColorPickerModal.tsx:12](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/215156d/src/custom-components/ColorPickerModal.tsx#L12)
+[src/custom-components/ColorPickerModal.tsx:12](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/e167ef5/src/custom-components/ColorPickerModal.tsx#L12)
 
 ___
 
@@ -55,7 +55,7 @@ ___
 
 #### Defined in
 
-[src/custom-components/ColorPickerModal.tsx:9](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/215156d/src/custom-components/ColorPickerModal.tsx#L9)
+[src/custom-components/ColorPickerModal.tsx:9](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/e167ef5/src/custom-components/ColorPickerModal.tsx#L9)
 
 ___
 
@@ -65,7 +65,7 @@ ___
 
 #### Defined in
 
-[src/custom-components/ColorPickerModal.tsx:11](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/215156d/src/custom-components/ColorPickerModal.tsx#L11)
+[src/custom-components/ColorPickerModal.tsx:11](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/e167ef5/src/custom-components/ColorPickerModal.tsx#L11)
 
 ___
 
@@ -75,7 +75,7 @@ ___
 
 #### Defined in
 
-[src/custom-components/ColorPickerModal.tsx:10](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/215156d/src/custom-components/ColorPickerModal.tsx#L10)
+[src/custom-components/ColorPickerModal.tsx:10](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/e167ef5/src/custom-components/ColorPickerModal.tsx#L10)
 
 ___
 
@@ -85,7 +85,7 @@ ___
 
 #### Defined in
 
-[src/custom-components/ColorPickerModal.tsx:8](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/215156d/src/custom-components/ColorPickerModal.tsx#L8)
+[src/custom-components/ColorPickerModal.tsx:8](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/e167ef5/src/custom-components/ColorPickerModal.tsx#L8)
 
 ## Methods
 
@@ -105,4 +105,4 @@ ___
 
 #### Defined in
 
-[src/custom-components/ColorPickerModal.tsx:7](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/215156d/src/custom-components/ColorPickerModal.tsx#L7)
+[src/custom-components/ColorPickerModal.tsx:7](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/e167ef5/src/custom-components/ColorPickerModal.tsx#L7)

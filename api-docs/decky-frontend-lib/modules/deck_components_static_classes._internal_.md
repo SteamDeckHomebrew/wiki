@@ -22,7 +22,7 @@
 
 #### Defined in
 
-[src/deck-components/static-classes.ts:68](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/215156d/src/deck-components/static-classes.ts#L68)
+[src/deck-components/static-classes.ts:68](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/e167ef5/src/deck-components/static-classes.ts#L68)
 
 ___
 
@@ -32,7 +32,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/static-classes.ts:304](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/215156d/src/deck-components/static-classes.ts#L304)
+[src/deck-components/static-classes.ts:304](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/e167ef5/src/deck-components/static-classes.ts#L304)
 
 ___
 
@@ -42,7 +42,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/static-classes.ts:205](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/215156d/src/deck-components/static-classes.ts#L205)
+[src/deck-components/static-classes.ts:205](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/e167ef5/src/deck-components/static-classes.ts#L205)
 
 ___
 
@@ -52,7 +52,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/static-classes.ts:132](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/215156d/src/deck-components/static-classes.ts#L132)
+[src/deck-components/static-classes.ts:132](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/e167ef5/src/deck-components/static-classes.ts#L132)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/static-classes.ts:3](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/215156d/src/deck-components/static-classes.ts#L3)
+[src/deck-components/static-classes.ts:3](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/e167ef5/src/deck-components/static-classes.ts#L3)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/static-classes.ts:66](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/215156d/src/deck-components/static-classes.ts#L66)
+[src/deck-components/static-classes.ts:66](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/e167ef5/src/deck-components/static-classes.ts#L66)
 
 ___
 
@@ -82,4 +82,4 @@ ___
 
 #### Defined in
 
-[src/deck-components/static-classes.ts:162](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/215156d/src/deck-components/static-classes.ts#L162)
+[src/deck-components/static-classes.ts:162](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/e167ef5/src/deck-components/static-classes.ts#L162)

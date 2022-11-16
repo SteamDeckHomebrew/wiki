@@ -19,7 +19,7 @@
 
 #### Defined in
 
-[src/deck-components/SteamClient.ts:187](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/215156d/src/deck-components/SteamClient.ts#L187)
+[src/deck-components/SteamClient.ts:187](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/e167ef5/src/deck-components/SteamClient.ts#L187)
 
 ___
 
@@ -40,4 +40,4 @@ ___
 
 #### Defined in
 
-[src/deck-components/SteamClient.ts:188](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/215156d/src/deck-components/SteamClient.ts#L188)
+[src/deck-components/SteamClient.ts:188](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/e167ef5/src/deck-components/SteamClient.ts#L188)
