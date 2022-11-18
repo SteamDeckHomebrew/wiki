@@ -95,6 +95,7 @@
 - [ToggleFieldProps](deck_components.md#togglefieldprops)
 - [ToggleProps](deck_components.md#toggleprops)
 - [Window](deck_components.md#window)
+- [appDetailsClasses](deck_components.md#appdetailsclasses)
 - [appDetailsHeaderClasses](deck_components.md#appdetailsheaderclasses)
 - [gamepadDialogClasses](deck_components.md#gamepaddialogclasses)
 - [gamepadSliderClasses](deck_components.md#gamepadsliderclasses)
@@ -641,6 +642,12 @@ ___
 ### Window
 
 Re-exports [Window](../interfaces/deck_components_SteamClient.Window.md)
+
+___
+
+### appDetailsClasses
+
+Re-exports [appDetailsClasses](deck_components_static_classes.md#appdetailsclasses)
 
 ___
 
