@@ -53,7 +53,7 @@
 
 #### Defined in
 
-[src/deck-components/SteamClient.ts:148](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/e167ef5/src/deck-components/SteamClient.ts#L148)
+[src/deck-components/SteamClient.ts:148](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/3229162/src/deck-components/SteamClient.ts#L148)
 
 ___
 
@@ -63,7 +63,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/SteamClient.ts:149](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/e167ef5/src/deck-components/SteamClient.ts#L149)
+[src/deck-components/SteamClient.ts:149](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/3229162/src/deck-components/SteamClient.ts#L149)
 
 ___
 
@@ -73,7 +73,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/SteamClient.ts:150](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/e167ef5/src/deck-components/SteamClient.ts#L150)
+[src/deck-components/SteamClient.ts:150](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/3229162/src/deck-components/SteamClient.ts#L150)
 
 ___
 
@@ -83,7 +83,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/SteamClient.ts:151](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/e167ef5/src/deck-components/SteamClient.ts#L151)
+[src/deck-components/SteamClient.ts:151](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/3229162/src/deck-components/SteamClient.ts#L151)
 
 ___
 
@@ -93,7 +93,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/SteamClient.ts:152](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/e167ef5/src/deck-components/SteamClient.ts#L152)
+[src/deck-components/SteamClient.ts:152](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/3229162/src/deck-components/SteamClient.ts#L152)
 
 ___
 
@@ -103,7 +103,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/SteamClient.ts:153](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/e167ef5/src/deck-components/SteamClient.ts#L153)
+[src/deck-components/SteamClient.ts:153](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/3229162/src/deck-components/SteamClient.ts#L153)
 
 ___
 
@@ -113,7 +113,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/SteamClient.ts:154](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/e167ef5/src/deck-components/SteamClient.ts#L154)
+[src/deck-components/SteamClient.ts:154](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/3229162/src/deck-components/SteamClient.ts#L154)
 
 ___
 
@@ -123,7 +123,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/SteamClient.ts:155](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/e167ef5/src/deck-components/SteamClient.ts#L155)
+[src/deck-components/SteamClient.ts:155](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/3229162/src/deck-components/SteamClient.ts#L155)
 
 ___
 
@@ -133,7 +133,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/SteamClient.ts:156](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/e167ef5/src/deck-components/SteamClient.ts#L156)
+[src/deck-components/SteamClient.ts:156](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/3229162/src/deck-components/SteamClient.ts#L156)
 
 ___
 
@@ -143,7 +143,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/SteamClient.ts:157](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/e167ef5/src/deck-components/SteamClient.ts#L157)
+[src/deck-components/SteamClient.ts:157](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/3229162/src/deck-components/SteamClient.ts#L157)
 
 ___
 
@@ -153,7 +153,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/SteamClient.ts:158](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/e167ef5/src/deck-components/SteamClient.ts#L158)
+[src/deck-components/SteamClient.ts:158](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/3229162/src/deck-components/SteamClient.ts#L158)
 
 ___
 
@@ -163,7 +163,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/SteamClient.ts:159](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/e167ef5/src/deck-components/SteamClient.ts#L159)
+[src/deck-components/SteamClient.ts:159](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/3229162/src/deck-components/SteamClient.ts#L159)
 
 ___
 
@@ -173,7 +173,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/SteamClient.ts:160](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/e167ef5/src/deck-components/SteamClient.ts#L160)
+[src/deck-components/SteamClient.ts:160](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/3229162/src/deck-components/SteamClient.ts#L160)
 
 ___
 
@@ -183,7 +183,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/SteamClient.ts:161](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/e167ef5/src/deck-components/SteamClient.ts#L161)
+[src/deck-components/SteamClient.ts:161](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/3229162/src/deck-components/SteamClient.ts#L161)
 
 ___
 
@@ -193,7 +193,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/SteamClient.ts:162](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/e167ef5/src/deck-components/SteamClient.ts#L162)
+[src/deck-components/SteamClient.ts:162](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/3229162/src/deck-components/SteamClient.ts#L162)
 
 ___
 
@@ -203,7 +203,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/SteamClient.ts:163](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/e167ef5/src/deck-components/SteamClient.ts#L163)
+[src/deck-components/SteamClient.ts:163](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/3229162/src/deck-components/SteamClient.ts#L163)
 
 ___
 
@@ -213,7 +213,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/SteamClient.ts:164](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/e167ef5/src/deck-components/SteamClient.ts#L164)
+[src/deck-components/SteamClient.ts:164](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/3229162/src/deck-components/SteamClient.ts#L164)
 
 ___
 
@@ -223,7 +223,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/SteamClient.ts:165](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/e167ef5/src/deck-components/SteamClient.ts#L165)
+[src/deck-components/SteamClient.ts:165](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/3229162/src/deck-components/SteamClient.ts#L165)
 
 ___
 
@@ -233,7 +233,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/SteamClient.ts:166](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/e167ef5/src/deck-components/SteamClient.ts#L166)
+[src/deck-components/SteamClient.ts:166](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/3229162/src/deck-components/SteamClient.ts#L166)
 
 ___
 
@@ -243,7 +243,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/SteamClient.ts:167](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/e167ef5/src/deck-components/SteamClient.ts#L167)
+[src/deck-components/SteamClient.ts:167](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/3229162/src/deck-components/SteamClient.ts#L167)
 
 ___
 
@@ -253,7 +253,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/SteamClient.ts:168](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/e167ef5/src/deck-components/SteamClient.ts#L168)
+[src/deck-components/SteamClient.ts:168](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/3229162/src/deck-components/SteamClient.ts#L168)
 
 ___
 
@@ -263,7 +263,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/SteamClient.ts:169](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/e167ef5/src/deck-components/SteamClient.ts#L169)
+[src/deck-components/SteamClient.ts:169](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/3229162/src/deck-components/SteamClient.ts#L169)
 
 ___
 
@@ -273,7 +273,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/SteamClient.ts:170](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/e167ef5/src/deck-components/SteamClient.ts#L170)
+[src/deck-components/SteamClient.ts:170](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/3229162/src/deck-components/SteamClient.ts#L170)
 
 ___
 
@@ -283,7 +283,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/SteamClient.ts:171](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/e167ef5/src/deck-components/SteamClient.ts#L171)
+[src/deck-components/SteamClient.ts:171](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/3229162/src/deck-components/SteamClient.ts#L171)
 
 ___
 
@@ -293,7 +293,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/SteamClient.ts:172](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/e167ef5/src/deck-components/SteamClient.ts#L172)
+[src/deck-components/SteamClient.ts:172](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/3229162/src/deck-components/SteamClient.ts#L172)
 
 ___
 
@@ -303,7 +303,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/SteamClient.ts:173](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/e167ef5/src/deck-components/SteamClient.ts#L173)
+[src/deck-components/SteamClient.ts:173](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/3229162/src/deck-components/SteamClient.ts#L173)
 
 ___
 
@@ -313,7 +313,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/SteamClient.ts:174](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/e167ef5/src/deck-components/SteamClient.ts#L174)
+[src/deck-components/SteamClient.ts:174](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/3229162/src/deck-components/SteamClient.ts#L174)
 
 ___
 
@@ -323,7 +323,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/SteamClient.ts:175](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/e167ef5/src/deck-components/SteamClient.ts#L175)
+[src/deck-components/SteamClient.ts:175](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/3229162/src/deck-components/SteamClient.ts#L175)
 
 ___
 
@@ -333,7 +333,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/SteamClient.ts:176](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/e167ef5/src/deck-components/SteamClient.ts#L176)
+[src/deck-components/SteamClient.ts:176](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/3229162/src/deck-components/SteamClient.ts#L176)
 
 ___
 
@@ -343,7 +343,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/SteamClient.ts:177](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/e167ef5/src/deck-components/SteamClient.ts#L177)
+[src/deck-components/SteamClient.ts:177](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/3229162/src/deck-components/SteamClient.ts#L177)
 
 ___
 
@@ -353,7 +353,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/SteamClient.ts:178](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/e167ef5/src/deck-components/SteamClient.ts#L178)
+[src/deck-components/SteamClient.ts:178](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/3229162/src/deck-components/SteamClient.ts#L178)
 
 ___
 
@@ -363,7 +363,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/SteamClient.ts:179](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/e167ef5/src/deck-components/SteamClient.ts#L179)
+[src/deck-components/SteamClient.ts:179](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/3229162/src/deck-components/SteamClient.ts#L179)
 
 ___
 
@@ -373,7 +373,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/SteamClient.ts:180](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/e167ef5/src/deck-components/SteamClient.ts#L180)
+[src/deck-components/SteamClient.ts:180](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/3229162/src/deck-components/SteamClient.ts#L180)
 
 ___
 
@@ -383,7 +383,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/SteamClient.ts:181](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/e167ef5/src/deck-components/SteamClient.ts#L181)
+[src/deck-components/SteamClient.ts:181](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/3229162/src/deck-components/SteamClient.ts#L181)
 
 ___
 
@@ -393,7 +393,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/SteamClient.ts:182](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/e167ef5/src/deck-components/SteamClient.ts#L182)
+[src/deck-components/SteamClient.ts:182](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/3229162/src/deck-components/SteamClient.ts#L182)
 
 ___
 
@@ -403,4 +403,4 @@ ___
 
 #### Defined in
 
-[src/deck-components/SteamClient.ts:183](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/e167ef5/src/deck-components/SteamClient.ts#L183)
+[src/deck-components/SteamClient.ts:183](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/3229162/src/deck-components/SteamClient.ts#L183)

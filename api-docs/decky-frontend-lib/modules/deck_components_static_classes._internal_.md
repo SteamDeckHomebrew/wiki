@@ -6,6 +6,7 @@
 
 ### Type Aliases
 
+- [AppDetailsHeaderClasses](deck_components_static_classes._internal_.md#appdetailsheaderclasses)
 - [GamepadDialogClasses](deck_components_static_classes._internal_.md#gamepaddialogclasses)
 - [GamepadSliderClasses](deck_components_static_classes._internal_.md#gamepadsliderclasses)
 - [PlaySectionClasses](deck_components_static_classes._internal_.md#playsectionclasses)
@@ -16,13 +17,23 @@
 
 ## Type Aliases
 
+### AppDetailsHeaderClasses
+
+Ƭ **AppDetailsHeaderClasses**: `Record`<``"AddBoxSizer"`` \| ``"Background"`` \| ``"Bottom"`` \| ``"BottomCenter"`` \| ``"BottomLeft"`` \| ``"BottomRight"`` \| ``"BoxSizer"`` \| ``"BoxSizerButtonContainer"`` \| ``"BoxSizerContainer"`` \| ``"BoxSizerDelete"`` \| ``"BoxSizerDragBox"`` \| ``"BoxSizerEdge"`` \| ``"BoxSizerGridBox"`` \| ``"BoxSizerInfo"`` \| ``"BoxSizerSettings"`` \| ``"BoxSizerValidRegion"`` \| ``"CenterCenter"`` \| ``"DialogButton"`` \| ``"EdgeDown"`` \| ``"FallbackArt"`` \| ``"Features"`` \| ``"FullscreenEnterActive"`` \| ``"FullscreenEnterDone"`` \| ``"FullscreenEnterStart"`` \| ``"FullscreenExitActive"`` \| ``"FullscreenExitDone"`` \| ``"FullscreenExitStart"`` \| ``"HeaderBackgroundImage"`` \| ``"ImgBlur"`` \| ``"ImgBlurBackdrop"`` \| ``"ImgContainer"`` \| ``"ImgSrc"`` \| ``"Left"`` \| ``"Loaded"`` \| ``"Middle"`` \| ``"NoArt"`` \| ``"PinBox"`` \| ``"Right"`` \| ``"SVGTitle"`` \| ``"SaveBoxSizer"`` \| ``"TextNameSpace"`` \| ``"TitleImageContainer"`` \| ``"TitleLogo"`` \| ``"TitleSection"`` \| ``"Top"`` \| ``"TopCapsule"`` \| ``"TopGradient"`` \| ``"TopLeft"`` \| ``"TopRight"`` \| ``"UpperCenter"`` \| ``"UpperLeft"`` \| ``"duration-app-launch"``, `string`\>
+
+#### Defined in
+
+[src/deck-components/static-classes.ts:352](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/3229162/src/deck-components/static-classes.ts#L352)
+
+___
+
 ### GamepadDialogClasses
 
 Ƭ **GamepadDialogClasses**: `Record`<``"duration-app-launch"`` \| ``"GamepadDialogContent"`` \| ``"GamepadDialogContent_InnerWidth"`` \| ``"Field"`` \| ``"Button"`` \| ``"NoMinWidth"`` \| ``"ActiveAndUnfocused"`` \| ``"StandaloneFieldSeparator"`` \| ``"StandardPadding"`` \| ``"CompactPadding"`` \| ``"WithDescription"`` \| ``"WithBottomSeparatorStandard"`` \| ``"WithBottomSeparatorThick"`` \| ``"HighlightOnFocus"`` \| ``"ItemFocusAnim-darkerGrey"`` \| ``"ItemFocusAnim-darkGrey"`` \| ``"WithBottomSeparator"`` \| ``"Disabled"`` \| ``"Clickable"`` \| ``"FieldClickTarget"`` \| ``"FieldChildren"`` \| ``"FieldLeadIcon"`` \| ``"FieldLabelRow"`` \| ``"VerticalAlignCenter"`` \| ``"InlineWrapShiftsChildrenBelow"`` \| ``"ExtraPaddingOnChildrenBelow"`` \| ``"ChildrenWidthFixed"`` \| ``"ChildrenWidthGrow"`` \| ``"WithFirstRow"`` \| ``"WithChildrenBelow"`` \| ``"FieldLabel"`` \| ``"FieldLabelValue"`` \| ``"FieldDescription"`` \| ``"ModalPosition"`` \| ``"WithStandardPadding"`` \| ``"slideInAnimation"`` \| ``"BasicTextInput"`` \| ``"Toggle"`` \| ``"ToggleRail"`` \| ``"On"`` \| ``"ToggleSwitch"`` \| ``"LabelFieldValue"`` \| ``"DropDownControlButtonContents"`` \| ``"Spacer"`` \| ``"ControlsListOuterPanel"`` \| ``"StandardSpacing"`` \| ``"ExtraSpacing"`` \| ``"AlignRight"`` \| ``"AlignLeft"`` \| ``"AlignCenter"`` \| ``"ControlsListChild"`` \| ``"QuickAccess-Menu"`` \| ``"BigButtons"`` \| ``"BottomButtons"`` \| ``"ItemFocusAnim-darkerGrey-nocolor"`` \| ``"ItemFocusAnim-grey"`` \| ``"ItemFocusAnimBorder-darkGrey"`` \| ``"ItemFocusAnim-green"`` \| ``"focusAnimation"`` \| ``"hoverAnimation"``, `string`\>
 
 #### Defined in
 
-[src/deck-components/static-classes.ts:68](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/e167ef5/src/deck-components/static-classes.ts#L68)
+[src/deck-components/static-classes.ts:68](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/3229162/src/deck-components/static-classes.ts#L68)
 
 ___
 
@@ -32,7 +43,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/static-classes.ts:304](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/e167ef5/src/deck-components/static-classes.ts#L304)
+[src/deck-components/static-classes.ts:304](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/3229162/src/deck-components/static-classes.ts#L304)
 
 ___
 
@@ -42,7 +53,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/static-classes.ts:205](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/e167ef5/src/deck-components/static-classes.ts#L205)
+[src/deck-components/static-classes.ts:205](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/3229162/src/deck-components/static-classes.ts#L205)
 
 ___
 
@@ -52,7 +63,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/static-classes.ts:132](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/e167ef5/src/deck-components/static-classes.ts#L132)
+[src/deck-components/static-classes.ts:132](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/3229162/src/deck-components/static-classes.ts#L132)
 
 ___
 
@@ -62,7 +73,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/static-classes.ts:3](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/e167ef5/src/deck-components/static-classes.ts#L3)
+[src/deck-components/static-classes.ts:3](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/3229162/src/deck-components/static-classes.ts#L3)
 
 ___
 
@@ -72,7 +83,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/static-classes.ts:66](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/e167ef5/src/deck-components/static-classes.ts#L66)
+[src/deck-components/static-classes.ts:66](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/3229162/src/deck-components/static-classes.ts#L66)
 
 ___
 
@@ -82,4 +93,4 @@ ___
 
 #### Defined in
 
-[src/deck-components/static-classes.ts:162](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/e167ef5/src/deck-components/static-classes.ts#L162)
+[src/deck-components/static-classes.ts:162](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/3229162/src/deck-components/static-classes.ts#L162)
