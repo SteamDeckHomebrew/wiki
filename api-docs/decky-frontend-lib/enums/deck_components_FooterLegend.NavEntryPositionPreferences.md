@@ -18,48 +18,48 @@
 
 ### FIRST
 
-• **FIRST** = ``0``
+• **FIRST** = `number`
 
 #### Defined in
 
-[src/deck-components/FooterLegend.ts:34](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/ed98d14/src/deck-components/FooterLegend.ts#L34)
+[src/deck-components/FooterLegend.ts:33](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/2ec9519/src/deck-components/FooterLegend.ts#L33)
 
 ___
 
 ### LAST
 
-• **LAST** = ``1``
+• **LAST** = `number`
 
 #### Defined in
 
-[src/deck-components/FooterLegend.ts:35](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/ed98d14/src/deck-components/FooterLegend.ts#L35)
+[src/deck-components/FooterLegend.ts:34](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/2ec9519/src/deck-components/FooterLegend.ts#L34)
 
 ___
 
 ### MAINTAIN\_X
 
-• **MAINTAIN\_X** = ``2``
+• **MAINTAIN\_X** = `number`
 
 #### Defined in
 
-[src/deck-components/FooterLegend.ts:36](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/ed98d14/src/deck-components/FooterLegend.ts#L36)
+[src/deck-components/FooterLegend.ts:35](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/2ec9519/src/deck-components/FooterLegend.ts#L35)
 
 ___
 
 ### MAINTAIN\_Y
 
-• **MAINTAIN\_Y** = ``3``
+• **MAINTAIN\_Y** = `number`
 
 #### Defined in
 
-[src/deck-components/FooterLegend.ts:37](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/ed98d14/src/deck-components/FooterLegend.ts#L37)
+[src/deck-components/FooterLegend.ts:36](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/2ec9519/src/deck-components/FooterLegend.ts#L36)
 
 ___
 
 ### PREFERRED\_CHILD
 
-• **PREFERRED\_CHILD** = ``4``
+• **PREFERRED\_CHILD** = `number`
 
 #### Defined in
 
-[src/deck-components/FooterLegend.ts:38](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/ed98d14/src/deck-components/FooterLegend.ts#L38)
+[src/deck-components/FooterLegend.ts:37](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/2ec9519/src/deck-components/FooterLegend.ts#L37)

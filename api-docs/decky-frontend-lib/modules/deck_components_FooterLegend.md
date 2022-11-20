@@ -16,9 +16,20 @@
 
 ### Type Aliases
 
+- [ActionDescriptionMap](deck_components_FooterLegend.md#actiondescriptionmap)
 - [GamepadEvent](deck_components_FooterLegend.md#gamepadevent)
 
 ## Type Aliases
+
+### ActionDescriptionMap
+
+Ƭ **ActionDescriptionMap**: { [key in GamepadButton]?: string }
+
+#### Defined in
+
+[src/deck-components/FooterLegend.ts:44](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/2ec9519/src/deck-components/FooterLegend.ts#L44)
+
+___
 
 ### GamepadEvent
 
@@ -26,4 +37,4 @@
 
 #### Defined in
 
-[src/deck-components/FooterLegend.ts:47](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/ed98d14/src/deck-components/FooterLegend.ts#L47)
+[src/deck-components/FooterLegend.ts:47](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/2ec9519/src/deck-components/FooterLegend.ts#L47)

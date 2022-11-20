@@ -6,6 +6,7 @@
 
 ### References
 
+- [ActionDescriptionMap](deck_components.md#actiondescriptionmap)
 - [AppAchievements](deck_components.md#appachievements)
 - [AppDetails](deck_components.md#appdetails)
 - [AppLanguages](deck_components.md#applanguages)
@@ -110,6 +111,12 @@
 - [updaterFieldClasses](deck_components.md#updaterfieldclasses)
 
 ## References
+
+### ActionDescriptionMap
+
+Re-exports [ActionDescriptionMap](deck_components_FooterLegend.md#actiondescriptionmap)
+
+___
 
 ### AppAchievements
 
