@@ -125,7 +125,7 @@ Finds the SP window, since it is a render target as of 10-19-2022's beta
 
 #### Defined in
 
-[src/utils/index.ts:15](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/2ec9519/src/utils/index.ts#L15)
+[src/utils/index.ts:15](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/c84a091/src/utils/index.ts#L15)
 
 ___
 
@@ -145,7 +145,7 @@ ___
 
 #### Defined in
 
-[src/utils/index.ts:4](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/2ec9519/src/utils/index.ts#L4)
+[src/utils/index.ts:4](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/c84a091/src/utils/index.ts#L4)
 
 ___
 
@@ -165,4 +165,4 @@ ___
 
 #### Defined in
 
-[src/utils/index.ts:8](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/2ec9519/src/utils/index.ts#L8)
+[src/utils/index.ts:8](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/c84a091/src/utils/index.ts#L8)

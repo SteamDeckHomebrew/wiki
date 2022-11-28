@@ -47,7 +47,7 @@
 
 #### Defined in
 
-[src/utils/react.ts:68](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/2ec9519/src/utils/react.ts#L68)
+[src/utils/react.ts:68](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/c84a091/src/utils/react.ts#L68)
 
 ## Functions
 
@@ -68,7 +68,7 @@
 
 #### Defined in
 
-[src/utils/react.ts:11](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/2ec9519/src/utils/react.ts#L11)
+[src/utils/react.ts:11](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/c84a091/src/utils/react.ts#L11)
 
 ___
 
@@ -89,7 +89,7 @@ ___
 
 #### Defined in
 
-[src/utils/react.ts:91](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/2ec9519/src/utils/react.ts#L91)
+[src/utils/react.ts:91](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/c84a091/src/utils/react.ts#L91)
 
 ___
 
@@ -111,7 +111,7 @@ ___
 
 #### Defined in
 
-[src/utils/react.ts:70](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/2ec9519/src/utils/react.ts#L70)
+[src/utils/react.ts:70](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/c84a091/src/utils/react.ts#L70)
 
 ___
 
@@ -131,7 +131,7 @@ ___
 
 #### Defined in
 
-[src/utils/react.ts:58](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/2ec9519/src/utils/react.ts#L58)
+[src/utils/react.ts:58](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/c84a091/src/utils/react.ts#L58)
 
 ___
 
@@ -152,7 +152,7 @@ typeof [`__class`](../classes/utils_react._internal_.__class.md)
 
 #### Defined in
 
-[src/utils/react.ts:52](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/2ec9519/src/utils/react.ts#L52)
+[src/utils/react.ts:52](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/c84a091/src/utils/react.ts#L52)
 
 ___
 
@@ -173,4 +173,4 @@ ___
 
 #### Defined in
 
-[src/utils/react.ts:48](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/2ec9519/src/utils/react.ts#L48)
+[src/utils/react.ts:48](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/c84a091/src/utils/react.ts#L48)
