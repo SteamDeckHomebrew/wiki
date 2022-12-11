@@ -23,11 +23,11 @@
 
 ### ActionDescriptionMap
 
-Ƭ **ActionDescriptionMap**: { [key in GamepadButton]?: string }
+Ƭ **ActionDescriptionMap**: { [key in GamepadButton]?: ReactNode }
 
 #### Defined in
 
-[src/deck-components/FooterLegend.ts:44](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/925ea8c/src/deck-components/FooterLegend.ts#L44)
+[src/deck-components/FooterLegend.ts:46](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/d24136e/src/deck-components/FooterLegend.ts#L46)
 
 ___
 
@@ -37,4 +37,4 @@ ___
 
 #### Defined in
 
-[src/deck-components/FooterLegend.ts:47](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/925ea8c/src/deck-components/FooterLegend.ts#L47)
+[src/deck-components/FooterLegend.ts:49](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/d24136e/src/deck-components/FooterLegend.ts#L49)

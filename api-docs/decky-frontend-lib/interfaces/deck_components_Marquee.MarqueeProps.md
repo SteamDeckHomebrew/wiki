@@ -27,7 +27,7 @@
 
 #### Defined in
 
-[src/deck-components/Marquee.tsx:10](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/925ea8c/src/deck-components/Marquee.tsx#L10)
+[src/deck-components/Marquee.tsx:10](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/d24136e/src/deck-components/Marquee.tsx#L10)
 
 ___
 
@@ -37,7 +37,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/Marquee.tsx:14](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/925ea8c/src/deck-components/Marquee.tsx#L14)
+[src/deck-components/Marquee.tsx:14](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/d24136e/src/deck-components/Marquee.tsx#L14)
 
 ___
 
@@ -47,7 +47,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/Marquee.tsx:13](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/925ea8c/src/deck-components/Marquee.tsx#L13)
+[src/deck-components/Marquee.tsx:13](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/d24136e/src/deck-components/Marquee.tsx#L13)
 
 ___
 
@@ -57,7 +57,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/Marquee.tsx:8](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/925ea8c/src/deck-components/Marquee.tsx#L8)
+[src/deck-components/Marquee.tsx:8](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/d24136e/src/deck-components/Marquee.tsx#L8)
 
 ___
 
@@ -67,7 +67,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/Marquee.tsx:6](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/925ea8c/src/deck-components/Marquee.tsx#L6)
+[src/deck-components/Marquee.tsx:6](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/d24136e/src/deck-components/Marquee.tsx#L6)
 
 ___
 
@@ -77,7 +77,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/Marquee.tsx:9](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/925ea8c/src/deck-components/Marquee.tsx#L9)
+[src/deck-components/Marquee.tsx:9](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/d24136e/src/deck-components/Marquee.tsx#L9)
 
 ___
 
@@ -87,7 +87,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/Marquee.tsx:5](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/925ea8c/src/deck-components/Marquee.tsx#L5)
+[src/deck-components/Marquee.tsx:5](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/d24136e/src/deck-components/Marquee.tsx#L5)
 
 ___
 
@@ -97,7 +97,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/Marquee.tsx:11](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/925ea8c/src/deck-components/Marquee.tsx#L11)
+[src/deck-components/Marquee.tsx:11](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/d24136e/src/deck-components/Marquee.tsx#L11)
 
 ___
 
@@ -107,7 +107,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/Marquee.tsx:7](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/925ea8c/src/deck-components/Marquee.tsx#L7)
+[src/deck-components/Marquee.tsx:7](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/d24136e/src/deck-components/Marquee.tsx#L7)
 
 ___
 
@@ -117,4 +117,4 @@ ___
 
 #### Defined in
 
-[src/deck-components/Marquee.tsx:12](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/925ea8c/src/deck-components/Marquee.tsx#L12)
+[src/deck-components/Marquee.tsx:12](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/d24136e/src/deck-components/Marquee.tsx#L12)

@@ -65,7 +65,7 @@
 
 #### Defined in
 
-[src/deck-components/FooterLegend.ts:49](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/925ea8c/src/deck-components/FooterLegend.ts#L49)
+[src/deck-components/FooterLegend.ts:51](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/d24136e/src/deck-components/FooterLegend.ts#L51)
 
 ___
 
@@ -79,7 +79,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/Dialog.tsx:8](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/925ea8c/src/deck-components/Dialog.tsx#L8)
+[src/deck-components/Dialog.tsx:8](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/d24136e/src/deck-components/Dialog.tsx#L8)
 
 ___
 
@@ -100,7 +100,7 @@ focusable.
 
 #### Defined in
 
-[src/deck-components/Dialog.tsx:29](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/925ea8c/src/deck-components/Dialog.tsx#L29)
+[src/deck-components/Dialog.tsx:29](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/d24136e/src/deck-components/Dialog.tsx#L29)
 
 ___
 
@@ -118,7 +118,7 @@ Depending on the context of where the button is, even a disabled button can focu
 
 #### Defined in
 
-[src/deck-components/Dialog.tsx:39](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/925ea8c/src/deck-components/Dialog.tsx#L39)
+[src/deck-components/Dialog.tsx:39](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/d24136e/src/deck-components/Dialog.tsx#L39)
 
 ___
 
@@ -134,7 +134,7 @@ Default value depends on context, so setting it to `false` will enable it.
 
 #### Defined in
 
-[src/deck-components/Dialog.tsx:18](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/925ea8c/src/deck-components/Dialog.tsx#L18)
+[src/deck-components/Dialog.tsx:18](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/d24136e/src/deck-components/Dialog.tsx#L18)
 
 ___
 
@@ -162,7 +162,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/FooterLegend.ts:55](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/925ea8c/src/deck-components/FooterLegend.ts#L55)
+[src/deck-components/FooterLegend.ts:57](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/d24136e/src/deck-components/FooterLegend.ts#L57)
 
 ___
 
@@ -190,13 +190,13 @@ ___
 
 #### Defined in
 
-[src/deck-components/FooterLegend.ts:56](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/925ea8c/src/deck-components/FooterLegend.ts#L56)
+[src/deck-components/FooterLegend.ts:58](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/d24136e/src/deck-components/FooterLegend.ts#L58)
 
 ___
 
 ### onCancelActionDescription
 
-• `Optional` **onCancelActionDescription**: `string`
+• `Optional` **onCancelActionDescription**: `ReactNode`
 
 #### Inherited from
 
@@ -204,7 +204,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/FooterLegend.ts:51](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/925ea8c/src/deck-components/FooterLegend.ts#L51)
+[src/deck-components/FooterLegend.ts:53](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/d24136e/src/deck-components/FooterLegend.ts#L53)
 
 ___
 
@@ -232,7 +232,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/FooterLegend.ts:58](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/925ea8c/src/deck-components/FooterLegend.ts#L58)
+[src/deck-components/FooterLegend.ts:60](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/d24136e/src/deck-components/FooterLegend.ts#L60)
 
 ___
 
@@ -260,7 +260,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/FooterLegend.ts:63](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/925ea8c/src/deck-components/FooterLegend.ts#L63)
+[src/deck-components/FooterLegend.ts:65](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/d24136e/src/deck-components/FooterLegend.ts#L65)
 
 ___
 
@@ -288,7 +288,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/FooterLegend.ts:61](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/925ea8c/src/deck-components/FooterLegend.ts#L61)
+[src/deck-components/FooterLegend.ts:63](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/d24136e/src/deck-components/FooterLegend.ts#L63)
 
 ___
 
@@ -316,13 +316,13 @@ ___
 
 #### Defined in
 
-[src/deck-components/FooterLegend.ts:62](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/925ea8c/src/deck-components/FooterLegend.ts#L62)
+[src/deck-components/FooterLegend.ts:64](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/d24136e/src/deck-components/FooterLegend.ts#L64)
 
 ___
 
 ### onMenuActionDescription
 
-• `Optional` **onMenuActionDescription**: `string`
+• `Optional` **onMenuActionDescription**: `ReactNode`
 
 #### Inherited from
 
@@ -330,7 +330,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/FooterLegend.ts:54](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/925ea8c/src/deck-components/FooterLegend.ts#L54)
+[src/deck-components/FooterLegend.ts:56](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/d24136e/src/deck-components/FooterLegend.ts#L56)
 
 ___
 
@@ -358,13 +358,13 @@ ___
 
 #### Defined in
 
-[src/deck-components/FooterLegend.ts:64](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/925ea8c/src/deck-components/FooterLegend.ts#L64)
+[src/deck-components/FooterLegend.ts:66](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/d24136e/src/deck-components/FooterLegend.ts#L66)
 
 ___
 
 ### onOKActionDescription
 
-• `Optional` **onOKActionDescription**: `string`
+• `Optional` **onOKActionDescription**: `ReactNode`
 
 #### Inherited from
 
@@ -372,7 +372,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/FooterLegend.ts:50](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/925ea8c/src/deck-components/FooterLegend.ts#L50)
+[src/deck-components/FooterLegend.ts:52](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/d24136e/src/deck-components/FooterLegend.ts#L52)
 
 ___
 
@@ -400,13 +400,13 @@ ___
 
 #### Defined in
 
-[src/deck-components/FooterLegend.ts:57](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/925ea8c/src/deck-components/FooterLegend.ts#L57)
+[src/deck-components/FooterLegend.ts:59](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/d24136e/src/deck-components/FooterLegend.ts#L59)
 
 ___
 
 ### onOptionsActionDescription
 
-• `Optional` **onOptionsActionDescription**: `string`
+• `Optional` **onOptionsActionDescription**: `ReactNode`
 
 #### Inherited from
 
@@ -414,7 +414,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/FooterLegend.ts:53](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/925ea8c/src/deck-components/FooterLegend.ts#L53)
+[src/deck-components/FooterLegend.ts:55](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/d24136e/src/deck-components/FooterLegend.ts#L55)
 
 ___
 
@@ -442,13 +442,13 @@ ___
 
 #### Defined in
 
-[src/deck-components/FooterLegend.ts:60](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/925ea8c/src/deck-components/FooterLegend.ts#L60)
+[src/deck-components/FooterLegend.ts:62](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/d24136e/src/deck-components/FooterLegend.ts#L62)
 
 ___
 
 ### onSecondaryActionDescription
 
-• `Optional` **onSecondaryActionDescription**: `string`
+• `Optional` **onSecondaryActionDescription**: `ReactNode`
 
 #### Inherited from
 
@@ -456,7 +456,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/FooterLegend.ts:52](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/925ea8c/src/deck-components/FooterLegend.ts#L52)
+[src/deck-components/FooterLegend.ts:54](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/d24136e/src/deck-components/FooterLegend.ts#L54)
 
 ___
 
@@ -484,7 +484,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/FooterLegend.ts:59](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/925ea8c/src/deck-components/FooterLegend.ts#L59)
+[src/deck-components/FooterLegend.ts:61](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/d24136e/src/deck-components/FooterLegend.ts#L61)
 
 ___
 
@@ -498,7 +498,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/Dialog.tsx:7](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/925ea8c/src/deck-components/Dialog.tsx#L7)
+[src/deck-components/Dialog.tsx:7](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/d24136e/src/deck-components/Dialog.tsx#L7)
 
 ## Methods
 
@@ -518,7 +518,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/Dialog.tsx:41](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/925ea8c/src/deck-components/Dialog.tsx#L41)
+[src/deck-components/Dialog.tsx:41](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/d24136e/src/deck-components/Dialog.tsx#L41)
 
 ___
 
@@ -538,7 +538,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/Dialog.tsx:45](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/925ea8c/src/deck-components/Dialog.tsx#L45)
+[src/deck-components/Dialog.tsx:45](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/d24136e/src/deck-components/Dialog.tsx#L45)
 
 ___
 
@@ -558,7 +558,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/Dialog.tsx:46](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/925ea8c/src/deck-components/Dialog.tsx#L46)
+[src/deck-components/Dialog.tsx:46](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/d24136e/src/deck-components/Dialog.tsx#L46)
 
 ___
 
@@ -578,7 +578,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/Dialog.tsx:44](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/925ea8c/src/deck-components/Dialog.tsx#L44)
+[src/deck-components/Dialog.tsx:44](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/d24136e/src/deck-components/Dialog.tsx#L44)
 
 ___
 
@@ -598,7 +598,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/Dialog.tsx:42](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/925ea8c/src/deck-components/Dialog.tsx#L42)
+[src/deck-components/Dialog.tsx:42](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/d24136e/src/deck-components/Dialog.tsx#L42)
 
 ___
 
@@ -618,7 +618,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/Dialog.tsx:43](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/925ea8c/src/deck-components/Dialog.tsx#L43)
+[src/deck-components/Dialog.tsx:43](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/d24136e/src/deck-components/Dialog.tsx#L43)
 
 ___
 
@@ -638,7 +638,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/Dialog.tsx:50](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/925ea8c/src/deck-components/Dialog.tsx#L50)
+[src/deck-components/Dialog.tsx:50](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/d24136e/src/deck-components/Dialog.tsx#L50)
 
 ___
 
@@ -658,7 +658,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/Dialog.tsx:49](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/925ea8c/src/deck-components/Dialog.tsx#L49)
+[src/deck-components/Dialog.tsx:49](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/d24136e/src/deck-components/Dialog.tsx#L49)
 
 ___
 
@@ -678,7 +678,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/Dialog.tsx:48](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/925ea8c/src/deck-components/Dialog.tsx#L48)
+[src/deck-components/Dialog.tsx:48](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/d24136e/src/deck-components/Dialog.tsx#L48)
 
 ___
 
@@ -698,4 +698,4 @@ ___
 
 #### Defined in
 
-[src/deck-components/Dialog.tsx:47](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/925ea8c/src/deck-components/Dialog.tsx#L47)
+[src/deck-components/Dialog.tsx:47](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/d24136e/src/deck-components/Dialog.tsx#L47)
