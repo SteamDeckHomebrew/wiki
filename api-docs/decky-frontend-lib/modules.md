@@ -15,6 +15,7 @@
 - [deck-components/Button](modules/deck_components_Button.md)
 - [deck-components/ButtonItem](modules/deck_components_ButtonItem.md)
 - [deck-components/Carousel](modules/deck_components_Carousel.md)
+- [deck-components/ControlsList](modules/deck_components_ControlsList.md)
 - [deck-components/Dialog](modules/deck_components_Dialog.md)
 - [deck-components/Dropdown](modules/deck_components_Dropdown.md)
 - [deck-components/Field](modules/deck_components_Field.md)

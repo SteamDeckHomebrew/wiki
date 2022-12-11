@@ -20,6 +20,8 @@
 - [CarouselProps](deck_components.md#carouselprops)
 - [ConfirmModal](deck_components.md#confirmmodal)
 - [ConfirmModalProps](deck_components.md#confirmmodalprops)
+- [ControlsList](deck_components.md#controlslist)
+- [ControlsListProps](deck_components.md#controlslistprops)
 - [DialogBody](deck_components.md#dialogbody)
 - [DialogBodyText](deck_components.md#dialogbodytext)
 - [DialogButton](deck_components.md#dialogbutton)
@@ -195,6 +197,18 @@ ___
 ### ConfirmModalProps
 
 Re-exports [ConfirmModalProps](../interfaces/deck_components_Modal.ConfirmModalProps.md)
+
+___
+
+### ControlsList
+
+Re-exports [ControlsList](deck_components_ControlsList.md#controlslist)
+
+___
+
+### ControlsListProps
+
+Re-exports [ControlsListProps](../interfaces/deck_components_ControlsList.ControlsListProps.md)
 
 ___
 
