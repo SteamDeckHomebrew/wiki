@@ -24,7 +24,7 @@
 
 #### Defined in
 
-[src/utils/patcher.ts:17](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/7ba1229/src/utils/patcher.ts#L17)
+[src/utils/patcher.ts:17](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/cc29dda/src/utils/patcher.ts#L17)
 
 ___
 
@@ -34,7 +34,7 @@ ___
 
 #### Defined in
 
-[src/utils/patcher.ts:16](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/7ba1229/src/utils/patcher.ts#L16)
+[src/utils/patcher.ts:16](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/cc29dda/src/utils/patcher.ts#L16)
 
 ___
 
@@ -44,7 +44,7 @@ ___
 
 #### Defined in
 
-[src/utils/patcher.ts:14](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/7ba1229/src/utils/patcher.ts#L14)
+[src/utils/patcher.ts:14](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/cc29dda/src/utils/patcher.ts#L14)
 
 ___
 
@@ -54,7 +54,7 @@ ___
 
 #### Defined in
 
-[src/utils/patcher.ts:12](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/7ba1229/src/utils/patcher.ts#L12)
+[src/utils/patcher.ts:12](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/cc29dda/src/utils/patcher.ts#L12)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[src/utils/patcher.ts:15](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/7ba1229/src/utils/patcher.ts#L15)
+[src/utils/patcher.ts:15](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/cc29dda/src/utils/patcher.ts#L15)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[src/utils/patcher.ts:13](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/7ba1229/src/utils/patcher.ts#L13)
+[src/utils/patcher.ts:13](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/cc29dda/src/utils/patcher.ts#L13)
 
 ___
 
@@ -92,4 +92,4 @@ ___
 
 #### Defined in
 
-[src/utils/patcher.ts:19](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/7ba1229/src/utils/patcher.ts#L19)
+[src/utils/patcher.ts:19](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/cc29dda/src/utils/patcher.ts#L19)
