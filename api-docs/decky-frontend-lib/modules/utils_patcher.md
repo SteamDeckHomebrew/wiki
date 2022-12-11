@@ -31,7 +31,7 @@
 
 #### Defined in
 
-[src/utils/patcher.ts:3](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/6f14da1/src/utils/patcher.ts#L3)
+[src/utils/patcher.ts:3](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/767dc2f/src/utils/patcher.ts#L3)
 
 ## Functions
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[src/utils/patcher.ts:43](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/6f14da1/src/utils/patcher.ts#L43)
+[src/utils/patcher.ts:43](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/767dc2f/src/utils/patcher.ts#L43)
 
 ___
 
@@ -77,7 +77,7 @@ ___
 
 #### Defined in
 
-[src/utils/patcher.ts:24](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/6f14da1/src/utils/patcher.ts#L24)
+[src/utils/patcher.ts:24](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/767dc2f/src/utils/patcher.ts#L24)
 
 ___
 
@@ -100,4 +100,4 @@ ___
 
 #### Defined in
 
-[src/utils/patcher.ts:62](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/6f14da1/src/utils/patcher.ts#L62)
+[src/utils/patcher.ts:62](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/767dc2f/src/utils/patcher.ts#L62)
