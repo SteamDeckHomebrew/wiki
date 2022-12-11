@@ -10,13 +10,13 @@
 
 ### Functions
 
-- [default](deck_components_Marquee.md#default)
+- [Marquee](deck_components_Marquee.md#marquee)
 
 ## Functions
 
-### default
+### Marquee
 
-▸ **default**(`props`, `context?`): ``null`` \| `ReactElement`<`any`, `any`\>
+▸ **Marquee**(`props`, `context?`): ``null`` \| `ReactElement`<`any`, `any`\>
 
 #### Parameters
 

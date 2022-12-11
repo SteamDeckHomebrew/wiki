@@ -50,6 +50,7 @@
 - [GamepadEvent](deck_components.md#gamepadevent)
 - [GamepadEventDetail](deck_components.md#gamepadeventdetail)
 - [LifetimeNotification](deck_components.md#lifetimenotification)
+- [Marquee](deck_components.md#marquee)
 - [MarqueeProps](deck_components.md#marqueeprops)
 - [Menu](deck_components.md#menu)
 - [MenuGroup](deck_components.md#menugroup)
@@ -374,6 +375,12 @@ ___
 ### LifetimeNotification
 
 Re-exports [LifetimeNotification](../interfaces/deck_components_SteamClient.LifetimeNotification.md)
+
+___
+
+### Marquee
+
+Re-exports [Marquee](deck_components_Marquee.md#marquee)
 
 ___
 

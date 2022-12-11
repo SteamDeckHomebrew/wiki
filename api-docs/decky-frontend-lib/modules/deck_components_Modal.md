@@ -79,4 +79,4 @@ ___
 
 #### Defined in
 
-[src/deck-components/Modal.tsx:66](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/d24136e/src/deck-components/Modal.tsx#L66)
+[src/deck-components/Modal.tsx:66](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/cd0635e/src/deck-components/Modal.tsx#L66)
