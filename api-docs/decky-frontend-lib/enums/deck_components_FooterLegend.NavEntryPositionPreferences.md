@@ -22,7 +22,7 @@
 
 #### Defined in
 
-[src/deck-components/FooterLegend.ts:33](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/cc29dda/src/deck-components/FooterLegend.ts#L33)
+[src/deck-components/FooterLegend.ts:33](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/925ea8c/src/deck-components/FooterLegend.ts#L33)
 
 ___
 
@@ -32,7 +32,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/FooterLegend.ts:34](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/cc29dda/src/deck-components/FooterLegend.ts#L34)
+[src/deck-components/FooterLegend.ts:34](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/925ea8c/src/deck-components/FooterLegend.ts#L34)
 
 ___
 
@@ -42,7 +42,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/FooterLegend.ts:35](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/cc29dda/src/deck-components/FooterLegend.ts#L35)
+[src/deck-components/FooterLegend.ts:35](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/925ea8c/src/deck-components/FooterLegend.ts#L35)
 
 ___
 
@@ -52,7 +52,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/FooterLegend.ts:36](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/cc29dda/src/deck-components/FooterLegend.ts#L36)
+[src/deck-components/FooterLegend.ts:36](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/925ea8c/src/deck-components/FooterLegend.ts#L36)
 
 ___
 
@@ -62,4 +62,4 @@ ___
 
 #### Defined in
 
-[src/deck-components/FooterLegend.ts:37](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/cc29dda/src/deck-components/FooterLegend.ts#L37)
+[src/deck-components/FooterLegend.ts:37](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/925ea8c/src/deck-components/FooterLegend.ts#L37)

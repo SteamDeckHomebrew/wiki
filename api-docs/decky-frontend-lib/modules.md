@@ -22,6 +22,7 @@
 - [deck-components/Focusable](modules/deck_components_Focusable.md)
 - [deck-components/FooterLegend](modules/deck_components_FooterLegend.md)
 - [deck-components/Item](modules/deck_components_Item.md)
+- [deck-components/Marquee](modules/deck_components_Marquee.md)
 - [deck-components/Menu](modules/deck_components_Menu.md)
 - [deck-components/Modal](modules/deck_components_Modal.md)
 - [deck-components/Panel](modules/deck_components_Panel.md)
