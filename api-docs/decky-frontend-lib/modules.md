@@ -17,6 +17,7 @@
 - [deck-components/Carousel](modules/deck_components_Carousel.md)
 - [deck-components/ControlsList](modules/deck_components_ControlsList.md)
 - [deck-components/Dialog](modules/deck_components_Dialog.md)
+- [deck-components/DialogCheckbox](modules/deck_components_DialogCheckbox.md)
 - [deck-components/Dropdown](modules/deck_components_Dropdown.md)
 - [deck-components/Field](modules/deck_components_Field.md)
 - [deck-components/FocusRing](modules/deck_components_FocusRing.md)

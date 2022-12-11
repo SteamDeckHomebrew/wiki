@@ -12,6 +12,8 @@
 
   ↳↳ [`DialogButtonProps`](deck_components_Dialog.DialogButtonProps.md)
 
+  ↳↳ [`DialogCheckboxProps`](deck_components_DialogCheckbox.DialogCheckboxProps.md)
+
 ## Table of contents
 
 ### Properties
@@ -27,7 +29,7 @@
 
 #### Defined in
 
-[src/deck-components/Dialog.tsx:8](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/c586afb/src/deck-components/Dialog.tsx#L8)
+[src/deck-components/Dialog.tsx:8](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/88f245d/src/deck-components/Dialog.tsx#L8)
 
 ___
 
@@ -37,4 +39,4 @@ ___
 
 #### Defined in
 
-[src/deck-components/Dialog.tsx:7](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/c586afb/src/deck-components/Dialog.tsx#L7)
+[src/deck-components/Dialog.tsx:7](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/88f245d/src/deck-components/Dialog.tsx#L7)

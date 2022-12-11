@@ -19,7 +19,7 @@
 
 #### Defined in
 
-[src/deck-components/ControlsList.tsx:5](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/c586afb/src/deck-components/ControlsList.tsx#L5)
+[src/deck-components/ControlsList.tsx:5](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/88f245d/src/deck-components/ControlsList.tsx#L5)
 
 ___
 
@@ -29,4 +29,4 @@ ___
 
 #### Defined in
 
-[src/deck-components/ControlsList.tsx:6](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/c586afb/src/deck-components/ControlsList.tsx#L6)
+[src/deck-components/ControlsList.tsx:6](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/88f245d/src/deck-components/ControlsList.tsx#L6)

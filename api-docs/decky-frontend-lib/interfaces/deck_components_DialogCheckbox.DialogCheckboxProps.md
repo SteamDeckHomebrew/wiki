@@ -1,8 +1,8 @@
-[decky-frontend-lib](../README.md) / [Modules](../modules.md) / [deck-components/Dialog](../modules/deck_components_Dialog.md) / DialogButtonProps
+[decky-frontend-lib](../README.md) / [Modules](../modules.md) / [deck-components/DialogCheckbox](../modules/deck_components_DialogCheckbox.md) / DialogCheckboxProps
 
-# Interface: DialogButtonProps
+# Interface: DialogCheckboxProps
 
-[deck-components/Dialog](../modules/deck_components_Dialog.md).DialogButtonProps
+[deck-components/DialogCheckbox](../modules/deck_components_DialogCheckbox.md).DialogCheckboxProps
 
 ## Hierarchy
 
@@ -10,48 +10,44 @@
 
 - [`FooterLegendProps`](deck_components_FooterLegend.FooterLegendProps.md)
 
-  ↳ **`DialogButtonProps`**
-
-  ↳↳ [`ButtonProps`](deck_components_Button.ButtonProps.md)
+  ↳ **`DialogCheckboxProps`**
 
 ## Table of contents
 
 ### Properties
 
-- [actionDescriptionMap](deck_components_Dialog.DialogButtonProps.md#actiondescriptionmap)
-- [className](deck_components_Dialog.DialogButtonProps.md#classname)
-- [disabled](deck_components_Dialog.DialogButtonProps.md#disabled)
-- [focusable](deck_components_Dialog.DialogButtonProps.md#focusable)
-- [noFocusRing](deck_components_Dialog.DialogButtonProps.md#nofocusring)
-- [onButtonDown](deck_components_Dialog.DialogButtonProps.md#onbuttondown)
-- [onButtonUp](deck_components_Dialog.DialogButtonProps.md#onbuttonup)
-- [onCancelActionDescription](deck_components_Dialog.DialogButtonProps.md#oncancelactiondescription)
-- [onCancelButton](deck_components_Dialog.DialogButtonProps.md#oncancelbutton)
-- [onGamepadBlur](deck_components_Dialog.DialogButtonProps.md#ongamepadblur)
-- [onGamepadDirection](deck_components_Dialog.DialogButtonProps.md#ongamepaddirection)
-- [onGamepadFocus](deck_components_Dialog.DialogButtonProps.md#ongamepadfocus)
-- [onMenuActionDescription](deck_components_Dialog.DialogButtonProps.md#onmenuactiondescription)
-- [onMenuButton](deck_components_Dialog.DialogButtonProps.md#onmenubutton)
-- [onOKActionDescription](deck_components_Dialog.DialogButtonProps.md#onokactiondescription)
-- [onOKButton](deck_components_Dialog.DialogButtonProps.md#onokbutton)
-- [onOptionsActionDescription](deck_components_Dialog.DialogButtonProps.md#onoptionsactiondescription)
-- [onOptionsButton](deck_components_Dialog.DialogButtonProps.md#onoptionsbutton)
-- [onSecondaryActionDescription](deck_components_Dialog.DialogButtonProps.md#onsecondaryactiondescription)
-- [onSecondaryButton](deck_components_Dialog.DialogButtonProps.md#onsecondarybutton)
-- [style](deck_components_Dialog.DialogButtonProps.md#style)
+- [actionDescriptionMap](deck_components_DialogCheckbox.DialogCheckboxProps.md#actiondescriptionmap)
+- [bottomSeparator](deck_components_DialogCheckbox.DialogCheckboxProps.md#bottomseparator)
+- [checked](deck_components_DialogCheckbox.DialogCheckboxProps.md#checked)
+- [className](deck_components_DialogCheckbox.DialogCheckboxProps.md#classname)
+- [color](deck_components_DialogCheckbox.DialogCheckboxProps.md#color)
+- [controlled](deck_components_DialogCheckbox.DialogCheckboxProps.md#controlled)
+- [description](deck_components_DialogCheckbox.DialogCheckboxProps.md#description)
+- [disabled](deck_components_DialogCheckbox.DialogCheckboxProps.md#disabled)
+- [highlightColor](deck_components_DialogCheckbox.DialogCheckboxProps.md#highlightcolor)
+- [label](deck_components_DialogCheckbox.DialogCheckboxProps.md#label)
+- [onButtonDown](deck_components_DialogCheckbox.DialogCheckboxProps.md#onbuttondown)
+- [onButtonUp](deck_components_DialogCheckbox.DialogCheckboxProps.md#onbuttonup)
+- [onCancelActionDescription](deck_components_DialogCheckbox.DialogCheckboxProps.md#oncancelactiondescription)
+- [onCancelButton](deck_components_DialogCheckbox.DialogCheckboxProps.md#oncancelbutton)
+- [onGamepadBlur](deck_components_DialogCheckbox.DialogCheckboxProps.md#ongamepadblur)
+- [onGamepadDirection](deck_components_DialogCheckbox.DialogCheckboxProps.md#ongamepaddirection)
+- [onGamepadFocus](deck_components_DialogCheckbox.DialogCheckboxProps.md#ongamepadfocus)
+- [onMenuActionDescription](deck_components_DialogCheckbox.DialogCheckboxProps.md#onmenuactiondescription)
+- [onMenuButton](deck_components_DialogCheckbox.DialogCheckboxProps.md#onmenubutton)
+- [onOKActionDescription](deck_components_DialogCheckbox.DialogCheckboxProps.md#onokactiondescription)
+- [onOKButton](deck_components_DialogCheckbox.DialogCheckboxProps.md#onokbutton)
+- [onOptionsActionDescription](deck_components_DialogCheckbox.DialogCheckboxProps.md#onoptionsactiondescription)
+- [onOptionsButton](deck_components_DialogCheckbox.DialogCheckboxProps.md#onoptionsbutton)
+- [onSecondaryActionDescription](deck_components_DialogCheckbox.DialogCheckboxProps.md#onsecondaryactiondescription)
+- [onSecondaryButton](deck_components_DialogCheckbox.DialogCheckboxProps.md#onsecondarybutton)
+- [style](deck_components_DialogCheckbox.DialogCheckboxProps.md#style)
+- [tooltip](deck_components_DialogCheckbox.DialogCheckboxProps.md#tooltip)
 
 ### Methods
 
-- [onClick](deck_components_Dialog.DialogButtonProps.md#onclick)
-- [onMouseDown](deck_components_Dialog.DialogButtonProps.md#onmousedown)
-- [onMouseUp](deck_components_Dialog.DialogButtonProps.md#onmouseup)
-- [onPointerCancel](deck_components_Dialog.DialogButtonProps.md#onpointercancel)
-- [onPointerDown](deck_components_Dialog.DialogButtonProps.md#onpointerdown)
-- [onPointerUp](deck_components_Dialog.DialogButtonProps.md#onpointerup)
-- [onSubmit](deck_components_Dialog.DialogButtonProps.md#onsubmit)
-- [onTouchCancel](deck_components_Dialog.DialogButtonProps.md#ontouchcancel)
-- [onTouchEnd](deck_components_Dialog.DialogButtonProps.md#ontouchend)
-- [onTouchStart](deck_components_Dialog.DialogButtonProps.md#ontouchstart)
+- [onChange](deck_components_DialogCheckbox.DialogCheckboxProps.md#onchange)
+- [onClick](deck_components_DialogCheckbox.DialogCheckboxProps.md#onclick)
 
 ## Properties
 
@@ -69,6 +65,26 @@
 
 ___
 
+### bottomSeparator
+
+• `Optional` **bottomSeparator**: ``"standard"`` \| ``"thick"`` \| ``"none"``
+
+#### Defined in
+
+[src/deck-components/DialogCheckbox.tsx:15](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/88f245d/src/deck-components/DialogCheckbox.tsx#L15)
+
+___
+
+### checked
+
+• `Optional` **checked**: `boolean`
+
+#### Defined in
+
+[src/deck-components/DialogCheckbox.tsx:17](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/88f245d/src/deck-components/DialogCheckbox.tsx#L17)
+
+___
+
 ### className
 
 • `Optional` **className**: `string`
@@ -83,58 +99,63 @@ ___
 
 ___
 
+### color
+
+• `Optional` **color**: `string`
+
+#### Defined in
+
+[src/deck-components/DialogCheckbox.tsx:13](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/88f245d/src/deck-components/DialogCheckbox.tsx#L13)
+
+___
+
+### controlled
+
+• `Optional` **controlled**: `boolean`
+
+#### Defined in
+
+[src/deck-components/DialogCheckbox.tsx:16](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/88f245d/src/deck-components/DialogCheckbox.tsx#L16)
+
+___
+
+### description
+
+• `Optional` **description**: `ReactNode`
+
+#### Defined in
+
+[src/deck-components/DialogCheckbox.tsx:10](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/88f245d/src/deck-components/DialogCheckbox.tsx#L10)
+
+___
+
 ### disabled
 
 • `Optional` **disabled**: `boolean`
 
-Disables the button - assigned `on*` methods will not be invoked if clicked.
-
-**`Note`**
-
-Depending on where it is, it might still get focus. In such case it can be 
-partially disabled separately.
-
-**`See`**
-
-focusable.
-
 #### Defined in
 
-[src/deck-components/Dialog.tsx:29](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/88f245d/src/deck-components/Dialog.tsx#L29)
+[src/deck-components/DialogCheckbox.tsx:11](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/88f245d/src/deck-components/DialogCheckbox.tsx#L11)
 
 ___
 
-### focusable
+### highlightColor
 
-• `Optional` **focusable**: `boolean`
-
-Enables/disables the navigation based focus on button - you won't be able to navigate to
-it via the gamepad or keyboard.
-
-**`Note`**
-
-If set to `false`, it still can be clicked and **WILL** become focused until navigated away.
-Depending on the context of where the button is, even a disabled button can focused.
+• `Optional` **highlightColor**: `string`
 
 #### Defined in
 
-[src/deck-components/Dialog.tsx:39](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/88f245d/src/deck-components/Dialog.tsx#L39)
+[src/deck-components/DialogCheckbox.tsx:14](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/88f245d/src/deck-components/DialogCheckbox.tsx#L14)
 
 ___
 
-### noFocusRing
+### label
 
-• `Optional` **noFocusRing**: `boolean`
-
-Enables/disables the focus around the button.
-
-**`Note`**
-
-Default value depends on context, so setting it to `false` will enable it.
+• `Optional` **label**: `ReactNode`
 
 #### Defined in
 
-[src/deck-components/Dialog.tsx:18](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/88f245d/src/deck-components/Dialog.tsx#L18)
+[src/deck-components/DialogCheckbox.tsx:9](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/88f245d/src/deck-components/DialogCheckbox.tsx#L9)
 
 ___
 
@@ -500,17 +521,47 @@ ___
 
 [src/deck-components/Dialog.tsx:7](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/88f245d/src/deck-components/Dialog.tsx#L7)
 
+___
+
+### tooltip
+
+• `Optional` **tooltip**: `string`
+
+#### Defined in
+
+[src/deck-components/DialogCheckbox.tsx:12](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/88f245d/src/deck-components/DialogCheckbox.tsx#L12)
+
 ## Methods
+
+### onChange
+
+▸ `Optional` **onChange**(`checked`): `void`
+
+#### Parameters
+
+| Name | Type |
+| :------ | :------ |
+| `checked` | `boolean` |
+
+#### Returns
+
+`void`
+
+#### Defined in
+
+[src/deck-components/DialogCheckbox.tsx:8](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/88f245d/src/deck-components/DialogCheckbox.tsx#L8)
+
+___
 
 ### onClick
 
-▸ `Optional` **onClick**(`e`): `void`
+▸ `Optional` **onClick**(`evt`): `void`
 
 #### Parameters
 
 | Name | Type |
 | :------ | :------ |
-| `e` | `MouseEvent` |
+| `evt` | [`Event`]( https://developer.mozilla.org/en-US/docs/Web/API/Event ) |
 
 #### Returns
 
@@ -518,184 +569,4 @@ ___
 
 #### Defined in
 
-[src/deck-components/Dialog.tsx:41](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/88f245d/src/deck-components/Dialog.tsx#L41)
-
-___
-
-### onMouseDown
-
-▸ `Optional` **onMouseDown**(`e`): `void`
-
-#### Parameters
-
-| Name | Type |
-| :------ | :------ |
-| `e` | `MouseEvent` |
-
-#### Returns
-
-`void`
-
-#### Defined in
-
-[src/deck-components/Dialog.tsx:45](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/88f245d/src/deck-components/Dialog.tsx#L45)
-
-___
-
-### onMouseUp
-
-▸ `Optional` **onMouseUp**(`e`): `void`
-
-#### Parameters
-
-| Name | Type |
-| :------ | :------ |
-| `e` | `MouseEvent` |
-
-#### Returns
-
-`void`
-
-#### Defined in
-
-[src/deck-components/Dialog.tsx:46](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/88f245d/src/deck-components/Dialog.tsx#L46)
-
-___
-
-### onPointerCancel
-
-▸ `Optional` **onPointerCancel**(`e`): `void`
-
-#### Parameters
-
-| Name | Type |
-| :------ | :------ |
-| `e` | `PointerEvent` |
-
-#### Returns
-
-`void`
-
-#### Defined in
-
-[src/deck-components/Dialog.tsx:44](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/88f245d/src/deck-components/Dialog.tsx#L44)
-
-___
-
-### onPointerDown
-
-▸ `Optional` **onPointerDown**(`e`): `void`
-
-#### Parameters
-
-| Name | Type |
-| :------ | :------ |
-| `e` | `PointerEvent` |
-
-#### Returns
-
-`void`
-
-#### Defined in
-
-[src/deck-components/Dialog.tsx:42](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/88f245d/src/deck-components/Dialog.tsx#L42)
-
-___
-
-### onPointerUp
-
-▸ `Optional` **onPointerUp**(`e`): `void`
-
-#### Parameters
-
-| Name | Type |
-| :------ | :------ |
-| `e` | `PointerEvent` |
-
-#### Returns
-
-`void`
-
-#### Defined in
-
-[src/deck-components/Dialog.tsx:43](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/88f245d/src/deck-components/Dialog.tsx#L43)
-
-___
-
-### onSubmit
-
-▸ `Optional` **onSubmit**(`e`): `void`
-
-#### Parameters
-
-| Name | Type |
-| :------ | :------ |
-| `e` | `SubmitEvent` |
-
-#### Returns
-
-`void`
-
-#### Defined in
-
-[src/deck-components/Dialog.tsx:50](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/88f245d/src/deck-components/Dialog.tsx#L50)
-
-___
-
-### onTouchCancel
-
-▸ `Optional` **onTouchCancel**(`e`): `void`
-
-#### Parameters
-
-| Name | Type |
-| :------ | :------ |
-| `e` | `TouchEvent` |
-
-#### Returns
-
-`void`
-
-#### Defined in
-
-[src/deck-components/Dialog.tsx:49](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/88f245d/src/deck-components/Dialog.tsx#L49)
-
-___
-
-### onTouchEnd
-
-▸ `Optional` **onTouchEnd**(`e`): `void`
-
-#### Parameters
-
-| Name | Type |
-| :------ | :------ |
-| `e` | `TouchEvent` |
-
-#### Returns
-
-`void`
-
-#### Defined in
-
-[src/deck-components/Dialog.tsx:48](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/88f245d/src/deck-components/Dialog.tsx#L48)
-
-___
-
-### onTouchStart
-
-▸ `Optional` **onTouchStart**(`e`): `void`
-
-#### Parameters
-
-| Name | Type |
-| :------ | :------ |
-| `e` | `TouchEvent` |
-
-#### Returns
-
-`void`
-
-#### Defined in
-
-[src/deck-components/Dialog.tsx:47](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/88f245d/src/deck-components/Dialog.tsx#L47)
+[src/deck-components/DialogCheckbox.tsx:18](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/88f245d/src/deck-components/DialogCheckbox.tsx#L18)

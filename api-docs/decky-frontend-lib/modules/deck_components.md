@@ -28,6 +28,8 @@
 - [DialogButtonPrimary](deck_components.md#dialogbuttonprimary)
 - [DialogButtonProps](deck_components.md#dialogbuttonprops)
 - [DialogButtonSecondary](deck_components.md#dialogbuttonsecondary)
+- [DialogCheckbox](deck_components.md#dialogcheckbox)
+- [DialogCheckboxProps](deck_components.md#dialogcheckboxprops)
 - [DialogCommonProps](deck_components.md#dialogcommonprops)
 - [DialogControlsSection](deck_components.md#dialogcontrolssection)
 - [DialogControlsSectionHeader](deck_components.md#dialogcontrolssectionheader)
@@ -245,6 +247,18 @@ ___
 ### DialogButtonSecondary
 
 Re-exports [DialogButtonSecondary](deck_components_Dialog.md#dialogbuttonsecondary)
+
+___
+
+### DialogCheckbox
+
+Re-exports [DialogCheckbox](deck_components_DialogCheckbox.md#dialogcheckbox)
+
+___
+
+### DialogCheckboxProps
+
+Re-exports [DialogCheckboxProps](../interfaces/deck_components_DialogCheckbox.DialogCheckboxProps.md)
 
 ___
 
