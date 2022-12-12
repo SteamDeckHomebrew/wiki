@@ -6,6 +6,10 @@
 
 ## Table of contents
 
+### Properties
+
+- [WindowStore](deck_components_Router.Router.md#windowstore)
+
 ### Accessors
 
 - [MainRunningApp](deck_components_Router.Router.md#mainrunningapp)
@@ -14,26 +18,24 @@
 ### Methods
 
 - [CloseSideMenus](deck_components_Router.Router.md#closesidemenus)
-- [GetQuickAccessTab](deck_components_Router.Router.md#getquickaccesstab)
 - [Navigate](deck_components_Router.Router.md#navigate)
-- [NavigateBackOrOpenMenu](deck_components_Router.Router.md#navigatebackoropenmenu)
 - [NavigateToAppProperties](deck_components_Router.Router.md#navigatetoappproperties)
-- [NavigateToBugForum](deck_components_Router.Router.md#navigatetobugforum)
+- [NavigateToChat](deck_components_Router.Router.md#navigatetochat)
 - [NavigateToExternalWeb](deck_components_Router.Router.md#navigatetoexternalweb)
-- [NavigateToHelp](deck_components_Router.Router.md#navigatetohelp)
 - [NavigateToInvites](deck_components_Router.Router.md#navigatetoinvites)
-- [NavigateToRunningApp](deck_components_Router.Router.md#navigatetorunningapp)
-- [NavigateToStorage](deck_components_Router.Router.md#navigatetostorage)
-- [NavigateToStore](deck_components_Router.Router.md#navigatetostore)
-- [NavigateToStoreApp](deck_components_Router.Router.md#navigatetostoreapp)
-- [NavigateToStoreFreeToPlay](deck_components_Router.Router.md#navigatetostorefreetoplay)
-- [NavigateToStoreManual](deck_components_Router.Router.md#navigatetostoremanual)
-- [NavigateToStoreNewReleases](deck_components_Router.Router.md#navigatetostorenewreleases)
-- [NavigateToStoreOnSale](deck_components_Router.Router.md#navigatetostoreonsale)
+- [NavigateToLayoutPreview](deck_components_Router.Router.md#navigatetolayoutpreview)
+- [NavigateToLibraryTab](deck_components_Router.Router.md#navigatetolibrarytab)
 - [OpenPowerMenu](deck_components_Router.Router.md#openpowermenu)
-- [OpenQuickAccessMenu](deck_components_Router.Router.md#openquickaccessmenu)
-- [OpenSideMenu](deck_components_Router.Router.md#opensidemenu)
-- [ToggleSideMenu](deck_components_Router.Router.md#togglesidemenu)
+
+## Properties
+
+### WindowStore
+
+• `Optional` **WindowStore**: [`WindowStore`](deck_components_Router.WindowStore.md)
+
+#### Defined in
+
+[src/deck-components/Router.tsx:89](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/f0379e5/src/deck-components/Router.tsx#L89)
 
 ## Accessors
 
@@ -47,7 +49,7 @@
 
 #### Defined in
 
-[src/deck-components/Router.tsx:90](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/767dc2f/src/deck-components/Router.tsx#L90)
+[src/deck-components/Router.tsx:100](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/f0379e5/src/deck-components/Router.tsx#L100)
 
 ___
 
@@ -61,7 +63,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/Router.tsx:89](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/767dc2f/src/deck-components/Router.tsx#L89)
+[src/deck-components/Router.tsx:99](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/f0379e5/src/deck-components/Router.tsx#L99)
 
 ## Methods
 
@@ -75,31 +77,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/Router.tsx:67](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/767dc2f/src/deck-components/Router.tsx#L67)
-
-▸ **CloseSideMenus**(): `void`
-
-#### Returns
-
-`void`
-
-#### Defined in
-
-[src/deck-components/Router.tsx:86](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/767dc2f/src/deck-components/Router.tsx#L86)
-
-___
-
-### GetQuickAccessTab
-
-▸ **GetQuickAccessTab**(): [`QuickAccessTab`](../enums/deck_components_Router.QuickAccessTab.md)
-
-#### Returns
-
-[`QuickAccessTab`](../enums/deck_components_Router.QuickAccessTab.md)
-
-#### Defined in
-
-[src/deck-components/Router.tsx:69](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/767dc2f/src/deck-components/Router.tsx#L69)
+[src/deck-components/Router.tsx:90](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/f0379e5/src/deck-components/Router.tsx#L90)
 
 ___
 
@@ -119,21 +97,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/Router.tsx:70](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/767dc2f/src/deck-components/Router.tsx#L70)
-
-___
-
-### NavigateBackOrOpenMenu
-
-▸ **NavigateBackOrOpenMenu**(): `void`
-
-#### Returns
-
-`void`
-
-#### Defined in
-
-[src/deck-components/Router.tsx:71](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/767dc2f/src/deck-components/Router.tsx#L71)
+[src/deck-components/Router.tsx:91](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/f0379e5/src/deck-components/Router.tsx#L91)
 
 ___
 
@@ -147,13 +111,13 @@ ___
 
 #### Defined in
 
-[src/deck-components/Router.tsx:72](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/767dc2f/src/deck-components/Router.tsx#L72)
+[src/deck-components/Router.tsx:92](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/f0379e5/src/deck-components/Router.tsx#L92)
 
 ___
 
-### NavigateToBugForum
+### NavigateToChat
 
-▸ **NavigateToBugForum**(): `void`
+▸ **NavigateToChat**(): `void`
 
 #### Returns
 
@@ -161,7 +125,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/Router.tsx:73](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/767dc2f/src/deck-components/Router.tsx#L73)
+[src/deck-components/Router.tsx:95](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/f0379e5/src/deck-components/Router.tsx#L95)
 
 ___
 
@@ -181,21 +145,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/Router.tsx:74](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/767dc2f/src/deck-components/Router.tsx#L74)
-
-___
-
-### NavigateToHelp
-
-▸ **NavigateToHelp**(): `void`
-
-#### Returns
-
-`void`
-
-#### Defined in
-
-[src/deck-components/Router.tsx:75](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/767dc2f/src/deck-components/Router.tsx#L75)
+[src/deck-components/Router.tsx:93](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/f0379e5/src/deck-components/Router.tsx#L93)
 
 ___
 
@@ -209,19 +159,19 @@ ___
 
 #### Defined in
 
-[src/deck-components/Router.tsx:76](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/767dc2f/src/deck-components/Router.tsx#L76)
+[src/deck-components/Router.tsx:94](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/f0379e5/src/deck-components/Router.tsx#L94)
 
 ___
 
-### NavigateToRunningApp
+### NavigateToLayoutPreview
 
-▸ **NavigateToRunningApp**(`replace?`): `void`
+▸ **NavigateToLayoutPreview**(`e`): `void`
 
 #### Parameters
 
 | Name | Type |
 | :------ | :------ |
-| `replace?` | `boolean` |
+| `e` | `unknown` |
 
 #### Returns
 
@@ -229,27 +179,13 @@ ___
 
 #### Defined in
 
-[src/deck-components/Router.tsx:77](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/767dc2f/src/deck-components/Router.tsx#L77)
+[src/deck-components/Router.tsx:97](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/f0379e5/src/deck-components/Router.tsx#L97)
 
 ___
 
-### NavigateToStorage
+### NavigateToLibraryTab
 
-▸ **NavigateToStorage**(): `void`
-
-#### Returns
-
-`void`
-
-#### Defined in
-
-[src/deck-components/Router.tsx:78](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/767dc2f/src/deck-components/Router.tsx#L78)
-
-___
-
-### NavigateToStore
-
-▸ **NavigateToStore**(): `void`
+▸ **NavigateToLibraryTab**(): `void`
 
 #### Returns
 
@@ -257,83 +193,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/Router.tsx:79](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/767dc2f/src/deck-components/Router.tsx#L79)
-
-___
-
-### NavigateToStoreApp
-
-▸ **NavigateToStoreApp**(`appId`): `void`
-
-#### Parameters
-
-| Name | Type |
-| :------ | :------ |
-| `appId` | `string` \| `number` |
-
-#### Returns
-
-`void`
-
-#### Defined in
-
-[src/deck-components/Router.tsx:80](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/767dc2f/src/deck-components/Router.tsx#L80)
-
-___
-
-### NavigateToStoreFreeToPlay
-
-▸ **NavigateToStoreFreeToPlay**(): `void`
-
-#### Returns
-
-`void`
-
-#### Defined in
-
-[src/deck-components/Router.tsx:81](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/767dc2f/src/deck-components/Router.tsx#L81)
-
-___
-
-### NavigateToStoreManual
-
-▸ **NavigateToStoreManual**(): `void`
-
-#### Returns
-
-`void`
-
-#### Defined in
-
-[src/deck-components/Router.tsx:82](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/767dc2f/src/deck-components/Router.tsx#L82)
-
-___
-
-### NavigateToStoreNewReleases
-
-▸ **NavigateToStoreNewReleases**(): `void`
-
-#### Returns
-
-`void`
-
-#### Defined in
-
-[src/deck-components/Router.tsx:83](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/767dc2f/src/deck-components/Router.tsx#L83)
-
-___
-
-### NavigateToStoreOnSale
-
-▸ **NavigateToStoreOnSale**(): `void`
-
-#### Returns
-
-`void`
-
-#### Defined in
-
-[src/deck-components/Router.tsx:84](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/767dc2f/src/deck-components/Router.tsx#L84)
+[src/deck-components/Router.tsx:96](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/f0379e5/src/deck-components/Router.tsx#L96)
 
 ___
 
@@ -353,64 +213,4 @@ ___
 
 #### Defined in
 
-[src/deck-components/Router.tsx:88](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/767dc2f/src/deck-components/Router.tsx#L88)
-
-___
-
-### OpenQuickAccessMenu
-
-▸ **OpenQuickAccessMenu**(`quickAccessTab?`): `void`
-
-#### Parameters
-
-| Name | Type |
-| :------ | :------ |
-| `quickAccessTab?` | [`QuickAccessTab`](../enums/deck_components_Router.QuickAccessTab.md) |
-
-#### Returns
-
-`void`
-
-#### Defined in
-
-[src/deck-components/Router.tsx:68](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/767dc2f/src/deck-components/Router.tsx#L68)
-
-___
-
-### OpenSideMenu
-
-▸ **OpenSideMenu**(`sideMenu`): `void`
-
-#### Parameters
-
-| Name | Type |
-| :------ | :------ |
-| `sideMenu` | [`SideMenu`](../enums/deck_components_Router.SideMenu.md) |
-
-#### Returns
-
-`void`
-
-#### Defined in
-
-[src/deck-components/Router.tsx:87](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/767dc2f/src/deck-components/Router.tsx#L87)
-
-___
-
-### ToggleSideMenu
-
-▸ **ToggleSideMenu**(`sideMenu`): `void`
-
-#### Parameters
-
-| Name | Type |
-| :------ | :------ |
-| `sideMenu` | [`SideMenu`](../enums/deck_components_Router.SideMenu.md) |
-
-#### Returns
-
-`void`
-
-#### Defined in
-
-[src/deck-components/Router.tsx:85](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/767dc2f/src/deck-components/Router.tsx#L85)
+[src/deck-components/Router.tsx:98](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/f0379e5/src/deck-components/Router.tsx#L98)

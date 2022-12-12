@@ -12,7 +12,11 @@
 
 ### Interfaces
 
+- [MenuStore](../interfaces/deck_components_Router.MenuStore.md)
+- [Navigation](../interfaces/deck_components_Router.Navigation.md)
 - [Router](../interfaces/deck_components_Router.Router.md)
+- [WindowRouter](../interfaces/deck_components_Router.WindowRouter.md)
+- [WindowStore](../interfaces/deck_components_Router.WindowStore.md)
 
 ### Type Aliases
 
@@ -20,6 +24,7 @@
 
 ### Variables
 
+- [Navigation](deck_components_Router.md#navigation)
 - [Router](deck_components_Router.md#router)
 
 ## Type Aliases
@@ -39,9 +44,21 @@
 
 #### Defined in
 
-[src/deck-components/Router.tsx:59](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/767dc2f/src/deck-components/Router.tsx#L59)
+[src/deck-components/Router.tsx:59](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/f0379e5/src/deck-components/Router.tsx#L59)
 
 ## Variables
+
+### Navigation
+
+• **Navigation**: [`Navigation`](deck_components_Router.md#navigation)
+
+#### Defined in
+
+[src/deck-components/Router.tsx:110](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/f0379e5/src/deck-components/Router.tsx#L110)
+
+[src/deck-components/Router.tsx:128](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/f0379e5/src/deck-components/Router.tsx#L128)
+
+___
 
 ### Router
 
@@ -49,6 +66,6 @@
 
 #### Defined in
 
-[src/deck-components/Router.tsx:66](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/767dc2f/src/deck-components/Router.tsx#L66)
+[src/deck-components/Router.tsx:88](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/f0379e5/src/deck-components/Router.tsx#L88)
 
-[src/deck-components/Router.tsx:93](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/767dc2f/src/deck-components/Router.tsx#L93)
+[src/deck-components/Router.tsx:103](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/f0379e5/src/deck-components/Router.tsx#L103)

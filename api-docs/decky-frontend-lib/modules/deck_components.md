@@ -62,10 +62,12 @@
 - [MenuItem](deck_components.md#menuitem)
 - [MenuItemProps](deck_components.md#menuitemprops)
 - [MenuProps](deck_components.md#menuprops)
+- [MenuStore](deck_components.md#menustore)
 - [ModalRoot](deck_components.md#modalroot)
 - [ModalRootProps](deck_components.md#modalrootprops)
 - [MultiDropdownOption](deck_components.md#multidropdownoption)
 - [NavEntryPositionPreferences](deck_components.md#naventrypositionpreferences)
+- [Navigation](deck_components.md#navigation)
 - [NotchLabel](deck_components.md#notchlabel)
 - [PanelSection](deck_components.md#panelsection)
 - [PanelSectionProps](deck_components.md#panelsectionprops)
@@ -102,6 +104,8 @@
 - [ToggleFieldProps](deck_components.md#togglefieldprops)
 - [ToggleProps](deck_components.md#toggleprops)
 - [Window](deck_components.md#window)
+- [WindowRouter](deck_components.md#windowrouter)
+- [WindowStore](deck_components.md#windowstore)
 - [appDetailsClasses](deck_components.md#appdetailsclasses)
 - [appDetailsHeaderClasses](deck_components.md#appdetailsheaderclasses)
 - [gamepadDialogClasses](deck_components.md#gamepaddialogclasses)
@@ -454,6 +458,12 @@ Re-exports [MenuProps](../interfaces/deck_components_Menu.MenuProps.md)
 
 ___
 
+### MenuStore
+
+Re-exports [MenuStore](../interfaces/deck_components_Router.MenuStore.md)
+
+___
+
 ### ModalRoot
 
 Re-exports [ModalRoot](deck_components_Modal.md#modalroot)
@@ -475,6 +485,12 @@ ___
 ### NavEntryPositionPreferences
 
 Re-exports [NavEntryPositionPreferences](../enums/deck_components_FooterLegend.NavEntryPositionPreferences.md)
+
+___
+
+### Navigation
+
+Re-exports [Navigation](deck_components_Router.md#navigation)
 
 ___
 
@@ -691,6 +707,18 @@ ___
 ### Window
 
 Re-exports [Window](../interfaces/deck_components_SteamClient.Window.md)
+
+___
+
+### WindowRouter
+
+Re-exports [WindowRouter](../interfaces/deck_components_Router.WindowRouter.md)
+
+___
+
+### WindowStore
+
+Re-exports [WindowStore](../interfaces/deck_components_Router.WindowStore.md)
 
 ___
 
