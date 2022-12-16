@@ -63,7 +63,7 @@ ___
 
 ### showModal
 
-▸ **showModal**(`modal`, `parent?`, `props?`): [`Promise`]( https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise )<[`ShowModalResult`](../interfaces/deck_components_Modal.ShowModalResult.md)\>
+▸ **showModal**(`modal`, `parent?`, `props?`): [`ShowModalResult`](../interfaces/deck_components_Modal.ShowModalResult.md)
 
 #### Parameters
 
@@ -75,8 +75,8 @@ ___
 
 #### Returns
 
-[`Promise`]( https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise )<[`ShowModalResult`](../interfaces/deck_components_Modal.ShowModalResult.md)\>
+[`ShowModalResult`](../interfaces/deck_components_Modal.ShowModalResult.md)
 
 #### Defined in
 
-[src/deck-components/Modal.tsx:66](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/f0379e5/src/deck-components/Modal.tsx#L66)
+[src/deck-components/Modal.tsx:65](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/727fcc8/src/deck-components/Modal.tsx#L65)
