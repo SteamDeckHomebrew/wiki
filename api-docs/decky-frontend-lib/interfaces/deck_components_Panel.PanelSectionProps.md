@@ -8,10 +8,21 @@
 
 ### Properties
 
+- [children](deck_components_Panel.PanelSectionProps.md#children)
 - [spinner](deck_components_Panel.PanelSectionProps.md#spinner)
 - [title](deck_components_Panel.PanelSectionProps.md#title)
 
 ## Properties
+
+### children
+
+• `Optional` **children**: `ReactNode`
+
+#### Defined in
+
+[src/deck-components/Panel.tsx:8](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/0b50f2c/src/deck-components/Panel.tsx#L8)
+
+___
 
 ### spinner
 
@@ -19,7 +30,7 @@
 
 #### Defined in
 
-[src/deck-components/Panel.tsx:7](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/727fcc8/src/deck-components/Panel.tsx#L7)
+[src/deck-components/Panel.tsx:7](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/0b50f2c/src/deck-components/Panel.tsx#L7)
 
 ___
 
@@ -29,4 +40,4 @@ ___
 
 #### Defined in
 
-[src/deck-components/Panel.tsx:6](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/727fcc8/src/deck-components/Panel.tsx#L6)
+[src/deck-components/Panel.tsx:6](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/0b50f2c/src/deck-components/Panel.tsx#L6)

@@ -7,6 +7,7 @@
 ### Interfaces
 
 - [PanelSectionProps](../interfaces/deck_components_Panel.PanelSectionProps.md)
+- [PanelSectionRowProps](../interfaces/deck_components_Panel.PanelSectionRowProps.md)
 
 ### Functions
 
@@ -44,7 +45,7 @@ ___
 
 | Name | Type |
 | :------ | :------ |
-| `props` | `Object` |
+| `props` | `PropsWithChildren`<[`PanelSectionRowProps`](../interfaces/deck_components_Panel.PanelSectionRowProps.md)\> |
 | `context?` | `any` |
 
 #### Returns

@@ -38,7 +38,7 @@
 
 #### Defined in
 
-[src/deck-components/Carousel.ts:6](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/727fcc8/src/deck-components/Carousel.ts#L6)
+[src/deck-components/Carousel.ts:6](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/0b50f2c/src/deck-components/Carousel.ts#L6)
 
 ___
 
@@ -48,7 +48,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/Carousel.ts:7](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/727fcc8/src/deck-components/Carousel.ts#L7)
+[src/deck-components/Carousel.ts:7](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/0b50f2c/src/deck-components/Carousel.ts#L7)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/Carousel.ts:8](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/727fcc8/src/deck-components/Carousel.ts#L8)
+[src/deck-components/Carousel.ts:8](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/0b50f2c/src/deck-components/Carousel.ts#L8)
 
 ___
 
@@ -96,7 +96,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/Carousel.ts:9](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/727fcc8/src/deck-components/Carousel.ts#L9)
+[src/deck-components/Carousel.ts:9](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/0b50f2c/src/deck-components/Carousel.ts#L9)
 
 ___
 
@@ -120,7 +120,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/Carousel.ts:10](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/727fcc8/src/deck-components/Carousel.ts#L10)
+[src/deck-components/Carousel.ts:10](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/0b50f2c/src/deck-components/Carousel.ts#L10)
 
 ___
 
@@ -145,7 +145,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/Carousel.ts:11](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/727fcc8/src/deck-components/Carousel.ts#L11)
+[src/deck-components/Carousel.ts:11](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/0b50f2c/src/deck-components/Carousel.ts#L11)
 
 ___
 
@@ -169,7 +169,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/Carousel.ts:12](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/727fcc8/src/deck-components/Carousel.ts#L12)
+[src/deck-components/Carousel.ts:12](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/0b50f2c/src/deck-components/Carousel.ts#L12)
 
 ___
 
@@ -179,7 +179,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/Carousel.ts:13](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/727fcc8/src/deck-components/Carousel.ts#L13)
+[src/deck-components/Carousel.ts:13](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/0b50f2c/src/deck-components/Carousel.ts#L13)
 
 ___
 
@@ -189,7 +189,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/Carousel.ts:14](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/727fcc8/src/deck-components/Carousel.ts#L14)
+[src/deck-components/Carousel.ts:14](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/0b50f2c/src/deck-components/Carousel.ts#L14)
 
 ___
 
@@ -199,7 +199,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/Carousel.ts:15](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/727fcc8/src/deck-components/Carousel.ts#L15)
+[src/deck-components/Carousel.ts:15](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/0b50f2c/src/deck-components/Carousel.ts#L15)
 
 ___
 
@@ -209,7 +209,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/Carousel.ts:16](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/727fcc8/src/deck-components/Carousel.ts#L16)
+[src/deck-components/Carousel.ts:16](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/0b50f2c/src/deck-components/Carousel.ts#L16)
 
 ___
 
@@ -219,7 +219,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/Carousel.ts:17](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/727fcc8/src/deck-components/Carousel.ts#L17)
+[src/deck-components/Carousel.ts:17](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/0b50f2c/src/deck-components/Carousel.ts#L17)
 
 ___
 
@@ -229,7 +229,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/Carousel.ts:18](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/727fcc8/src/deck-components/Carousel.ts#L18)
+[src/deck-components/Carousel.ts:18](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/0b50f2c/src/deck-components/Carousel.ts#L18)
 
 ___
 
@@ -239,7 +239,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/Carousel.ts:19](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/727fcc8/src/deck-components/Carousel.ts#L19)
+[src/deck-components/Carousel.ts:19](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/0b50f2c/src/deck-components/Carousel.ts#L19)
 
 ___
 
@@ -249,4 +249,4 @@ ___
 
 #### Defined in
 
-[src/deck-components/Carousel.ts:20](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/727fcc8/src/deck-components/Carousel.ts#L20)
+[src/deck-components/Carousel.ts:20](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/0b50f2c/src/deck-components/Carousel.ts#L20)

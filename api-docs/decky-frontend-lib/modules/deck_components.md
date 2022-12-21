@@ -72,6 +72,7 @@
 - [PanelSection](deck_components.md#panelsection)
 - [PanelSectionProps](deck_components.md#panelsectionprops)
 - [PanelSectionRow](deck_components.md#panelsectionrow)
+- [PanelSectionRowProps](deck_components.md#panelsectionrowprops)
 - [ProgressBar](deck_components.md#progressbar)
 - [ProgressBarItem](deck_components.md#progressbaritem)
 - [ProgressBarItemProps](deck_components.md#progressbaritemprops)
@@ -515,6 +516,12 @@ ___
 ### PanelSectionRow
 
 Re-exports [PanelSectionRow](deck_components_Panel.md#panelsectionrow)
+
+___
+
+### PanelSectionRowProps
+
+Re-exports [PanelSectionRowProps](../interfaces/deck_components_Panel.PanelSectionRowProps.md)
 
 ___
 

@@ -38,4 +38,4 @@ an object with the current ReactRouter params
 
 #### Defined in
 
-[src/deck-hooks/useParams.ts:13](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/727fcc8/src/deck-hooks/useParams.ts#L13)
+[src/deck-hooks/useParams.ts:13](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/0b50f2c/src/deck-hooks/useParams.ts#L13)
