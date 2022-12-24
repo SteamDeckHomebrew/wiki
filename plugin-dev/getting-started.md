@@ -2,7 +2,7 @@
 title: Getting Started
 description: How-To guide about developing a plugin
 published: true
-date: 2022-10-23T01:38:37.624Z
+date: 2022-12-24T20:58:04.089Z
 tags: plugin-dev
 editor: markdown
 dateCreated: 2022-07-03T19:33:01.141Z
@@ -14,7 +14,7 @@ A typical Plugin is structured like this:
 
 ```
 ├── assets/           # Assets such as images and other resources
-├── defaults/					# Plain-text configs and templates (not required)
+├── defaults/				 # Plain-text configs and templates (not required)
 ├── main.py           # Backend Python code
 ├── plugin.json       # Metadata file
 ├── README.md         # Project Readme
