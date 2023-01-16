@@ -30,7 +30,7 @@ Individual tab objects for the Tabs component
 
 #### Defined in
 
-[src/deck-components/Tabs.tsx:21](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/58b69f0/src/deck-components/Tabs.tsx#L21)
+[src/deck-components/Tabs.tsx:21](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/4affd4a/src/deck-components/Tabs.tsx#L21)
 
 ___
 
@@ -40,7 +40,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/Tabs.tsx:22](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/58b69f0/src/deck-components/Tabs.tsx#L22)
+[src/deck-components/Tabs.tsx:22](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/4affd4a/src/deck-components/Tabs.tsx#L22)
 
 ___
 
@@ -50,7 +50,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/Tabs.tsx:18](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/58b69f0/src/deck-components/Tabs.tsx#L18)
+[src/deck-components/Tabs.tsx:18](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/4affd4a/src/deck-components/Tabs.tsx#L18)
 
 ___
 
@@ -68,7 +68,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/Tabs.tsx:20](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/58b69f0/src/deck-components/Tabs.tsx#L20)
+[src/deck-components/Tabs.tsx:20](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/4affd4a/src/deck-components/Tabs.tsx#L20)
 
 ___
 
@@ -78,4 +78,4 @@ ___
 
 #### Defined in
 
-[src/deck-components/Tabs.tsx:19](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/58b69f0/src/deck-components/Tabs.tsx#L19)
+[src/deck-components/Tabs.tsx:19](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/4affd4a/src/deck-components/Tabs.tsx#L19)
