@@ -24,7 +24,7 @@ is not properly set by Steam for non-steam game shortcuts, so it defaults to 0 f
 
 #### Defined in
 
-[src/deck-components/SteamClient.ts:204](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/aac2d52/src/deck-components/SteamClient.ts#L204)
+[src/deck-components/SteamClient.ts:204](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/2e66e5a/src/deck-components/SteamClient.ts#L204)
 
 ___
 
@@ -34,7 +34,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/SteamClient.ts:203](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/aac2d52/src/deck-components/SteamClient.ts#L203)
+[src/deck-components/SteamClient.ts:203](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/2e66e5a/src/deck-components/SteamClient.ts#L203)
 
 ___
 
@@ -44,4 +44,4 @@ ___
 
 #### Defined in
 
-[src/deck-components/SteamClient.ts:202](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/aac2d52/src/deck-components/SteamClient.ts#L202)
+[src/deck-components/SteamClient.ts:202](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/2e66e5a/src/deck-components/SteamClient.ts#L202)

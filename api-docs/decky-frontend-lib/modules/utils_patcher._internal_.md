@@ -31,4 +31,4 @@
 
 #### Defined in
 
-[src/utils/patcher.ts:9](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/aac2d52/src/utils/patcher.ts#L9)
+[src/utils/patcher.ts:9](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/2e66e5a/src/utils/patcher.ts#L9)
