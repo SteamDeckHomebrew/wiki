@@ -24,7 +24,6 @@
 
 ### Variables
 
-- [InternalNavigators](deck_components_Router.md#internalnavigators)
 - [Navigation](deck_components_Router.md#navigation)
 - [Router](deck_components_Router.md#router)
 
@@ -45,19 +44,9 @@
 
 #### Defined in
 
-[src/deck-components/Router.tsx:59](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/2e66e5a/src/deck-components/Router.tsx#L59)
+[src/deck-components/Router.tsx:60](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/58b69f0/src/deck-components/Router.tsx#L60)
 
 ## Variables
-
-### InternalNavigators
-
-• `Const` **InternalNavigators**: `any`
-
-#### Defined in
-
-[src/deck-components/Router.tsx:111](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/2e66e5a/src/deck-components/Router.tsx#L111)
-
-___
 
 ### Navigation
 
@@ -65,9 +54,9 @@ ___
 
 #### Defined in
 
-[src/deck-components/Router.tsx:120](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/2e66e5a/src/deck-components/Router.tsx#L120)
+[src/deck-components/Router.tsx:111](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/58b69f0/src/deck-components/Router.tsx#L111)
 
-[src/deck-components/Router.tsx:138](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/2e66e5a/src/deck-components/Router.tsx#L138)
+[src/deck-components/Router.tsx:129](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/58b69f0/src/deck-components/Router.tsx#L129)
 
 ___
 
@@ -77,6 +66,6 @@ ___
 
 #### Defined in
 
-[src/deck-components/Router.tsx:88](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/2e66e5a/src/deck-components/Router.tsx#L88)
+[src/deck-components/Router.tsx:89](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/58b69f0/src/deck-components/Router.tsx#L89)
 
-[src/deck-components/Router.tsx:103](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/2e66e5a/src/deck-components/Router.tsx#L103)
+[src/deck-components/Router.tsx:104](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/58b69f0/src/deck-components/Router.tsx#L104)

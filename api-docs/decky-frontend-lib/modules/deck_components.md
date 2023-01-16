@@ -53,7 +53,6 @@
 - [GamepadButton](deck_components.md#gamepadbutton)
 - [GamepadEvent](deck_components.md#gamepadevent)
 - [GamepadEventDetail](deck_components.md#gamepadeventdetail)
-- [InternalNavigators](deck_components.md#internalnavigators)
 - [LifetimeNotification](deck_components.md#lifetimenotification)
 - [Marquee](deck_components.md#marquee)
 - [MarqueeProps](deck_components.md#marqueeprops)
@@ -403,12 +402,6 @@ ___
 ### GamepadEventDetail
 
 Re-exports [GamepadEventDetail](../interfaces/deck_components_FooterLegend.GamepadEventDetail.md)
-
-___
-
-### InternalNavigators
-
-Re-exports [InternalNavigators](deck_components_Router.md#internalnavigators)
 
 ___
 
