@@ -1,8 +1,8 @@
 ---
 title: Root Access
 description: What root access means for plugins
-published: false
-date: 2023-01-17T00:40:18.024Z
+published: true
+date: 2023-01-17T04:56:52.092Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-17T00:40:18.024Z
