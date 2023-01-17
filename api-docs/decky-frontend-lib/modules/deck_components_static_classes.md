@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[src/deck-components/static-classes.ts:476](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/4affd4a/src/deck-components/static-classes.ts#L476)
+[src/deck-components/static-classes.ts:476](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/9723854/src/deck-components/static-classes.ts#L476)
 
 ___
 
@@ -40,7 +40,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/static-classes.ts:473](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/4affd4a/src/deck-components/static-classes.ts#L473)
+[src/deck-components/static-classes.ts:473](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/9723854/src/deck-components/static-classes.ts#L473)
 
 ___
 
@@ -50,7 +50,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/static-classes.ts:458](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/4affd4a/src/deck-components/static-classes.ts#L458)
+[src/deck-components/static-classes.ts:458](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/9723854/src/deck-components/static-classes.ts#L458)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/static-classes.ts:470](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/4affd4a/src/deck-components/static-classes.ts#L470)
+[src/deck-components/static-classes.ts:470](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/9723854/src/deck-components/static-classes.ts#L470)
 
 ___
 
@@ -70,7 +70,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/static-classes.ts:467](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/4affd4a/src/deck-components/static-classes.ts#L467)
+[src/deck-components/static-classes.ts:467](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/9723854/src/deck-components/static-classes.ts#L467)
 
 ___
 
@@ -80,7 +80,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/static-classes.ts:461](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/4affd4a/src/deck-components/static-classes.ts#L461)
+[src/deck-components/static-classes.ts:461](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/9723854/src/deck-components/static-classes.ts#L461)
 
 ___
 
@@ -90,7 +90,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/static-classes.ts:444](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/4affd4a/src/deck-components/static-classes.ts#L444)
+[src/deck-components/static-classes.ts:444](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/9723854/src/deck-components/static-classes.ts#L444)
 
 ___
 
@@ -104,7 +104,7 @@ please use scrollPanelClasses instead
 
 #### Defined in
 
-[src/deck-components/static-classes.ts:457](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/4affd4a/src/deck-components/static-classes.ts#L457)
+[src/deck-components/static-classes.ts:457](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/9723854/src/deck-components/static-classes.ts#L457)
 
 ___
 
@@ -114,7 +114,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/static-classes.ts:451](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/4affd4a/src/deck-components/static-classes.ts#L451)
+[src/deck-components/static-classes.ts:451](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/9723854/src/deck-components/static-classes.ts#L451)
 
 ___
 
@@ -128,7 +128,7 @@ please use quickAccessMenuClasses instead
 
 #### Defined in
 
-[src/deck-components/static-classes.ts:450](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/4affd4a/src/deck-components/static-classes.ts#L450)
+[src/deck-components/static-classes.ts:450](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/9723854/src/deck-components/static-classes.ts#L450)
 
 ___
 
@@ -138,4 +138,4 @@ ___
 
 #### Defined in
 
-[src/deck-components/static-classes.ts:464](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/4affd4a/src/deck-components/static-classes.ts#L464)
+[src/deck-components/static-classes.ts:464](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/9723854/src/deck-components/static-classes.ts#L464)

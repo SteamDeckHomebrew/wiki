@@ -18,4 +18,4 @@
 
 #### Defined in
 
-[src/deck-components/Panel.tsx:23](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/4affd4a/src/deck-components/Panel.tsx#L23)
+[src/deck-components/Panel.tsx:23](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/9723854/src/deck-components/Panel.tsx#L23)

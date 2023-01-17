@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[src/deck-components/Item.tsx:8](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/4affd4a/src/deck-components/Item.tsx#L8)
+[src/deck-components/Item.tsx:8](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/9723854/src/deck-components/Item.tsx#L8)
 
 ___
 
@@ -50,7 +50,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/ToggleField.tsx:7](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/4affd4a/src/deck-components/ToggleField.tsx#L7)
+[src/deck-components/ToggleField.tsx:7](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/9723854/src/deck-components/ToggleField.tsx#L7)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/Item.tsx:5](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/4affd4a/src/deck-components/Item.tsx#L5)
+[src/deck-components/Item.tsx:5](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/9723854/src/deck-components/Item.tsx#L5)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/ToggleField.tsx:8](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/4affd4a/src/deck-components/ToggleField.tsx#L8)
+[src/deck-components/ToggleField.tsx:8](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/9723854/src/deck-components/ToggleField.tsx#L8)
 
 ___
 
@@ -88,7 +88,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/Item.tsx:7](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/4affd4a/src/deck-components/Item.tsx#L7)
+[src/deck-components/Item.tsx:7](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/9723854/src/deck-components/Item.tsx#L7)
 
 ___
 
@@ -102,7 +102,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/Item.tsx:9](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/4affd4a/src/deck-components/Item.tsx#L9)
+[src/deck-components/Item.tsx:9](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/9723854/src/deck-components/Item.tsx#L9)
 
 ___
 
@@ -116,7 +116,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/Item.tsx:4](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/4affd4a/src/deck-components/Item.tsx#L4)
+[src/deck-components/Item.tsx:4](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/9723854/src/deck-components/Item.tsx#L4)
 
 ___
 
@@ -130,7 +130,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/Item.tsx:6](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/4affd4a/src/deck-components/Item.tsx#L6)
+[src/deck-components/Item.tsx:6](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/9723854/src/deck-components/Item.tsx#L6)
 
 ___
 
@@ -144,7 +144,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/Item.tsx:10](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/4affd4a/src/deck-components/Item.tsx#L10)
+[src/deck-components/Item.tsx:10](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/9723854/src/deck-components/Item.tsx#L10)
 
 ## Methods
 
@@ -164,4 +164,4 @@ ___
 
 #### Defined in
 
-[src/deck-components/ToggleField.tsx:9](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/4affd4a/src/deck-components/ToggleField.tsx#L9)
+[src/deck-components/ToggleField.tsx:9](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/9723854/src/deck-components/ToggleField.tsx#L9)

@@ -36,7 +36,7 @@
 
 #### Defined in
 
-[src/deck-components/Router.tsx:126](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/4affd4a/src/deck-components/Router.tsx#L126)
+[src/deck-components/Router.tsx:126](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/9723854/src/deck-components/Router.tsx#L126)
 
 ___
 
@@ -56,7 +56,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/Router.tsx:112](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/4affd4a/src/deck-components/Router.tsx#L112)
+[src/deck-components/Router.tsx:112](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/9723854/src/deck-components/Router.tsx#L112)
 
 ___
 
@@ -70,7 +70,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/Router.tsx:113](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/4affd4a/src/deck-components/Router.tsx#L113)
+[src/deck-components/Router.tsx:113](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/9723854/src/deck-components/Router.tsx#L113)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/Router.tsx:114](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/4affd4a/src/deck-components/Router.tsx#L114)
+[src/deck-components/Router.tsx:114](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/9723854/src/deck-components/Router.tsx#L114)
 
 ___
 
@@ -98,7 +98,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/Router.tsx:117](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/4affd4a/src/deck-components/Router.tsx#L117)
+[src/deck-components/Router.tsx:117](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/9723854/src/deck-components/Router.tsx#L117)
 
 ___
 
@@ -118,7 +118,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/Router.tsx:115](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/4affd4a/src/deck-components/Router.tsx#L115)
+[src/deck-components/Router.tsx:115](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/9723854/src/deck-components/Router.tsx#L115)
 
 ___
 
@@ -132,7 +132,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/Router.tsx:116](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/4affd4a/src/deck-components/Router.tsx#L116)
+[src/deck-components/Router.tsx:116](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/9723854/src/deck-components/Router.tsx#L116)
 
 ___
 
@@ -152,7 +152,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/Router.tsx:119](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/4affd4a/src/deck-components/Router.tsx#L119)
+[src/deck-components/Router.tsx:119](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/9723854/src/deck-components/Router.tsx#L119)
 
 ___
 
@@ -166,7 +166,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/Router.tsx:118](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/4affd4a/src/deck-components/Router.tsx#L118)
+[src/deck-components/Router.tsx:118](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/9723854/src/deck-components/Router.tsx#L118)
 
 ___
 
@@ -186,7 +186,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/Router.tsx:120](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/4affd4a/src/deck-components/Router.tsx#L120)
+[src/deck-components/Router.tsx:120](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/9723854/src/deck-components/Router.tsx#L120)
 
 ___
 
@@ -207,7 +207,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/Router.tsx:121](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/4affd4a/src/deck-components/Router.tsx#L121)
+[src/deck-components/Router.tsx:121](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/9723854/src/deck-components/Router.tsx#L121)
 
 ___
 
@@ -221,7 +221,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/Router.tsx:124](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/4affd4a/src/deck-components/Router.tsx#L124)
+[src/deck-components/Router.tsx:124](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/9723854/src/deck-components/Router.tsx#L124)
 
 ___
 
@@ -241,7 +241,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/Router.tsx:125](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/4affd4a/src/deck-components/Router.tsx#L125)
+[src/deck-components/Router.tsx:125](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/9723854/src/deck-components/Router.tsx#L125)
 
 ___
 
@@ -261,7 +261,7 @@ ___
 
 #### Defined in
 
-[src/deck-components/Router.tsx:123](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/4affd4a/src/deck-components/Router.tsx#L123)
+[src/deck-components/Router.tsx:123](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/9723854/src/deck-components/Router.tsx#L123)
 
 ___
 
@@ -281,4 +281,4 @@ ___
 
 #### Defined in
 
-[src/deck-components/Router.tsx:122](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/4affd4a/src/deck-components/Router.tsx#L122)
+[src/deck-components/Router.tsx:122](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/9723854/src/deck-components/Router.tsx#L122)
