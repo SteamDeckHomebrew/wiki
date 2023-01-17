@@ -2,7 +2,7 @@
 title: Testing
 description: Instructions for testing new Decky Loader versions and plugins
 published: true
-date: 2023-01-17T16:57:10.412Z
+date: 2023-01-17T23:32:52.129Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-17T15:59:00.047Z
@@ -35,7 +35,7 @@ New Decky Loader updates require review from a Decky Loader developer and an una
 1. Make sure to thoroughly test all new features implemented in the PR. For example, if the store is updated with a new search functionality, try all sorts of search terms to make sure it works.
 1. Once you are done with your review, open the pull request on GitHub.
 1. Click the Files changed tab just below the title.
-1. In the Files changed tab, look at the top-right corner for a Review changes dropdown. Click it and write your review. **Make sure to include your SteamOS branch (ex. Main, Beta)!**
+1. In the Files changed tab, look at the top-right corner for a Review changes dropdown. Click it and write your review. **Make sure to include your SteamOS branch (ex. Stable, Beta)!**
 1. Submit your review. Feel free to change your SteamOS branch and make another review if you would like to do so.
 
 # Decky Plugins
