@@ -2,7 +2,7 @@
 title: Plugin Browser
 description: How to download and update plugins
 published: true
-date: 2022-07-03T20:05:10.874Z
+date: 2023-01-23T00:42:16.624Z
 tags: user-guide
 editor: markdown
 dateCreated: 2022-04-08T14:35:07.820Z
