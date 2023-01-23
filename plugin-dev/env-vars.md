@@ -2,80 +2,38 @@
 title: Environment Variables
 description: Environment Variables Decky provides for as plugins running as subprocesses.
 published: false
-date: 2023-01-23T00:49:40.156Z
+date: 2023-01-23T00:52:05.304Z
 tags: plugin-dev, env-vars
 editor: markdown
 dateCreated: 2023-01-23T00:49:40.156Z
 ---
 
-# Getting Started
+# Environment Variables
 
-A typical Plugin is structured like this: 
+From Pre-Release 2.5.2-pre1 onward, decky provides these environment variables to each plugin and any other subprocesses it runs from python.
 
-```
-├── assets/           # Assets such as images and other resources
-├── defaults/				 # Plain-text configs and templates (not required)
-├── main.py           # Backend Python code
-├── plugin.json       # Metadata file
-├── README.md         # Project Readme
-├── LICENSE           # License
-├── src/              # Frontend TypeScript code
-    ├── index.tsx
-```
+- `HOME`: the home directory of the effective user running the process
+  + e.g.: if `root` was specified in the plugin's flags it will be `/root` otherwise the user whose home decky resides in
+- `USER`: the effective username running the process
+  + e.g.: it would be `root` if `root` was specified in the plugin's flags otherwise the user whose home decky resides in
+- `DECKY_VERSION`: the version of the decky loader
+  + e.g.: `v2.5.0-pre1`
+- `DECKY_USER`: the user whose home decky resides in
+  + e.g.: `deck`
+- `DECKY_HOME`: the root of the decky folder
+  + e.g.: `/home/deck/homebrew`
+- `DECKY_PLUGIN_SETTINGS_DIR`: the recommended path in which to store configuration files (created automatically)
+  + e.g.: `/home/deck/homebrew/settings/decky-plugin-template`
+- `DECKY_PLUGIN_RUNTIME_DIR`: the recommended path in which to store runtime data (created automatically)
+  + e.g.: `/home/deck/homebrew/data/decky-plugin-template`
+- `DECKY_PLUGIN_LOG_DIR`: the recommended path in which to store persistent logs (created automatically)
+  + e.g.: `/home/deck/homebrew/logs/decky-plugin-template`
+- `DECKY_PLUGIN_DIR`: the root of the plugin's directory
+  + e.g.: `/home/deck/homebrew/plugins/decky-plugin-template`
+- `DECKY_PLUGIN_NAME`: the name of the plugin as specified in the `plugin.json`
+  + e.g.: `Example Plugin`
+- `DECKY_PLUGIN_VERSION`: the version of the plugin as specified in the `package.json`
+  + e.g.: `0.0.1`
+- `DECKY_PLUGIN_AUTHOR`: the author of the plugin as specified in the `plugin.json`
+  + e.g.: `John Doe`
 
-The easiest way to get this structure and get started with development is by visiting the [Decky Plugin Template Repository](https://github.com/SteamDeckHomebrew/decky-plugin-template) and clicking on `Use this Template`.
-
-Afterwards you can clone your newly created repository and get started.
-
-## Metadata
-
-The plugin.json file is used by decky and the store to determine how things are being displayed and how the plugin behaves. It's required for every plugin.
-
-The following fields can be specified:
-- `"name"`: The name of the Plugin as it will be displayed in the Decky menu
-- `"author"`: The author of the Plugin. That's you!
-- `"flags"`: An array of flags that get used to configure various behaviour for your plugin
-    - `"debug"`: Enable various debug capabilities such as auto reload for your plugin
-    - `"root"`: Tells decky to run your plugin as root. **ONLY DO THIS WHEN ACTUALLY REQUIRED**
-- `"publish"`: A object containing various information used by the Decky Store
-    - `"tags"`: A list of tags that describe your plugin
-    - `"description"`: A short description that will be displayed with your Plugin on the store
-    - `"image"`: A link to an image that will be embedded in the store page
-    
-## Frontend
-
-The frontend is a collection of TypeScript files where `index.tsx` is the main entry point.
-In there you can find a `definePlugin` method that returns an object containing the plugin name, content and icon for your plugin.
-
-In the `Content` object, the interface of the Plugin and various init code can be defined.
-
-
-### API
-
-To talk to the backend, simply use the `ServerAPI` object passed in with the `Content` variable.
-
-The following code with call a method called `my_backend_function` in your backend and passes two parameters `parameter_a` and `parameter_b` with the values `"Hello"` and `"World"` to it.
-```ts
-serverAPI!.callPluginMethod("my_backend_function", { "parameter_a": "Hello", "parameter_b": "World" });
-```
-
-## Backend
-
-### Python
-
-In a python backend, all your plugin functions can be defined like this:
-```python
-class Plugin:
-		# The backend function that we called above
-    async def my_backend_function(self, parameter_a, parameter_b):
-        print(f"{parameter_a} {parameter_b}")
-
-		# Function that can contain long-running code that will stay alive for the entire duration of your plugin
-    async def _main(self):
-        pass
-        
-     # Function used to clean up a plugin when it's told to unload by Decky-Loader
-    async def _unload(self):
-        pass
-
-```
