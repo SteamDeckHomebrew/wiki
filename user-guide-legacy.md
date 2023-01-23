@@ -1,8 +1,8 @@
 ---
 title: Legacy User Guides
 description: 
-published: true
-date: 2022-07-03T20:36:43.682Z
+published: false
+date: 2023-01-23T00:44:30.738Z
 tags: plugin-dev-legacy
 editor: markdown
 dateCreated: 2022-07-03T20:12:09.097Z
