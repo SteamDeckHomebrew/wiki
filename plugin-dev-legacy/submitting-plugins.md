@@ -2,7 +2,7 @@
 title: Submitting plugins
 description: 
 published: true
-date: 2022-07-03T19:07:25.072Z
+date: 2023-01-23T00:46:34.047Z
 tags: plugin-dev-legacy
 editor: markdown
 dateCreated: 2022-04-08T23:41:09.102Z
