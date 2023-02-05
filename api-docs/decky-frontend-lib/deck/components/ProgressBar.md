@@ -1,9 +1,3 @@
----
-title: "deck-components/ProgressBar"
-editor: "markdown"
-published: true
----
-
 # deck-components/ProgressBar
 
 ## Index

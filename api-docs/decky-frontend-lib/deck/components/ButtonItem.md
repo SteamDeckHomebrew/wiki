@@ -1,9 +1,3 @@
----
-title: "deck-components/ButtonItem"
-editor: "markdown"
-published: true
----
-
 # deck-components/ButtonItem
 
 ## Index

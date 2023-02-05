@@ -1,9 +1,3 @@
----
-title: "deck-components/DialogCheckbox"
-editor: "markdown"
-published: true
----
-
 # deck-components/DialogCheckbox
 
 ## Index

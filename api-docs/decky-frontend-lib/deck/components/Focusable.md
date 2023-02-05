@@ -1,9 +1,3 @@
----
-title: "deck-components/Focusable"
-editor: "markdown"
-published: true
----
-
 # deck-components/Focusable
 
 ## Index

@@ -1,9 +1,3 @@
----
-title: "custom-components/SuspensefulImage"
-editor: "markdown"
-published: true
----
-
 # custom-components/SuspensefulImage
 
 ## Index

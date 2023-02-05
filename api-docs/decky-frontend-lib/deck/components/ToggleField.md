@@ -1,9 +1,3 @@
----
-title: "deck-components/ToggleField"
-editor: "markdown"
-published: true
----
-
 # deck-components/ToggleField
 
 ## Index

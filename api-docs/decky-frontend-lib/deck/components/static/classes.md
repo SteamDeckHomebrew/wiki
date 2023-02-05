@@ -1,9 +1,3 @@
----
-title: "deck-components/static-classes"
-editor: "markdown"
-published: true
----
-
 # deck-components/static-classes
 
 ## Index

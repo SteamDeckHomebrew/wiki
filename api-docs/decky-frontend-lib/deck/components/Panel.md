@@ -1,9 +1,3 @@
----
-title: "deck-components/Panel"
-editor: "markdown"
-published: true
----
-
 # deck-components/Panel
 
 ## Index

@@ -1,9 +1,3 @@
----
-title: "deck-components/Tabs"
-editor: "markdown"
-published: true
----
-
 # deck-components/Tabs
 
 ## Index

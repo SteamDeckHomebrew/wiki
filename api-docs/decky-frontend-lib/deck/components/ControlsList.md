@@ -1,9 +1,3 @@
----
-title: "deck-components/ControlsList"
-editor: "markdown"
-published: true
----
-
 # deck-components/ControlsList
 
 ## Index

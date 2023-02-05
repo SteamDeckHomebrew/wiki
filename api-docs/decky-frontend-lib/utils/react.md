@@ -1,9 +1,3 @@
----
-title: "utils/react"
-editor: "markdown"
-published: true
----
-
 # utils/react
 
 ## Index

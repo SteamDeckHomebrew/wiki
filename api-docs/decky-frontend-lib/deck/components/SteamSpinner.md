@@ -1,9 +1,3 @@
----
-title: "deck-components/SteamSpinner"
-editor: "markdown"
-published: true
----
-
 # deck-components/SteamSpinner
 
 ## Index

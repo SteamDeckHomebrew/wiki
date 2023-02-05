@@ -1,9 +1,3 @@
----
-title: "<internal>"
-editor: "markdown"
-published: true
----
-
 # \<internal\>
 
 ## Index

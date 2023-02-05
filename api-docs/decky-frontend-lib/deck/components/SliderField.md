@@ -1,9 +1,3 @@
----
-title: "deck-components/SliderField"
-editor: "markdown"
-published: true
----
-
 # deck-components/SliderField
 
 ## Index

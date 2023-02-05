@@ -1,9 +1,3 @@
----
-title: "deck-components/Toggle"
-editor: "markdown"
-published: true
----
-
 # deck-components/Toggle
 
 ## Index

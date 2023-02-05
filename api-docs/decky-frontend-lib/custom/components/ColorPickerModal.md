@@ -1,9 +1,3 @@
----
-title: "custom-components/ColorPickerModal"
-editor: "markdown"
-published: true
----
-
 # custom-components/ColorPickerModal
 
 ## Index

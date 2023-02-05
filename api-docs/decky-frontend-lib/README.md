@@ -1,9 +1,3 @@
----
-title: "decky-frontend-lib"
-editor: "markdown"
-published: true
----
-
 # Decky Frontend Library
 
 Library used to develop plugins used for use with [decky-loader](https://github.com/SteamDeckHomebrew/decky-loader).

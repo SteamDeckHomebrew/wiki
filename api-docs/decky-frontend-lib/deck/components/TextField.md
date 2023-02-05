@@ -1,9 +1,3 @@
----
-title: "deck-components/TextField"
-editor: "markdown"
-published: true
----
-
 # deck-components/TextField
 
 ## Index

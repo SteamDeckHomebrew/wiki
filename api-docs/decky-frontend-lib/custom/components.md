@@ -1,9 +1,3 @@
----
-title: "custom-components"
-editor: "markdown"
-published: true
----
-
 # custom-components
 
 ## Index

@@ -1,9 +1,3 @@
----
-title: "deck-components/Dialog"
-editor: "markdown"
-published: true
----
-
 # deck-components/Dialog
 
 ## Index

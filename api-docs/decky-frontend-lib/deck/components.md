@@ -1,9 +1,3 @@
----
-title: "deck-components"
-editor: "markdown"
-published: true
----
-
 # deck-components
 
 ## Index

@@ -1,9 +1,3 @@
----
-title: "deck-components/Marquee"
-editor: "markdown"
-published: true
----
-
 # deck-components/Marquee
 
 ## Index

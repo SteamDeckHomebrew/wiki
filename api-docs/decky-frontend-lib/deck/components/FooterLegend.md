@@ -1,9 +1,3 @@
----
-title: "deck-components/FooterLegend"
-editor: "markdown"
-published: true
----
-
 # deck-components/FooterLegend
 
 ## Index

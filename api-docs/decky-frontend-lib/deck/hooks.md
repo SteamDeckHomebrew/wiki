@@ -1,9 +1,3 @@
----
-title: "deck-hooks"
-editor: "markdown"
-published: true
----
-
 # deck-hooks
 
 ## Index

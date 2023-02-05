@@ -1,9 +1,3 @@
----
-title: "deck-components/Modal"
-editor: "markdown"
-published: true
----
-
 # deck-components/Modal
 
 ## Index

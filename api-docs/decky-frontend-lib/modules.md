@@ -1,9 +1,3 @@
----
-title: "decky-frontend-lib"
-editor: "markdown"
-published: true
----
-
 [Readme](README)
 
 # decky-frontend-lib

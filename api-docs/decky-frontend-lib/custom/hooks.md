@@ -1,9 +1,3 @@
----
-title: "custom-hooks"
-editor: "markdown"
-published: true
----
-
 # custom-hooks
 
 ## Index

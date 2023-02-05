@@ -1,9 +1,3 @@
----
-title: "deck-components/Dropdown"
-editor: "markdown"
-published: true
----
-
 # deck-components/Dropdown
 
 ## Index

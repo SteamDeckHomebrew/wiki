@@ -1,9 +1,3 @@
----
-title: "utils/patcher"
-editor: "markdown"
-published: true
----
-
 # utils/patcher
 
 ## Index

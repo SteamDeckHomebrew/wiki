@@ -1,9 +1,3 @@
----
-title: "deck-components/Router"
-editor: "markdown"
-published: true
----
-
 # deck-components/Router
 
 ## Index

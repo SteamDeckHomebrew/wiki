@@ -1,9 +1,3 @@
----
-title: "deck-components/SteamClient"
-editor: "markdown"
-published: true
----
-
 # deck-components/SteamClient
 
 ## Index

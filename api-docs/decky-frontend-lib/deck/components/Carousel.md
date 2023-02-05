@@ -1,9 +1,3 @@
----
-title: "deck-components/Carousel"
-editor: "markdown"
-published: true
----
-
 # deck-components/Carousel
 
 ## Index

@@ -1,9 +1,3 @@
----
-title: "deck-components/FocusRing"
-editor: "markdown"
-published: true
----
-
 # deck-components/FocusRing
 
 ## Index

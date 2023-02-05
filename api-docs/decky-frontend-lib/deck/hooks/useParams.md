@@ -1,9 +1,3 @@
----
-title: "deck-hooks/useParams"
-editor: "markdown"
-published: true
----
-
 # deck-hooks/useParams
 
 ## Index

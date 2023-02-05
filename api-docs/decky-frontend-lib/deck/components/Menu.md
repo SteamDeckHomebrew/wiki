@@ -1,9 +1,3 @@
----
-title: "deck-components/Menu"
-editor: "markdown"
-published: true
----
-
 # deck-components/Menu
 
 ## Index

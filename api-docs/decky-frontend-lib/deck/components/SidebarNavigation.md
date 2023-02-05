@@ -1,9 +1,3 @@
----
-title: "deck-components/SidebarNavigation"
-editor: "markdown"
-published: true
----
-
 # deck-components/SidebarNavigation
 
 ## Index

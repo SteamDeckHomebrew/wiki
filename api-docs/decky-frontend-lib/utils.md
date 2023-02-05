@@ -1,9 +1,3 @@
----
-title: "utils"
-editor: "markdown"
-published: true
----
-
 # utils
 
 ## Index
