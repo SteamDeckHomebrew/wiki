@@ -22,7 +22,7 @@ published: true
 
 #### Hierarchy
 
-- [DialogButtonProps](deck/components/Dialog#dialogbuttonprops).**ButtonProps**
+- [`DialogButtonProps`](Dialog#dialogbuttonprops).**ButtonProps**
 
 #### Index
 
@@ -65,31 +65,25 @@ published: true
 
 #### Properties
 
-##### actionDescriptionMap
+##### actionDescriptionMap?
 
-```ts
-actionDescriptionMap?: ActionDescriptionMap
-```
+> [`ActionDescriptionMap`](FooterLegend#actiondescriptionmap)
 
-Inherited from: [DialogButtonProps](deck/components/Dialog#dialogbuttonprops).[actionDescriptionMap](deck/components/Dialog#actiondescriptionmap)
+Inherited from: [DialogButtonProps](Dialog#dialogbuttonprops).[actionDescriptionMap](Dialog#actiondescriptionmap)
 
 Defined in:  [src/deck-components/FooterLegend.ts:51](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/FooterLegend.ts#L51)
 
-##### className
+##### className?
 
-```ts
-className?: string
-```
+> `string`
 
-Inherited from: [DialogButtonProps](deck/components/Dialog#dialogbuttonprops).[className](deck/components/Dialog#classname)
+Inherited from: [DialogButtonProps](Dialog#dialogbuttonprops).[className](Dialog#classname)
 
 Defined in:  [src/deck-components/Dialog.tsx:8](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Dialog.tsx#L8)
 
-##### disabled
+##### disabled?
 
-```ts
-disabled?: boolean
-```
+> `boolean`
 
 Disables the button - assigned `on*` methods will not be invoked if clicked.
 
@@ -102,15 +96,13 @@ partially disabled separately.
 
 focusable.
 
-Inherited from: [DialogButtonProps](deck/components/Dialog#dialogbuttonprops).[disabled](deck/components/Dialog#disabled)
+Inherited from: [DialogButtonProps](Dialog#dialogbuttonprops).[disabled](Dialog#disabled)
 
 Defined in:  [src/deck-components/Dialog.tsx:29](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Dialog.tsx#L29)
 
-##### focusable
+##### focusable?
 
-```ts
-focusable?: boolean
-```
+> `boolean`
 
 Enables/disables the navigation based focus on button - you won't be able to navigate to
 it via the gamepad or keyboard.
@@ -120,15 +112,13 @@ it via the gamepad or keyboard.
 If set to `false`, it still can be clicked and **WILL** become focused until navigated away.
 Depending on the context of where the button is, even a disabled button can focused.
 
-Inherited from: [DialogButtonProps](deck/components/Dialog#dialogbuttonprops).[focusable](deck/components/Dialog#focusable)
+Inherited from: [DialogButtonProps](Dialog#dialogbuttonprops).[focusable](Dialog#focusable)
 
 Defined in:  [src/deck-components/Dialog.tsx:39](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Dialog.tsx#L39)
 
-##### noFocusRing
+##### noFocusRing?
 
-```ts
-noFocusRing?: boolean
-```
+> `boolean`
 
 Enables/disables the focus around the button.
 
@@ -136,388 +126,326 @@ Enables/disables the focus around the button.
 
 Default value depends on context, so setting it to `false` will enable it.
 
-Inherited from: [DialogButtonProps](deck/components/Dialog#dialogbuttonprops).[noFocusRing](deck/components/Dialog#nofocusring)
+Inherited from: [DialogButtonProps](Dialog#dialogbuttonprops).[noFocusRing](Dialog#nofocusring)
 
 Defined in:  [src/deck-components/Dialog.tsx:18](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Dialog.tsx#L18)
 
-##### onButtonDown
+##### onButtonDown?
 
-```ts
-onButtonDown?: Function
-```
+> `Function`
 
 ###### Type declaration
 
 ####### Signature
 
 ```ts
-(evt: GamepadEvent): void
+(evt: GamepadEvent): void;
 ```
 
-> ####### Parameters
->
-> | Name | Type |
-> | :------ | :------ |
-> | `evt` | [GamepadEvent](deck/components/FooterLegend#gamepadevent) |
->
-> ####### Returns
->
-> `void`
->
-> Defined in:  [src/deck-components/FooterLegend.ts:57](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/FooterLegend.ts#L57)
->
+####### Parameters
 
-Inherited from: [DialogButtonProps](deck/components/Dialog#dialogbuttonprops).[onButtonDown](deck/components/Dialog#onbuttondown)
+| Name | Type |
+| :------ | :------ |
+| `evt` | [`GamepadEvent`](FooterLegend#gamepadevent) |
+
+####### Returns
+
+`void`
+
+Inherited from: [DialogButtonProps](Dialog#dialogbuttonprops).[onButtonDown](Dialog#onbuttondown)
 
 Defined in:  [src/deck-components/FooterLegend.ts:57](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/FooterLegend.ts#L57)
 
-##### onButtonUp
+##### onButtonUp?
 
-```ts
-onButtonUp?: Function
-```
+> `Function`
 
 ###### Type declaration
 
 ####### Signature
 
 ```ts
-(evt: GamepadEvent): void
+(evt: GamepadEvent): void;
 ```
 
-> ####### Parameters
->
-> | Name | Type |
-> | :------ | :------ |
-> | `evt` | [GamepadEvent](deck/components/FooterLegend#gamepadevent) |
->
-> ####### Returns
->
-> `void`
->
-> Defined in:  [src/deck-components/FooterLegend.ts:58](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/FooterLegend.ts#L58)
->
+####### Parameters
 
-Inherited from: [DialogButtonProps](deck/components/Dialog#dialogbuttonprops).[onButtonUp](deck/components/Dialog#onbuttonup)
+| Name | Type |
+| :------ | :------ |
+| `evt` | [`GamepadEvent`](FooterLegend#gamepadevent) |
+
+####### Returns
+
+`void`
+
+Inherited from: [DialogButtonProps](Dialog#dialogbuttonprops).[onButtonUp](Dialog#onbuttonup)
 
 Defined in:  [src/deck-components/FooterLegend.ts:58](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/FooterLegend.ts#L58)
 
-##### onCancelActionDescription
+##### onCancelActionDescription?
 
-```ts
-onCancelActionDescription?: ReactNode
-```
+> `ReactNode`
 
-Inherited from: [DialogButtonProps](deck/components/Dialog#dialogbuttonprops).[onCancelActionDescription](deck/components/Dialog#oncancelactiondescription)
+Inherited from: [DialogButtonProps](Dialog#dialogbuttonprops).[onCancelActionDescription](Dialog#oncancelactiondescription)
 
 Defined in:  [src/deck-components/FooterLegend.ts:53](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/FooterLegend.ts#L53)
 
-##### onCancelButton
+##### onCancelButton?
 
-```ts
-onCancelButton?: Function
-```
+> `Function`
 
 ###### Type declaration
 
 ####### Signature
 
 ```ts
-(evt: GamepadEvent): void
+(evt: GamepadEvent): void;
 ```
 
-> ####### Parameters
->
-> | Name | Type |
-> | :------ | :------ |
-> | `evt` | [GamepadEvent](deck/components/FooterLegend#gamepadevent) |
->
-> ####### Returns
->
-> `void`
->
-> Defined in:  [src/deck-components/FooterLegend.ts:60](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/FooterLegend.ts#L60)
->
+####### Parameters
 
-Inherited from: [DialogButtonProps](deck/components/Dialog#dialogbuttonprops).[onCancelButton](deck/components/Dialog#oncancelbutton)
+| Name | Type |
+| :------ | :------ |
+| `evt` | [`GamepadEvent`](FooterLegend#gamepadevent) |
+
+####### Returns
+
+`void`
+
+Inherited from: [DialogButtonProps](Dialog#dialogbuttonprops).[onCancelButton](Dialog#oncancelbutton)
 
 Defined in:  [src/deck-components/FooterLegend.ts:60](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/FooterLegend.ts#L60)
 
-##### onGamepadBlur
+##### onGamepadBlur?
 
-```ts
-onGamepadBlur?: Function
-```
+> `Function`
 
 ###### Type declaration
 
 ####### Signature
 
 ```ts
-(evt: GamepadEvent): void
+(evt: GamepadEvent): void;
 ```
 
-> ####### Parameters
->
-> | Name | Type |
-> | :------ | :------ |
-> | `evt` | [GamepadEvent](deck/components/FooterLegend#gamepadevent) |
->
-> ####### Returns
->
-> `void`
->
-> Defined in:  [src/deck-components/FooterLegend.ts:65](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/FooterLegend.ts#L65)
->
+####### Parameters
 
-Inherited from: [DialogButtonProps](deck/components/Dialog#dialogbuttonprops).[onGamepadBlur](deck/components/Dialog#ongamepadblur)
+| Name | Type |
+| :------ | :------ |
+| `evt` | [`GamepadEvent`](FooterLegend#gamepadevent) |
+
+####### Returns
+
+`void`
+
+Inherited from: [DialogButtonProps](Dialog#dialogbuttonprops).[onGamepadBlur](Dialog#ongamepadblur)
 
 Defined in:  [src/deck-components/FooterLegend.ts:65](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/FooterLegend.ts#L65)
 
-##### onGamepadDirection
+##### onGamepadDirection?
 
-```ts
-onGamepadDirection?: Function
-```
+> `Function`
 
 ###### Type declaration
 
 ####### Signature
 
 ```ts
-(evt: GamepadEvent): void
+(evt: GamepadEvent): void;
 ```
 
-> ####### Parameters
->
-> | Name | Type |
-> | :------ | :------ |
-> | `evt` | [GamepadEvent](deck/components/FooterLegend#gamepadevent) |
->
-> ####### Returns
->
-> `void`
->
-> Defined in:  [src/deck-components/FooterLegend.ts:63](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/FooterLegend.ts#L63)
->
+####### Parameters
 
-Inherited from: [DialogButtonProps](deck/components/Dialog#dialogbuttonprops).[onGamepadDirection](deck/components/Dialog#ongamepaddirection)
+| Name | Type |
+| :------ | :------ |
+| `evt` | [`GamepadEvent`](FooterLegend#gamepadevent) |
+
+####### Returns
+
+`void`
+
+Inherited from: [DialogButtonProps](Dialog#dialogbuttonprops).[onGamepadDirection](Dialog#ongamepaddirection)
 
 Defined in:  [src/deck-components/FooterLegend.ts:63](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/FooterLegend.ts#L63)
 
-##### onGamepadFocus
+##### onGamepadFocus?
 
-```ts
-onGamepadFocus?: Function
-```
+> `Function`
 
 ###### Type declaration
 
 ####### Signature
 
 ```ts
-(evt: GamepadEvent): void
+(evt: GamepadEvent): void;
 ```
 
-> ####### Parameters
->
-> | Name | Type |
-> | :------ | :------ |
-> | `evt` | [GamepadEvent](deck/components/FooterLegend#gamepadevent) |
->
-> ####### Returns
->
-> `void`
->
-> Defined in:  [src/deck-components/FooterLegend.ts:64](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/FooterLegend.ts#L64)
->
+####### Parameters
 
-Inherited from: [DialogButtonProps](deck/components/Dialog#dialogbuttonprops).[onGamepadFocus](deck/components/Dialog#ongamepadfocus)
+| Name | Type |
+| :------ | :------ |
+| `evt` | [`GamepadEvent`](FooterLegend#gamepadevent) |
+
+####### Returns
+
+`void`
+
+Inherited from: [DialogButtonProps](Dialog#dialogbuttonprops).[onGamepadFocus](Dialog#ongamepadfocus)
 
 Defined in:  [src/deck-components/FooterLegend.ts:64](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/FooterLegend.ts#L64)
 
-##### onMenuActionDescription
+##### onMenuActionDescription?
 
-```ts
-onMenuActionDescription?: ReactNode
-```
+> `ReactNode`
 
-Inherited from: [DialogButtonProps](deck/components/Dialog#dialogbuttonprops).[onMenuActionDescription](deck/components/Dialog#onmenuactiondescription)
+Inherited from: [DialogButtonProps](Dialog#dialogbuttonprops).[onMenuActionDescription](Dialog#onmenuactiondescription)
 
 Defined in:  [src/deck-components/FooterLegend.ts:56](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/FooterLegend.ts#L56)
 
-##### onMenuButton
+##### onMenuButton?
 
-```ts
-onMenuButton?: Function
-```
+> `Function`
 
 ###### Type declaration
 
 ####### Signature
 
 ```ts
-(evt: GamepadEvent): void
+(evt: GamepadEvent): void;
 ```
 
-> ####### Parameters
->
-> | Name | Type |
-> | :------ | :------ |
-> | `evt` | [GamepadEvent](deck/components/FooterLegend#gamepadevent) |
->
-> ####### Returns
->
-> `void`
->
-> Defined in:  [src/deck-components/FooterLegend.ts:66](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/FooterLegend.ts#L66)
->
+####### Parameters
 
-Inherited from: [DialogButtonProps](deck/components/Dialog#dialogbuttonprops).[onMenuButton](deck/components/Dialog#onmenubutton)
+| Name | Type |
+| :------ | :------ |
+| `evt` | [`GamepadEvent`](FooterLegend#gamepadevent) |
+
+####### Returns
+
+`void`
+
+Inherited from: [DialogButtonProps](Dialog#dialogbuttonprops).[onMenuButton](Dialog#onmenubutton)
 
 Defined in:  [src/deck-components/FooterLegend.ts:66](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/FooterLegend.ts#L66)
 
-##### onOKActionDescription
+##### onOKActionDescription?
 
-```ts
-onOKActionDescription?: ReactNode
-```
+> `ReactNode`
 
-Inherited from: [DialogButtonProps](deck/components/Dialog#dialogbuttonprops).[onOKActionDescription](deck/components/Dialog#onokactiondescription)
+Inherited from: [DialogButtonProps](Dialog#dialogbuttonprops).[onOKActionDescription](Dialog#onokactiondescription)
 
 Defined in:  [src/deck-components/FooterLegend.ts:52](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/FooterLegend.ts#L52)
 
-##### onOKButton
+##### onOKButton?
 
-```ts
-onOKButton?: Function
-```
+> `Function`
 
 ###### Type declaration
 
 ####### Signature
 
 ```ts
-(evt: GamepadEvent): void
+(evt: GamepadEvent): void;
 ```
 
-> ####### Parameters
->
-> | Name | Type |
-> | :------ | :------ |
-> | `evt` | [GamepadEvent](deck/components/FooterLegend#gamepadevent) |
->
-> ####### Returns
->
-> `void`
->
-> Defined in:  [src/deck-components/FooterLegend.ts:59](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/FooterLegend.ts#L59)
->
+####### Parameters
 
-Inherited from: [DialogButtonProps](deck/components/Dialog#dialogbuttonprops).[onOKButton](deck/components/Dialog#onokbutton)
+| Name | Type |
+| :------ | :------ |
+| `evt` | [`GamepadEvent`](FooterLegend#gamepadevent) |
+
+####### Returns
+
+`void`
+
+Inherited from: [DialogButtonProps](Dialog#dialogbuttonprops).[onOKButton](Dialog#onokbutton)
 
 Defined in:  [src/deck-components/FooterLegend.ts:59](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/FooterLegend.ts#L59)
 
-##### onOptionsActionDescription
+##### onOptionsActionDescription?
 
-```ts
-onOptionsActionDescription?: ReactNode
-```
+> `ReactNode`
 
-Inherited from: [DialogButtonProps](deck/components/Dialog#dialogbuttonprops).[onOptionsActionDescription](deck/components/Dialog#onoptionsactiondescription)
+Inherited from: [DialogButtonProps](Dialog#dialogbuttonprops).[onOptionsActionDescription](Dialog#onoptionsactiondescription)
 
 Defined in:  [src/deck-components/FooterLegend.ts:55](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/FooterLegend.ts#L55)
 
-##### onOptionsButton
+##### onOptionsButton?
 
-```ts
-onOptionsButton?: Function
-```
+> `Function`
 
 ###### Type declaration
 
 ####### Signature
 
 ```ts
-(evt: GamepadEvent): void
+(evt: GamepadEvent): void;
 ```
 
-> ####### Parameters
->
-> | Name | Type |
-> | :------ | :------ |
-> | `evt` | [GamepadEvent](deck/components/FooterLegend#gamepadevent) |
->
-> ####### Returns
->
-> `void`
->
-> Defined in:  [src/deck-components/FooterLegend.ts:62](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/FooterLegend.ts#L62)
->
+####### Parameters
 
-Inherited from: [DialogButtonProps](deck/components/Dialog#dialogbuttonprops).[onOptionsButton](deck/components/Dialog#onoptionsbutton)
+| Name | Type |
+| :------ | :------ |
+| `evt` | [`GamepadEvent`](FooterLegend#gamepadevent) |
+
+####### Returns
+
+`void`
+
+Inherited from: [DialogButtonProps](Dialog#dialogbuttonprops).[onOptionsButton](Dialog#onoptionsbutton)
 
 Defined in:  [src/deck-components/FooterLegend.ts:62](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/FooterLegend.ts#L62)
 
-##### onSecondaryActionDescription
+##### onSecondaryActionDescription?
 
-```ts
-onSecondaryActionDescription?: ReactNode
-```
+> `ReactNode`
 
-Inherited from: [DialogButtonProps](deck/components/Dialog#dialogbuttonprops).[onSecondaryActionDescription](deck/components/Dialog#onsecondaryactiondescription)
+Inherited from: [DialogButtonProps](Dialog#dialogbuttonprops).[onSecondaryActionDescription](Dialog#onsecondaryactiondescription)
 
 Defined in:  [src/deck-components/FooterLegend.ts:54](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/FooterLegend.ts#L54)
 
-##### onSecondaryButton
+##### onSecondaryButton?
 
-```ts
-onSecondaryButton?: Function
-```
+> `Function`
 
 ###### Type declaration
 
 ####### Signature
 
 ```ts
-(evt: GamepadEvent): void
+(evt: GamepadEvent): void;
 ```
 
-> ####### Parameters
->
-> | Name | Type |
-> | :------ | :------ |
-> | `evt` | [GamepadEvent](deck/components/FooterLegend#gamepadevent) |
->
-> ####### Returns
->
-> `void`
->
-> Defined in:  [src/deck-components/FooterLegend.ts:61](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/FooterLegend.ts#L61)
->
+####### Parameters
 
-Inherited from: [DialogButtonProps](deck/components/Dialog#dialogbuttonprops).[onSecondaryButton](deck/components/Dialog#onsecondarybutton)
+| Name | Type |
+| :------ | :------ |
+| `evt` | [`GamepadEvent`](FooterLegend#gamepadevent) |
+
+####### Returns
+
+`void`
+
+Inherited from: [DialogButtonProps](Dialog#dialogbuttonprops).[onSecondaryButton](Dialog#onsecondarybutton)
 
 Defined in:  [src/deck-components/FooterLegend.ts:61](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/FooterLegend.ts#L61)
 
-##### style
+##### style?
 
-```ts
-style?: CSSProperties
-```
+> `CSSProperties`
 
-Inherited from: [DialogButtonProps](deck/components/Dialog#dialogbuttonprops).[style](deck/components/Dialog#style)
+Inherited from: [DialogButtonProps](Dialog#dialogbuttonprops).[style](Dialog#style)
 
 Defined in:  [src/deck-components/Dialog.tsx:7](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Dialog.tsx#L7)
 
 #### Methods
 
-##### onClick()
+##### onClick()?
 
 ###### Signature
 
 ```ts
-Optional onClick(e: MouseEvent): void
+Optional onClick(e: MouseEvent): void;
 ```
 
 ###### Parameters
@@ -530,16 +458,16 @@ Optional onClick(e: MouseEvent): void
 
 `void`
 
-Inherited from: [DialogButtonProps](deck/components/Dialog#dialogbuttonprops).[onClick](deck/components/Dialog#onclick)
+Inherited from: [DialogButtonProps](Dialog#dialogbuttonprops).[onClick](Dialog#onclick)
 
 Defined in:  [src/deck-components/Dialog.tsx:41](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Dialog.tsx#L41)
 
-##### onMouseDown()
+##### onMouseDown()?
 
 ###### Signature
 
 ```ts
-Optional onMouseDown(e: MouseEvent): void
+Optional onMouseDown(e: MouseEvent): void;
 ```
 
 ###### Parameters
@@ -552,16 +480,16 @@ Optional onMouseDown(e: MouseEvent): void
 
 `void`
 
-Inherited from: [DialogButtonProps](deck/components/Dialog#dialogbuttonprops).[onMouseDown](deck/components/Dialog#onmousedown)
+Inherited from: [DialogButtonProps](Dialog#dialogbuttonprops).[onMouseDown](Dialog#onmousedown)
 
 Defined in:  [src/deck-components/Dialog.tsx:45](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Dialog.tsx#L45)
 
-##### onMouseUp()
+##### onMouseUp()?
 
 ###### Signature
 
 ```ts
-Optional onMouseUp(e: MouseEvent): void
+Optional onMouseUp(e: MouseEvent): void;
 ```
 
 ###### Parameters
@@ -574,16 +502,16 @@ Optional onMouseUp(e: MouseEvent): void
 
 `void`
 
-Inherited from: [DialogButtonProps](deck/components/Dialog#dialogbuttonprops).[onMouseUp](deck/components/Dialog#onmouseup)
+Inherited from: [DialogButtonProps](Dialog#dialogbuttonprops).[onMouseUp](Dialog#onmouseup)
 
 Defined in:  [src/deck-components/Dialog.tsx:46](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Dialog.tsx#L46)
 
-##### onPointerCancel()
+##### onPointerCancel()?
 
 ###### Signature
 
 ```ts
-Optional onPointerCancel(e: PointerEvent): void
+Optional onPointerCancel(e: PointerEvent): void;
 ```
 
 ###### Parameters
@@ -596,16 +524,16 @@ Optional onPointerCancel(e: PointerEvent): void
 
 `void`
 
-Inherited from: [DialogButtonProps](deck/components/Dialog#dialogbuttonprops).[onPointerCancel](deck/components/Dialog#onpointercancel)
+Inherited from: [DialogButtonProps](Dialog#dialogbuttonprops).[onPointerCancel](Dialog#onpointercancel)
 
 Defined in:  [src/deck-components/Dialog.tsx:44](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Dialog.tsx#L44)
 
-##### onPointerDown()
+##### onPointerDown()?
 
 ###### Signature
 
 ```ts
-Optional onPointerDown(e: PointerEvent): void
+Optional onPointerDown(e: PointerEvent): void;
 ```
 
 ###### Parameters
@@ -618,16 +546,16 @@ Optional onPointerDown(e: PointerEvent): void
 
 `void`
 
-Inherited from: [DialogButtonProps](deck/components/Dialog#dialogbuttonprops).[onPointerDown](deck/components/Dialog#onpointerdown)
+Inherited from: [DialogButtonProps](Dialog#dialogbuttonprops).[onPointerDown](Dialog#onpointerdown)
 
 Defined in:  [src/deck-components/Dialog.tsx:42](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Dialog.tsx#L42)
 
-##### onPointerUp()
+##### onPointerUp()?
 
 ###### Signature
 
 ```ts
-Optional onPointerUp(e: PointerEvent): void
+Optional onPointerUp(e: PointerEvent): void;
 ```
 
 ###### Parameters
@@ -640,16 +568,16 @@ Optional onPointerUp(e: PointerEvent): void
 
 `void`
 
-Inherited from: [DialogButtonProps](deck/components/Dialog#dialogbuttonprops).[onPointerUp](deck/components/Dialog#onpointerup)
+Inherited from: [DialogButtonProps](Dialog#dialogbuttonprops).[onPointerUp](Dialog#onpointerup)
 
 Defined in:  [src/deck-components/Dialog.tsx:43](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Dialog.tsx#L43)
 
-##### onSubmit()
+##### onSubmit()?
 
 ###### Signature
 
 ```ts
-Optional onSubmit(e: SubmitEvent): void
+Optional onSubmit(e: SubmitEvent): void;
 ```
 
 ###### Parameters
@@ -662,16 +590,16 @@ Optional onSubmit(e: SubmitEvent): void
 
 `void`
 
-Inherited from: [DialogButtonProps](deck/components/Dialog#dialogbuttonprops).[onSubmit](deck/components/Dialog#onsubmit)
+Inherited from: [DialogButtonProps](Dialog#dialogbuttonprops).[onSubmit](Dialog#onsubmit)
 
 Defined in:  [src/deck-components/Dialog.tsx:50](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Dialog.tsx#L50)
 
-##### onTouchCancel()
+##### onTouchCancel()?
 
 ###### Signature
 
 ```ts
-Optional onTouchCancel(e: TouchEvent): void
+Optional onTouchCancel(e: TouchEvent): void;
 ```
 
 ###### Parameters
@@ -684,16 +612,16 @@ Optional onTouchCancel(e: TouchEvent): void
 
 `void`
 
-Inherited from: [DialogButtonProps](deck/components/Dialog#dialogbuttonprops).[onTouchCancel](deck/components/Dialog#ontouchcancel)
+Inherited from: [DialogButtonProps](Dialog#dialogbuttonprops).[onTouchCancel](Dialog#ontouchcancel)
 
 Defined in:  [src/deck-components/Dialog.tsx:49](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Dialog.tsx#L49)
 
-##### onTouchEnd()
+##### onTouchEnd()?
 
 ###### Signature
 
 ```ts
-Optional onTouchEnd(e: TouchEvent): void
+Optional onTouchEnd(e: TouchEvent): void;
 ```
 
 ###### Parameters
@@ -706,16 +634,16 @@ Optional onTouchEnd(e: TouchEvent): void
 
 `void`
 
-Inherited from: [DialogButtonProps](deck/components/Dialog#dialogbuttonprops).[onTouchEnd](deck/components/Dialog#ontouchend)
+Inherited from: [DialogButtonProps](Dialog#dialogbuttonprops).[onTouchEnd](Dialog#ontouchend)
 
 Defined in:  [src/deck-components/Dialog.tsx:48](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Dialog.tsx#L48)
 
-##### onTouchStart()
+##### onTouchStart()?
 
 ###### Signature
 
 ```ts
-Optional onTouchStart(e: TouchEvent): void
+Optional onTouchStart(e: TouchEvent): void;
 ```
 
 ###### Parameters
@@ -728,7 +656,7 @@ Optional onTouchStart(e: TouchEvent): void
 
 `void`
 
-Inherited from: [DialogButtonProps](deck/components/Dialog#dialogbuttonprops).[onTouchStart](deck/components/Dialog#ontouchstart)
+Inherited from: [DialogButtonProps](Dialog#dialogbuttonprops).[onTouchStart](Dialog#ontouchstart)
 
 Defined in:  [src/deck-components/Dialog.tsx:47](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Dialog.tsx#L47)
 
@@ -739,14 +667,14 @@ Defined in:  [src/deck-components/Dialog.tsx:47](https://github.com/SteamDeckHom
 #### Signature
 
 ```ts
-Button(props: PropsWithChildren<ButtonProps>, context?: any): null | ReactElement<any, any>
+Button(props: PropsWithChildren<ButtonProps>, context?: any): null | ReactElement<any, any>;
 ```
 
 #### Parameters
 
 | Name | Type |
 | :------ | :------ |
-| `props` | `PropsWithChildren`\<[ButtonProps](deck/components/Button#buttonprops)\> |
+| `props` | `PropsWithChildren`\<[`ButtonProps`](Button#buttonprops)\> |
 | `context?` | `any` |
 
 #### Returns

@@ -22,7 +22,7 @@ published: true
 
 #### Hierarchy
 
-- `HTMLAttributes`\<[HTMLDivElement]( https://developer.mozilla.org/en-US/docs/Web/API/HTMLDivElement )\>.**CarouselProps**
+- `HTMLAttributes`\<[`HTMLDivElement`]( https://developer.mozilla.org/en-US/docs/Web/API/HTMLDivElement )\>.**CarouselProps**
 
 #### Index
 
@@ -46,229 +46,184 @@ published: true
 
 #### Properties
 
-##### autoFocus
+##### autoFocus?
 
-```ts
-autoFocus?: boolean
-```
+> `boolean`
 
 Defined in:  [src/deck-components/Carousel.ts:6](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Carousel.ts#L6)
 
-##### enableBumperPaging
+##### enableBumperPaging?
 
-```ts
-enableBumperPaging?: boolean
-```
+> `boolean`
 
 Defined in:  [src/deck-components/Carousel.ts:7](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Carousel.ts#L7)
 
-##### fnDoesItemTakeFocus
+##### fnDoesItemTakeFocus?
 
-```ts
-fnDoesItemTakeFocus?: Function
-```
+> `Function`
 
 ###### Type declaration
 
 ####### Signature
 
 ```ts
-(...unknown: any[]): boolean
+(...unknown: any[]): boolean;
 ```
 
-> ####### Parameters
->
-> | Name | Type |
-> | :------ | :------ |
-> | `...unknown` | `any`[] |
->
-> ####### Returns
->
-> `boolean`
->
-> Defined in:  [src/deck-components/Carousel.ts:8](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Carousel.ts#L8)
->
+####### Parameters
+
+| Name | Type |
+| :------ | :------ |
+| `...unknown` | `any`[] |
+
+####### Returns
+
+`boolean`
 
 Defined in:  [src/deck-components/Carousel.ts:8](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Carousel.ts#L8)
 
-##### fnGetColumnWidth
+##### fnGetColumnWidth?
 
-```ts
-fnGetColumnWidth?: Function
-```
+> `Function`
 
 ###### Type declaration
 
 ####### Signature
 
 ```ts
-(...unknown: any[]): number
+(...unknown: any[]): number;
 ```
 
-> ####### Parameters
->
-> | Name | Type |
-> | :------ | :------ |
-> | `...unknown` | `any`[] |
->
-> ####### Returns
->
-> `number`
->
-> Defined in:  [src/deck-components/Carousel.ts:9](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Carousel.ts#L9)
->
+####### Parameters
+
+| Name | Type |
+| :------ | :------ |
+| `...unknown` | `any`[] |
+
+####### Returns
+
+`number`
 
 Defined in:  [src/deck-components/Carousel.ts:9](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Carousel.ts#L9)
 
-##### fnGetId
+##### fnGetId?
 
-```ts
-fnGetId?: Function
-```
+> `Function`
 
 ###### Type declaration
 
 ####### Signature
 
 ```ts
-(id: number): number
+(id: number): number;
 ```
 
-> ####### Parameters
->
-> | Name | Type |
-> | :------ | :------ |
-> | `id` | `number` |
->
-> ####### Returns
->
-> `number`
->
-> Defined in:  [src/deck-components/Carousel.ts:10](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Carousel.ts#L10)
->
+####### Parameters
+
+| Name | Type |
+| :------ | :------ |
+| `id` | `number` |
+
+####### Returns
+
+`number`
 
 Defined in:  [src/deck-components/Carousel.ts:10](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Carousel.ts#L10)
 
-##### fnItemRenderer
+##### fnItemRenderer?
 
-```ts
-fnItemRenderer?: Function
-```
+> `Function`
 
 ###### Type declaration
 
 ####### Signature
 
 ```ts
-(id: number, ...unknown: any[]): ReactNode
+(id: number, ...unknown: any[]): ReactNode;
 ```
 
-> ####### Parameters
->
-> | Name | Type |
-> | :------ | :------ |
-> | `id` | `number` |
-> | `...unknown` | `any`[] |
->
-> ####### Returns
->
-> `ReactNode`
->
-> Defined in:  [src/deck-components/Carousel.ts:11](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Carousel.ts#L11)
->
+####### Parameters
+
+| Name | Type |
+| :------ | :------ |
+| `id` | `number` |
+| `...unknown` | `any`[] |
+
+####### Returns
+
+`ReactNode`
 
 Defined in:  [src/deck-components/Carousel.ts:11](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Carousel.ts#L11)
 
-##### fnUpdateArrows
+##### fnUpdateArrows?
 
-```ts
-fnUpdateArrows?: Function
-```
+> `Function`
 
 ###### Type declaration
 
 ####### Signature
 
 ```ts
-(...unknown: any[]): any
+(...unknown: any[]): any;
 ```
 
-> ####### Parameters
->
-> | Name | Type |
-> | :------ | :------ |
-> | `...unknown` | `any`[] |
->
-> ####### Returns
->
-> `any`
->
-> Defined in:  [src/deck-components/Carousel.ts:12](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Carousel.ts#L12)
->
+####### Parameters
+
+| Name | Type |
+| :------ | :------ |
+| `...unknown` | `any`[] |
+
+####### Returns
+
+`any`
 
 Defined in:  [src/deck-components/Carousel.ts:12](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Carousel.ts#L12)
 
-##### initialColumn
+##### initialColumn?
 
-```ts
-initialColumn?: number
-```
+> `number`
 
 Defined in:  [src/deck-components/Carousel.ts:13](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Carousel.ts#L13)
 
-##### nHeight
+##### nHeight?
 
-```ts
-nHeight?: number
-```
+> `number`
 
 Defined in:  [src/deck-components/Carousel.ts:14](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Carousel.ts#L14)
 
-##### nIndexLeftmost
+##### nIndexLeftmost?
 
-```ts
-nIndexLeftmost?: number
-```
+> `number`
 
 Defined in:  [src/deck-components/Carousel.ts:15](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Carousel.ts#L15)
 
-##### nItemHeight
+##### nItemHeight?
 
-```ts
-nItemHeight?: number
-```
+> `number`
 
 Defined in:  [src/deck-components/Carousel.ts:16](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Carousel.ts#L16)
 
-##### nItemMarginX
+##### nItemMarginX?
 
-```ts
-nItemMarginX?: number
-```
+> `number`
 
 Defined in:  [src/deck-components/Carousel.ts:17](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Carousel.ts#L17)
 
-##### nNumItems
+##### nNumItems?
 
-```ts
-nNumItems?: number
-```
+> `number`
 
 Defined in:  [src/deck-components/Carousel.ts:18](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Carousel.ts#L18)
 
-##### name
+##### name?
 
-```ts
-name?: string
-```
+> `string`
 
 Defined in:  [src/deck-components/Carousel.ts:19](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Carousel.ts#L19)
 
-##### scrollToAlignment
+##### scrollToAlignment?
 
-```ts
-scrollToAlignment?: "center"
-```
+> `"center"`
 
 Defined in:  [src/deck-components/Carousel.ts:20](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Carousel.ts#L20)
 
@@ -279,14 +234,14 @@ Defined in:  [src/deck-components/Carousel.ts:20](https://github.com/SteamDeckHo
 #### Signature
 
 ```ts
-Carousel(props: CarouselProps & RefAttributes<HTMLDivElement>, context?: any): null | ReactElement<any, any>
+Carousel(props: CarouselProps & RefAttributes<HTMLDivElement>, context?: any): null | ReactElement<any, any>;
 ```
 
 #### Parameters
 
 | Name | Type |
 | :------ | :------ |
-| `props` | [CarouselProps](deck/components/Carousel#carouselprops) & `RefAttributes`\<[HTMLDivElement]( https://developer.mozilla.org/en-US/docs/Web/API/HTMLDivElement )\> |
+| `props` | [`CarouselProps`](Carousel#carouselprops) & `RefAttributes`\<[`HTMLDivElement`]( https://developer.mozilla.org/en-US/docs/Web/API/HTMLDivElement )\> |
 | `context?` | `any` |
 
 #### Returns

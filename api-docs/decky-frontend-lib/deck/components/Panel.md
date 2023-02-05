@@ -32,27 +32,21 @@ published: true
 
 #### Properties
 
-##### children
+##### children?
 
-```ts
-children?: ReactNode
-```
+> `ReactNode`
 
 Defined in:  [src/deck-components/Panel.tsx:8](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Panel.tsx#L8)
 
-##### spinner
+##### spinner?
 
-```ts
-spinner?: boolean
-```
+> `boolean`
 
 Defined in:  [src/deck-components/Panel.tsx:7](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Panel.tsx#L7)
 
-##### title
+##### title?
 
-```ts
-title?: string
-```
+> `string`
 
 Defined in:  [src/deck-components/Panel.tsx:6](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Panel.tsx#L6)
 
@@ -68,11 +62,9 @@ Defined in:  [src/deck-components/Panel.tsx:6](https://github.com/SteamDeckHomeb
 
 #### Properties
 
-##### children
+##### children?
 
-```ts
-children?: ReactNode
-```
+> `ReactNode`
 
 Defined in:  [src/deck-components/Panel.tsx:23](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Panel.tsx#L23)
 
@@ -83,14 +75,14 @@ Defined in:  [src/deck-components/Panel.tsx:23](https://github.com/SteamDeckHome
 #### Signature
 
 ```ts
-PanelSection(props: PropsWithChildren<PanelSectionProps>, context?: any): null | ReactElement<any, any>
+PanelSection(props: PropsWithChildren<PanelSectionProps>, context?: any): null | ReactElement<any, any>;
 ```
 
 #### Parameters
 
 | Name | Type |
 | :------ | :------ |
-| `props` | `PropsWithChildren`\<[PanelSectionProps](deck/components/Panel#panelsectionprops)\> |
+| `props` | `PropsWithChildren`\<[`PanelSectionProps`](Panel#panelsectionprops)\> |
 | `context?` | `any` |
 
 #### Returns
@@ -106,14 +98,14 @@ Defined in:  node\_modules/.pnpm/@types+react@16.14.0/node\_modules/@types/react
 #### Signature
 
 ```ts
-PanelSectionRow(props: PropsWithChildren<PanelSectionRowProps>, context?: any): null | ReactElement<any, any>
+PanelSectionRow(props: PropsWithChildren<PanelSectionRowProps>, context?: any): null | ReactElement<any, any>;
 ```
 
 #### Parameters
 
 | Name | Type |
 | :------ | :------ |
-| `props` | `PropsWithChildren`\<[PanelSectionRowProps](deck/components/Panel#panelsectionrowprops)\> |
+| `props` | `PropsWithChildren`\<[`PanelSectionRowProps`](Panel#panelsectionrowprops)\> |
 | `context?` | `any` |
 
 #### Returns

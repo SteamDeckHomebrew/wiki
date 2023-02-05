@@ -42,19 +42,15 @@ published: true
 
 #### Properties
 
-##### ignore
+##### ignore?
 
-```ts
-ignore?: string[]
-```
+> `string`[]
 
 Defined in:  [src/utils/react.ts:65](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/utils/react.ts#L65)
 
-##### walkable
+##### walkable?
 
-```ts
-walkable?: string[]
-```
+> `string`[]
 
 Defined in:  [src/utils/react.ts:64](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/utils/react.ts#L64)
 
@@ -62,28 +58,25 @@ Defined in:  [src/utils/react.ts:64](https://github.com/SteamDeckHomebrew/decky-
 
 ### findInTreeFilter
 
-```ts
-findInTreeFilter: Function
-```
+> `Function`
 
 #### Type declaration
 
 ##### Signature
 
 ```ts
-(element: any): boolean
+(element: any): boolean;
 ```
 
-> ##### Parameters
->
-> | Name | Type |
-> | :------ | :------ |
-> | `element` | `any` |
->
-> ##### Returns
->
-> `boolean`
->
+##### Parameters
+
+| Name | Type |
+| :------ | :------ |
+| `element` | `any` |
+
+##### Returns
+
+`boolean`
 
 Defined in:  [src/utils/react.ts:68](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/utils/react.ts#L68)
 
@@ -94,14 +87,14 @@ Defined in:  [src/utils/react.ts:68](https://github.com/SteamDeckHomebrew/decky-
 #### Signature
 
 ```ts
-fakeRenderComponent(fun: Function, customHooks: any = {}): any
+fakeRenderComponent(fun: Function, customHooks: any = {}): any;
 ```
 
 #### Parameters
 
 | Name | Type |
 | :------ | :------ |
-| `fun` | [Function]( https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function ) |
+| `fun` | [`Function`]( https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function ) |
 | `customHooks` | `any` |
 
 #### Returns
@@ -117,7 +110,7 @@ Defined in:  [src/utils/react.ts:11](https://github.com/SteamDeckHomebrew/decky-
 #### Signature
 
 ```ts
-findInReactTree(node: any, filter: findInTreeFilter): any
+findInReactTree(node: any, filter: findInTreeFilter): any;
 ```
 
 #### Parameters
@@ -125,7 +118,7 @@ findInReactTree(node: any, filter: findInTreeFilter): any
 | Name | Type |
 | :------ | :------ |
 | `node` | `any` |
-| `filter` | [findInTreeFilter](utils/react#findintreefilter) |
+| `filter` | [`findInTreeFilter`](react#findintreefilter) |
 
 #### Returns
 
@@ -140,7 +133,7 @@ Defined in:  [src/utils/react.ts:91](https://github.com/SteamDeckHomebrew/decky-
 #### Signature
 
 ```ts
-findInTree(parent: any, filter: findInTreeFilter, opts: findInTreeOpts): any
+findInTree(parent: any, filter: findInTreeFilter, opts: findInTreeOpts): any;
 ```
 
 #### Parameters
@@ -148,8 +141,8 @@ findInTree(parent: any, filter: findInTreeFilter, opts: findInTreeOpts): any
 | Name | Type |
 | :------ | :------ |
 | `parent` | `any` |
-| `filter` | [findInTreeFilter](utils/react#findintreefilter) |
-| `opts` | [findInTreeOpts](utils/react#findintreeopts) |
+| `filter` | [`findInTreeFilter`](react#findintreefilter) |
+| `opts` | [`findInTreeOpts`](react#findintreeopts) |
 
 #### Returns
 
@@ -164,14 +157,14 @@ Defined in:  [src/utils/react.ts:70](https://github.com/SteamDeckHomebrew/decky-
 #### Signature
 
 ```ts
-getReactInstance(o: Node | Element | HTMLElement): any
+getReactInstance(o: Node | Element | HTMLElement): any;
 ```
 
 #### Parameters
 
 | Name | Type |
 | :------ | :------ |
-| `o` | [Node]( https://developer.mozilla.org/en-US/docs/Web/API/Node ) \| [Element]( https://developer.mozilla.org/en-US/docs/Web/API/Element ) \| [HTMLElement]( https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement ) |
+| `o` | [`Node`]( https://developer.mozilla.org/en-US/docs/Web/API/Node ) \| [`Element`]( https://developer.mozilla.org/en-US/docs/Web/API/Element ) \| [`HTMLElement`]( https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement ) |
 
 #### Returns
 
@@ -186,7 +179,7 @@ Defined in:  [src/utils/react.ts:58](https://github.com/SteamDeckHomebrew/decky-
 #### Signature
 
 ```ts
-wrapReactClass(node: any, prop: any = 'type'): typeof __class
+wrapReactClass(node: any, prop: any = 'type'): typeof __class;
 ```
 
 #### Parameters
@@ -198,7 +191,7 @@ wrapReactClass(node: any, prop: any = 'type'): typeof __class
 
 #### Returns
 
-*typeof* [__class](utils/react/INTERNAL#//class)
+*typeof* [`__class`](class)
 
 Defined in:  [src/utils/react.ts:52](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/utils/react.ts#L52)
 
@@ -209,7 +202,7 @@ Defined in:  [src/utils/react.ts:52](https://github.com/SteamDeckHomebrew/decky-
 #### Signature
 
 ```ts
-wrapReactType(node: any, prop: any = 'type'): any
+wrapReactType(node: any, prop: any = 'type'): any;
 ```
 
 #### Parameters

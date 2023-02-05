@@ -23,14 +23,14 @@ published: true
 #### Signature
 
 ```ts
-SuspensefulImage(props: PropsWithChildren<SuspensefulImageProps>, context?: any): null | ReactElement<any, any>
+SuspensefulImage(props: PropsWithChildren<SuspensefulImageProps>, context?: any): null | ReactElement<any, any>;
 ```
 
 #### Parameters
 
 | Name | Type |
 | :------ | :------ |
-| `props` | `PropsWithChildren`\<[SuspensefulImageProps](custom/components/SuspensefulImage/INTERNAL#suspensefulimageprops)\> |
+| `props` | `PropsWithChildren`\<[`SuspensefulImageProps`](_internal_#suspensefulimageprops)\> |
 | `context?` | `any` |
 
 #### Returns

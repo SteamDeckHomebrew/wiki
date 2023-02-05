@@ -43,56 +43,43 @@ Individual tab objects for the Tabs component
 
 ##### content
 
-```ts
-content: ReactNode
-```
+> `ReactNode`
 
 Defined in:  [src/deck-components/Tabs.tsx:21](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Tabs.tsx#L21)
 
-##### footer
+##### footer?
 
-```ts
-footer?: FooterLegendProps
-```
+> [`FooterLegendProps`](FooterLegend#footerlegendprops)
 
 Defined in:  [src/deck-components/Tabs.tsx:22](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Tabs.tsx#L22)
 
 ##### id
 
-```ts
-id: string
-```
+> `string`
 
 Defined in:  [src/deck-components/Tabs.tsx:18](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Tabs.tsx#L18)
 
-##### renderTabAddon
+##### renderTabAddon?
 
-```ts
-renderTabAddon?: Function
-```
+> `Function`
 
 ###### Type declaration
 
 ####### Signature
 
 ```ts
-(): ReactNode
+(): ReactNode;
 ```
 
-> ####### Returns
->
-> `ReactNode`
->
-> Defined in:  [src/deck-components/Tabs.tsx:20](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Tabs.tsx#L20)
->
+####### Returns
+
+`ReactNode`
 
 Defined in:  [src/deck-components/Tabs.tsx:20](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Tabs.tsx#L20)
 
 ##### title
 
-```ts
-title: string
-```
+> `string`
 
 Defined in:  [src/deck-components/Tabs.tsx:19](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Tabs.tsx#L19)
 
@@ -100,10 +87,10 @@ Defined in:  [src/deck-components/Tabs.tsx:19](https://github.com/SteamDeckHomeb
 
 ### TabsProps
 
-Props for the [Tabs](deck/components/Tabs#tabs)
+Props for the [Tabs](Tabs#tabs)
 
-`tabs` array of [Tab](deck/components/Tabs#tab)
-`activeTab` tab currently active, needs to be one of the tabs [id](deck/components/Tabs#id), must be set using a `useState` in the `onShowTab` handler
+`tabs` array of [Tab](Tabs#tab)
+`activeTab` tab currently active, needs to be one of the tabs [id](Tabs#id), must be set using a `useState` in the `onShowTab` handler
 `onShowTab` Called when the active tab should change, needs to set `activeTab`. See example.
 `autoFocusContents` Whether to automatically focus the tab contents or not.
 `footer` Sets up button handlers and labels
@@ -151,54 +138,43 @@ return (
 
 ##### activeTab
 
-```ts
-activeTab: string
-```
+> `string`
 
 Defined in:  [src/deck-components/Tabs.tsx:63](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Tabs.tsx#L63)
 
-##### autoFocusContents
+##### autoFocusContents?
 
-```ts
-autoFocusContents?: boolean
-```
+> `boolean`
 
 Defined in:  [src/deck-components/Tabs.tsx:65](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Tabs.tsx#L65)
 
 ##### onShowTab
 
-```ts
-onShowTab: Function
-```
+> `Function`
 
 ###### Type declaration
 
 ####### Signature
 
 ```ts
-(tab: string): void
+(tab: string): void;
 ```
 
-> ####### Parameters
->
-> | Name | Type |
-> | :------ | :------ |
-> | `tab` | `string` |
->
-> ####### Returns
->
-> `void`
->
-> Defined in:  [src/deck-components/Tabs.tsx:64](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Tabs.tsx#L64)
->
+####### Parameters
+
+| Name | Type |
+| :------ | :------ |
+| `tab` | `string` |
+
+####### Returns
+
+`void`
 
 Defined in:  [src/deck-components/Tabs.tsx:64](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Tabs.tsx#L64)
 
 ##### tabs
 
-```ts
-tabs: Tab[]
-```
+> [`Tab`](Tabs#tab)[]
 
 Defined in:  [src/deck-components/Tabs.tsx:62](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Tabs.tsx#L62)
 
@@ -206,11 +182,9 @@ Defined in:  [src/deck-components/Tabs.tsx:62](https://github.com/SteamDeckHomeb
 
 ### Tabs
 
-```ts
-const Tabs: any
-```
+> **`Const`** `any`
 
-Tabs component as used in the library and media tabs. See [TabsProps](deck/components/Tabs#tabsprops)
+Tabs component as used in the library and media tabs. See [TabsProps](Tabs#tabsprops)
 Unlike other components in `decky-frontend-lib`, this requires Decky Loader to be running.
 
 Defined in:  [src/deck-components/Tabs.tsx:118](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Tabs.tsx#L118)

@@ -16,12 +16,6 @@ published: true
 
 ### useParams()
 
-#### Signature
-
-```ts
-useParams<T>(): T
-```
-
 Get the current params from ReactRouter
 
 #### Example
@@ -30,6 +24,12 @@ Get the current params from ReactRouter
 import { useParams } from "decky-frontend-lib";
 
 const { appid } = useParams<{ appid: string }>()
+```
+
+#### Signature
+
+```ts
+useParams<T>(): T;
 ```
 
 #### Type parameters

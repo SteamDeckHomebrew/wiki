@@ -35,27 +35,21 @@ published: true
 
 #### Properties
 
-##### children
+##### children?
 
-```ts
-children?: ReactNode
-```
+> `ReactNode`
 
 Defined in:  [src/deck-components/Menu.tsx:36](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Menu.tsx#L36)
 
-##### disabled
+##### disabled?
 
-```ts
-disabled?: boolean
-```
+> `boolean`
 
 Defined in:  [src/deck-components/Menu.tsx:35](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Menu.tsx#L35)
 
 ##### label
 
-```ts
-label: string
-```
+> `string`
 
 Defined in:  [src/deck-components/Menu.tsx:34](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Menu.tsx#L34)
 
@@ -65,7 +59,7 @@ Defined in:  [src/deck-components/Menu.tsx:34](https://github.com/SteamDeckHomeb
 
 #### Hierarchy
 
-- [FooterLegendProps](deck/components/FooterLegend#footerlegendprops).**MenuItemProps**
+- [`FooterLegendProps`](FooterLegend#footerlegendprops).**MenuItemProps**
 
 #### Index
 
@@ -103,439 +97,365 @@ Defined in:  [src/deck-components/Menu.tsx:34](https://github.com/SteamDeckHomeb
 
 #### Properties
 
-##### actionDescriptionMap
+##### actionDescriptionMap?
 
-```ts
-actionDescriptionMap?: ActionDescriptionMap
-```
+> [`ActionDescriptionMap`](FooterLegend#actiondescriptionmap)
 
-Inherited from: [FooterLegendProps](deck/components/FooterLegend#footerlegendprops).[actionDescriptionMap](deck/components/FooterLegend#actiondescriptionmap)
+Inherited from: [FooterLegendProps](FooterLegend#footerlegendprops).[actionDescriptionMap](FooterLegend#actiondescriptionmap)
 
 Defined in:  [src/deck-components/FooterLegend.ts:51](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/FooterLegend.ts#L51)
 
-##### bInteractableItem
+##### bInteractableItem?
 
-```ts
-bInteractableItem?: boolean
-```
+> `boolean`
 
 Defined in:  [src/deck-components/Menu.tsx:54](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Menu.tsx#L54)
 
-##### bPlayAudio
+##### bPlayAudio?
 
-```ts
-bPlayAudio?: boolean
-```
+> `boolean`
 
 Defined in:  [src/deck-components/Menu.tsx:61](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Menu.tsx#L61)
 
-##### children
+##### children?
 
-```ts
-children?: ReactNode
-```
+> `ReactNode`
 
 Defined in:  [src/deck-components/Menu.tsx:63](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Menu.tsx#L63)
 
-##### disabled
+##### disabled?
 
-```ts
-disabled?: boolean
-```
+> `boolean`
 
 Defined in:  [src/deck-components/Menu.tsx:60](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Menu.tsx#L60)
 
-##### onButtonDown
+##### onButtonDown?
 
-```ts
-onButtonDown?: Function
-```
+> `Function`
 
 ###### Type declaration
 
 ####### Signature
 
 ```ts
-(evt: GamepadEvent): void
+(evt: GamepadEvent): void;
 ```
 
-> ####### Parameters
->
-> | Name | Type |
-> | :------ | :------ |
-> | `evt` | [GamepadEvent](deck/components/FooterLegend#gamepadevent) |
->
-> ####### Returns
->
-> `void`
->
-> Defined in:  [src/deck-components/FooterLegend.ts:57](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/FooterLegend.ts#L57)
->
+####### Parameters
 
-Inherited from: [FooterLegendProps](deck/components/FooterLegend#footerlegendprops).[onButtonDown](deck/components/FooterLegend#onbuttondown)
+| Name | Type |
+| :------ | :------ |
+| `evt` | [`GamepadEvent`](FooterLegend#gamepadevent) |
+
+####### Returns
+
+`void`
+
+Inherited from: [FooterLegendProps](FooterLegend#footerlegendprops).[onButtonDown](FooterLegend#onbuttondown)
 
 Defined in:  [src/deck-components/FooterLegend.ts:57](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/FooterLegend.ts#L57)
 
-##### onButtonUp
+##### onButtonUp?
 
-```ts
-onButtonUp?: Function
-```
+> `Function`
 
 ###### Type declaration
 
 ####### Signature
 
 ```ts
-(evt: GamepadEvent): void
+(evt: GamepadEvent): void;
 ```
 
-> ####### Parameters
->
-> | Name | Type |
-> | :------ | :------ |
-> | `evt` | [GamepadEvent](deck/components/FooterLegend#gamepadevent) |
->
-> ####### Returns
->
-> `void`
->
-> Defined in:  [src/deck-components/FooterLegend.ts:58](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/FooterLegend.ts#L58)
->
+####### Parameters
 
-Inherited from: [FooterLegendProps](deck/components/FooterLegend#footerlegendprops).[onButtonUp](deck/components/FooterLegend#onbuttonup)
+| Name | Type |
+| :------ | :------ |
+| `evt` | [`GamepadEvent`](FooterLegend#gamepadevent) |
+
+####### Returns
+
+`void`
+
+Inherited from: [FooterLegendProps](FooterLegend#footerlegendprops).[onButtonUp](FooterLegend#onbuttonup)
 
 Defined in:  [src/deck-components/FooterLegend.ts:58](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/FooterLegend.ts#L58)
 
-##### onCancelActionDescription
+##### onCancelActionDescription?
 
-```ts
-onCancelActionDescription?: ReactNode
-```
+> `ReactNode`
 
-Inherited from: [FooterLegendProps](deck/components/FooterLegend#footerlegendprops).[onCancelActionDescription](deck/components/FooterLegend#oncancelactiondescription)
+Inherited from: [FooterLegendProps](FooterLegend#footerlegendprops).[onCancelActionDescription](FooterLegend#oncancelactiondescription)
 
 Defined in:  [src/deck-components/FooterLegend.ts:53](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/FooterLegend.ts#L53)
 
-##### onCancelButton
+##### onCancelButton?
 
-```ts
-onCancelButton?: Function
-```
+> `Function`
 
 ###### Type declaration
 
 ####### Signature
 
 ```ts
-(evt: GamepadEvent): void
+(evt: GamepadEvent): void;
 ```
 
-> ####### Parameters
->
-> | Name | Type |
-> | :------ | :------ |
-> | `evt` | [GamepadEvent](deck/components/FooterLegend#gamepadevent) |
->
-> ####### Returns
->
-> `void`
->
-> Defined in:  [src/deck-components/FooterLegend.ts:60](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/FooterLegend.ts#L60)
->
+####### Parameters
 
-Inherited from: [FooterLegendProps](deck/components/FooterLegend#footerlegendprops).[onCancelButton](deck/components/FooterLegend#oncancelbutton)
+| Name | Type |
+| :------ | :------ |
+| `evt` | [`GamepadEvent`](FooterLegend#gamepadevent) |
+
+####### Returns
+
+`void`
+
+Inherited from: [FooterLegendProps](FooterLegend#footerlegendprops).[onCancelButton](FooterLegend#oncancelbutton)
 
 Defined in:  [src/deck-components/FooterLegend.ts:60](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/FooterLegend.ts#L60)
 
-##### onGamepadBlur
+##### onGamepadBlur?
 
-```ts
-onGamepadBlur?: Function
-```
+> `Function`
 
 ###### Type declaration
 
 ####### Signature
 
 ```ts
-(evt: GamepadEvent): void
+(evt: GamepadEvent): void;
 ```
 
-> ####### Parameters
->
-> | Name | Type |
-> | :------ | :------ |
-> | `evt` | [GamepadEvent](deck/components/FooterLegend#gamepadevent) |
->
-> ####### Returns
->
-> `void`
->
-> Defined in:  [src/deck-components/FooterLegend.ts:65](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/FooterLegend.ts#L65)
->
+####### Parameters
 
-Inherited from: [FooterLegendProps](deck/components/FooterLegend#footerlegendprops).[onGamepadBlur](deck/components/FooterLegend#ongamepadblur)
+| Name | Type |
+| :------ | :------ |
+| `evt` | [`GamepadEvent`](FooterLegend#gamepadevent) |
+
+####### Returns
+
+`void`
+
+Inherited from: [FooterLegendProps](FooterLegend#footerlegendprops).[onGamepadBlur](FooterLegend#ongamepadblur)
 
 Defined in:  [src/deck-components/FooterLegend.ts:65](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/FooterLegend.ts#L65)
 
-##### onGamepadDirection
+##### onGamepadDirection?
 
-```ts
-onGamepadDirection?: Function
-```
+> `Function`
 
 ###### Type declaration
 
 ####### Signature
 
 ```ts
-(evt: GamepadEvent): void
+(evt: GamepadEvent): void;
 ```
 
-> ####### Parameters
->
-> | Name | Type |
-> | :------ | :------ |
-> | `evt` | [GamepadEvent](deck/components/FooterLegend#gamepadevent) |
->
-> ####### Returns
->
-> `void`
->
-> Defined in:  [src/deck-components/FooterLegend.ts:63](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/FooterLegend.ts#L63)
->
+####### Parameters
 
-Inherited from: [FooterLegendProps](deck/components/FooterLegend#footerlegendprops).[onGamepadDirection](deck/components/FooterLegend#ongamepaddirection)
+| Name | Type |
+| :------ | :------ |
+| `evt` | [`GamepadEvent`](FooterLegend#gamepadevent) |
+
+####### Returns
+
+`void`
+
+Inherited from: [FooterLegendProps](FooterLegend#footerlegendprops).[onGamepadDirection](FooterLegend#ongamepaddirection)
 
 Defined in:  [src/deck-components/FooterLegend.ts:63](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/FooterLegend.ts#L63)
 
-##### onGamepadFocus
+##### onGamepadFocus?
 
-```ts
-onGamepadFocus?: Function
-```
+> `Function`
 
 ###### Type declaration
 
 ####### Signature
 
 ```ts
-(evt: GamepadEvent): void
+(evt: GamepadEvent): void;
 ```
 
-> ####### Parameters
->
-> | Name | Type |
-> | :------ | :------ |
-> | `evt` | [GamepadEvent](deck/components/FooterLegend#gamepadevent) |
->
-> ####### Returns
->
-> `void`
->
-> Defined in:  [src/deck-components/FooterLegend.ts:64](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/FooterLegend.ts#L64)
->
+####### Parameters
 
-Inherited from: [FooterLegendProps](deck/components/FooterLegend#footerlegendprops).[onGamepadFocus](deck/components/FooterLegend#ongamepadfocus)
+| Name | Type |
+| :------ | :------ |
+| `evt` | [`GamepadEvent`](FooterLegend#gamepadevent) |
+
+####### Returns
+
+`void`
+
+Inherited from: [FooterLegendProps](FooterLegend#footerlegendprops).[onGamepadFocus](FooterLegend#ongamepadfocus)
 
 Defined in:  [src/deck-components/FooterLegend.ts:64](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/FooterLegend.ts#L64)
 
-##### onMenuActionDescription
+##### onMenuActionDescription?
 
-```ts
-onMenuActionDescription?: ReactNode
-```
+> `ReactNode`
 
-Inherited from: [FooterLegendProps](deck/components/FooterLegend#footerlegendprops).[onMenuActionDescription](deck/components/FooterLegend#onmenuactiondescription)
+Inherited from: [FooterLegendProps](FooterLegend#footerlegendprops).[onMenuActionDescription](FooterLegend#onmenuactiondescription)
 
 Defined in:  [src/deck-components/FooterLegend.ts:56](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/FooterLegend.ts#L56)
 
-##### onMenuButton
+##### onMenuButton?
 
-```ts
-onMenuButton?: Function
-```
+> `Function`
 
 ###### Type declaration
 
 ####### Signature
 
 ```ts
-(evt: GamepadEvent): void
+(evt: GamepadEvent): void;
 ```
 
-> ####### Parameters
->
-> | Name | Type |
-> | :------ | :------ |
-> | `evt` | [GamepadEvent](deck/components/FooterLegend#gamepadevent) |
->
-> ####### Returns
->
-> `void`
->
-> Defined in:  [src/deck-components/FooterLegend.ts:66](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/FooterLegend.ts#L66)
->
+####### Parameters
 
-Inherited from: [FooterLegendProps](deck/components/FooterLegend#footerlegendprops).[onMenuButton](deck/components/FooterLegend#onmenubutton)
+| Name | Type |
+| :------ | :------ |
+| `evt` | [`GamepadEvent`](FooterLegend#gamepadevent) |
+
+####### Returns
+
+`void`
+
+Inherited from: [FooterLegendProps](FooterLegend#footerlegendprops).[onMenuButton](FooterLegend#onmenubutton)
 
 Defined in:  [src/deck-components/FooterLegend.ts:66](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/FooterLegend.ts#L66)
 
-##### onOKActionDescription
+##### onOKActionDescription?
 
-```ts
-onOKActionDescription?: ReactNode
-```
+> `ReactNode`
 
-Inherited from: [FooterLegendProps](deck/components/FooterLegend#footerlegendprops).[onOKActionDescription](deck/components/FooterLegend#onokactiondescription)
+Inherited from: [FooterLegendProps](FooterLegend#footerlegendprops).[onOKActionDescription](FooterLegend#onokactiondescription)
 
 Defined in:  [src/deck-components/FooterLegend.ts:52](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/FooterLegend.ts#L52)
 
-##### onOKButton
+##### onOKButton?
 
-```ts
-onOKButton?: Function
-```
+> `Function`
 
 ###### Type declaration
 
 ####### Signature
 
 ```ts
-(evt: GamepadEvent): void
+(evt: GamepadEvent): void;
 ```
 
-> ####### Parameters
->
-> | Name | Type |
-> | :------ | :------ |
-> | `evt` | [GamepadEvent](deck/components/FooterLegend#gamepadevent) |
->
-> ####### Returns
->
-> `void`
->
-> Defined in:  [src/deck-components/FooterLegend.ts:59](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/FooterLegend.ts#L59)
->
+####### Parameters
 
-Inherited from: [FooterLegendProps](deck/components/FooterLegend#footerlegendprops).[onOKButton](deck/components/FooterLegend#onokbutton)
+| Name | Type |
+| :------ | :------ |
+| `evt` | [`GamepadEvent`](FooterLegend#gamepadevent) |
+
+####### Returns
+
+`void`
+
+Inherited from: [FooterLegendProps](FooterLegend#footerlegendprops).[onOKButton](FooterLegend#onokbutton)
 
 Defined in:  [src/deck-components/FooterLegend.ts:59](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/FooterLegend.ts#L59)
 
-##### onOptionsActionDescription
+##### onOptionsActionDescription?
 
-```ts
-onOptionsActionDescription?: ReactNode
-```
+> `ReactNode`
 
-Inherited from: [FooterLegendProps](deck/components/FooterLegend#footerlegendprops).[onOptionsActionDescription](deck/components/FooterLegend#onoptionsactiondescription)
+Inherited from: [FooterLegendProps](FooterLegend#footerlegendprops).[onOptionsActionDescription](FooterLegend#onoptionsactiondescription)
 
 Defined in:  [src/deck-components/FooterLegend.ts:55](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/FooterLegend.ts#L55)
 
-##### onOptionsButton
+##### onOptionsButton?
 
-```ts
-onOptionsButton?: Function
-```
+> `Function`
 
 ###### Type declaration
 
 ####### Signature
 
 ```ts
-(evt: GamepadEvent): void
+(evt: GamepadEvent): void;
 ```
 
-> ####### Parameters
->
-> | Name | Type |
-> | :------ | :------ |
-> | `evt` | [GamepadEvent](deck/components/FooterLegend#gamepadevent) |
->
-> ####### Returns
->
-> `void`
->
-> Defined in:  [src/deck-components/FooterLegend.ts:62](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/FooterLegend.ts#L62)
->
+####### Parameters
 
-Inherited from: [FooterLegendProps](deck/components/FooterLegend#footerlegendprops).[onOptionsButton](deck/components/FooterLegend#onoptionsbutton)
+| Name | Type |
+| :------ | :------ |
+| `evt` | [`GamepadEvent`](FooterLegend#gamepadevent) |
+
+####### Returns
+
+`void`
+
+Inherited from: [FooterLegendProps](FooterLegend#footerlegendprops).[onOptionsButton](FooterLegend#onoptionsbutton)
 
 Defined in:  [src/deck-components/FooterLegend.ts:62](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/FooterLegend.ts#L62)
 
-##### onSecondaryActionDescription
+##### onSecondaryActionDescription?
 
-```ts
-onSecondaryActionDescription?: ReactNode
-```
+> `ReactNode`
 
-Inherited from: [FooterLegendProps](deck/components/FooterLegend#footerlegendprops).[onSecondaryActionDescription](deck/components/FooterLegend#onsecondaryactiondescription)
+Inherited from: [FooterLegendProps](FooterLegend#footerlegendprops).[onSecondaryActionDescription](FooterLegend#onsecondaryactiondescription)
 
 Defined in:  [src/deck-components/FooterLegend.ts:54](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/FooterLegend.ts#L54)
 
-##### onSecondaryButton
+##### onSecondaryButton?
 
-```ts
-onSecondaryButton?: Function
-```
+> `Function`
 
 ###### Type declaration
 
 ####### Signature
 
 ```ts
-(evt: GamepadEvent): void
+(evt: GamepadEvent): void;
 ```
 
-> ####### Parameters
->
-> | Name | Type |
-> | :------ | :------ |
-> | `evt` | [GamepadEvent](deck/components/FooterLegend#gamepadevent) |
->
-> ####### Returns
->
-> `void`
->
-> Defined in:  [src/deck-components/FooterLegend.ts:61](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/FooterLegend.ts#L61)
->
+####### Parameters
 
-Inherited from: [FooterLegendProps](deck/components/FooterLegend#footerlegendprops).[onSecondaryButton](deck/components/FooterLegend#onsecondarybutton)
+| Name | Type |
+| :------ | :------ |
+| `evt` | [`GamepadEvent`](FooterLegend#gamepadevent) |
+
+####### Returns
+
+`void`
+
+Inherited from: [FooterLegendProps](FooterLegend#footerlegendprops).[onSecondaryButton](FooterLegend#onsecondarybutton)
 
 Defined in:  [src/deck-components/FooterLegend.ts:61](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/FooterLegend.ts#L61)
 
-##### selected
+##### selected?
 
-```ts
-selected?: boolean
-```
+> `boolean`
 
 Defined in:  [src/deck-components/Menu.tsx:59](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Menu.tsx#L59)
 
-##### tone
+##### tone?
 
-```ts
-tone?: "positive" | "emphasis" | "destructive"
-```
+> `"positive"` \| `"emphasis"` \| `"destructive"`
 
 Defined in:  [src/deck-components/Menu.tsx:62](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Menu.tsx#L62)
 
 #### Methods
 
-##### onClick()
+##### onClick()?
 
 ###### Signature
 
 ```ts
-Optional onClick(evt: Event): void
+Optional onClick(evt: Event): void;
 ```
 
 ###### Parameters
 
 | Name | Type |
 | :------ | :------ |
-| `evt` | [Event]( https://developer.mozilla.org/en-US/docs/Web/API/Event ) |
+| `evt` | [`Event`]( https://developer.mozilla.org/en-US/docs/Web/API/Event ) |
 
 ###### Returns
 
@@ -543,12 +463,12 @@ Optional onClick(evt: Event): void
 
 Defined in:  [src/deck-components/Menu.tsx:55](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Menu.tsx#L55)
 
-##### onMouseEnter()
+##### onMouseEnter()?
 
 ###### Signature
 
 ```ts
-Optional onMouseEnter(evt: MouseEvent): void
+Optional onMouseEnter(evt: MouseEvent): void;
 ```
 
 ###### Parameters
@@ -563,12 +483,12 @@ Optional onMouseEnter(evt: MouseEvent): void
 
 Defined in:  [src/deck-components/Menu.tsx:57](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Menu.tsx#L57)
 
-##### onMoveRight()
+##### onMoveRight()?
 
 ###### Signature
 
 ```ts
-Optional onMoveRight(): void
+Optional onMoveRight(): void;
 ```
 
 ###### Returns
@@ -577,19 +497,19 @@ Optional onMoveRight(): void
 
 Defined in:  [src/deck-components/Menu.tsx:58](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Menu.tsx#L58)
 
-##### onSelected()
+##### onSelected()?
 
 ###### Signature
 
 ```ts
-Optional onSelected(evt: Event): void
+Optional onSelected(evt: Event): void;
 ```
 
 ###### Parameters
 
 | Name | Type |
 | :------ | :------ |
-| `evt` | [Event]( https://developer.mozilla.org/en-US/docs/Web/API/Event ) |
+| `evt` | [`Event`]( https://developer.mozilla.org/en-US/docs/Web/API/Event ) |
 
 ###### Returns
 
@@ -603,7 +523,7 @@ Defined in:  [src/deck-components/Menu.tsx:56](https://github.com/SteamDeckHomeb
 
 #### Hierarchy
 
-- [FooterLegendProps](deck/components/FooterLegend#footerlegendprops).**MenuProps**
+- [`FooterLegendProps`](FooterLegend#footerlegendprops).**MenuProps**
 
 #### Index
 
@@ -635,408 +555,340 @@ Defined in:  [src/deck-components/Menu.tsx:56](https://github.com/SteamDeckHomeb
 
 #### Properties
 
-##### actionDescriptionMap
+##### actionDescriptionMap?
 
-```ts
-actionDescriptionMap?: ActionDescriptionMap
-```
+> [`ActionDescriptionMap`](FooterLegend#actiondescriptionmap)
 
-Inherited from: [FooterLegendProps](deck/components/FooterLegend#footerlegendprops).[actionDescriptionMap](deck/components/FooterLegend#actiondescriptionmap)
+Inherited from: [FooterLegendProps](FooterLegend#footerlegendprops).[actionDescriptionMap](FooterLegend#actiondescriptionmap)
 
 Defined in:  [src/deck-components/FooterLegend.ts:51](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/FooterLegend.ts#L51)
 
-##### cancelText
+##### cancelText?
 
-```ts
-cancelText?: string
-```
+> `string`
 
 Defined in:  [src/deck-components/Menu.tsx:19](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Menu.tsx#L19)
 
-##### children
+##### children?
 
-```ts
-children?: ReactNode
-```
+> `ReactNode`
 
 Defined in:  [src/deck-components/Menu.tsx:20](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Menu.tsx#L20)
 
 ##### label
 
-```ts
-label: string
-```
+> `string`
 
 Defined in:  [src/deck-components/Menu.tsx:17](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Menu.tsx#L17)
 
-##### onButtonDown
+##### onButtonDown?
 
-```ts
-onButtonDown?: Function
-```
+> `Function`
 
 ###### Type declaration
 
 ####### Signature
 
 ```ts
-(evt: GamepadEvent): void
+(evt: GamepadEvent): void;
 ```
 
-> ####### Parameters
->
-> | Name | Type |
-> | :------ | :------ |
-> | `evt` | [GamepadEvent](deck/components/FooterLegend#gamepadevent) |
->
-> ####### Returns
->
-> `void`
->
-> Defined in:  [src/deck-components/FooterLegend.ts:57](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/FooterLegend.ts#L57)
->
+####### Parameters
 
-Inherited from: [FooterLegendProps](deck/components/FooterLegend#footerlegendprops).[onButtonDown](deck/components/FooterLegend#onbuttondown)
+| Name | Type |
+| :------ | :------ |
+| `evt` | [`GamepadEvent`](FooterLegend#gamepadevent) |
+
+####### Returns
+
+`void`
+
+Inherited from: [FooterLegendProps](FooterLegend#footerlegendprops).[onButtonDown](FooterLegend#onbuttondown)
 
 Defined in:  [src/deck-components/FooterLegend.ts:57](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/FooterLegend.ts#L57)
 
-##### onButtonUp
+##### onButtonUp?
 
-```ts
-onButtonUp?: Function
-```
+> `Function`
 
 ###### Type declaration
 
 ####### Signature
 
 ```ts
-(evt: GamepadEvent): void
+(evt: GamepadEvent): void;
 ```
 
-> ####### Parameters
->
-> | Name | Type |
-> | :------ | :------ |
-> | `evt` | [GamepadEvent](deck/components/FooterLegend#gamepadevent) |
->
-> ####### Returns
->
-> `void`
->
-> Defined in:  [src/deck-components/FooterLegend.ts:58](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/FooterLegend.ts#L58)
->
+####### Parameters
 
-Inherited from: [FooterLegendProps](deck/components/FooterLegend#footerlegendprops).[onButtonUp](deck/components/FooterLegend#onbuttonup)
+| Name | Type |
+| :------ | :------ |
+| `evt` | [`GamepadEvent`](FooterLegend#gamepadevent) |
+
+####### Returns
+
+`void`
+
+Inherited from: [FooterLegendProps](FooterLegend#footerlegendprops).[onButtonUp](FooterLegend#onbuttonup)
 
 Defined in:  [src/deck-components/FooterLegend.ts:58](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/FooterLegend.ts#L58)
 
-##### onCancelActionDescription
+##### onCancelActionDescription?
 
-```ts
-onCancelActionDescription?: ReactNode
-```
+> `ReactNode`
 
-Inherited from: [FooterLegendProps](deck/components/FooterLegend#footerlegendprops).[onCancelActionDescription](deck/components/FooterLegend#oncancelactiondescription)
+Inherited from: [FooterLegendProps](FooterLegend#footerlegendprops).[onCancelActionDescription](FooterLegend#oncancelactiondescription)
 
 Defined in:  [src/deck-components/FooterLegend.ts:53](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/FooterLegend.ts#L53)
 
-##### onCancelButton
+##### onCancelButton?
 
-```ts
-onCancelButton?: Function
-```
+> `Function`
 
 ###### Type declaration
 
 ####### Signature
 
 ```ts
-(evt: GamepadEvent): void
+(evt: GamepadEvent): void;
 ```
 
-> ####### Parameters
->
-> | Name | Type |
-> | :------ | :------ |
-> | `evt` | [GamepadEvent](deck/components/FooterLegend#gamepadevent) |
->
-> ####### Returns
->
-> `void`
->
-> Defined in:  [src/deck-components/FooterLegend.ts:60](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/FooterLegend.ts#L60)
->
+####### Parameters
 
-Inherited from: [FooterLegendProps](deck/components/FooterLegend#footerlegendprops).[onCancelButton](deck/components/FooterLegend#oncancelbutton)
+| Name | Type |
+| :------ | :------ |
+| `evt` | [`GamepadEvent`](FooterLegend#gamepadevent) |
+
+####### Returns
+
+`void`
+
+Inherited from: [FooterLegendProps](FooterLegend#footerlegendprops).[onCancelButton](FooterLegend#oncancelbutton)
 
 Defined in:  [src/deck-components/FooterLegend.ts:60](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/FooterLegend.ts#L60)
 
-##### onGamepadBlur
+##### onGamepadBlur?
 
-```ts
-onGamepadBlur?: Function
-```
+> `Function`
 
 ###### Type declaration
 
 ####### Signature
 
 ```ts
-(evt: GamepadEvent): void
+(evt: GamepadEvent): void;
 ```
 
-> ####### Parameters
->
-> | Name | Type |
-> | :------ | :------ |
-> | `evt` | [GamepadEvent](deck/components/FooterLegend#gamepadevent) |
->
-> ####### Returns
->
-> `void`
->
-> Defined in:  [src/deck-components/FooterLegend.ts:65](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/FooterLegend.ts#L65)
->
+####### Parameters
 
-Inherited from: [FooterLegendProps](deck/components/FooterLegend#footerlegendprops).[onGamepadBlur](deck/components/FooterLegend#ongamepadblur)
+| Name | Type |
+| :------ | :------ |
+| `evt` | [`GamepadEvent`](FooterLegend#gamepadevent) |
+
+####### Returns
+
+`void`
+
+Inherited from: [FooterLegendProps](FooterLegend#footerlegendprops).[onGamepadBlur](FooterLegend#ongamepadblur)
 
 Defined in:  [src/deck-components/FooterLegend.ts:65](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/FooterLegend.ts#L65)
 
-##### onGamepadDirection
+##### onGamepadDirection?
 
-```ts
-onGamepadDirection?: Function
-```
+> `Function`
 
 ###### Type declaration
 
 ####### Signature
 
 ```ts
-(evt: GamepadEvent): void
+(evt: GamepadEvent): void;
 ```
 
-> ####### Parameters
->
-> | Name | Type |
-> | :------ | :------ |
-> | `evt` | [GamepadEvent](deck/components/FooterLegend#gamepadevent) |
->
-> ####### Returns
->
-> `void`
->
-> Defined in:  [src/deck-components/FooterLegend.ts:63](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/FooterLegend.ts#L63)
->
+####### Parameters
 
-Inherited from: [FooterLegendProps](deck/components/FooterLegend#footerlegendprops).[onGamepadDirection](deck/components/FooterLegend#ongamepaddirection)
+| Name | Type |
+| :------ | :------ |
+| `evt` | [`GamepadEvent`](FooterLegend#gamepadevent) |
+
+####### Returns
+
+`void`
+
+Inherited from: [FooterLegendProps](FooterLegend#footerlegendprops).[onGamepadDirection](FooterLegend#ongamepaddirection)
 
 Defined in:  [src/deck-components/FooterLegend.ts:63](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/FooterLegend.ts#L63)
 
-##### onGamepadFocus
+##### onGamepadFocus?
 
-```ts
-onGamepadFocus?: Function
-```
+> `Function`
 
 ###### Type declaration
 
 ####### Signature
 
 ```ts
-(evt: GamepadEvent): void
+(evt: GamepadEvent): void;
 ```
 
-> ####### Parameters
->
-> | Name | Type |
-> | :------ | :------ |
-> | `evt` | [GamepadEvent](deck/components/FooterLegend#gamepadevent) |
->
-> ####### Returns
->
-> `void`
->
-> Defined in:  [src/deck-components/FooterLegend.ts:64](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/FooterLegend.ts#L64)
->
+####### Parameters
 
-Inherited from: [FooterLegendProps](deck/components/FooterLegend#footerlegendprops).[onGamepadFocus](deck/components/FooterLegend#ongamepadfocus)
+| Name | Type |
+| :------ | :------ |
+| `evt` | [`GamepadEvent`](FooterLegend#gamepadevent) |
+
+####### Returns
+
+`void`
+
+Inherited from: [FooterLegendProps](FooterLegend#footerlegendprops).[onGamepadFocus](FooterLegend#ongamepadfocus)
 
 Defined in:  [src/deck-components/FooterLegend.ts:64](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/FooterLegend.ts#L64)
 
-##### onMenuActionDescription
+##### onMenuActionDescription?
 
-```ts
-onMenuActionDescription?: ReactNode
-```
+> `ReactNode`
 
-Inherited from: [FooterLegendProps](deck/components/FooterLegend#footerlegendprops).[onMenuActionDescription](deck/components/FooterLegend#onmenuactiondescription)
+Inherited from: [FooterLegendProps](FooterLegend#footerlegendprops).[onMenuActionDescription](FooterLegend#onmenuactiondescription)
 
 Defined in:  [src/deck-components/FooterLegend.ts:56](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/FooterLegend.ts#L56)
 
-##### onMenuButton
+##### onMenuButton?
 
-```ts
-onMenuButton?: Function
-```
+> `Function`
 
 ###### Type declaration
 
 ####### Signature
 
 ```ts
-(evt: GamepadEvent): void
+(evt: GamepadEvent): void;
 ```
 
-> ####### Parameters
->
-> | Name | Type |
-> | :------ | :------ |
-> | `evt` | [GamepadEvent](deck/components/FooterLegend#gamepadevent) |
->
-> ####### Returns
->
-> `void`
->
-> Defined in:  [src/deck-components/FooterLegend.ts:66](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/FooterLegend.ts#L66)
->
+####### Parameters
 
-Inherited from: [FooterLegendProps](deck/components/FooterLegend#footerlegendprops).[onMenuButton](deck/components/FooterLegend#onmenubutton)
+| Name | Type |
+| :------ | :------ |
+| `evt` | [`GamepadEvent`](FooterLegend#gamepadevent) |
+
+####### Returns
+
+`void`
+
+Inherited from: [FooterLegendProps](FooterLegend#footerlegendprops).[onMenuButton](FooterLegend#onmenubutton)
 
 Defined in:  [src/deck-components/FooterLegend.ts:66](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/FooterLegend.ts#L66)
 
-##### onOKActionDescription
+##### onOKActionDescription?
 
-```ts
-onOKActionDescription?: ReactNode
-```
+> `ReactNode`
 
-Inherited from: [FooterLegendProps](deck/components/FooterLegend#footerlegendprops).[onOKActionDescription](deck/components/FooterLegend#onokactiondescription)
+Inherited from: [FooterLegendProps](FooterLegend#footerlegendprops).[onOKActionDescription](FooterLegend#onokactiondescription)
 
 Defined in:  [src/deck-components/FooterLegend.ts:52](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/FooterLegend.ts#L52)
 
-##### onOKButton
+##### onOKButton?
 
-```ts
-onOKButton?: Function
-```
+> `Function`
 
 ###### Type declaration
 
 ####### Signature
 
 ```ts
-(evt: GamepadEvent): void
+(evt: GamepadEvent): void;
 ```
 
-> ####### Parameters
->
-> | Name | Type |
-> | :------ | :------ |
-> | `evt` | [GamepadEvent](deck/components/FooterLegend#gamepadevent) |
->
-> ####### Returns
->
-> `void`
->
-> Defined in:  [src/deck-components/FooterLegend.ts:59](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/FooterLegend.ts#L59)
->
+####### Parameters
 
-Inherited from: [FooterLegendProps](deck/components/FooterLegend#footerlegendprops).[onOKButton](deck/components/FooterLegend#onokbutton)
+| Name | Type |
+| :------ | :------ |
+| `evt` | [`GamepadEvent`](FooterLegend#gamepadevent) |
+
+####### Returns
+
+`void`
+
+Inherited from: [FooterLegendProps](FooterLegend#footerlegendprops).[onOKButton](FooterLegend#onokbutton)
 
 Defined in:  [src/deck-components/FooterLegend.ts:59](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/FooterLegend.ts#L59)
 
-##### onOptionsActionDescription
+##### onOptionsActionDescription?
 
-```ts
-onOptionsActionDescription?: ReactNode
-```
+> `ReactNode`
 
-Inherited from: [FooterLegendProps](deck/components/FooterLegend#footerlegendprops).[onOptionsActionDescription](deck/components/FooterLegend#onoptionsactiondescription)
+Inherited from: [FooterLegendProps](FooterLegend#footerlegendprops).[onOptionsActionDescription](FooterLegend#onoptionsactiondescription)
 
 Defined in:  [src/deck-components/FooterLegend.ts:55](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/FooterLegend.ts#L55)
 
-##### onOptionsButton
+##### onOptionsButton?
 
-```ts
-onOptionsButton?: Function
-```
+> `Function`
 
 ###### Type declaration
 
 ####### Signature
 
 ```ts
-(evt: GamepadEvent): void
+(evt: GamepadEvent): void;
 ```
 
-> ####### Parameters
->
-> | Name | Type |
-> | :------ | :------ |
-> | `evt` | [GamepadEvent](deck/components/FooterLegend#gamepadevent) |
->
-> ####### Returns
->
-> `void`
->
-> Defined in:  [src/deck-components/FooterLegend.ts:62](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/FooterLegend.ts#L62)
->
+####### Parameters
 
-Inherited from: [FooterLegendProps](deck/components/FooterLegend#footerlegendprops).[onOptionsButton](deck/components/FooterLegend#onoptionsbutton)
+| Name | Type |
+| :------ | :------ |
+| `evt` | [`GamepadEvent`](FooterLegend#gamepadevent) |
+
+####### Returns
+
+`void`
+
+Inherited from: [FooterLegendProps](FooterLegend#footerlegendprops).[onOptionsButton](FooterLegend#onoptionsbutton)
 
 Defined in:  [src/deck-components/FooterLegend.ts:62](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/FooterLegend.ts#L62)
 
-##### onSecondaryActionDescription
+##### onSecondaryActionDescription?
 
-```ts
-onSecondaryActionDescription?: ReactNode
-```
+> `ReactNode`
 
-Inherited from: [FooterLegendProps](deck/components/FooterLegend#footerlegendprops).[onSecondaryActionDescription](deck/components/FooterLegend#onsecondaryactiondescription)
+Inherited from: [FooterLegendProps](FooterLegend#footerlegendprops).[onSecondaryActionDescription](FooterLegend#onsecondaryactiondescription)
 
 Defined in:  [src/deck-components/FooterLegend.ts:54](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/FooterLegend.ts#L54)
 
-##### onSecondaryButton
+##### onSecondaryButton?
 
-```ts
-onSecondaryButton?: Function
-```
+> `Function`
 
 ###### Type declaration
 
 ####### Signature
 
 ```ts
-(evt: GamepadEvent): void
+(evt: GamepadEvent): void;
 ```
 
-> ####### Parameters
->
-> | Name | Type |
-> | :------ | :------ |
-> | `evt` | [GamepadEvent](deck/components/FooterLegend#gamepadevent) |
->
-> ####### Returns
->
-> `void`
->
-> Defined in:  [src/deck-components/FooterLegend.ts:61](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/FooterLegend.ts#L61)
->
+####### Parameters
 
-Inherited from: [FooterLegendProps](deck/components/FooterLegend#footerlegendprops).[onSecondaryButton](deck/components/FooterLegend#onsecondarybutton)
+| Name | Type |
+| :------ | :------ |
+| `evt` | [`GamepadEvent`](FooterLegend#gamepadevent) |
+
+####### Returns
+
+`void`
+
+Inherited from: [FooterLegendProps](FooterLegend#footerlegendprops).[onSecondaryButton](FooterLegend#onsecondarybutton)
 
 Defined in:  [src/deck-components/FooterLegend.ts:61](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/FooterLegend.ts#L61)
 
 #### Methods
 
-##### onCancel()
+##### onCancel()?
 
 ###### Signature
 
 ```ts
-Optional onCancel(): void
+Optional onCancel(): void;
 ```
 
 ###### Returns
@@ -1052,14 +904,14 @@ Defined in:  [src/deck-components/Menu.tsx:18](https://github.com/SteamDeckHomeb
 #### Signature
 
 ```ts
-Menu(props: PropsWithChildren<MenuProps>, context?: any): null | ReactElement<any, any>
+Menu(props: PropsWithChildren<MenuProps>, context?: any): null | ReactElement<any, any>;
 ```
 
 #### Parameters
 
 | Name | Type |
 | :------ | :------ |
-| `props` | `PropsWithChildren`\<[MenuProps](deck/components/Menu#menuprops)\> |
+| `props` | `PropsWithChildren`\<[`MenuProps`](Menu#menuprops)\> |
 | `context?` | `any` |
 
 #### Returns
@@ -1075,14 +927,14 @@ Defined in:  node\_modules/.pnpm/@types+react@16.14.0/node\_modules/@types/react
 #### Signature
 
 ```ts
-MenuGroup(props: PropsWithChildren<MenuGroupProps>, context?: any): null | ReactElement<any, any>
+MenuGroup(props: PropsWithChildren<MenuGroupProps>, context?: any): null | ReactElement<any, any>;
 ```
 
 #### Parameters
 
 | Name | Type |
 | :------ | :------ |
-| `props` | `PropsWithChildren`\<[MenuGroupProps](deck/components/Menu#menugroupprops)\> |
+| `props` | `PropsWithChildren`\<[`MenuGroupProps`](Menu#menugroupprops)\> |
 | `context?` | `any` |
 
 #### Returns
@@ -1098,14 +950,14 @@ Defined in:  node\_modules/.pnpm/@types+react@16.14.0/node\_modules/@types/react
 #### Signature
 
 ```ts
-MenuItem(props: PropsWithChildren<MenuItemProps>, context?: any): null | ReactElement<any, any>
+MenuItem(props: PropsWithChildren<MenuItemProps>, context?: any): null | ReactElement<any, any>;
 ```
 
 #### Parameters
 
 | Name | Type |
 | :------ | :------ |
-| `props` | `PropsWithChildren`\<[MenuItemProps](deck/components/Menu#menuitemprops)\> |
+| `props` | `PropsWithChildren`\<[`MenuItemProps`](Menu#menuitemprops)\> |
 | `context?` | `any` |
 
 #### Returns
@@ -1121,7 +973,7 @@ Defined in:  node\_modules/.pnpm/@types+react@16.14.0/node\_modules/@types/react
 #### Signature
 
 ```ts
-showContextMenu(children: ReactNode, parent?: EventTarget): void
+showContextMenu(children: ReactNode, parent?: EventTarget): void;
 ```
 
 #### Parameters
@@ -1129,7 +981,7 @@ showContextMenu(children: ReactNode, parent?: EventTarget): void
 | Name | Type |
 | :------ | :------ |
 | `children` | `ReactNode` |
-| `parent?` | [EventTarget]( https://developer.mozilla.org/en-US/docs/Web/API/EventTarget ) |
+| `parent?` | [`EventTarget`]( https://developer.mozilla.org/en-US/docs/Web/API/EventTarget ) |
 
 #### Returns
 

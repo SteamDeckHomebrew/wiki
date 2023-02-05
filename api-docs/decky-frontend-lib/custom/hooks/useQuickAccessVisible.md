@@ -16,12 +16,6 @@ published: true
 
 ### useQuickAccessVisible()
 
-#### Signature
-
-```ts
-useQuickAccessVisible(): boolean
-```
-
 Returns state indicating the visibility of quick access menu.
 
 #### Remarks
@@ -58,6 +52,12 @@ export const PluginPanelView: VFC<{}> = ({ }) => {
     </div>
   );
 };
+```
+
+#### Signature
+
+```ts
+useQuickAccessVisible(): boolean;
 ```
 
 #### Returns

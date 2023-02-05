@@ -32,43 +32,33 @@ published: true
 
 #### Properties
 
-##### NavigationManager
+##### NavigationManager?
 
-```ts
-NavigationManager?: any
-```
+> `any`
 
 Defined in:  [src/deck-components/FocusRing.ts:10](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/FocusRing.ts#L10)
 
-##### children
+##### children?
 
-```ts
-children?: ReactNode
-```
+> `ReactNode`
 
 Defined in:  [src/deck-components/FocusRing.ts:9](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/FocusRing.ts#L9)
 
-##### className
+##### className?
 
-```ts
-className?: string
-```
+> `string`
 
 Defined in:  [src/deck-components/FocusRing.ts:6](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/FocusRing.ts#L6)
 
-##### render
+##### render?
 
-```ts
-render?: ElementType<any>
-```
+> `ElementType`\<`any`\>
 
 Defined in:  [src/deck-components/FocusRing.ts:8](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/FocusRing.ts#L8)
 
-##### rootClassName
+##### rootClassName?
 
-```ts
-rootClassName?: string
-```
+> `string`
 
 Defined in:  [src/deck-components/FocusRing.ts:7](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/FocusRing.ts#L7)
 
@@ -79,14 +69,14 @@ Defined in:  [src/deck-components/FocusRing.ts:7](https://github.com/SteamDeckHo
 #### Signature
 
 ```ts
-FocusRing(props: PropsWithChildren<FocusRingProps>, context?: any): null | ReactElement<any, any>
+FocusRing(props: PropsWithChildren<FocusRingProps>, context?: any): null | ReactElement<any, any>;
 ```
 
 #### Parameters
 
 | Name | Type |
 | :------ | :------ |
-| `props` | `PropsWithChildren`\<[FocusRingProps](deck/components/FocusRing#focusringprops)\> |
+| `props` | `PropsWithChildren`\<[`FocusRingProps`](FocusRing#focusringprops)\> |
 | `context?` | `any` |
 
 #### Returns

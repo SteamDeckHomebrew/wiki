@@ -22,7 +22,7 @@ published: true
 
 #### Hierarchy
 
-- `HTMLAttributes`\<[HTMLInputElement]( https://developer.mozilla.org/en-US/docs/Web/API/HTMLInputElement )\>.**TextFieldProps**
+- `HTMLAttributes`\<[`HTMLInputElement`]( https://developer.mozilla.org/en-US/docs/Web/API/HTMLInputElement )\>.**TextFieldProps**
 
 #### Index
 
@@ -49,149 +49,113 @@ published: true
 
 #### Properties
 
-##### bAlwaysShowClearAction
+##### bAlwaysShowClearAction?
 
-```ts
-bAlwaysShowClearAction?: boolean
-```
+> `boolean`
 
 Defined in:  [src/deck-components/TextField.tsx:12](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/TextField.tsx#L12)
 
-##### bIsPassword
+##### bIsPassword?
 
-```ts
-bIsPassword?: boolean
-```
+> `boolean`
 
 Defined in:  [src/deck-components/TextField.tsx:13](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/TextField.tsx#L13)
 
-##### bShowClearAction
+##### bShowClearAction?
 
-```ts
-bShowClearAction?: boolean
-```
+> `boolean`
 
 Defined in:  [src/deck-components/TextField.tsx:11](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/TextField.tsx#L11)
 
-##### bShowCopyAction
+##### bShowCopyAction?
 
-```ts
-bShowCopyAction?: boolean
-```
+> `boolean`
 
 Defined in:  [src/deck-components/TextField.tsx:10](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/TextField.tsx#L10)
 
-##### description
+##### description?
 
-```ts
-description?: ReactNode
-```
+> `ReactNode`
 
 Defined in:  [src/deck-components/TextField.tsx:8](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/TextField.tsx#L8)
 
-##### disabled
+##### disabled?
 
-```ts
-disabled?: boolean
-```
+> `boolean`
 
 Defined in:  [src/deck-components/TextField.tsx:9](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/TextField.tsx#L9)
 
-##### focusOnMount
+##### focusOnMount?
 
-```ts
-focusOnMount?: boolean
-```
+> `boolean`
 
 Defined in:  [src/deck-components/TextField.tsx:19](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/TextField.tsx#L19)
 
-##### inlineControls
+##### inlineControls?
 
-```ts
-inlineControls?: ReactNode
-```
+> `ReactNode`
 
 Defined in:  [src/deck-components/TextField.tsx:21](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/TextField.tsx#L21)
 
-##### label
+##### label?
 
-```ts
-label?: ReactNode
-```
+> `ReactNode`
 
 Defined in:  [src/deck-components/TextField.tsx:6](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/TextField.tsx#L6)
 
-##### mustBeEmail
+##### mustBeEmail?
 
-```ts
-mustBeEmail?: boolean
-```
+> `boolean`
 
 Defined in:  [src/deck-components/TextField.tsx:18](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/TextField.tsx#L18)
 
-##### mustBeNumeric
+##### mustBeNumeric?
 
-```ts
-mustBeNumeric?: boolean
-```
+> `boolean`
 
 Defined in:  [src/deck-components/TextField.tsx:16](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/TextField.tsx#L16)
 
-##### mustBeURL
+##### mustBeURL?
 
-```ts
-mustBeURL?: boolean
-```
+> `boolean`
 
 Defined in:  [src/deck-components/TextField.tsx:17](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/TextField.tsx#L17)
 
-##### onChange
+##### onChange?
 
-```ts
-onChange?: ChangeEventHandler<HTMLInputElement>
-```
+> `ChangeEventHandler`\<[`HTMLInputElement`]( https://developer.mozilla.org/en-US/docs/Web/API/HTMLInputElement )\>
 
 Overrides: HTMLAttributes.onChange
 
 Defined in:  [src/deck-components/TextField.tsx:22](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/TextField.tsx#L22)
 
-##### rangeMax
+##### rangeMax?
 
-```ts
-rangeMax?: number
-```
+> `number`
 
 Defined in:  [src/deck-components/TextField.tsx:15](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/TextField.tsx#L15)
 
-##### rangeMin
+##### rangeMin?
 
-```ts
-rangeMin?: number
-```
+> `number`
 
 Defined in:  [src/deck-components/TextField.tsx:14](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/TextField.tsx#L14)
 
-##### requiredLabel
+##### requiredLabel?
 
-```ts
-requiredLabel?: ReactNode
-```
+> `ReactNode`
 
 Defined in:  [src/deck-components/TextField.tsx:7](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/TextField.tsx#L7)
 
-##### tooltip
+##### tooltip?
 
-```ts
-tooltip?: string
-```
+> `string`
 
 Defined in:  [src/deck-components/TextField.tsx:20](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/TextField.tsx#L20)
 
-##### value
+##### value?
 
-```ts
-value?: string
-```
+> `string`
 
 Defined in:  [src/deck-components/TextField.tsx:23](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/TextField.tsx#L23)
 
@@ -202,14 +166,14 @@ Defined in:  [src/deck-components/TextField.tsx:23](https://github.com/SteamDeck
 #### Signature
 
 ```ts
-TextField(props: TextFieldProps, context?: any): null | ReactElement<any, any>
+TextField(props: TextFieldProps, context?: any): null | ReactElement<any, any>;
 ```
 
 #### Parameters
 
 | Name | Type |
 | :------ | :------ |
-| `props` | [TextFieldProps](deck/components/TextField#textfieldprops) |
+| `props` | [`TextFieldProps`](TextField#textfieldprops) |
 | `context?` | `any` |
 
 #### Returns

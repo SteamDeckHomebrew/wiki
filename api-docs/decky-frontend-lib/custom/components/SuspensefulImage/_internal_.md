@@ -18,7 +18,7 @@ published: true
 
 #### Hierarchy
 
-- `ImgHTMLAttributes`\<[HTMLImageElement]( https://developer.mozilla.org/en-US/docs/Web/API/HTMLImageElement )\>.**SuspensefulImageProps**
+- `ImgHTMLAttributes`\<[`HTMLImageElement`]( https://developer.mozilla.org/en-US/docs/Web/API/HTMLImageElement )\>.**SuspensefulImageProps**
 
 #### Index
 
@@ -29,18 +29,14 @@ published: true
 
 #### Properties
 
-##### suspenseHeight
+##### suspenseHeight?
 
-```ts
-suspenseHeight?: string | number
-```
+> `string` \| `number`
 
 Defined in:  [src/custom-components/SuspensefulImage.tsx:8](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/custom-components/SuspensefulImage.tsx#L8)
 
-##### suspenseWidth
+##### suspenseWidth?
 
-```ts
-suspenseWidth?: string | number
-```
+> `string` \| `number`
 
 Defined in:  [src/custom-components/SuspensefulImage.tsx:7](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/custom-components/SuspensefulImage.tsx#L7)

@@ -33,25 +33,19 @@ published: true
 
 ##### label
 
-```ts
-label: string
-```
+> `string`
 
 Defined in:  [src/deck-components/SliderField.tsx:8](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SliderField.tsx#L8)
 
 ##### notchIndex
 
-```ts
-notchIndex: number
-```
+> `number`
 
 Defined in:  [src/deck-components/SliderField.tsx:7](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SliderField.tsx#L7)
 
-##### value
+##### value?
 
-```ts
-value?: number
-```
+> `number`
 
 Defined in:  [src/deck-components/SliderField.tsx:9](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SliderField.tsx#L9)
 
@@ -61,7 +55,7 @@ Defined in:  [src/deck-components/SliderField.tsx:9](https://github.com/SteamDec
 
 #### Hierarchy
 
-- [ItemProps](deck/components/Item#itemprops).**SliderFieldProps**
+- [`ItemProps`](Item#itemprops).**SliderFieldProps**
 
 #### Index
 
@@ -95,196 +89,154 @@ Defined in:  [src/deck-components/SliderField.tsx:9](https://github.com/SteamDec
 
 #### Properties
 
-##### bottomSeparator
+##### bottomSeparator?
 
-```ts
-bottomSeparator?: "standard" | "thick" | "none"
-```
+> `"standard"` \| `"thick"` \| `"none"`
 
-Inherited from: [ItemProps](deck/components/Item#itemprops).[bottomSeparator](deck/components/Item#bottomseparator)
+Inherited from: [ItemProps](Item#itemprops).[bottomSeparator](Item#bottomseparator)
 
 Defined in:  [src/deck-components/Item.tsx:8](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Item.tsx#L8)
 
-##### description
+##### description?
 
-```ts
-description?: ReactNode
-```
+> `ReactNode`
 
-Inherited from: [ItemProps](deck/components/Item#itemprops).[description](deck/components/Item#description)
+Inherited from: [ItemProps](Item#itemprops).[description](Item#description)
 
 Defined in:  [src/deck-components/Item.tsx:5](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Item.tsx#L5)
 
-##### disabled
+##### disabled?
 
-```ts
-disabled?: boolean
-```
+> `boolean`
 
 Defined in:  [src/deck-components/SliderField.tsx:22](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SliderField.tsx#L22)
 
-##### editableValue
+##### editableValue?
 
-```ts
-editableValue?: boolean
-```
+> `boolean`
 
 Defined in:  [src/deck-components/SliderField.tsx:23](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SliderField.tsx#L23)
 
-##### icon
+##### icon?
 
-```ts
-icon?: ReactNode
-```
+> `ReactNode`
 
-Inherited from: [ItemProps](deck/components/Item#itemprops).[icon](deck/components/Item#icon)
+Inherited from: [ItemProps](Item#itemprops).[icon](Item#icon)
 
 Defined in:  [src/deck-components/Item.tsx:7](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Item.tsx#L7)
 
-##### indentLevel
+##### indentLevel?
 
-```ts
-indentLevel?: number
-```
+> `number`
 
-Inherited from: [ItemProps](deck/components/Item#itemprops).[indentLevel](deck/components/Item#indentlevel)
+Inherited from: [ItemProps](Item#itemprops).[indentLevel](Item#indentlevel)
 
 Defined in:  [src/deck-components/Item.tsx:9](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Item.tsx#L9)
 
-##### label
+##### label?
 
-```ts
-label?: ReactNode
-```
+> `ReactNode`
 
-Inherited from: [ItemProps](deck/components/Item#itemprops).[label](deck/components/Item#label)
+Inherited from: [ItemProps](Item#itemprops).[label](Item#label)
 
 Defined in:  [src/deck-components/Item.tsx:4](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Item.tsx#L4)
 
-##### layout
+##### layout?
 
-```ts
-layout?: "below" | "inline"
-```
+> `"below"` \| `"inline"`
 
-Inherited from: [ItemProps](deck/components/Item#itemprops).[layout](deck/components/Item#layout)
+Inherited from: [ItemProps](Item#itemprops).[layout](Item#layout)
 
 Defined in:  [src/deck-components/Item.tsx:6](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Item.tsx#L6)
 
-##### max
+##### max?
 
-```ts
-max?: number
-```
+> `number`
 
 Defined in:  [src/deck-components/SliderField.tsx:15](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SliderField.tsx#L15)
 
-##### min
+##### min?
 
-```ts
-min?: number
-```
+> `number`
 
 Defined in:  [src/deck-components/SliderField.tsx:14](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SliderField.tsx#L14)
 
-##### minimumDpadGranularity
+##### minimumDpadGranularity?
 
-```ts
-minimumDpadGranularity?: number
-```
+> `number`
 
 Defined in:  [src/deck-components/SliderField.tsx:26](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SliderField.tsx#L26)
 
-##### notchCount
+##### notchCount?
 
-```ts
-notchCount?: number
-```
+> `number`
 
 Defined in:  [src/deck-components/SliderField.tsx:17](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SliderField.tsx#L17)
 
-##### notchLabels
+##### notchLabels?
 
-```ts
-notchLabels?: NotchLabel[]
-```
+> [`NotchLabel`](SliderField#notchlabel)[]
 
 Defined in:  [src/deck-components/SliderField.tsx:18](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SliderField.tsx#L18)
 
-##### notchTicksVisible
+##### notchTicksVisible?
 
-```ts
-notchTicksVisible?: boolean
-```
+> `boolean`
 
 Defined in:  [src/deck-components/SliderField.tsx:19](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SliderField.tsx#L19)
 
-##### resetValue
+##### resetValue?
 
-```ts
-resetValue?: number
-```
+> `number`
 
 Defined in:  [src/deck-components/SliderField.tsx:21](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SliderField.tsx#L21)
 
-##### showValue
+##### showValue?
 
-```ts
-showValue?: boolean
-```
+> `boolean`
 
 Defined in:  [src/deck-components/SliderField.tsx:20](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SliderField.tsx#L20)
 
-##### step
+##### step?
 
-```ts
-step?: number
-```
+> `number`
 
 Defined in:  [src/deck-components/SliderField.tsx:16](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SliderField.tsx#L16)
 
-##### tooltip
+##### tooltip?
 
-```ts
-tooltip?: string
-```
+> `string`
 
-Inherited from: [ItemProps](deck/components/Item#itemprops).[tooltip](deck/components/Item#tooltip)
+Inherited from: [ItemProps](Item#itemprops).[tooltip](Item#tooltip)
 
 Defined in:  [src/deck-components/Item.tsx:10](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Item.tsx#L10)
 
-##### validValues
+##### validValues?
 
-```ts
-validValues?: "steps" | "range" | (value: number) => boolean
-```
+> `"steps"` \| `"range"` \| (`value`: `number`) => `boolean`
 
 Defined in:  [src/deck-components/SliderField.tsx:24](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SliderField.tsx#L24)
 
 ##### value
 
-```ts
-value: number
-```
+> `number`
 
 Defined in:  [src/deck-components/SliderField.tsx:13](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SliderField.tsx#L13)
 
-##### valueSuffix
+##### valueSuffix?
 
-```ts
-valueSuffix?: string
-```
+> `string`
 
 Defined in:  [src/deck-components/SliderField.tsx:25](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SliderField.tsx#L25)
 
 #### Methods
 
-##### onChange()
+##### onChange()?
 
 ###### Signature
 
 ```ts
-Optional onChange(value: number): void
+Optional onChange(value: number): void;
 ```
 
 ###### Parameters
@@ -306,14 +258,14 @@ Defined in:  [src/deck-components/SliderField.tsx:27](https://github.com/SteamDe
 #### Signature
 
 ```ts
-SliderField(props: PropsWithChildren<SliderFieldProps>, context?: any): null | ReactElement<any, any>
+SliderField(props: PropsWithChildren<SliderFieldProps>, context?: any): null | ReactElement<any, any>;
 ```
 
 #### Parameters
 
 | Name | Type |
 | :------ | :------ |
-| `props` | `PropsWithChildren`\<[SliderFieldProps](deck/components/SliderField#sliderfieldprops)\> |
+| `props` | `PropsWithChildren`\<[`SliderFieldProps`](SliderField#sliderfieldprops)\> |
 | `context?` | `any` |
 
 #### Returns

@@ -37,83 +37,63 @@ published: true
 
 #### Properties
 
-##### center
+##### center?
 
-```ts
-center?: boolean
-```
+> `boolean`
 
 Defined in:  [src/deck-components/Marquee.tsx:11](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Marquee.tsx#L11)
 
 ##### children
 
-```ts
-children: ReactNode
-```
+> `ReactNode`
 
 Defined in:  [src/deck-components/Marquee.tsx:15](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Marquee.tsx#L15)
 
-##### className
+##### className?
 
-```ts
-className?: string
-```
+> `string`
 
 Defined in:  [src/deck-components/Marquee.tsx:14](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Marquee.tsx#L14)
 
-##### delay
+##### delay?
 
-```ts
-delay?: number
-```
+> `number`
 
 Defined in:  [src/deck-components/Marquee.tsx:9](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Marquee.tsx#L9)
 
-##### direction
+##### direction?
 
-```ts
-direction?: "left" | "right"
-```
+> `"left"` \| `"right"`
 
 Defined in:  [src/deck-components/Marquee.tsx:7](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Marquee.tsx#L7)
 
-##### fadeLength
+##### fadeLength?
 
-```ts
-fadeLength?: number
-```
+> `number`
 
 Defined in:  [src/deck-components/Marquee.tsx:10](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Marquee.tsx#L10)
 
-##### play
+##### play?
 
-```ts
-play?: boolean
-```
+> `boolean`
 
 Defined in:  [src/deck-components/Marquee.tsx:6](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Marquee.tsx#L6)
 
-##### resetOnPause
+##### resetOnPause?
 
-```ts
-resetOnPause?: boolean
-```
+> `boolean`
 
 Defined in:  [src/deck-components/Marquee.tsx:12](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Marquee.tsx#L12)
 
-##### speed
+##### speed?
 
-```ts
-speed?: number
-```
+> `number`
 
 Defined in:  [src/deck-components/Marquee.tsx:8](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Marquee.tsx#L8)
 
-##### style
+##### style?
 
-```ts
-style?: CSSProperties
-```
+> `CSSProperties`
 
 Defined in:  [src/deck-components/Marquee.tsx:13](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Marquee.tsx#L13)
 
@@ -124,14 +104,14 @@ Defined in:  [src/deck-components/Marquee.tsx:13](https://github.com/SteamDeckHo
 #### Signature
 
 ```ts
-Marquee(props: PropsWithChildren<MarqueeProps>, context?: any): null | ReactElement<any, any>
+Marquee(props: PropsWithChildren<MarqueeProps>, context?: any): null | ReactElement<any, any>;
 ```
 
 #### Parameters
 
 | Name | Type |
 | :------ | :------ |
-| `props` | `PropsWithChildren`\<[MarqueeProps](deck/components/Marquee#marqueeprops)\> |
+| `props` | `PropsWithChildren`\<[`MarqueeProps`](Marquee#marqueeprops)\> |
 | `context?` | `any` |
 
 #### Returns

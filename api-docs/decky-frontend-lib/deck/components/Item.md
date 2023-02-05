@@ -18,11 +18,11 @@ published: true
 
 #### Hierarchy
 
-- [ButtonItemProps](deck/components/ButtonItem#buttonitemprops)
-- [DropdownItemProps](deck/components/Dropdown#dropdownitemprops)
-- [ProgressBarItemProps](deck/components/ProgressBar#progressbaritemprops)
-- [SliderFieldProps](deck/components/SliderField#sliderfieldprops)
-- [ToggleFieldProps](deck/components/ToggleField#togglefieldprops)
+- [`ButtonItemProps`](ButtonItem#buttonitemprops)
+- [`DropdownItemProps`](Dropdown#dropdownitemprops)
+- [`ProgressBarItemProps`](ProgressBar#progressbaritemprops)
+- [`SliderFieldProps`](SliderField#sliderfieldprops)
+- [`ToggleFieldProps`](ToggleField#togglefieldprops)
 
 #### Index
 
@@ -38,58 +38,44 @@ published: true
 
 #### Properties
 
-##### bottomSeparator
+##### bottomSeparator?
 
-```ts
-bottomSeparator?: "standard" | "thick" | "none"
-```
+> `"standard"` \| `"thick"` \| `"none"`
 
 Defined in:  [src/deck-components/Item.tsx:8](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Item.tsx#L8)
 
-##### description
+##### description?
 
-```ts
-description?: ReactNode
-```
+> `ReactNode`
 
 Defined in:  [src/deck-components/Item.tsx:5](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Item.tsx#L5)
 
-##### icon
+##### icon?
 
-```ts
-icon?: ReactNode
-```
+> `ReactNode`
 
 Defined in:  [src/deck-components/Item.tsx:7](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Item.tsx#L7)
 
-##### indentLevel
+##### indentLevel?
 
-```ts
-indentLevel?: number
-```
+> `number`
 
 Defined in:  [src/deck-components/Item.tsx:9](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Item.tsx#L9)
 
-##### label
+##### label?
 
-```ts
-label?: ReactNode
-```
+> `ReactNode`
 
 Defined in:  [src/deck-components/Item.tsx:4](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Item.tsx#L4)
 
-##### layout
+##### layout?
 
-```ts
-layout?: "below" | "inline"
-```
+> `"below"` \| `"inline"`
 
 Defined in:  [src/deck-components/Item.tsx:6](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Item.tsx#L6)
 
-##### tooltip
+##### tooltip?
 
-```ts
-tooltip?: string
-```
+> `string`
 
 Defined in:  [src/deck-components/Item.tsx:10](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Item.tsx#L10)

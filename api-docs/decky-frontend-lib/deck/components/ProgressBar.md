@@ -26,7 +26,7 @@ published: true
 
 #### Hierarchy
 
-- [ItemProps](deck/components/Item#itemprops).**ProgressBarItemProps**
+- [`ItemProps`](Item#itemprops).**ProgressBarItemProps**
 
 #### Index
 
@@ -46,105 +46,83 @@ published: true
 
 #### Properties
 
-##### bottomSeparator
+##### bottomSeparator?
 
-```ts
-bottomSeparator?: "standard" | "thick" | "none"
-```
+> `"standard"` \| `"thick"` \| `"none"`
 
-Inherited from: [ItemProps](deck/components/Item#itemprops).[bottomSeparator](deck/components/Item#bottomseparator)
+Inherited from: [ItemProps](Item#itemprops).[bottomSeparator](Item#bottomseparator)
 
 Defined in:  [src/deck-components/Item.tsx:8](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Item.tsx#L8)
 
-##### description
+##### description?
 
-```ts
-description?: ReactNode
-```
+> `ReactNode`
 
-Inherited from: [ItemProps](deck/components/Item#itemprops).[description](deck/components/Item#description)
+Inherited from: [ItemProps](Item#itemprops).[description](Item#description)
 
 Defined in:  [src/deck-components/Item.tsx:5](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Item.tsx#L5)
 
-##### focusable
+##### focusable?
 
-```ts
-focusable?: boolean
-```
+> `boolean`
 
 Defined in:  [src/deck-components/ProgressBar.tsx:10](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/ProgressBar.tsx#L10)
 
-##### icon
+##### icon?
 
-```ts
-icon?: ReactNode
-```
+> `ReactNode`
 
-Inherited from: [ItemProps](deck/components/Item#itemprops).[icon](deck/components/Item#icon)
+Inherited from: [ItemProps](Item#itemprops).[icon](Item#icon)
 
 Defined in:  [src/deck-components/Item.tsx:7](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Item.tsx#L7)
 
-##### indentLevel
+##### indentLevel?
 
-```ts
-indentLevel?: number
-```
+> `number`
 
-Inherited from: [ItemProps](deck/components/Item#itemprops).[indentLevel](deck/components/Item#indentlevel)
+Inherited from: [ItemProps](Item#itemprops).[indentLevel](Item#indentlevel)
 
 Defined in:  [src/deck-components/Item.tsx:9](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Item.tsx#L9)
 
-##### indeterminate
+##### indeterminate?
 
-```ts
-indeterminate?: boolean
-```
+> `boolean`
 
 Defined in:  [src/deck-components/ProgressBar.tsx:7](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/ProgressBar.tsx#L7)
 
-##### label
+##### label?
 
-```ts
-label?: ReactNode
-```
+> `ReactNode`
 
-Inherited from: [ItemProps](deck/components/Item#itemprops).[label](deck/components/Item#label)
+Inherited from: [ItemProps](Item#itemprops).[label](Item#label)
 
 Defined in:  [src/deck-components/Item.tsx:4](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Item.tsx#L4)
 
-##### layout
+##### layout?
 
-```ts
-layout?: "below" | "inline"
-```
+> `"below"` \| `"inline"`
 
-Inherited from: [ItemProps](deck/components/Item#itemprops).[layout](deck/components/Item#layout)
+Inherited from: [ItemProps](Item#itemprops).[layout](Item#layout)
 
 Defined in:  [src/deck-components/Item.tsx:6](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Item.tsx#L6)
 
-##### nProgress
+##### nProgress?
 
-```ts
-nProgress?: number
-```
+> `number`
 
 Defined in:  [src/deck-components/ProgressBar.tsx:9](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/ProgressBar.tsx#L9)
 
-##### nTransitionSec
+##### nTransitionSec?
 
-```ts
-nTransitionSec?: number
-```
+> `number`
 
 Defined in:  [src/deck-components/ProgressBar.tsx:8](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/ProgressBar.tsx#L8)
 
-##### tooltip
+##### tooltip?
 
-```ts
-tooltip?: string
-```
+> `string`
 
-Inherited from: [ItemProps](deck/components/Item#itemprops).[tooltip](deck/components/Item#tooltip)
+Inherited from: [ItemProps](Item#itemprops).[tooltip](Item#tooltip)
 
 Defined in:  [src/deck-components/Item.tsx:10](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Item.tsx#L10)
 
@@ -163,35 +141,27 @@ Defined in:  [src/deck-components/Item.tsx:10](https://github.com/SteamDeckHomeb
 
 #### Properties
 
-##### focusable
+##### focusable?
 
-```ts
-focusable?: boolean
-```
+> `boolean`
 
 Defined in:  [src/deck-components/ProgressBar.tsx:17](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/ProgressBar.tsx#L17)
 
-##### indeterminate
+##### indeterminate?
 
-```ts
-indeterminate?: boolean
-```
+> `boolean`
 
 Defined in:  [src/deck-components/ProgressBar.tsx:14](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/ProgressBar.tsx#L14)
 
-##### nProgress
+##### nProgress?
 
-```ts
-nProgress?: number
-```
+> `number`
 
 Defined in:  [src/deck-components/ProgressBar.tsx:16](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/ProgressBar.tsx#L16)
 
-##### nTransitionSec
+##### nTransitionSec?
 
-```ts
-nTransitionSec?: number
-```
+> `number`
 
 Defined in:  [src/deck-components/ProgressBar.tsx:15](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/ProgressBar.tsx#L15)
 
@@ -201,7 +171,7 @@ Defined in:  [src/deck-components/ProgressBar.tsx:15](https://github.com/SteamDe
 
 #### Hierarchy
 
-- [ProgressBarItemProps](deck/components/ProgressBar#progressbaritemprops).**ProgressBarWithInfoProps**
+- [`ProgressBarItemProps`](ProgressBar#progressbaritemprops).**ProgressBarWithInfoProps**
 
 #### Index
 
@@ -223,129 +193,103 @@ Defined in:  [src/deck-components/ProgressBar.tsx:15](https://github.com/SteamDe
 
 #### Properties
 
-##### bottomSeparator
+##### bottomSeparator?
 
-```ts
-bottomSeparator?: "standard" | "thick" | "none"
-```
+> `"standard"` \| `"thick"` \| `"none"`
 
-Inherited from: [ProgressBarItemProps](deck/components/ProgressBar#progressbaritemprops).[bottomSeparator](deck/components/ProgressBar#bottomseparator)
+Inherited from: [ProgressBarItemProps](ProgressBar#progressbaritemprops).[bottomSeparator](ProgressBar#bottomseparator)
 
 Defined in:  [src/deck-components/Item.tsx:8](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Item.tsx#L8)
 
-##### description
+##### description?
 
-```ts
-description?: ReactNode
-```
+> `ReactNode`
 
-Inherited from: [ProgressBarItemProps](deck/components/ProgressBar#progressbaritemprops).[description](deck/components/ProgressBar#description)
+Inherited from: [ProgressBarItemProps](ProgressBar#progressbaritemprops).[description](ProgressBar#description)
 
 Defined in:  [src/deck-components/Item.tsx:5](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Item.tsx#L5)
 
-##### focusable
+##### focusable?
 
-```ts
-focusable?: boolean
-```
+> `boolean`
 
-Inherited from: [ProgressBarItemProps](deck/components/ProgressBar#progressbaritemprops).[focusable](deck/components/ProgressBar#focusable)
+Inherited from: [ProgressBarItemProps](ProgressBar#progressbaritemprops).[focusable](ProgressBar#focusable)
 
 Defined in:  [src/deck-components/ProgressBar.tsx:10](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/ProgressBar.tsx#L10)
 
-##### icon
+##### icon?
 
-```ts
-icon?: ReactNode
-```
+> `ReactNode`
 
-Inherited from: [ProgressBarItemProps](deck/components/ProgressBar#progressbaritemprops).[icon](deck/components/ProgressBar#icon)
+Inherited from: [ProgressBarItemProps](ProgressBar#progressbaritemprops).[icon](ProgressBar#icon)
 
 Defined in:  [src/deck-components/Item.tsx:7](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Item.tsx#L7)
 
-##### indentLevel
+##### indentLevel?
 
-```ts
-indentLevel?: number
-```
+> `number`
 
-Inherited from: [ProgressBarItemProps](deck/components/ProgressBar#progressbaritemprops).[indentLevel](deck/components/ProgressBar#indentlevel)
+Inherited from: [ProgressBarItemProps](ProgressBar#progressbaritemprops).[indentLevel](ProgressBar#indentlevel)
 
 Defined in:  [src/deck-components/Item.tsx:9](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Item.tsx#L9)
 
-##### indeterminate
+##### indeterminate?
 
-```ts
-indeterminate?: boolean
-```
+> `boolean`
 
-Inherited from: [ProgressBarItemProps](deck/components/ProgressBar#progressbaritemprops).[indeterminate](deck/components/ProgressBar#indeterminate)
+Inherited from: [ProgressBarItemProps](ProgressBar#progressbaritemprops).[indeterminate](ProgressBar#indeterminate)
 
 Defined in:  [src/deck-components/ProgressBar.tsx:7](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/ProgressBar.tsx#L7)
 
-##### label
+##### label?
 
-```ts
-label?: ReactNode
-```
+> `ReactNode`
 
-Inherited from: [ProgressBarItemProps](deck/components/ProgressBar#progressbaritemprops).[label](deck/components/ProgressBar#label)
+Inherited from: [ProgressBarItemProps](ProgressBar#progressbaritemprops).[label](ProgressBar#label)
 
 Defined in:  [src/deck-components/Item.tsx:4](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Item.tsx#L4)
 
-##### layout
+##### layout?
 
-```ts
-layout?: "below" | "inline"
-```
+> `"below"` \| `"inline"`
 
-Inherited from: [ProgressBarItemProps](deck/components/ProgressBar#progressbaritemprops).[layout](deck/components/ProgressBar#layout)
+Inherited from: [ProgressBarItemProps](ProgressBar#progressbaritemprops).[layout](ProgressBar#layout)
 
 Defined in:  [src/deck-components/Item.tsx:6](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Item.tsx#L6)
 
-##### nProgress
+##### nProgress?
 
-```ts
-nProgress?: number
-```
+> `number`
 
-Inherited from: [ProgressBarItemProps](deck/components/ProgressBar#progressbaritemprops).[nProgress](deck/components/ProgressBar#nprogress)
+Inherited from: [ProgressBarItemProps](ProgressBar#progressbaritemprops).[nProgress](ProgressBar#nprogress)
 
 Defined in:  [src/deck-components/ProgressBar.tsx:9](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/ProgressBar.tsx#L9)
 
-##### nTransitionSec
+##### nTransitionSec?
 
-```ts
-nTransitionSec?: number
-```
+> `number`
 
-Inherited from: [ProgressBarItemProps](deck/components/ProgressBar#progressbaritemprops).[nTransitionSec](deck/components/ProgressBar#ntransitionsec)
+Inherited from: [ProgressBarItemProps](ProgressBar#progressbaritemprops).[nTransitionSec](ProgressBar#ntransitionsec)
 
 Defined in:  [src/deck-components/ProgressBar.tsx:8](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/ProgressBar.tsx#L8)
 
-##### sOperationText
+##### sOperationText?
 
-```ts
-sOperationText?: ReactNode
-```
+> `ReactNode`
 
 Defined in:  [src/deck-components/ProgressBar.tsx:22](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/ProgressBar.tsx#L22)
 
-##### sTimeRemaining
+##### sTimeRemaining?
 
-```ts
-sTimeRemaining?: ReactNode
-```
+> `ReactNode`
 
 Defined in:  [src/deck-components/ProgressBar.tsx:21](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/ProgressBar.tsx#L21)
 
-##### tooltip
+##### tooltip?
 
-```ts
-tooltip?: string
-```
+> `string`
 
-Inherited from: [ProgressBarItemProps](deck/components/ProgressBar#progressbaritemprops).[tooltip](deck/components/ProgressBar#tooltip)
+Inherited from: [ProgressBarItemProps](ProgressBar#progressbaritemprops).[tooltip](ProgressBar#tooltip)
 
 Defined in:  [src/deck-components/Item.tsx:10](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Item.tsx#L10)
 
@@ -356,14 +300,14 @@ Defined in:  [src/deck-components/Item.tsx:10](https://github.com/SteamDeckHomeb
 #### Signature
 
 ```ts
-ProgressBar(props: ProgressBarProps, context?: any): null | ReactElement<any, any>
+ProgressBar(props: ProgressBarProps, context?: any): null | ReactElement<any, any>;
 ```
 
 #### Parameters
 
 | Name | Type |
 | :------ | :------ |
-| `props` | [ProgressBarProps](deck/components/ProgressBar#progressbarprops) |
+| `props` | [`ProgressBarProps`](ProgressBar#progressbarprops) |
 | `context?` | `any` |
 
 #### Returns
@@ -379,14 +323,14 @@ Defined in:  node\_modules/.pnpm/@types+react@16.14.0/node\_modules/@types/react
 #### Signature
 
 ```ts
-ProgressBarItem(props: ProgressBarItemProps, context?: any): null | ReactElement<any, any>
+ProgressBarItem(props: ProgressBarItemProps, context?: any): null | ReactElement<any, any>;
 ```
 
 #### Parameters
 
 | Name | Type |
 | :------ | :------ |
-| `props` | [ProgressBarItemProps](deck/components/ProgressBar#progressbaritemprops) |
+| `props` | [`ProgressBarItemProps`](ProgressBar#progressbaritemprops) |
 | `context?` | `any` |
 
 #### Returns
@@ -402,14 +346,14 @@ Defined in:  node\_modules/.pnpm/@types+react@16.14.0/node\_modules/@types/react
 #### Signature
 
 ```ts
-ProgressBarWithInfo(props: ProgressBarWithInfoProps, context?: any): null | ReactElement<any, any>
+ProgressBarWithInfo(props: ProgressBarWithInfoProps, context?: any): null | ReactElement<any, any>;
 ```
 
 #### Parameters
 
 | Name | Type |
 | :------ | :------ |
-| `props` | [ProgressBarWithInfoProps](deck/components/ProgressBar#progressbarwithinfoprops) |
+| `props` | [`ProgressBarWithInfoProps`](ProgressBar#progressbarwithinfoprops) |
 | `context?` | `any` |
 
 #### Returns

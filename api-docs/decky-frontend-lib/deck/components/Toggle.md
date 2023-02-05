@@ -34,38 +34,32 @@ published: true
 
 #### Properties
 
-##### disabled
+##### disabled?
 
-```ts
-disabled?: boolean
-```
+> `boolean`
 
 Defined in:  [src/deck-components/Toggle.tsx:7](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Toggle.tsx#L7)
 
-##### navRef
+##### navRef?
 
-```ts
-navRef?: any
-```
+> `any`
 
 Defined in:  [src/deck-components/Toggle.tsx:9](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Toggle.tsx#L9)
 
 ##### value
 
-```ts
-value: boolean
-```
+> `boolean`
 
 Defined in:  [src/deck-components/Toggle.tsx:6](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Toggle.tsx#L6)
 
 #### Methods
 
-##### onChange()
+##### onChange()?
 
 ###### Signature
 
 ```ts
-Optional onChange(checked: boolean): void
+Optional onChange(checked: boolean): void;
 ```
 
 ###### Parameters
@@ -87,14 +81,14 @@ Defined in:  [src/deck-components/Toggle.tsx:8](https://github.com/SteamDeckHome
 #### Signature
 
 ```ts
-Toggle(props: PropsWithChildren<ToggleProps>, context?: any): null | ReactElement<any, any>
+Toggle(props: PropsWithChildren<ToggleProps>, context?: any): null | ReactElement<any, any>;
 ```
 
 #### Parameters
 
 | Name | Type |
 | :------ | :------ |
-| `props` | `PropsWithChildren`\<[ToggleProps](deck/components/Toggle#toggleprops)\> |
+| `props` | `PropsWithChildren`\<[`ToggleProps`](Toggle#toggleprops)\> |
 | `context?` | `any` |
 
 #### Returns

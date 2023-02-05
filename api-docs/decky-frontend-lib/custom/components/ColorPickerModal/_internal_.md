@@ -35,75 +35,60 @@ published: true
 
 ##### closeModal
 
-```ts
-closeModal: Function
-```
+> `Function`
 
 ###### Type declaration
 
 ####### Signature
 
 ```ts
-(): void
+(): void;
 ```
 
-> ####### Returns
->
-> `void`
->
-> Defined in:  [src/custom-components/ColorPickerModal.tsx:6](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/custom-components/ColorPickerModal.tsx#L6)
->
+####### Returns
+
+`void`
 
 Defined in:  [src/custom-components/ColorPickerModal.tsx:6](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/custom-components/ColorPickerModal.tsx#L6)
 
-##### defaultA
+##### defaultA?
 
-```ts
-defaultA?: number
-```
+> `number`
 
 Defined in:  [src/custom-components/ColorPickerModal.tsx:12](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/custom-components/ColorPickerModal.tsx#L12)
 
-##### defaultH
+##### defaultH?
 
-```ts
-defaultH?: number
-```
+> `number`
 
 Defined in:  [src/custom-components/ColorPickerModal.tsx:9](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/custom-components/ColorPickerModal.tsx#L9)
 
-##### defaultL
+##### defaultL?
 
-```ts
-defaultL?: number
-```
+> `number`
 
 Defined in:  [src/custom-components/ColorPickerModal.tsx:11](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/custom-components/ColorPickerModal.tsx#L11)
 
-##### defaultS
+##### defaultS?
 
-```ts
-defaultS?: number
-```
+> `number`
 
 Defined in:  [src/custom-components/ColorPickerModal.tsx:10](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/custom-components/ColorPickerModal.tsx#L10)
 
-##### title
+##### title?
 
-```ts
-title?: string
-```
+> `string`
 
 Defined in:  [src/custom-components/ColorPickerModal.tsx:8](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/custom-components/ColorPickerModal.tsx#L8)
 
 #### Methods
 
-##### onConfirm()
+##### onConfirm()?
 
 ###### Signature
 
 ```ts
-Optional onConfirm(HSLString: string): any
+Optional onConfirm(HSLString: string): any;
 ```
 
 ###### Parameters

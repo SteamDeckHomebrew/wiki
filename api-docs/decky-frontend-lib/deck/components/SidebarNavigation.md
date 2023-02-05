@@ -39,73 +39,55 @@ published: true
 
 ##### content
 
-```ts
-content: ReactNode
-```
+> `ReactNode`
 
 Defined in:  [src/deck-components/SidebarNavigation.tsx:7](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SidebarNavigation.tsx#L7)
 
-##### hideTitle
+##### hideTitle?
 
-```ts
-hideTitle?: boolean
-```
+> `boolean`
 
 Defined in:  [src/deck-components/SidebarNavigation.tsx:10](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SidebarNavigation.tsx#L10)
 
-##### icon
+##### icon?
 
-```ts
-icon?: ReactNode
-```
+> `ReactNode`
 
 Defined in:  [src/deck-components/SidebarNavigation.tsx:8](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SidebarNavigation.tsx#L8)
 
-##### identifier
+##### identifier?
 
-```ts
-identifier?: string
-```
+> `string`
 
 Defined in:  [src/deck-components/SidebarNavigation.tsx:11](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SidebarNavigation.tsx#L11)
 
-##### link
+##### link?
 
-```ts
-link?: string
-```
+> `string`
 
 Defined in:  [src/deck-components/SidebarNavigation.tsx:13](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SidebarNavigation.tsx#L13)
 
-##### padding
+##### padding?
 
-```ts
-padding?: "none" | "compact"
-```
+> `"none"` \| `"compact"`
 
 Defined in:  [src/deck-components/SidebarNavigation.tsx:14](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SidebarNavigation.tsx#L14)
 
-##### route
+##### route?
 
-```ts
-route?: string
-```
+> `string`
 
 Defined in:  [src/deck-components/SidebarNavigation.tsx:12](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SidebarNavigation.tsx#L12)
 
 ##### title
 
-```ts
-title: string
-```
+> `string`
 
 Defined in:  [src/deck-components/SidebarNavigation.tsx:6](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SidebarNavigation.tsx#L6)
 
-##### visible
+##### visible?
 
-```ts
-visible?: boolean
-```
+> `boolean`
 
 Defined in:  [src/deck-components/SidebarNavigation.tsx:9](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SidebarNavigation.tsx#L9)
 
@@ -126,72 +108,57 @@ Defined in:  [src/deck-components/SidebarNavigation.tsx:9](https://github.com/St
 
 #### Properties
 
-##### disableRouteReporting
+##### disableRouteReporting?
 
-```ts
-disableRouteReporting?: boolean
-```
+> `boolean`
 
 Defined in:  [src/deck-components/SidebarNavigation.tsx:21](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SidebarNavigation.tsx#L21)
 
-##### onPageRequested
+##### onPageRequested?
 
-```ts
-onPageRequested?: Function
-```
+> `Function`
 
 ###### Type declaration
 
 ####### Signature
 
 ```ts
-(page: string): void
+(page: string): void;
 ```
 
-> ####### Parameters
->
-> | Name | Type |
-> | :------ | :------ |
-> | `page` | `string` |
->
-> ####### Returns
->
-> `void`
->
-> Defined in:  [src/deck-components/SidebarNavigation.tsx:23](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SidebarNavigation.tsx#L23)
->
+####### Parameters
+
+| Name | Type |
+| :------ | :------ |
+| `page` | `string` |
+
+####### Returns
+
+`void`
 
 Defined in:  [src/deck-components/SidebarNavigation.tsx:23](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SidebarNavigation.tsx#L23)
 
-##### page
+##### page?
 
-```ts
-page?: string
-```
+> `string`
 
 Defined in:  [src/deck-components/SidebarNavigation.tsx:22](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SidebarNavigation.tsx#L22)
 
 ##### pages
 
-```ts
-pages: SidebarNavigationPage[]
-```
+> [`SidebarNavigationPage`](SidebarNavigation#sidebarnavigationpage)[]
 
 Defined in:  [src/deck-components/SidebarNavigation.tsx:19](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SidebarNavigation.tsx#L19)
 
-##### showTitle
+##### showTitle?
 
-```ts
-showTitle?: boolean
-```
+> `boolean`
 
 Defined in:  [src/deck-components/SidebarNavigation.tsx:20](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SidebarNavigation.tsx#L20)
 
-##### title
+##### title?
 
-```ts
-title?: string
-```
+> `string`
 
 Defined in:  [src/deck-components/SidebarNavigation.tsx:18](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SidebarNavigation.tsx#L18)
 
@@ -202,14 +169,14 @@ Defined in:  [src/deck-components/SidebarNavigation.tsx:18](https://github.com/S
 #### Signature
 
 ```ts
-SidebarNavigation(props: SidebarNavigationProps, context?: any): null | ReactElement<any, any>
+SidebarNavigation(props: SidebarNavigationProps, context?: any): null | ReactElement<any, any>;
 ```
 
 #### Parameters
 
 | Name | Type |
 | :------ | :------ |
-| `props` | [SidebarNavigationProps](deck/components/SidebarNavigation#sidebarnavigationprops) |
+| `props` | [`SidebarNavigationProps`](SidebarNavigation#sidebarnavigationprops) |
 | `context?` | `any` |
 
 #### Returns

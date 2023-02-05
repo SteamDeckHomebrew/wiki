@@ -23,14 +23,14 @@ published: true
 #### Signature
 
 ```ts
-ColorPickerModal(props: PropsWithChildren<ColorPickerModalProps>, context?: any): null | ReactElement<any, any>
+ColorPickerModal(props: PropsWithChildren<ColorPickerModalProps>, context?: any): null | ReactElement<any, any>;
 ```
 
 #### Parameters
 
 | Name | Type |
 | :------ | :------ |
-| `props` | `PropsWithChildren`\<[ColorPickerModalProps](custom/components/ColorPickerModal/INTERNAL#colorpickermodalprops)\> |
+| `props` | `PropsWithChildren`\<[`ColorPickerModalProps`](_internal_#colorpickermodalprops)\> |
 | `context?` | `any` |
 
 #### Returns

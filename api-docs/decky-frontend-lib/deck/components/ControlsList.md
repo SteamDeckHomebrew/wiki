@@ -29,19 +29,15 @@ published: true
 
 #### Properties
 
-##### alignItems
+##### alignItems?
 
-```ts
-alignItems?: "center" | "left" | "right"
-```
+> `"center"` \| `"left"` \| `"right"`
 
 Defined in:  [src/deck-components/ControlsList.tsx:5](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/ControlsList.tsx#L5)
 
-##### spacing
+##### spacing?
 
-```ts
-spacing?: "standard" | "extra"
-```
+> `"standard"` \| `"extra"`
 
 Defined in:  [src/deck-components/ControlsList.tsx:6](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/ControlsList.tsx#L6)
 
@@ -52,14 +48,14 @@ Defined in:  [src/deck-components/ControlsList.tsx:6](https://github.com/SteamDe
 #### Signature
 
 ```ts
-ControlsList(props: PropsWithChildren<ControlsListProps>, context?: any): null | ReactElement<any, any>
+ControlsList(props: PropsWithChildren<ControlsListProps>, context?: any): null | ReactElement<any, any>;
 ```
 
 #### Parameters
 
 | Name | Type |
 | :------ | :------ |
-| `props` | `PropsWithChildren`\<[ControlsListProps](deck/components/ControlsList#controlslistprops)\> |
+| `props` | `PropsWithChildren`\<[`ControlsListProps`](ControlsList#controlslistprops)\> |
 | `context?` | `any` |
 
 #### Returns
