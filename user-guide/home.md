@@ -2,7 +2,7 @@
 title: Decky Loader
 description: 
 published: true
-date: 2023-02-09T17:59:59.771Z
+date: 2023-02-09T18:02:32.598Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-08T14:58:44.638Z
@@ -11,7 +11,7 @@ dateCreated: 2022-04-08T14:58:44.638Z
 # Decky Loader
 
 ## About
-Decky Loader (formerly known as PluginLoader) is an open source project written in Python with the goal of adding plugin-loading capabilities to the Steam Deck. After installing, plugins can be accessed using a plugins tab in the quick access menu.
+Decky Loader (formerly known as PluginLoader) is an open source project written in Python and react (and with support for custom backends other than python!) with the goal of adding plugin-loading capabilities to the Steam Deck. After installing, plugins can be accessed using a plugins tab in the quick access menu.
 
 ### Note for HoloISO Users
 
