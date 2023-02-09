@@ -2,7 +2,7 @@
 title: Decky Loader
 description: 
 published: true
-date: 2023-02-09T18:02:32.598Z
+date: 2023-02-09T18:16:28.483Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-08T14:58:44.638Z
@@ -15,9 +15,12 @@ Decky Loader (formerly known as PluginLoader) is an open source project written 
 
 ### Note for HoloISO Users
 
-Decky does not support HoloISO out of the box.
-The install pre-release script encounters issues related to jq and curl.
-We'd like to expand our support but don't have the time to do so. We invite pull-requests to resolve such issues.
+> Decky does not support HoloISO out of the box.
+Our installer tool is not tested against HoloISO, we try to maintain a level of support for non-deck linux systems but we do not provide direct support. We'd like to expand our support but don't have the time to do so. We invite pull-requests to resolve such issues.
+
+#### Other
+
+Also, please note that we have no plans for Windows support and pull requests will likely be closed.
 
 ---
 
