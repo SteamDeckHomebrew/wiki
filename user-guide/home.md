@@ -2,7 +2,7 @@
 title: Decky Loader
 description: 
 published: true
-date: 2023-02-09T18:16:28.483Z
+date: 2023-02-09T19:23:07.459Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-08T14:58:44.638Z
@@ -20,7 +20,7 @@ Our installer tool is not tested against HoloISO, we try to maintain a level of 
 
 #### Other
 
-Also, please note that we have no plans for Windows support and pull requests will likely be closed.
+Also, please note that we have no plans for Windows support via core contributors.
 
 ---
 
