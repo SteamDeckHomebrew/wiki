@@ -2,7 +2,7 @@
 title: Decky Loader
 description: 
 published: true
-date: 2023-02-09T17:59:28.261Z
+date: 2023-02-09T17:59:59.771Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-08T14:58:44.638Z
@@ -41,14 +41,3 @@ We'd like to expand our support but don't have the time to do so. We invite pull
 - [Route Patching (Modifying the Existing UI)](/plugin-dev/route-patching)
 - [decky-frontend-lib API docs](/en/api-docs/decky-frontend-lib/README.md)
 
---- 
-
-## Legacy Pages
-(Preserved for Historical Context)
-
-### User Guide
-- [The Plugin Browser](/en/user-guide-legacy/plugin-browser)
-
-### Plugin Development
-- [Getting Started](/en/plugin-dev-legacy/getting-started)
-- [Submitting Plugins](/en/plugin-dev-legacy/submitting-plugins)
