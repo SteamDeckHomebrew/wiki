@@ -2,7 +2,7 @@
 title: Decky Loader
 description: 
 published: true
-date: 2023-02-09T19:23:07.459Z
+date: 2023-02-15T20:56:51.259Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-08T14:58:44.638Z
@@ -38,6 +38,7 @@ Also, please note that we have no plans for Windows support via core contributor
 
 ### Plugin Development
 - [Getting Started](/en/plugin-dev/getting-started)
+	- [Saving Settings](/plugin-dev/getting-started#settingsmanager)
 - [Environment Variables](/plugin-dev/env-vars)
 - [Submitting Plugins](/en/plugin-dev/submitting-plugins)
 - [Review and Testing for Submissions](/plugin-dev/review-and-testing)
