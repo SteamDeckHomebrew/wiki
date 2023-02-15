@@ -2,7 +2,7 @@
 title: Getting Started
 description: How-To guide about developing a plugin
 published: true
-date: 2022-12-24T20:58:04.089Z
+date: 2023-02-15T20:55:28.799Z
 tags: plugin-dev
 editor: markdown
 dateCreated: 2022-07-03T19:33:01.141Z
@@ -49,7 +49,6 @@ In there you can find a `definePlugin` method that returns an object containing 
 
 In the `Content` object, the interface of the Plugin and various init code can be defined.
 
-
 ### API
 
 To talk to the backend, simply use the `ServerAPI` object passed in with the `Content` variable.
@@ -79,3 +78,37 @@ class Plugin:
         pass
 
 ```
+
+### SettingsManager
+
+Decky exposes a python class called SettingsManager from the ``settings.py`` in Decky Loader to save settings/configurations etc in local json files as opposed to the usage of localStorage directly within React.
+
+Here's a snippet from [``decky-autosuspend``](https://github.com/jurassicplayer/decky-autosuspend/blob/79ba909f8fe3575a46005a312d0cff0009f32b92/main.py) which utilizes SettingsManager to commit settings to local json file:
+```py
+# Initialize decky-loader settings manager
+from settings import SettingsManager
+from helpers import get_home_path, get_homebrew_path, get_user
+
+import os
+logger.info('Settings path: {}{}settings'.format(get_homebrew_path(get_home_path(get_user())), os.sep))
+settings = SettingsManager(name="autosuspend", settings_directory='{}{}settings'.format(get_homebrew_path(get_home_path(get_user())), os.sep))
+settings.read()
+
+class Plugin:
+  async def settings_read(self):
+    logger.info('Reading settings')
+    return settings.read()
+  async def settings_commit(self):
+    logger.info('Saving settings')
+    return settings.commit()
+  async def settings_getSetting(self, key: str, defaults):
+    logger.info('Get {}'.format(key))
+    return settings.getSetting(key, defaults)
+  async def settings_setSetting(self, key: str, value):
+    logger.info('Set {}: {}'.format(key, value))
+    return settings.setSetting(key, value)
+```
+
+If you would like to better understand how SettingsManager works and how to utilize it in your own plugin, you can reference it's source code [here](https://github.com/SteamDeckHomebrew/decky-loader/blob/main/backend/settings.py).
+
+Please note that there is logic in SettingsManager that runs when an instance of SettingsManager is intialized. This logic accomodates older plugins who effected by important adjustments to SettingsManager. The ``wrong_dir`` variable, and some other sections commented along the same lines are your relevant lines. Unless you are using a [custom directory](https://github.com/SteamDeckHomebrew/decky-loader/blob/main/backend/settings.py#L9) to save these files, this logic shouldn't effect you.
