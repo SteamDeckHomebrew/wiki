@@ -2,7 +2,7 @@
 title: Getting Started
 description: How-To guide about developing a plugin
 published: true
-date: 2023-02-15T20:55:28.799Z
+date: 2023-02-15T21:15:01.779Z
 tags: plugin-dev
 editor: markdown
 dateCreated: 2022-07-03T19:33:01.141Z
@@ -83,8 +83,10 @@ class Plugin:
 
 Decky exposes a python class called SettingsManager from the ``settings.py`` in Decky Loader to save settings/configurations etc in local json files as opposed to the usage of localStorage directly within React.
 
-Here's a snippet from [``decky-autosuspend``](https://github.com/jurassicplayer/decky-autosuspend/blob/79ba909f8fe3575a46005a312d0cff0009f32b92/main.py) which utilizes SettingsManager to commit settings to local json file:
+Here's a snippet from [``decky-autosuspend``](https://github.com/jurassicplayer/decky-autosuspend/blob/79ba909f8fe3575a46005a312d0cff0009f32b92/main.py)'s ``main.py`` which utilizes SettingsManager to commit settings to local json file:
 ```py
+# THIS CODE IS LICENSED UNDER THE BSD 3-CLAUSE LICENSE
+# PLEASE SEE THE RELEVANT REPOSITORY LINKED ABOVE FOR FURTHER DETAILS
 # Initialize decky-loader settings manager
 from settings import SettingsManager
 from helpers import get_home_path, get_homebrew_path, get_user
