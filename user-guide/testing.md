@@ -2,7 +2,7 @@
 title: Testing
 description: Instructions for testing new Decky Loader versions and plugins
 published: true
-date: 2023-01-22T22:46:39.221Z
+date: 2023-02-15T22:20:37.684Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-17T15:59:00.047Z
@@ -39,3 +39,38 @@ New Decky Loader updates require review from a Decky Loader developer and an una
 1. Submit your review. Feel free to change your SteamOS branch and make another review if you would like to do so.
 
 # Decky Plugins
+
+> Make sure to note what SteamOS update channel(s) you are using and what branch(es) (Release, Pre-Release or in rare cases as requested by a Loader developer: a custom binary) while you're testing a plugin. You can test on multiple branches, just make sure to tell us and the plugin developer so it can count towards sending their plugin to the production store!
+{.is-success}
+
+
+## Swap over to Testing Store
+
+In order to test a plugin, you will need to swap over to the testing store in the Decky Loader settings.
+
+## Go to the Plugin Database
+
+Once you've swapped over to the testing store, you can install the latest uploaded version of a plugin currently in the queue for testing. Plugins are submitted [here](https://github.com/SteamDeckHomebrew/decky-plugin-database/pulls).
+
+## Find The Update/Submission You Want to Test
+
+Once a plugin is submitted/a plugin has an update submitted, it needs to meet a basic functionality evaluation by users. At the link you found above find the pull request for the relevant plugin submission or plugin update you want to test. Install the plugin from the testing store and begin using it, really try to break it!
+> If you want to install other non-testing plugins, simply swap back to the main store in Loader settings at any time! 
+{.is-info}
+
+## Submitting a Test Report
+
+Once you feel you've completely tested the features of a plugin, you should now submit a testing report, otherwise all your effort has been for naught! Since you've already noted what SteamOS update channel(s) and Decky Loader branch(es) you used while testing this should be easy!
+
+Based off of this format:
+
+> Decky version(s), SteamOS version(s)
+A) Any major blocking issues that you encountered, if any.
+B) Any minor issues that you encountered (usually cosmetic, don't harm functionality).
+C) Yay/nay on to send to the production store or if it requires more testing.
+
+Once you've filed your report as a comment on the PR, we can either mark a plugin as being tested on a SteamOS update channel or as requiring a fix, or request more information from yourself or the plugin developer as needed.
+
+Thanks for taking the time to help plugins make it to the store faster and easier, Plugin Developers greatly appreciate it.
+
+
