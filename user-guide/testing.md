@@ -1,8 +1,8 @@
 ---
 title: Testing
-description: Instructions for testing new Decky Loader versions and plugins
+description: Instructions for testing new Decky Loader versions and plugins.
 published: true
-date: 2023-02-15T22:20:37.684Z
+date: 2023-02-18T01:37:58.995Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-17T15:59:00.047Z
