@@ -26,6 +26,7 @@
 - checked
 - description
 - disabled
+- highlightOnFocus
 - icon
 - indentLevel
 - label
@@ -50,7 +51,7 @@ Defined in:  [src/deck-components/Item.tsx:8](https://github.com/SteamDeckHomebr
 
 > `boolean`
 
-Defined in:  [src/deck-components/ToggleField.tsx:7](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/ToggleField.tsx#L7)
+Defined in:  [src/deck-components/ToggleField.tsx:8](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/ToggleField.tsx#L8)
 
 ##### description?
 
@@ -64,7 +65,13 @@ Defined in:  [src/deck-components/Item.tsx:5](https://github.com/SteamDeckHomebr
 
 > `boolean`
 
-Defined in:  [src/deck-components/ToggleField.tsx:8](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/ToggleField.tsx#L8)
+Defined in:  [src/deck-components/ToggleField.tsx:9](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/ToggleField.tsx#L9)
+
+##### highlightOnFocus?
+
+> `boolean`
+
+Defined in:  [src/deck-components/ToggleField.tsx:7](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/ToggleField.tsx#L7)
 
 ##### icon?
 
@@ -126,7 +133,7 @@ Optional onChange(checked: boolean): void;
 
 `void`
 
-Defined in:  [src/deck-components/ToggleField.tsx:9](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/ToggleField.tsx#L9)
+Defined in:  [src/deck-components/ToggleField.tsx:10](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/ToggleField.tsx#L10)
 
 ## Functions
 

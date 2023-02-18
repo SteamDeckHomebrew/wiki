@@ -56,6 +56,7 @@ Defined in:  [src/deck-components/SliderField.tsx:9](https://github.com/SteamDec
 ##### Properties
 
 - bottomSeparator
+- className
 - description
 - disabled
 - editableValue
@@ -90,6 +91,12 @@ Defined in:  [src/deck-components/SliderField.tsx:9](https://github.com/SteamDec
 Inherited from: [ItemProps](Item#itemprops).[bottomSeparator](Item#bottomseparator)
 
 Defined in:  [src/deck-components/Item.tsx:8](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Item.tsx#L8)
+
+##### className?
+
+> `string`
+
+Defined in:  [src/deck-components/SliderField.tsx:28](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SliderField.tsx#L28)
 
 ##### description?
 

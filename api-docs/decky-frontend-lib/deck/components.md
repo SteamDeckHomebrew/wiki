@@ -52,6 +52,8 @@
 - GamepadEvent
 - GamepadEventDetail
 - LifetimeNotification
+- LogoPinPositions
+- LogoPosition
 - Marquee
 - MarqueeProps
 - Menu
@@ -137,7 +139,7 @@ Defined in:  [src/deck-components/SteamClient.ts:207](https://github.com/SteamDe
 
 Re-exports [AppDetails](SteamClient#appdetails)
 
-Defined in:  [src/deck-components/SteamClient.ts:220](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L220)
+Defined in:  [src/deck-components/SteamClient.ts:228](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L228)
 
 ### AppLanguages
 
@@ -409,6 +411,18 @@ Re-exports [LifetimeNotification](SteamClient#lifetimenotification)
 
 Defined in:  [src/deck-components/SteamClient.ts:201](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L201)
 
+### LogoPinPositions
+
+Re-exports [LogoPinPositions](SteamClient#logopinpositions)
+
+Defined in:  [src/deck-components/SteamClient.ts:220](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L220)
+
+### LogoPosition
+
+Re-exports [LogoPosition](SteamClient#logoposition)
+
+Defined in:  [src/deck-components/SteamClient.ts:222](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L222)
+
 ### Marquee
 
 Re-exports [Marquee](Marquee#marquee)
@@ -617,7 +631,7 @@ Defined in:  [src/deck-components/Dropdown.tsx:6](https://github.com/SteamDeckHo
 
 Re-exports [SliderField](SliderField#sliderfield)
 
-Defined in:  [src/deck-components/SliderField.tsx:30](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SliderField.tsx#L30)
+Defined in:  [src/deck-components/SliderField.tsx:31](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SliderField.tsx#L31)
 
 ### SliderFieldProps
 
@@ -635,7 +649,7 @@ Defined in:  [src/deck-components/Spinner.tsx:6](https://github.com/SteamDeckHom
 
 Re-exports [SteamAppOverview](SteamClient#steamappoverview)
 
-Defined in:  [src/deck-components/SteamClient.ts:297](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L297)
+Defined in:  [src/deck-components/SteamClient.ts:308](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L308)
 
 ### SteamClient
 
@@ -695,7 +709,7 @@ Defined in:  [src/deck-components/Toggle.tsx:12](https://github.com/SteamDeckHom
 
 Re-exports [ToggleField](ToggleField#togglefield)
 
-Defined in:  [src/deck-components/ToggleField.tsx:12](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/ToggleField.tsx#L12)
+Defined in:  [src/deck-components/ToggleField.tsx:13](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/ToggleField.tsx#L13)
 
 ### ToggleFieldProps
 

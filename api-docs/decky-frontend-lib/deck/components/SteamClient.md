@@ -7,6 +7,7 @@
 - AppDetails
 - Apps
 - LifetimeNotification
+- LogoPosition
 - SteamAppOverview
 - SteamClient
 - SteamShortcut
@@ -16,6 +17,7 @@
 
 - AppAchievements
 - AppLanguages
+- LogoPinPositions
 
 ## Interfaces
 
@@ -60,6 +62,7 @@
 - iInstallFolder
 - lDiskUsageBytes
 - lDlcUsageBytes
+- libraryAssets
 - nBuildID
 - nCompatToolPriority
 - nPlaytimeForever
@@ -103,253 +106,271 @@
 
 > [`AppAchievements`](SteamClient#appachievements)
 
-Defined in:  [src/deck-components/SteamClient.ts:221](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L221)
+Defined in:  [src/deck-components/SteamClient.ts:229](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L229)
 
 ##### bCanMoveInstallFolder
 
 > `boolean`
 
-Defined in:  [src/deck-components/SteamClient.ts:222](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L222)
+Defined in:  [src/deck-components/SteamClient.ts:230](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L230)
 
 ##### bCloudAvailable
 
 > `boolean`
 
-Defined in:  [src/deck-components/SteamClient.ts:223](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L223)
+Defined in:  [src/deck-components/SteamClient.ts:231](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L231)
 
 ##### bCloudEnabledForAccount
 
 > `boolean`
 
-Defined in:  [src/deck-components/SteamClient.ts:224](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L224)
+Defined in:  [src/deck-components/SteamClient.ts:232](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L232)
 
 ##### bCloudEnabledForApp
 
 > `boolean`
 
-Defined in:  [src/deck-components/SteamClient.ts:225](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L225)
+Defined in:  [src/deck-components/SteamClient.ts:233](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L233)
 
 ##### bCloudSyncOnSuspendAvailable
 
 > `boolean`
 
-Defined in:  [src/deck-components/SteamClient.ts:226](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L226)
+Defined in:  [src/deck-components/SteamClient.ts:234](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L234)
 
 ##### bCloudSyncOnSuspendEnabled
 
 > `boolean`
 
-Defined in:  [src/deck-components/SteamClient.ts:227](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L227)
+Defined in:  [src/deck-components/SteamClient.ts:235](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L235)
 
 ##### bCommunityMarketPresence
 
 > `boolean`
 
-Defined in:  [src/deck-components/SteamClient.ts:228](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L228)
+Defined in:  [src/deck-components/SteamClient.ts:236](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L236)
 
 ##### bEnableAllowDesktopConfiguration
 
 > `boolean`
 
-Defined in:  [src/deck-components/SteamClient.ts:229](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L229)
+Defined in:  [src/deck-components/SteamClient.ts:237](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L237)
 
 ##### bFreeRemovableLicense
 
 > `boolean`
 
-Defined in:  [src/deck-components/SteamClient.ts:230](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L230)
+Defined in:  [src/deck-components/SteamClient.ts:238](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L238)
 
 ##### bHasAllLegacyCDKeys
 
 > `boolean`
 
-Defined in:  [src/deck-components/SteamClient.ts:231](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L231)
+Defined in:  [src/deck-components/SteamClient.ts:239](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L239)
 
 ##### bHasAnyLocalContent
 
 > `boolean`
 
-Defined in:  [src/deck-components/SteamClient.ts:232](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L232)
+Defined in:  [src/deck-components/SteamClient.ts:240](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L240)
 
 ##### bHasLockedPrivateBetas
 
 > `boolean`
 
-Defined in:  [src/deck-components/SteamClient.ts:233](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L233)
+Defined in:  [src/deck-components/SteamClient.ts:241](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L241)
 
 ##### bIsExcludedFromSharing
 
 > `boolean`
 
-Defined in:  [src/deck-components/SteamClient.ts:234](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L234)
+Defined in:  [src/deck-components/SteamClient.ts:242](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L242)
 
 ##### bIsSubscribedTo
 
 > `boolean`
 
-Defined in:  [src/deck-components/SteamClient.ts:235](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L235)
+Defined in:  [src/deck-components/SteamClient.ts:243](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L243)
 
 ##### bOverlayEnabled
 
 > `boolean`
 
-Defined in:  [src/deck-components/SteamClient.ts:236](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L236)
+Defined in:  [src/deck-components/SteamClient.ts:244](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L244)
 
 ##### bOverrideInternalResolution
 
 > `boolean`
 
-Defined in:  [src/deck-components/SteamClient.ts:237](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L237)
+Defined in:  [src/deck-components/SteamClient.ts:245](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L245)
 
 ##### bRequiresLegacyCDKey
 
 > `boolean`
 
-Defined in:  [src/deck-components/SteamClient.ts:238](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L238)
+Defined in:  [src/deck-components/SteamClient.ts:246](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L246)
 
 ##### bShortcutIsVR
 
 > `boolean`
 
-Defined in:  [src/deck-components/SteamClient.ts:239](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L239)
+Defined in:  [src/deck-components/SteamClient.ts:247](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L247)
 
 ##### bShowCDKeyInMenus
 
 > `boolean`
 
-Defined in:  [src/deck-components/SteamClient.ts:240](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L240)
+Defined in:  [src/deck-components/SteamClient.ts:248](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L248)
 
 ##### bShowControllerConfig
 
 > `boolean`
 
-Defined in:  [src/deck-components/SteamClient.ts:241](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L241)
+Defined in:  [src/deck-components/SteamClient.ts:249](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L249)
 
 ##### bSupportsCDKeyCopyToClipboard
 
 > `boolean`
 
-Defined in:  [src/deck-components/SteamClient.ts:242](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L242)
+Defined in:  [src/deck-components/SteamClient.ts:250](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L250)
 
 ##### bVRGameTheatreEnabled
 
 > `boolean`
 
-Defined in:  [src/deck-components/SteamClient.ts:243](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L243)
+Defined in:  [src/deck-components/SteamClient.ts:251](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L251)
 
 ##### bWorkshopVisible
 
 > `boolean`
 
-Defined in:  [src/deck-components/SteamClient.ts:244](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L244)
+Defined in:  [src/deck-components/SteamClient.ts:252](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L252)
 
 ##### eAppOwnershipFlags
 
 > `number`
 
-Defined in:  [src/deck-components/SteamClient.ts:245](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L245)
+Defined in:  [src/deck-components/SteamClient.ts:253](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L253)
 
 ##### eAutoUpdateValue
 
 > `number`
 
-Defined in:  [src/deck-components/SteamClient.ts:246](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L246)
+Defined in:  [src/deck-components/SteamClient.ts:254](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L254)
 
 ##### eBackgroundDownloads
 
 > `number`
 
-Defined in:  [src/deck-components/SteamClient.ts:247](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L247)
+Defined in:  [src/deck-components/SteamClient.ts:255](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L255)
 
 ##### eCloudSync
 
 > `number`
 
-Defined in:  [src/deck-components/SteamClient.ts:248](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L248)
+Defined in:  [src/deck-components/SteamClient.ts:256](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L256)
 
 ##### eControllerRumblePreference
 
 > `number`
 
-Defined in:  [src/deck-components/SteamClient.ts:249](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L249)
+Defined in:  [src/deck-components/SteamClient.ts:257](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L257)
 
 ##### eDisplayStatus
 
 > `number`
 
-Defined in:  [src/deck-components/SteamClient.ts:250](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L250)
+Defined in:  [src/deck-components/SteamClient.ts:258](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L258)
 
 ##### eEnableThirdPartyControllerConfiguration
 
 > `number`
 
-Defined in:  [src/deck-components/SteamClient.ts:251](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L251)
+Defined in:  [src/deck-components/SteamClient.ts:259](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L259)
 
 ##### eSteamInputControllerMask
 
 > `number`
 
-Defined in:  [src/deck-components/SteamClient.ts:252](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L252)
+Defined in:  [src/deck-components/SteamClient.ts:260](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L260)
 
 ##### iInstallFolder
 
 > `number`
 
-Defined in:  [src/deck-components/SteamClient.ts:253](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L253)
+Defined in:  [src/deck-components/SteamClient.ts:261](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L261)
 
 ##### lDiskUsageBytes
 
 > `number`
 
-Defined in:  [src/deck-components/SteamClient.ts:254](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L254)
+Defined in:  [src/deck-components/SteamClient.ts:262](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L262)
 
 ##### lDlcUsageBytes
 
 > `number`
 
-Defined in:  [src/deck-components/SteamClient.ts:255](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L255)
+Defined in:  [src/deck-components/SteamClient.ts:263](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L263)
+
+##### libraryAssets?
+
+> `object`
+
+```ts
+{
+    logoPosition?: LogoPosition;
+}
+```
+
+###### Type declaration
+
+| Member | Type |
+| :------ | :------ |
+| `logoPosition`? | [`LogoPosition`](SteamClient#logoposition) |
+
+Defined in:  [src/deck-components/SteamClient.ts:303](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L303)
 
 ##### nBuildID
 
 > `number`
 
-Defined in:  [src/deck-components/SteamClient.ts:256](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L256)
+Defined in:  [src/deck-components/SteamClient.ts:264](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L264)
 
 ##### nCompatToolPriority
 
 > `number`
 
-Defined in:  [src/deck-components/SteamClient.ts:257](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L257)
+Defined in:  [src/deck-components/SteamClient.ts:265](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L265)
 
 ##### nPlaytimeForever
 
 > `number`
 
-Defined in:  [src/deck-components/SteamClient.ts:258](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L258)
+Defined in:  [src/deck-components/SteamClient.ts:266](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L266)
 
 ##### nScreenshots
 
 > `number`
 
-Defined in:  [src/deck-components/SteamClient.ts:259](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L259)
+Defined in:  [src/deck-components/SteamClient.ts:267](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L267)
 
 ##### rtLastTimePlayed
 
 > `number`
 
-Defined in:  [src/deck-components/SteamClient.ts:260](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L260)
+Defined in:  [src/deck-components/SteamClient.ts:268](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L268)
 
 ##### rtLastUpdated
 
 > `number`
 
-Defined in:  [src/deck-components/SteamClient.ts:261](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L261)
+Defined in:  [src/deck-components/SteamClient.ts:269](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L269)
 
 ##### rtPurchased
 
 > `number`
 
-Defined in:  [src/deck-components/SteamClient.ts:262](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L262)
+Defined in:  [src/deck-components/SteamClient.ts:270](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L270)
 
 ##### selectedLanguage
 
@@ -369,175 +390,175 @@ Defined in:  [src/deck-components/SteamClient.ts:262](https://github.com/SteamDe
 | `strDisplayName` | `string` |
 | `strShortName` | `string` |
 
-Defined in:  [src/deck-components/SteamClient.ts:263](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L263)
+Defined in:  [src/deck-components/SteamClient.ts:271](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L271)
 
 ##### strCloudBytesAvailable
 
 > `string`
 
-Defined in:  [src/deck-components/SteamClient.ts:267](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L267)
+Defined in:  [src/deck-components/SteamClient.ts:275](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L275)
 
 ##### strCloudBytesUsed
 
 > `string`
 
-Defined in:  [src/deck-components/SteamClient.ts:268](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L268)
+Defined in:  [src/deck-components/SteamClient.ts:276](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L276)
 
 ##### strCompatToolDisplayName
 
 > `string`
 
-Defined in:  [src/deck-components/SteamClient.ts:269](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L269)
+Defined in:  [src/deck-components/SteamClient.ts:277](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L277)
 
 ##### strCompatToolName
 
 > `string`
 
-Defined in:  [src/deck-components/SteamClient.ts:270](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L270)
+Defined in:  [src/deck-components/SteamClient.ts:278](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L278)
 
 ##### strDeveloperName
 
 > `string`
 
-Defined in:  [src/deck-components/SteamClient.ts:271](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L271)
+Defined in:  [src/deck-components/SteamClient.ts:279](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L279)
 
 ##### strDeveloperURL
 
 > `string`
 
-Defined in:  [src/deck-components/SteamClient.ts:272](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L272)
+Defined in:  [src/deck-components/SteamClient.ts:280](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L280)
 
 ##### strDisplayName
 
 > `string`
 
-Defined in:  [src/deck-components/SteamClient.ts:273](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L273)
+Defined in:  [src/deck-components/SteamClient.ts:281](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L281)
 
 ##### strExternalSubscriptionURL
 
 > `string`
 
-Defined in:  [src/deck-components/SteamClient.ts:274](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L274)
+Defined in:  [src/deck-components/SteamClient.ts:282](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L282)
 
 ##### strFlatpakAppID
 
 > `string`
 
-Defined in:  [src/deck-components/SteamClient.ts:275](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L275)
+Defined in:  [src/deck-components/SteamClient.ts:283](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L283)
 
 ##### strHomepageURL
 
 > `string`
 
-Defined in:  [src/deck-components/SteamClient.ts:276](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L276)
+Defined in:  [src/deck-components/SteamClient.ts:284](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L284)
 
 ##### strLaunchOptions
 
 > `string`
 
-Defined in:  [src/deck-components/SteamClient.ts:277](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L277)
+Defined in:  [src/deck-components/SteamClient.ts:285](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L285)
 
 ##### strManualURL
 
 > `string`
 
-Defined in:  [src/deck-components/SteamClient.ts:278](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L278)
+Defined in:  [src/deck-components/SteamClient.ts:286](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L286)
 
 ##### strOwnerSteamID
 
 > `string`
 
-Defined in:  [src/deck-components/SteamClient.ts:279](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L279)
+Defined in:  [src/deck-components/SteamClient.ts:287](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L287)
 
 ##### strResolutionOverride
 
 > `string`
 
-Defined in:  [src/deck-components/SteamClient.ts:280](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L280)
+Defined in:  [src/deck-components/SteamClient.ts:288](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L288)
 
 ##### strSelectedBeta
 
 > `string`
 
-Defined in:  [src/deck-components/SteamClient.ts:281](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L281)
+Defined in:  [src/deck-components/SteamClient.ts:289](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L289)
 
 ##### strShortcutExe
 
 > `string`
 
-Defined in:  [src/deck-components/SteamClient.ts:282](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L282)
+Defined in:  [src/deck-components/SteamClient.ts:290](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L290)
 
 ##### strShortcutLaunchOptions
 
 > `string`
 
-Defined in:  [src/deck-components/SteamClient.ts:283](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L283)
+Defined in:  [src/deck-components/SteamClient.ts:291](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L291)
 
 ##### strShortcutStartDir
 
 > `string`
 
-Defined in:  [src/deck-components/SteamClient.ts:284](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L284)
+Defined in:  [src/deck-components/SteamClient.ts:292](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L292)
 
 ##### strSteamDeckBlogURL
 
 > `string`
 
-Defined in:  [src/deck-components/SteamClient.ts:285](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L285)
+Defined in:  [src/deck-components/SteamClient.ts:293](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L293)
 
 ##### unAppID
 
 > `number`
 
-Defined in:  [src/deck-components/SteamClient.ts:286](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L286)
+Defined in:  [src/deck-components/SteamClient.ts:294](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L294)
 
 ##### vecBetas
 
 > `any`[]
 
-Defined in:  [src/deck-components/SteamClient.ts:287](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L287)
+Defined in:  [src/deck-components/SteamClient.ts:295](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L295)
 
 ##### vecDLC
 
 > `any`[]
 
-Defined in:  [src/deck-components/SteamClient.ts:288](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L288)
+Defined in:  [src/deck-components/SteamClient.ts:296](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L296)
 
 ##### vecDeckCompatTestResults
 
 > `any`[]
 
-Defined in:  [src/deck-components/SteamClient.ts:289](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L289)
+Defined in:  [src/deck-components/SteamClient.ts:297](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L297)
 
 ##### vecLanguages
 
 > [`AppLanguages`](SteamClient#applanguages)[]
 
-Defined in:  [src/deck-components/SteamClient.ts:290](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L290)
+Defined in:  [src/deck-components/SteamClient.ts:298](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L298)
 
 ##### vecLegacyCDKeys
 
 > `any`[]
 
-Defined in:  [src/deck-components/SteamClient.ts:291](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L291)
+Defined in:  [src/deck-components/SteamClient.ts:299](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L299)
 
 ##### vecMusicAlbums
 
 > `any`[]
 
-Defined in:  [src/deck-components/SteamClient.ts:292](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L292)
+Defined in:  [src/deck-components/SteamClient.ts:300](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L300)
 
 ##### vecPlatforms
 
 > `string`[]
 
-Defined in:  [src/deck-components/SteamClient.ts:293](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L293)
+Defined in:  [src/deck-components/SteamClient.ts:301](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L301)
 
 ##### vecScreenShots
 
 > `any`[]
 
-Defined in:  [src/deck-components/SteamClient.ts:294](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L294)
+Defined in:  [src/deck-components/SteamClient.ts:302](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L302)
 
 ---
 
@@ -1386,28 +1407,126 @@ Defined in:  [src/deck-components/SteamClient.ts:202](https://github.com/SteamDe
 
 ---
 
+### LogoPosition
+
+#### Index
+
+##### Properties
+
+- nHeightPct
+- nWidthPct
+- pinnedPosition
+
+#### Properties
+
+##### nHeightPct
+
+> `number`
+
+Defined in:  [src/deck-components/SteamClient.ts:225](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L225)
+
+##### nWidthPct
+
+> `number`
+
+Defined in:  [src/deck-components/SteamClient.ts:224](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L224)
+
+##### pinnedPosition
+
+> [`LogoPinPositions`](SteamClient#logopinpositions)
+
+Defined in:  [src/deck-components/SteamClient.ts:223](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L223)
+
+---
+
 ### SteamAppOverview
 
 #### Index
 
 ##### Properties
 
+- BIsModOrShortcut
+- BIsShortcut
+- appid
 - display_name
 - gameid
+- icon_hash
+- selected_clientid
+- third_party_mod
 
 #### Properties
+
+##### BIsModOrShortcut
+
+> `Function`
+
+###### Type declaration
+
+####### Signature
+
+```ts
+(): boolean;
+```
+
+####### Returns
+
+`boolean`
+
+Defined in:  [src/deck-components/SteamClient.ts:315](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L315)
+
+##### BIsShortcut
+
+> `Function`
+
+###### Type declaration
+
+####### Signature
+
+```ts
+(): boolean;
+```
+
+####### Returns
+
+`boolean`
+
+Defined in:  [src/deck-components/SteamClient.ts:316](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L316)
+
+##### appid
+
+> `number`
+
+Defined in:  [src/deck-components/SteamClient.ts:311](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L311)
 
 ##### display\_name
 
 > `string`
 
-Defined in:  [src/deck-components/SteamClient.ts:298](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L298)
+Defined in:  [src/deck-components/SteamClient.ts:309](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L309)
 
 ##### gameid
 
 > `string`
 
-Defined in:  [src/deck-components/SteamClient.ts:299](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L299)
+Defined in:  [src/deck-components/SteamClient.ts:310](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L310)
+
+##### icon\_hash
+
+> `string`
+
+Defined in:  [src/deck-components/SteamClient.ts:312](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L312)
+
+##### selected\_clientid?
+
+> `string`
+
+Defined in:  [src/deck-components/SteamClient.ts:314](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L314)
+
+##### third\_party\_mod?
+
+> `boolean`
+
+Defined in:  [src/deck-components/SteamClient.ts:313](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L313)
 
 ---
 
@@ -1961,3 +2080,11 @@ Defined in:  [src/deck-components/SteamClient.ts:207](https://github.com/SteamDe
 | `strShortName` | `string` |
 
 Defined in:  [src/deck-components/SteamClient.ts:215](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L215)
+
+---
+
+### LogoPinPositions
+
+> `"BottomLeft"` \| `"UpperLeft"` \| `"CenterCenter"` \| `"UpperCenter"` \| `"BottomCenter"`
+
+Defined in:  [src/deck-components/SteamClient.ts:220](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SteamClient.ts#L220)
