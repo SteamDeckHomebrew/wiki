@@ -2,7 +2,7 @@
 title: Testing
 description: Instructions for testing new Decky Loader versions and plugins.
 published: true
-date: 2023-02-18T01:37:58.995Z
+date: 2023-02-19T03:27:28.514Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-17T15:59:00.047Z
@@ -51,6 +51,7 @@ In order to test a plugin, you will need to swap over to the testing store in th
 ## Go to the Plugin Database
 
 Once you've swapped over to the testing store, you can install the latest uploaded version of a plugin currently in the queue for testing. Plugins are submitted [here](https://github.com/SteamDeckHomebrew/decky-plugin-database/pulls).
+Here's a [view](https://github.com/orgs/SteamDeckHomebrew/projects/9/views/11) that will help you to determine what plugins need testing. Anything that is marked as "Ready for Review", "In Review" or above are ready for testing. Testing an "In Progress" plugin is fine, but the review many need to be redone at a later time.
 
 ## Find The Update/Submission You Want to Test
 
