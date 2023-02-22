@@ -8,6 +8,7 @@
 
 - custom-components
 - custom-components/ColorPickerModal
+- custom-components/ReorderableList
 - custom-components/SuspensefulImage
 - custom-hooks
 - custom-hooks/useQuickAccessVisible
