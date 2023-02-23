@@ -12,4 +12,4 @@
 
 Re-exports [useQuickAccessVisible](useQuickAccessVisible#usequickaccessvisible)
 
-Defined in:  [src/custom-hooks/useQuickAccessVisible.tsx:55](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/custom-hooks/useQuickAccessVisible.tsx#L55)
+Defined in:  [src/custom-hooks/useQuickAccessVisible.tsx:54](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/custom-hooks/useQuickAccessVisible.tsx#L54)

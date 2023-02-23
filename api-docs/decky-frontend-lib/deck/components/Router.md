@@ -473,7 +473,6 @@ Defined in:  [src/deck-components/Router.tsx:68](https://github.com/SteamDeckHom
 - NavigateToLayoutPreview
 - NavigateToLibraryTab
 - NavigateToSteamWeb
-- NavigateToWebRoute
 - OpenMainMenu
 - OpenPowerMenu
 - OpenQuickAccessMenu
@@ -493,7 +492,7 @@ CloseSideMenus(): void;
 
 `void`
 
-Defined in:  [src/deck-components/Router.tsx:126](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Router.tsx#L126)
+Defined in:  [src/deck-components/Router.tsx:124](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Router.tsx#L124)
 
 ##### Navigate()
 
@@ -513,7 +512,7 @@ Navigate(path: string): void;
 
 `void`
 
-Defined in:  [src/deck-components/Router.tsx:112](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Router.tsx#L112)
+Defined in:  [src/deck-components/Router.tsx:111](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Router.tsx#L111)
 
 ##### NavigateBack()
 
@@ -527,7 +526,7 @@ NavigateBack(): void;
 
 `void`
 
-Defined in:  [src/deck-components/Router.tsx:113](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Router.tsx#L113)
+Defined in:  [src/deck-components/Router.tsx:112](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Router.tsx#L112)
 
 ##### NavigateToAppProperties()
 
@@ -541,7 +540,7 @@ NavigateToAppProperties(): void;
 
 `void`
 
-Defined in:  [src/deck-components/Router.tsx:114](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Router.tsx#L114)
+Defined in:  [src/deck-components/Router.tsx:113](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Router.tsx#L113)
 
 ##### NavigateToChat()
 
@@ -555,7 +554,7 @@ NavigateToChat(): void;
 
 `void`
 
-Defined in:  [src/deck-components/Router.tsx:117](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Router.tsx#L117)
+Defined in:  [src/deck-components/Router.tsx:116](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Router.tsx#L116)
 
 ##### NavigateToExternalWeb()
 
@@ -575,7 +574,7 @@ NavigateToExternalWeb(url: string): void;
 
 `void`
 
-Defined in:  [src/deck-components/Router.tsx:115](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Router.tsx#L115)
+Defined in:  [src/deck-components/Router.tsx:114](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Router.tsx#L114)
 
 ##### NavigateToInvites()
 
@@ -589,7 +588,7 @@ NavigateToInvites(): void;
 
 `void`
 
-Defined in:  [src/deck-components/Router.tsx:116](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Router.tsx#L116)
+Defined in:  [src/deck-components/Router.tsx:115](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Router.tsx#L115)
 
 ##### NavigateToLayoutPreview()
 
@@ -609,7 +608,7 @@ NavigateToLayoutPreview(e: unknown): void;
 
 `void`
 
-Defined in:  [src/deck-components/Router.tsx:119](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Router.tsx#L119)
+Defined in:  [src/deck-components/Router.tsx:118](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Router.tsx#L118)
 
 ##### NavigateToLibraryTab()
 
@@ -623,7 +622,7 @@ NavigateToLibraryTab(): void;
 
 `void`
 
-Defined in:  [src/deck-components/Router.tsx:118](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Router.tsx#L118)
+Defined in:  [src/deck-components/Router.tsx:117](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Router.tsx#L117)
 
 ##### NavigateToSteamWeb()
 
@@ -643,28 +642,7 @@ NavigateToSteamWeb(url: string): void;
 
 `void`
 
-Defined in:  [src/deck-components/Router.tsx:120](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Router.tsx#L120)
-
-##### NavigateToWebRoute()
-
-###### Signature
-
-```ts
-NavigateToWebRoute(unknown?: any, unknown2?: any): void;
-```
-
-###### Parameters
-
-| Name | Type |
-| :------ | :------ |
-| `unknown?` | `any` |
-| `unknown2?` | `any` |
-
-###### Returns
-
-`void`
-
-Defined in:  [src/deck-components/Router.tsx:121](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Router.tsx#L121)
+Defined in:  [src/deck-components/Router.tsx:119](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Router.tsx#L119)
 
 ##### OpenMainMenu()
 
@@ -678,7 +656,7 @@ OpenMainMenu(): void;
 
 `void`
 
-Defined in:  [src/deck-components/Router.tsx:124](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Router.tsx#L124)
+Defined in:  [src/deck-components/Router.tsx:122](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Router.tsx#L122)
 
 ##### OpenPowerMenu()
 
@@ -698,7 +676,7 @@ OpenPowerMenu(unknown?: any): void;
 
 `void`
 
-Defined in:  [src/deck-components/Router.tsx:125](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Router.tsx#L125)
+Defined in:  [src/deck-components/Router.tsx:123](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Router.tsx#L123)
 
 ##### OpenQuickAccessMenu()
 
@@ -718,7 +696,7 @@ OpenQuickAccessMenu(quickAccessTab?: QuickAccessTab): void;
 
 `void`
 
-Defined in:  [src/deck-components/Router.tsx:123](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Router.tsx#L123)
+Defined in:  [src/deck-components/Router.tsx:121](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Router.tsx#L121)
 
 ##### OpenSideMenu()
 
@@ -738,7 +716,7 @@ OpenSideMenu(sideMenu: SideMenu): void;
 
 `void`
 
-Defined in:  [src/deck-components/Router.tsx:122](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Router.tsx#L122)
+Defined in:  [src/deck-components/Router.tsx:120](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Router.tsx#L120)
 
 ---
 
@@ -773,7 +751,7 @@ Defined in:  [src/deck-components/Router.tsx:122](https://github.com/SteamDeckHo
 
 > [`WindowStore`](Router#windowstore)
 
-Defined in:  [src/deck-components/Router.tsx:90](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Router.tsx#L90)
+Defined in:  [src/deck-components/Router.tsx:89](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Router.tsx#L89)
 
 #### Accessors
 
@@ -789,9 +767,9 @@ MainRunningApp(): undefined | AppOverview;
 
 `undefined` \| [`AppOverview`](Router#appoverview)
 
-Defined in:  [src/deck-components/Router.tsx:101](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Router.tsx#L101)
+Defined in:  [src/deck-components/Router.tsx:100](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Router.tsx#L100)
 
-Defined in:  [src/deck-components/Router.tsx:101](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Router.tsx#L101)
+Defined in:  [src/deck-components/Router.tsx:100](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Router.tsx#L100)
 
 ##### RunningApps
 
@@ -805,9 +783,9 @@ RunningApps(): AppOverview[];
 
 [`AppOverview`](Router#appoverview)[]
 
-Defined in:  [src/deck-components/Router.tsx:100](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Router.tsx#L100)
+Defined in:  [src/deck-components/Router.tsx:99](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Router.tsx#L99)
 
-Defined in:  [src/deck-components/Router.tsx:100](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Router.tsx#L100)
+Defined in:  [src/deck-components/Router.tsx:99](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Router.tsx#L99)
 
 #### Methods
 
@@ -823,7 +801,7 @@ CloseSideMenus(): void;
 
 `void`
 
-Defined in:  [src/deck-components/Router.tsx:91](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Router.tsx#L91)
+Defined in:  [src/deck-components/Router.tsx:90](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Router.tsx#L90)
 
 ##### Navigate()
 
@@ -843,7 +821,7 @@ Navigate(path: string): void;
 
 `void`
 
-Defined in:  [src/deck-components/Router.tsx:92](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Router.tsx#L92)
+Defined in:  [src/deck-components/Router.tsx:91](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Router.tsx#L91)
 
 ##### NavigateToAppProperties()
 
@@ -857,7 +835,7 @@ NavigateToAppProperties(): void;
 
 `void`
 
-Defined in:  [src/deck-components/Router.tsx:93](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Router.tsx#L93)
+Defined in:  [src/deck-components/Router.tsx:92](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Router.tsx#L92)
 
 ##### NavigateToChat()
 
@@ -871,7 +849,7 @@ NavigateToChat(): void;
 
 `void`
 
-Defined in:  [src/deck-components/Router.tsx:96](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Router.tsx#L96)
+Defined in:  [src/deck-components/Router.tsx:95](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Router.tsx#L95)
 
 ##### NavigateToExternalWeb()
 
@@ -891,7 +869,7 @@ NavigateToExternalWeb(url: string): void;
 
 `void`
 
-Defined in:  [src/deck-components/Router.tsx:94](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Router.tsx#L94)
+Defined in:  [src/deck-components/Router.tsx:93](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Router.tsx#L93)
 
 ##### NavigateToInvites()
 
@@ -905,7 +883,7 @@ NavigateToInvites(): void;
 
 `void`
 
-Defined in:  [src/deck-components/Router.tsx:95](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Router.tsx#L95)
+Defined in:  [src/deck-components/Router.tsx:94](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Router.tsx#L94)
 
 ##### NavigateToLayoutPreview()
 
@@ -925,7 +903,7 @@ NavigateToLayoutPreview(e: unknown): void;
 
 `void`
 
-Defined in:  [src/deck-components/Router.tsx:98](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Router.tsx#L98)
+Defined in:  [src/deck-components/Router.tsx:97](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Router.tsx#L97)
 
 ##### NavigateToLibraryTab()
 
@@ -939,7 +917,7 @@ NavigateToLibraryTab(): void;
 
 `void`
 
-Defined in:  [src/deck-components/Router.tsx:97](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Router.tsx#L97)
+Defined in:  [src/deck-components/Router.tsx:96](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Router.tsx#L96)
 
 ##### OpenPowerMenu()
 
@@ -959,7 +937,7 @@ OpenPowerMenu(unknown?: any): void;
 
 `void`
 
-Defined in:  [src/deck-components/Router.tsx:99](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Router.tsx#L99)
+Defined in:  [src/deck-components/Router.tsx:98](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Router.tsx#L98)
 
 ---
 
@@ -978,7 +956,6 @@ Defined in:  [src/deck-components/Router.tsx:99](https://github.com/SteamDeckHom
 - NavigateBack
 - NavigateToChat
 - NavigateToSteamWeb
-- NavigateToWebRoute
 
 #### Properties
 
@@ -1064,27 +1041,6 @@ NavigateToSteamWeb(url: string): void;
 
 Defined in:  [src/deck-components/Router.tsx:78](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Router.tsx#L78)
 
-##### NavigateToWebRoute()
-
-###### Signature
-
-```ts
-NavigateToWebRoute(unknown?: any, unknown2?: any): void;
-```
-
-###### Parameters
-
-| Name | Type |
-| :------ | :------ |
-| `unknown?` | `any` |
-| `unknown2?` | `any` |
-
-###### Returns
-
-`void`
-
-Defined in:  [src/deck-components/Router.tsx:80](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Router.tsx#L80)
-
 ---
 
 ### WindowStore
@@ -1103,19 +1059,19 @@ Defined in:  [src/deck-components/Router.tsx:80](https://github.com/SteamDeckHom
 
 > [`WindowRouter`](Router#windowrouter)
 
-Defined in:  [src/deck-components/Router.tsx:84](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Router.tsx#L84)
+Defined in:  [src/deck-components/Router.tsx:83](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Router.tsx#L83)
 
 ##### OverlayWindows
 
 > [`WindowRouter`](Router#windowrouter)[]
 
-Defined in:  [src/deck-components/Router.tsx:86](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Router.tsx#L86)
+Defined in:  [src/deck-components/Router.tsx:85](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Router.tsx#L85)
 
 ##### SteamUIWindows
 
 > [`WindowRouter`](Router#windowrouter)[]
 
-Defined in:  [src/deck-components/Router.tsx:85](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Router.tsx#L85)
+Defined in:  [src/deck-components/Router.tsx:84](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Router.tsx#L84)
 
 ## Type Aliases
 
@@ -1149,7 +1105,7 @@ Defined in:  [src/deck-components/Router.tsx:60](https://github.com/SteamDeckHom
 
 > [`Navigation`](Router#navigation)
 
-Defined in:  [src/deck-components/Router.tsx:111](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Router.tsx#L111) [src/deck-components/Router.tsx:129](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Router.tsx#L129)
+Defined in:  [src/deck-components/Router.tsx:110](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Router.tsx#L110) [src/deck-components/Router.tsx:127](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Router.tsx#L127)
 
 ---
 
@@ -1157,4 +1113,4 @@ Defined in:  [src/deck-components/Router.tsx:111](https://github.com/SteamDeckHo
 
 > [`Router`](Router#router)
 
-Defined in:  [src/deck-components/Router.tsx:89](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Router.tsx#L89) [src/deck-components/Router.tsx:104](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Router.tsx#L104)
+Defined in:  [src/deck-components/Router.tsx:88](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Router.tsx#L88) [src/deck-components/Router.tsx:103](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Router.tsx#L103)

@@ -22,6 +22,7 @@
 ### Functions
 
 - findSP
+- getFocusNavController
 - joinClassNames
 - sleep
 
@@ -127,7 +128,25 @@ findSP(): Window;
 
 [`Window`]( https://developer.mozilla.org/en-US/docs/Web/API/Window )
 
-Defined in:  [src/utils/index.ts:15](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/utils/index.ts#L15)
+Defined in:  [src/utils/index.ts:20](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/utils/index.ts#L20)
+
+---
+
+### getFocusNavController()
+
+Gets the correct FocusNavController, as the Feb 22 2023 beta has two for some reason.
+
+#### Signature
+
+```ts
+getFocusNavController(): any;
+```
+
+#### Returns
+
+`any`
+
+Defined in:  [src/utils/index.ts:33](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/utils/index.ts#L33)
 
 ---
 
@@ -149,7 +168,7 @@ joinClassNames(...classes: string[]): string;
 
 `string`
 
-Defined in:  [src/utils/index.ts:4](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/utils/index.ts#L4)
+Defined in:  [src/utils/index.ts:9](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/utils/index.ts#L9)
 
 ---
 
@@ -171,4 +190,4 @@ sleep(ms: number): Promise<unknown>;
 
 [`Promise`]( https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise )\<`unknown`\>
 
-Defined in:  [src/utils/index.ts:8](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/utils/index.ts#L8)
+Defined in:  [src/utils/index.ts:13](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/utils/index.ts#L13)

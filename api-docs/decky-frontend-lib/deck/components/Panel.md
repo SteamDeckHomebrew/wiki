@@ -7,10 +7,13 @@
 - PanelSectionProps
 - PanelSectionRowProps
 
+### Variables
+
+- PanelSectionRow
+
 ### Functions
 
 - PanelSection
-- PanelSectionRow
 
 ## Interfaces
 
@@ -62,6 +65,14 @@ Defined in:  [src/deck-components/Panel.tsx:6](https://github.com/SteamDeckHomeb
 
 Defined in:  [src/deck-components/Panel.tsx:23](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Panel.tsx#L23)
 
+## Variables
+
+### PanelSectionRow
+
+> **`Const`** `any`
+
+Defined in:  [src/deck-components/Panel.tsx:26](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Panel.tsx#L26)
+
 ## Functions
 
 ### PanelSection()
@@ -77,29 +88,6 @@ PanelSection(props: PropsWithChildren<PanelSectionProps>, context?: any): null |
 | Name | Type |
 | :------ | :------ |
 | `props` | `PropsWithChildren`\<[`PanelSectionProps`](Panel#panelsectionprops)\> |
-| `context?` | `any` |
-
-#### Returns
-
-`null` \| `ReactElement`\<`any`, `any`\>
-
-Defined in:  node\_modules/.pnpm/@types+react@16.14.0/node\_modules/@types/react/index.d.ts:544
-
----
-
-### PanelSectionRow()
-
-#### Signature
-
-```ts
-PanelSectionRow(props: PropsWithChildren<PanelSectionRowProps>, context?: any): null | ReactElement<any, any>;
-```
-
-#### Parameters
-
-| Name | Type |
-| :------ | :------ |
-| `props` | `PropsWithChildren`\<[`PanelSectionRowProps`](Panel#panelsectionrowprops)\> |
 | `context?` | `any` |
 
 #### Returns

@@ -169,7 +169,7 @@ Defined in:  [src/deck-components/Button.tsx:8](https://github.com/SteamDeckHome
 
 Re-exports [ButtonItem](ButtonItem#buttonitem)
 
-Defined in:  [src/deck-components/ButtonItem.tsx:11](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/ButtonItem.tsx#L11)
+Defined in:  [src/deck-components/ButtonItem.tsx:10](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/ButtonItem.tsx#L10)
 
 ### ButtonItemProps
 
@@ -505,7 +505,7 @@ Defined in:  [src/deck-components/FooterLegend.ts:34](https://github.com/SteamDe
 
 Re-exports [Navigation](Router#navigation)
 
-Defined in:  [src/deck-components/Router.tsx:111](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Router.tsx#L111) [src/deck-components/Router.tsx:129](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Router.tsx#L129)
+Defined in:  [src/deck-components/Router.tsx:110](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Router.tsx#L110) [src/deck-components/Router.tsx:127](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Router.tsx#L127)
 
 ### NotchLabel
 
@@ -583,7 +583,7 @@ Defined in:  [src/deck-components/Router.tsx:10](https://github.com/SteamDeckHom
 
 Re-exports [Router](Router#router)
 
-Defined in:  [src/deck-components/Router.tsx:89](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Router.tsx#L89) [src/deck-components/Router.tsx:104](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Router.tsx#L104)
+Defined in:  [src/deck-components/Router.tsx:88](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Router.tsx#L88) [src/deck-components/Router.tsx:103](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Router.tsx#L103)
 
 ### ShowModalProps
 
@@ -739,7 +739,7 @@ Defined in:  [src/deck-components/Router.tsx:73](https://github.com/SteamDeckHom
 
 Re-exports [WindowStore](Router#windowstore)
 
-Defined in:  [src/deck-components/Router.tsx:83](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Router.tsx#L83)
+Defined in:  [src/deck-components/Router.tsx:82](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Router.tsx#L82)
 
 ### appDetailsClasses
 

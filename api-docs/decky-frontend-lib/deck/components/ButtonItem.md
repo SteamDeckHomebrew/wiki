@@ -6,7 +6,7 @@
 
 - ButtonItemProps
 
-### Functions
+### Variables
 
 - ButtonItem
 
@@ -121,25 +121,10 @@ Optional onClick(e: MouseEvent): void;
 
 Defined in:  [src/deck-components/ButtonItem.tsx:7](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/ButtonItem.tsx#L7)
 
-## Functions
+## Variables
 
-### ButtonItem()
+### ButtonItem
 
-#### Signature
+> **`Const`** `any`
 
-```ts
-ButtonItem(props: PropsWithChildren<ButtonItemProps>, context?: any): null | ReactElement<any, any>;
-```
-
-#### Parameters
-
-| Name | Type |
-| :------ | :------ |
-| `props` | `PropsWithChildren`\<[`ButtonItemProps`](ButtonItem#buttonitemprops)\> |
-| `context?` | `any` |
-
-#### Returns
-
-`null` \| `ReactElement`\<`any`, `any`\>
-
-Defined in:  node\_modules/.pnpm/@types+react@16.14.0/node\_modules/@types/react/index.d.ts:544
+Defined in:  [src/deck-components/ButtonItem.tsx:10](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/ButtonItem.tsx#L10)

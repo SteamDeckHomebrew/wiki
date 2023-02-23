@@ -60,4 +60,4 @@ useQuickAccessVisible(): boolean;
 
 `true` if quick access menu is visible (focused) and `false` otherwise.
 
-Defined in:  [src/custom-hooks/useQuickAccessVisible.tsx:55](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/custom-hooks/useQuickAccessVisible.tsx#L55)
+Defined in:  [src/custom-hooks/useQuickAccessVisible.tsx:54](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/custom-hooks/useQuickAccessVisible.tsx#L54)
