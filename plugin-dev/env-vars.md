@@ -2,7 +2,7 @@
 title: Environment Variables
 description: Environment Variables Decky provides for as plugins running as subprocesses.
 published: true
-date: 2023-01-23T01:01:39.487Z
+date: 2023-02-24T22:26:10.558Z
 tags: plugin-dev, env-vars
 editor: markdown
 dateCreated: 2023-01-23T00:49:40.156Z
@@ -20,6 +20,8 @@ From Pre-Release 2.5.2-pre1 onward, decky provides these environment variables t
   + e.g.: `v2.5.0-pre1`
 - `DECKY_USER`: the user whose home decky resides in
   + e.g.: `deck`
+- `DECKY_USER_HOME`: the home of the user where decky resides in
+	+ e.g.: `/home/deck`
 - `DECKY_HOME`: the root of the decky folder
   + e.g.: `/home/deck/homebrew`
 - `DECKY_PLUGIN_SETTINGS_DIR`: the recommended path in which to store configuration files (created automatically)
