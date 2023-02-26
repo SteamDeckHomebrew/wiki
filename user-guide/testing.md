@@ -2,7 +2,7 @@
 title: Testing
 description: Instructions for testing new Decky Loader versions and plugins.
 published: true
-date: 2023-02-19T03:27:28.514Z
+date: 2023-02-26T19:48:09.297Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-17T15:59:00.047Z
@@ -66,9 +66,11 @@ Once you feel you've completely tested the features of a plugin, you should now 
 Based off of this format:
 
 > Decky version(s), SteamOS version(s)
-A) Any major blocking issues that you encountered, if any.
-B) Any minor issues that you encountered (usually cosmetic, don't harm functionality).
-C) Yay/nay on to send to the production store or if it requires more testing.
+> A) Any major blocking issues that you encountered, if any.
+> B) Any minor issues that you encountered (usually cosmetic, don't harm functionality).
+> C) A list of currently installed plugins (Name and version preferred)
+> (This list is needed due to potential conflicts between plugins etc).
+> D) Yay/nay on to send to the production store or if it requires more testing.
 
 Once you've filed your report as a comment on the PR, we can either mark a plugin as being tested on a SteamOS update channel or as requiring a fix, or request more information from yourself or the plugin developer as needed.
 
