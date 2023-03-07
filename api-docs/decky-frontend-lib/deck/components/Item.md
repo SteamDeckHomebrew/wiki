@@ -24,6 +24,7 @@
 
 - bottomSeparator
 - description
+- highlightOnFocus
 - icon
 - indentLevel
 - label
@@ -43,6 +44,12 @@ Defined in:  [src/deck-components/Item.tsx:8](https://github.com/SteamDeckHomebr
 > `ReactNode`
 
 Defined in:  [src/deck-components/Item.tsx:5](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Item.tsx#L5)
+
+##### highlightOnFocus?
+
+> `boolean`
+
+Defined in:  [src/deck-components/Item.tsx:11](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Item.tsx#L11)
 
 ##### icon?
 

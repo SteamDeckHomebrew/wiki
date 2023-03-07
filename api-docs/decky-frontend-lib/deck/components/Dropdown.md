@@ -35,6 +35,7 @@
 - description
 - disabled
 - focusable
+- highlightOnFocus
 - icon
 - indentLevel
 - label
@@ -93,6 +94,14 @@ Defined in:  [src/deck-components/Dropdown.tsx:25](https://github.com/SteamDeckH
 Inherited from: [DropdownProps](Dropdown#dropdownprops).[focusable](Dropdown#focusable)
 
 Defined in:  [src/deck-components/Dropdown.tsx:33](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Dropdown.tsx#L33)
+
+##### highlightOnFocus?
+
+> `boolean`
+
+Inherited from: [ItemProps](Item#itemprops).[highlightOnFocus](Item#highlightonfocus)
+
+Defined in:  [src/deck-components/Item.tsx:11](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Item.tsx#L11)
 
 ##### icon?
 

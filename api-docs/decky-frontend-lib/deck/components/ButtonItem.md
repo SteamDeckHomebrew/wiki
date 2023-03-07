@@ -25,6 +25,7 @@
 - bottomSeparator
 - description
 - disabled
+- highlightOnFocus
 - icon
 - indentLevel
 - label
@@ -58,6 +59,14 @@ Defined in:  [src/deck-components/Item.tsx:5](https://github.com/SteamDeckHomebr
 > `boolean`
 
 Defined in:  [src/deck-components/ButtonItem.tsx:8](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/ButtonItem.tsx#L8)
+
+##### highlightOnFocus?
+
+> `boolean`
+
+Inherited from: [ItemProps](Item#itemprops).[highlightOnFocus](Item#highlightonfocus)
+
+Defined in:  [src/deck-components/Item.tsx:11](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Item.tsx#L11)
 
 ##### icon?
 

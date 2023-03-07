@@ -29,6 +29,7 @@
 - bottomSeparator
 - description
 - focusable
+- highlightOnFocus
 - icon
 - indentLevel
 - indeterminate
@@ -61,6 +62,14 @@ Defined in:  [src/deck-components/Item.tsx:5](https://github.com/SteamDeckHomebr
 > `boolean`
 
 Defined in:  [src/deck-components/ProgressBar.tsx:10](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/ProgressBar.tsx#L10)
+
+##### highlightOnFocus?
+
+> `boolean`
+
+Inherited from: [ItemProps](Item#itemprops).[highlightOnFocus](Item#highlightonfocus)
+
+Defined in:  [src/deck-components/Item.tsx:11](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Item.tsx#L11)
 
 ##### icon?
 
@@ -174,6 +183,7 @@ Defined in:  [src/deck-components/ProgressBar.tsx:15](https://github.com/SteamDe
 - bottomSeparator
 - description
 - focusable
+- highlightOnFocus
 - icon
 - indentLevel
 - indeterminate
@@ -210,6 +220,14 @@ Defined in:  [src/deck-components/Item.tsx:5](https://github.com/SteamDeckHomebr
 Inherited from: [ProgressBarItemProps](ProgressBar#progressbaritemprops).[focusable](ProgressBar#focusable)
 
 Defined in:  [src/deck-components/ProgressBar.tsx:10](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/ProgressBar.tsx#L10)
+
+##### highlightOnFocus?
+
+> `boolean`
+
+Inherited from: [ProgressBarItemProps](ProgressBar#progressbaritemprops).[highlightOnFocus](ProgressBar#highlightonfocus)
+
+Defined in:  [src/deck-components/Item.tsx:11](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Item.tsx#L11)
 
 ##### icon?
 

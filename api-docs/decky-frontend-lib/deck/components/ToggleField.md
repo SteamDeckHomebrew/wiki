@@ -71,6 +71,8 @@ Defined in:  [src/deck-components/ToggleField.tsx:9](https://github.com/SteamDec
 
 > `boolean`
 
+Overrides: [ItemProps](Item#itemprops).[highlightOnFocus](Item#highlightonfocus)
+
 Defined in:  [src/deck-components/ToggleField.tsx:7](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/ToggleField.tsx#L7)
 
 ##### icon?

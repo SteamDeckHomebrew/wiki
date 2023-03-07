@@ -60,6 +60,7 @@ Defined in:  [src/deck-components/SliderField.tsx:9](https://github.com/SteamDec
 - description
 - disabled
 - editableValue
+- highlightOnFocus
 - icon
 - indentLevel
 - label
@@ -117,6 +118,14 @@ Defined in:  [src/deck-components/SliderField.tsx:22](https://github.com/SteamDe
 > `boolean`
 
 Defined in:  [src/deck-components/SliderField.tsx:23](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SliderField.tsx#L23)
+
+##### highlightOnFocus?
+
+> `boolean`
+
+Inherited from: [ItemProps](Item#itemprops).[highlightOnFocus](Item#highlightonfocus)
+
+Defined in:  [src/deck-components/Item.tsx:11](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Item.tsx#L11)
 
 ##### icon?
 
