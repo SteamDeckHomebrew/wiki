@@ -140,7 +140,7 @@ Defined in:  [src/deck-components/SidebarNavigation.tsx:22](https://github.com/S
 
 ##### pages
 
-> [`SidebarNavigationPage`](SidebarNavigation#sidebarnavigationpage)[]
+> ([`SidebarNavigationPage`](SidebarNavigation#sidebarnavigationpage) \| `"separator"`)[]
 
 Defined in:  [src/deck-components/SidebarNavigation.tsx:19](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SidebarNavigation.tsx#L19)
 
