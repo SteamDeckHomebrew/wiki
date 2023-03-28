@@ -2,7 +2,7 @@
 title: Environment Variables
 description: Environment Variables Decky provides for as plugins running as subprocesses.
 published: true
-date: 2023-03-07T16:44:04.772Z
+date: 2023-03-28T05:42:24.136Z
 tags: plugin-dev, env-vars
 editor: markdown
 dateCreated: 2023-01-23T00:49:40.156Z
@@ -24,10 +24,10 @@ From Pre-Release 2.5.2-pre1 onward, decky provides these environment variables t
 |---|---|---|
 | Environment Variable | Description | Decky Version | Example Return |
 |`USER`|The username of the effective user running the process.[^1]|v2.5.2-pre1+|`root` or `deck`|
-|`USER_ID`|The UID of the effective user running the process.[^1]|v2.6.3-pre3+|`0` or `1000`|
+|~~`USER_ID`~~|~~The UID of the effective user running the process.[^1]~~|~~v2.6.3-pre3+~~|~~`0` or `1000`~~|
 |`HOME`|The home directory of the effective user running the process.[^1]|v2.5.2-pre1+|`/root` or `/home/deck`|
 |`DECKY_USER`|The username of the user whose home decky resides in.|v2.5.2-pre1+|`deck`|
-|`USER_ID`|The UID of the user whose home decky resides in.|v2.6.3-pre3+|`1000`|
+|~~`DECKY_USER_ID`~~|~~The UID of the user whose home decky resides in.~~|~~v2.6.3-pre3+~~|~~`1000`~~|
 |`DECKY_USER_HOME`|The home of the user where decky resides in.|v2.6.0-pre1+|`/home/deck`|
 |`DECKY_VERSION`|The running version of the decky loader.|v2.5.2-pre1+|`v2.5.0-pre1`|
 |`DECKY_HOME`|The root of the decky folder|v2.5.2-pre1+|`/home/deck/homebrew`|
