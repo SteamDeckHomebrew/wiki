@@ -2,7 +2,7 @@
 title: Getting Started
 description: How-To guide about developing a plugin
 published: true
-date: 2023-03-05T22:54:47.792Z
+date: 2023-04-03T20:21:04.542Z
 tags: plugin-dev
 editor: markdown
 dateCreated: 2022-07-03T19:33:01.141Z
@@ -129,3 +129,6 @@ This is extremely hacky but it is the "official" method that is needed for inclu
 Say you need to include python code that you seperated out into other files in a folder called ``py`` etc. This folder would be moved into the defaults folder and symlinked into the root of the directory for local code testing if that is needed etc.
 
 We appreciate feedback on this topic, and a suggestion for a plugin's plugin.json including a whitelist of needed files is likely a future solution that will be adopted.
+
+### pnpm
+Frontend dependencies are managed by [pnpm](https://pnpm.io/). The CI for builds requires pnpm-lock.yaml to be on version 6.0. To ensure you're on the right version update your pnpm with `pnpm add -g pnpm` and run `pnpm i`. To verify, check that your pnpm-lock.yaml contains `lockfileVersion: '6.0'` at the top.
