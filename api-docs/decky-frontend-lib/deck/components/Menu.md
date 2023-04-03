@@ -469,7 +469,7 @@ Optional onMouseEnter(evt: MouseEvent): void;
 
 | Name | Type |
 | :------ | :------ |
-| `evt` | `MouseEvent` |
+| `evt` | [`MouseEvent`]( https://developer.mozilla.org/en-US/docs/Web/API/MouseEvent ) |
 
 ###### Returns
 

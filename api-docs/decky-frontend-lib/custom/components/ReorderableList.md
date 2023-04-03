@@ -90,7 +90,7 @@ Properties for a ReorderableItem component of type <T>
 | `reorderEnabled` | `boolean` |
 | `reorderEntryFunc` | `CallableFunction` |
 
-Defined in:  [src/custom-components/ReorderableList.tsx:95](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/custom-components/ReorderableList.tsx#L95)
+Defined in:  [src/custom-components/ReorderableList.tsx:103](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/custom-components/ReorderableList.tsx#L103)
 
 ---
 

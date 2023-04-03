@@ -154,7 +154,7 @@ Defined in:  [src/deck-components/Field.tsx:7](https://github.com/SteamDeckHomeb
 
 | Name | Type |
 | :------ | :------ |
-| `e` | `MouseEvent` \| [`CustomEvent`]( https://developer.mozilla.org/en-US/docs/Web/API/CustomEvent )\<`any`\> |
+| `e` | [`MouseEvent`]( https://developer.mozilla.org/en-US/docs/Web/API/MouseEvent ) \| [`CustomEvent`]( https://developer.mozilla.org/en-US/docs/Web/API/CustomEvent )\<`any`\> |
 
 ####### Returns
 
@@ -264,7 +264,7 @@ Defined in:  [src/deck-components/FooterLegend.ts:60](https://github.com/SteamDe
 
 | Name | Type |
 | :------ | :------ |
-| `e` | `MouseEvent` \| [`CustomEvent`]( https://developer.mozilla.org/en-US/docs/Web/API/CustomEvent )\<`any`\> |
+| `e` | [`MouseEvent`]( https://developer.mozilla.org/en-US/docs/Web/API/MouseEvent ) \| [`CustomEvent`]( https://developer.mozilla.org/en-US/docs/Web/API/CustomEvent )\<`any`\> |
 
 ####### Returns
 

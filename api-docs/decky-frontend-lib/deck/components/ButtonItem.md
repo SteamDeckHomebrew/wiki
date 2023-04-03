@@ -122,7 +122,7 @@ Optional onClick(e: MouseEvent): void;
 
 | Name | Type |
 | :------ | :------ |
-| `e` | `MouseEvent` |
+| `e` | [`MouseEvent`]( https://developer.mozilla.org/en-US/docs/Web/API/MouseEvent ) |
 
 ###### Returns
 

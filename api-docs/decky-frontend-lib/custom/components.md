@@ -35,7 +35,7 @@ Defined in:  [src/custom-components/ReorderableList.tsx:35](https://github.com/S
 
 Re-exports [ReorderableListEntryProps](ReorderableList#reorderablelistentryprops)
 
-Defined in:  [src/custom-components/ReorderableList.tsx:95](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/custom-components/ReorderableList.tsx#L95)
+Defined in:  [src/custom-components/ReorderableList.tsx:103](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/custom-components/ReorderableList.tsx#L103)
 
 ### ReorderableListProps
 

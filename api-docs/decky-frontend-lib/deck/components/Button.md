@@ -446,7 +446,7 @@ Optional onClick(e: MouseEvent): void;
 
 | Name | Type |
 | :------ | :------ |
-| `e` | `MouseEvent` |
+| `e` | [`MouseEvent`]( https://developer.mozilla.org/en-US/docs/Web/API/MouseEvent ) |
 
 ###### Returns
 
@@ -468,7 +468,7 @@ Optional onMouseDown(e: MouseEvent): void;
 
 | Name | Type |
 | :------ | :------ |
-| `e` | `MouseEvent` |
+| `e` | [`MouseEvent`]( https://developer.mozilla.org/en-US/docs/Web/API/MouseEvent ) |
 
 ###### Returns
 
@@ -490,7 +490,7 @@ Optional onMouseUp(e: MouseEvent): void;
 
 | Name | Type |
 | :------ | :------ |
-| `e` | `MouseEvent` |
+| `e` | [`MouseEvent`]( https://developer.mozilla.org/en-US/docs/Web/API/MouseEvent ) |
 
 ###### Returns
 
@@ -512,7 +512,7 @@ Optional onPointerCancel(e: PointerEvent): void;
 
 | Name | Type |
 | :------ | :------ |
-| `e` | `PointerEvent` |
+| `e` | [`PointerEvent`]( https://developer.mozilla.org/en-US/docs/Web/API/PointerEvent ) |
 
 ###### Returns
 
@@ -534,7 +534,7 @@ Optional onPointerDown(e: PointerEvent): void;
 
 | Name | Type |
 | :------ | :------ |
-| `e` | `PointerEvent` |
+| `e` | [`PointerEvent`]( https://developer.mozilla.org/en-US/docs/Web/API/PointerEvent ) |
 
 ###### Returns
 
@@ -556,7 +556,7 @@ Optional onPointerUp(e: PointerEvent): void;
 
 | Name | Type |
 | :------ | :------ |
-| `e` | `PointerEvent` |
+| `e` | [`PointerEvent`]( https://developer.mozilla.org/en-US/docs/Web/API/PointerEvent ) |
 
 ###### Returns
 
@@ -578,7 +578,7 @@ Optional onSubmit(e: SubmitEvent): void;
 
 | Name | Type |
 | :------ | :------ |
-| `e` | `SubmitEvent` |
+| `e` | [`SubmitEvent`]( https://developer.mozilla.org/en-US/docs/Web/API/SubmitEvent ) |
 
 ###### Returns
 
@@ -600,7 +600,7 @@ Optional onTouchCancel(e: TouchEvent): void;
 
 | Name | Type |
 | :------ | :------ |
-| `e` | `TouchEvent` |
+| `e` | [`TouchEvent`]( https://developer.mozilla.org/en-US/docs/Web/API/TouchEvent ) |
 
 ###### Returns
 
@@ -622,7 +622,7 @@ Optional onTouchEnd(e: TouchEvent): void;
 
 | Name | Type |
 | :------ | :------ |
-| `e` | `TouchEvent` |
+| `e` | [`TouchEvent`]( https://developer.mozilla.org/en-US/docs/Web/API/TouchEvent ) |
 
 ###### Returns
 
@@ -644,7 +644,7 @@ Optional onTouchStart(e: TouchEvent): void;
 
 | Name | Type |
 | :------ | :------ |
-| `e` | `TouchEvent` |
+| `e` | [`TouchEvent`]( https://developer.mozilla.org/en-US/docs/Web/API/TouchEvent ) |
 
 ###### Returns
 
