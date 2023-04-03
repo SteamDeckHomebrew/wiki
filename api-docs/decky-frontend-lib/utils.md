@@ -23,6 +23,7 @@
 
 - findSP
 - getFocusNavController
+- getGamepadNavigationTrees
 - joinClassNames
 - sleep
 
@@ -146,7 +147,25 @@ getFocusNavController(): any;
 
 `any`
 
-Defined in:  [src/utils/index.ts:33](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/utils/index.ts#L33)
+Defined in:  [src/utils/index.ts:31](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/utils/index.ts#L31)
+
+---
+
+### getGamepadNavigationTrees()
+
+Gets the gamepad navigation trees as Valve seems to be moving them.
+
+#### Signature
+
+```ts
+getGamepadNavigationTrees(): any;
+```
+
+#### Returns
+
+`any`
+
+Defined in:  [src/utils/index.ts:38](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/utils/index.ts#L38)
 
 ---
 
