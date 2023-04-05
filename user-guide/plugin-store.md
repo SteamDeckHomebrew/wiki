@@ -2,7 +2,7 @@
 title: Plugin Store
 description: How to download and update plugins
 published: true
-date: 2022-07-18T20:22:30.612Z
+date: 2023-04-05T17:27:25.607Z
 tags: user-guide
 editor: markdown
 dateCreated: 2022-07-03T23:01:53.979Z
@@ -21,7 +21,7 @@ Decky Loader can run any of these types of plugins:
 But, the recommended and only method for installing plugins which provide support for is the usage of the integrated installer for installing plugins called Plugin Store.
 The Plugin Store is built-in to the UI of Decky Loader.
 To see a web preview, go to **[plugins.deckbrew.xyz](https://plugins.deckbrew.xyz)**.
-Pre-release and testing versions use **[beta.deckbrew.xyz](https://beta.deckbrew.xyz)**.
+Pre-release and testing versions use **[testing.deckbrew.xyz](https://testing.deckbrew.xyz)**.
 
 The Plugin Store has all of it's plugins reviewed then approved by a member of our development staff and given our seal of approval.
 
