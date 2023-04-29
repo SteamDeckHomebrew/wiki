@@ -151,7 +151,7 @@ Defined in:  [src/deck-components/SteamClient.ts:215](https://github.com/SteamDe
 
 Re-exports [AppOverview](Router#appoverview)
 
-Defined in:  [src/deck-components/Router.tsx:60](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Router.tsx#L60)
+Defined in:  [src/deck-components/Router.tsx:61](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Router.tsx#L61)
 
 ### Apps
 
@@ -313,7 +313,7 @@ Defined in:  [src/deck-components/Dialog.tsx:65](https://github.com/SteamDeckHom
 
 Re-exports [DisplayStatus](Router#displaystatus)
 
-Defined in:  [src/deck-components/Router.tsx:21](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Router.tsx#L21)
+Defined in:  [src/deck-components/Router.tsx:22](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Router.tsx#L22)
 
 ### Dropdown
 
@@ -475,7 +475,7 @@ Defined in:  [src/deck-components/Menu.tsx:16](https://github.com/SteamDeckHomeb
 
 Re-exports [MenuStore](Router#menustore)
 
-Defined in:  [src/deck-components/Router.tsx:67](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Router.tsx#L67)
+Defined in:  [src/deck-components/Router.tsx:68](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Router.tsx#L68)
 
 ### ModalRoot
 
@@ -505,7 +505,7 @@ Defined in:  [src/deck-components/FooterLegend.ts:34](https://github.com/SteamDe
 
 Re-exports [Navigation](Router#navigation)
 
-Defined in:  [src/deck-components/Router.tsx:110](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Router.tsx#L110) [src/deck-components/Router.tsx:127](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Router.tsx#L127)
+Defined in:  [src/deck-components/Router.tsx:111](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Router.tsx#L111) [src/deck-components/Router.tsx:128](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Router.tsx#L128)
 
 ### NotchLabel
 
@@ -583,7 +583,7 @@ Defined in:  [src/deck-components/Router.tsx:10](https://github.com/SteamDeckHom
 
 Re-exports [Router](Router#router)
 
-Defined in:  [src/deck-components/Router.tsx:88](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Router.tsx#L88) [src/deck-components/Router.tsx:103](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Router.tsx#L103)
+Defined in:  [src/deck-components/Router.tsx:89](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Router.tsx#L89) [src/deck-components/Router.tsx:104](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Router.tsx#L104)
 
 ### ShowModalProps
 
@@ -733,13 +733,13 @@ Defined in:  [src/deck-components/SteamClient.ts:118](https://github.com/SteamDe
 
 Re-exports [WindowRouter](Router#windowrouter)
 
-Defined in:  [src/deck-components/Router.tsx:73](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Router.tsx#L73)
+Defined in:  [src/deck-components/Router.tsx:74](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Router.tsx#L74)
 
 ### WindowStore
 
 Re-exports [WindowStore](Router#windowstore)
 
-Defined in:  [src/deck-components/Router.tsx:82](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Router.tsx#L82)
+Defined in:  [src/deck-components/Router.tsx:83](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Router.tsx#L83)
 
 ### appDetailsClasses
 
