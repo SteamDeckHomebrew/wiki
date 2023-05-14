@@ -2,7 +2,7 @@
 title: Review and Testing Process
 description: More information on how we review your plugin before it can make it to users.
 published: true
-date: 2023-04-03T20:22:58.206Z
+date: 2023-05-14T22:38:32.971Z
 tags: plugin-dev, testing
 editor: markdown
 dateCreated: 2022-11-13T21:56:22.344Z
@@ -27,7 +27,7 @@ Once your plugin makes it to the testing store, testers can provide comments, ap
 
 There are two variants for testing required for plugins depending upon the use of custom backends and or pre-built binaries both of which can have depedencies that cannot be statically linked.
 
-* Plugins utilizing a custom backend or pre-built binaries that have depdencies which cannot be statically linked (an example of such a depedency is glibc) must be tested and encounter no functionality breaking issues on all 3 update channels for SteamOS.
+* Plugins utilizing a custom backend or pre-built binaries that have depdencies which cannot be statically linked (an example of such a depedency is glibc) must be tested and encounter no functionality breaking issues on SteamOS preview as the minimumn. Testing can and should be done on other branches but only preview is required.
 * Plugins utilizing a python backend and the react frontend (using Decky Frontend Library) that do not utilize a custom backend or pre-built binaries which could have depedency issues must be tested and encounter no functionality breaking issues on the Stable and Beta update channels for SteamOS.
 
 Any cosmetic issues that don't prevent proper usage will be asked to be fixed. When a plugin has comments from unoffical/offical testers for each branch, then a member of the core Decky Loader team will approve the plugin to be merged into the Plugin Database, and the CI will upload it to the main store.
