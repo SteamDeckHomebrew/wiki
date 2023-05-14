@@ -2,7 +2,7 @@
 title: Getting Started
 description: How-To guide about developing a plugin
 published: true
-date: 2023-04-03T20:21:04.542Z
+date: 2023-05-14T22:11:06.486Z
 tags: plugin-dev
 editor: markdown
 dateCreated: 2022-07-03T19:33:01.141Z
@@ -17,6 +17,7 @@ A typical Plugin is structured like this:
 ├── defaults/				 # Plain-text configs and templates (not required)
 ├── main.py           # Backend Python code
 ├── plugin.json       # Metadata file
+├── package.json			# Metadata file for pnpm
 ├── README.md         # Project Readme
 ├── LICENSE           # License
 ├── src/              # Frontend TypeScript code
@@ -27,7 +28,7 @@ The easiest way to get this structure and get started with development is by vis
 
 Afterwards you can clone your newly created repository and get started.
 
-## Metadata
+## Plugin Metadata
 
 The plugin.json file is used by decky and the store to determine how things are being displayed and how the plugin behaves. It's required for every plugin.
 
@@ -41,6 +42,15 @@ The following fields can be specified:
     - `"tags"`: A list of tags that describe your plugin
     - `"description"`: A short description that will be displayed with your Plugin on the store
     - `"image"`: A link to an image that will be embedded in the store page
+    
+## Package Metadata
+
+The plugin.json file is used by decky and the store to determine how things are being displayed and how the plugin behaves. It's required for every plugin.
+
+The following fields can be specified:
+- `"name"`: The name of the Plugin as the CI/CLI understands it, make sure this is all lowercase with dashes rather than spaces between words that would appear seperated visually.
+  - `Donkey Farm` becomes `donkey-farm` etc.
+- `"version"`: The version of the plugin as the CI/CLI understands it. Make sure to bump it before submitting update PRs etc.
     
 ## Frontend
 
