@@ -2,7 +2,7 @@
 title: Review and Testing Process
 description: More information on how we review your plugin before it can make it to users.
 published: true
-date: 2023-05-14T22:45:51.206Z
+date: 2023-05-14T23:11:07.855Z
 tags: plugin-dev, testing
 editor: markdown
 dateCreated: 2022-11-13T21:56:22.344Z
@@ -27,9 +27,33 @@ Once your plugin makes it to the testing store, testers can provide comments, ap
 
 There are two variants for testing required for plugins depending upon the use of custom backends and or pre-built binaries both of which can have depedencies that cannot be statically linked.
 
-* Plugins utilizing a custom backend or pre-built binaries that have depdencies which cannot be statically linked (an example of such a depedency is glibc) must be tested and encounter no functionality breaking issues on SteamOS preview as the minimum. Testing can and should be done on other branches but only preview is required.
-* Plugins utilizing a python backend and the react frontend (using Decky Frontend Library) that do not utilize a custom backend or pre-built binaries which could have depedency issues must be tested and encounter no functionality breaking issues on either the latest Stable or Beta branches.
+There's a bit more you need to know.
+
+> ---
+> ### A
+>Plugins utilizing a custom backend or pre-built binaries that have depdencies which cannot be statically linked (an example of such a depedency is glibc) must be tested and encounter no functionality breaking issues on SteamOS preview as the minimum. Testing can and should be done on other branches but only preview is required.
+{.is-success}
+
+> ---
+> ### B
+> Plugins utilizing a python backend and the react frontend (using Decky Frontend Library) that do not utilize a custom backend or pre-built binaries which could have depedency issues must be tested and encounter no functionality breaking issues on either the latest Stable or Beta branches.
+{.is-success}
+
+If a plugin/plugin update is approved to go onto the testing store and the plugin developer(s) demonstrates no forward momentum towards completing testing, then steps will be taken. Specifically, if we do not see any movement towards making sure the plugin/plugin update is being tested and a testing review is/will be submitted we will:
+
+> ---
+> ### 1st
+> Contact the plugin developer and offer to help find testers for them.
+> If we receive no response or a response that the team understands as moving forward with testing, we reserve the right to close the PR and pull the plugin/plugin update after 2 weeks.
+{.is-warning}
+
+> ---
+> ### 2nd
+> Contact the plugin developer again and more directly determine a firm timeline on testing.
+> This should only occur around 3 weeks after submission, at this point if we have not exercised our right to close the PR after 2 weeks, you can expect the PR will be closed and the plugin/plugin update will be pulled from the testing store.
+{.is-warning}
 
 Any cosmetic issues that don't prevent proper usage will be asked to be fixed. When a plugin has comments from unoffical/offical testers for each branch, then a member of the core Decky Loader team will approve the plugin to be merged into the Plugin Database, and the CI will upload it to the main store.
 
-Congrats, you now have a submitted and uploaded plugin!
+**Congrats, you now have a submitted plugin!**
+
