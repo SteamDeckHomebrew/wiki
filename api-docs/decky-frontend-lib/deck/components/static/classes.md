@@ -12,6 +12,7 @@
 - appDetailsHeaderClasses
 - gamepadDialogClasses
 - gamepadSliderClasses
+- gamepadUIClasses
 - playSectionClasses
 - quickAccessControlsClasses
 - quickAccessMenuClasses
@@ -26,7 +27,7 @@
 
 > **`Const`** [`AppDetailsClasses`](_internal_#appdetailsclasses)
 
-Defined in:  [src/deck-components/static-classes.ts:476](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/static-classes.ts#L476)
+Defined in:  [src/deck-components/static-classes.ts:539](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/static-classes.ts#L539)
 
 ---
 
@@ -34,7 +35,7 @@ Defined in:  [src/deck-components/static-classes.ts:476](https://github.com/Stea
 
 > **`Const`** [`AppDetailsHeaderClasses`](_internal_#appdetailsheaderclasses)
 
-Defined in:  [src/deck-components/static-classes.ts:473](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/static-classes.ts#L473)
+Defined in:  [src/deck-components/static-classes.ts:536](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/static-classes.ts#L536)
 
 ---
 
@@ -42,7 +43,7 @@ Defined in:  [src/deck-components/static-classes.ts:473](https://github.com/Stea
 
 > **`Const`** [`GamepadDialogClasses`](_internal_#gamepaddialogclasses)
 
-Defined in:  [src/deck-components/static-classes.ts:458](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/static-classes.ts#L458)
+Defined in:  [src/deck-components/static-classes.ts:521](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/static-classes.ts#L521)
 
 ---
 
@@ -50,7 +51,15 @@ Defined in:  [src/deck-components/static-classes.ts:458](https://github.com/Stea
 
 > **`Const`** [`GamepadSliderClasses`](_internal_#gamepadsliderclasses)
 
-Defined in:  [src/deck-components/static-classes.ts:470](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/static-classes.ts#L470)
+Defined in:  [src/deck-components/static-classes.ts:533](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/static-classes.ts#L533)
+
+---
+
+### gamepadUIClasses
+
+> **`Const`** [`GamepadUIClasses`](_internal_#gamepaduiclasses)
+
+Defined in:  [src/deck-components/static-classes.ts:542](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/static-classes.ts#L542)
 
 ---
 
@@ -58,7 +67,7 @@ Defined in:  [src/deck-components/static-classes.ts:470](https://github.com/Stea
 
 > **`Const`** [`PlaySectionClasses`](_internal_#playsectionclasses)
 
-Defined in:  [src/deck-components/static-classes.ts:467](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/static-classes.ts#L467)
+Defined in:  [src/deck-components/static-classes.ts:530](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/static-classes.ts#L530)
 
 ---
 
@@ -66,7 +75,7 @@ Defined in:  [src/deck-components/static-classes.ts:467](https://github.com/Stea
 
 > **`Const`** [`QuickAccessControlsClasses`](_internal_#quickaccesscontrolsclasses)
 
-Defined in:  [src/deck-components/static-classes.ts:461](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/static-classes.ts#L461)
+Defined in:  [src/deck-components/static-classes.ts:524](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/static-classes.ts#L524)
 
 ---
 
@@ -74,7 +83,7 @@ Defined in:  [src/deck-components/static-classes.ts:461](https://github.com/Stea
 
 > **`Const`** [`QuickAccessMenuClasses`](_internal_#quickaccessmenuclasses)
 
-Defined in:  [src/deck-components/static-classes.ts:444](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/static-classes.ts#L444)
+Defined in:  [src/deck-components/static-classes.ts:507](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/static-classes.ts#L507)
 
 ---
 
@@ -86,7 +95,7 @@ Defined in:  [src/deck-components/static-classes.ts:444](https://github.com/Stea
 
 please use scrollPanelClasses instead
 
-Defined in:  [src/deck-components/static-classes.ts:457](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/static-classes.ts#L457)
+Defined in:  [src/deck-components/static-classes.ts:520](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/static-classes.ts#L520)
 
 ---
 
@@ -94,7 +103,7 @@ Defined in:  [src/deck-components/static-classes.ts:457](https://github.com/Stea
 
 > **`Const`** [`ScrollPanelClasses`](_internal_#scrollpanelclasses)
 
-Defined in:  [src/deck-components/static-classes.ts:451](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/static-classes.ts#L451)
+Defined in:  [src/deck-components/static-classes.ts:514](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/static-classes.ts#L514)
 
 ---
 
@@ -106,7 +115,7 @@ Defined in:  [src/deck-components/static-classes.ts:451](https://github.com/Stea
 
 please use quickAccessMenuClasses instead
 
-Defined in:  [src/deck-components/static-classes.ts:450](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/static-classes.ts#L450)
+Defined in:  [src/deck-components/static-classes.ts:513](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/static-classes.ts#L513)
 
 ---
 
@@ -114,4 +123,4 @@ Defined in:  [src/deck-components/static-classes.ts:450](https://github.com/Stea
 
 > **`Const`** [`UpdaterFieldClasses`](_internal_#updaterfieldclasses)
 
-Defined in:  [src/deck-components/static-classes.ts:464](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/static-classes.ts#L464)
+Defined in:  [src/deck-components/static-classes.ts:527](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/static-classes.ts#L527)

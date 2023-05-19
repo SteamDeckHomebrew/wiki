@@ -111,6 +111,7 @@
 - appDetailsHeaderClasses
 - gamepadDialogClasses
 - gamepadSliderClasses
+- gamepadUIClasses
 - playSectionClasses
 - quickAccessControlsClasses
 - quickAccessMenuClasses
@@ -745,55 +746,61 @@ Defined in:  [src/deck-components/Router.tsx:83](https://github.com/SteamDeckHom
 
 Re-exports [appDetailsClasses](classes#appdetailsclasses)
 
-Defined in:  [src/deck-components/static-classes.ts:476](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/static-classes.ts#L476)
+Defined in:  [src/deck-components/static-classes.ts:539](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/static-classes.ts#L539)
 
 ### appDetailsHeaderClasses
 
 Re-exports [appDetailsHeaderClasses](classes#appdetailsheaderclasses)
 
-Defined in:  [src/deck-components/static-classes.ts:473](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/static-classes.ts#L473)
+Defined in:  [src/deck-components/static-classes.ts:536](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/static-classes.ts#L536)
 
 ### gamepadDialogClasses
 
 Re-exports [gamepadDialogClasses](classes#gamepaddialogclasses)
 
-Defined in:  [src/deck-components/static-classes.ts:458](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/static-classes.ts#L458)
+Defined in:  [src/deck-components/static-classes.ts:521](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/static-classes.ts#L521)
 
 ### gamepadSliderClasses
 
 Re-exports [gamepadSliderClasses](classes#gamepadsliderclasses)
 
-Defined in:  [src/deck-components/static-classes.ts:470](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/static-classes.ts#L470)
+Defined in:  [src/deck-components/static-classes.ts:533](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/static-classes.ts#L533)
+
+### gamepadUIClasses
+
+Re-exports [gamepadUIClasses](classes#gamepaduiclasses)
+
+Defined in:  [src/deck-components/static-classes.ts:542](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/static-classes.ts#L542)
 
 ### playSectionClasses
 
 Re-exports [playSectionClasses](classes#playsectionclasses)
 
-Defined in:  [src/deck-components/static-classes.ts:467](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/static-classes.ts#L467)
+Defined in:  [src/deck-components/static-classes.ts:530](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/static-classes.ts#L530)
 
 ### quickAccessControlsClasses
 
 Re-exports [quickAccessControlsClasses](classes#quickaccesscontrolsclasses)
 
-Defined in:  [src/deck-components/static-classes.ts:461](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/static-classes.ts#L461)
+Defined in:  [src/deck-components/static-classes.ts:524](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/static-classes.ts#L524)
 
 ### quickAccessMenuClasses
 
 Re-exports [quickAccessMenuClasses](classes#quickaccessmenuclasses)
 
-Defined in:  [src/deck-components/static-classes.ts:444](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/static-classes.ts#L444)
+Defined in:  [src/deck-components/static-classes.ts:507](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/static-classes.ts#L507)
 
 ### scrollClasses
 
 Re-exports [scrollClasses](classes#scrollclasses)
 
-Defined in:  [src/deck-components/static-classes.ts:457](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/static-classes.ts#L457)
+Defined in:  [src/deck-components/static-classes.ts:520](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/static-classes.ts#L520)
 
 ### scrollPanelClasses
 
 Re-exports [scrollPanelClasses](classes#scrollpanelclasses)
 
-Defined in:  [src/deck-components/static-classes.ts:451](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/static-classes.ts#L451)
+Defined in:  [src/deck-components/static-classes.ts:514](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/static-classes.ts#L514)
 
 ### showContextMenu
 
@@ -811,10 +818,10 @@ Defined in:  [src/deck-components/Modal.tsx:65](https://github.com/SteamDeckHome
 
 Re-exports [staticClasses](classes#staticclasses)
 
-Defined in:  [src/deck-components/static-classes.ts:450](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/static-classes.ts#L450)
+Defined in:  [src/deck-components/static-classes.ts:513](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/static-classes.ts#L513)
 
 ### updaterFieldClasses
 
 Re-exports [updaterFieldClasses](classes#updaterfieldclasses)
 
-Defined in:  [src/deck-components/static-classes.ts:464](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/static-classes.ts#L464)
+Defined in:  [src/deck-components/static-classes.ts:527](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/static-classes.ts#L527)

@@ -8,6 +8,7 @@
 - AppDetailsHeaderClasses
 - GamepadDialogClasses
 - GamepadSliderClasses
+- GamepadUIClasses
 - PlaySectionClasses
 - QuickAccessControlsClasses
 - QuickAccessMenuClasses
@@ -45,6 +46,14 @@ Defined in:  [src/deck-components/static-classes.ts:68](https://github.com/Steam
 > `Record`\<`"error-shake-duration"` \| `"SliderControlPanelGroup"` \| `"SliderControlAndNotches"` \| `"WithDefaultValue"` \| `"SliderControl"` \| `"Disabled"` \| `"SliderTrack"` \| `"SliderHasNotches"` \| `"SliderTrackDark"` \| `"SliderHandleContainer"` \| `"VerticalLineSliderHandleContainer"` \| `"ParenSliderHandleContainer"` \| `"SliderHandle"` \| `"SliderHandleFocusPop"` \| `"VerticalLineSliderHandle"` \| `"ParenSliderHandle"` \| `"Left"` \| `"SliderControlWithIcon"` \| `"Icon"` \| `"SliderNotchContainer"` \| `"SliderNotch"` \| `"AlignToEnds"` \| `"SliderNotchLabel"` \| `"AlignToLeft"` \| `"AlignToRight"` \| `"SliderNotchTick"` \| `"TickActive"` \| `"LabelText"` \| `"DescriptionValue"` \| `"EditableValue"` \| `"FakeEditableValue"` \| `"RedBorder"` \| `"EditableValueSuffix"` \| `"ErrorShake"` \| `"error-shake"` \| `"CompoundSlider"` \| `"CompoundSliderSubSlider"` \| `"Right"` \| `"CompoundSliderSubSliderLabelContainer"` \| `"CompoundSliderSubSliderLabelPositioner"` \| `"CompoundSliderSubSliderLabel"` \| `"CompoundSliderSubSliderLabelInternal"` \| `"DefaultValueTickContainer"` \| `"DefaultValueTick"`, `string`\>
 
 Defined in:  [src/deck-components/static-classes.ts:304](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/static-classes.ts#L304)
+
+---
+
+### GamepadUIClasses
+
+> `Record`\<`"duration-app-launch"` \| `"TransitionMenuDelay"` \| `"PanelSection"` \| `"PanelSectionTitle"` \| `"Text"` \| `"PanelSectionRow"` \| `"Label"` \| `"ComingSoon"` \| `"LowBattery"` \| `"ReallyLow"` \| `"LowBatteryGauge"` \| `"Remaining"` \| `"EmptyNotifications"` \| `"BatterySectionContainer"` \| `"BatteryIcon"` \| `"BatteryPercentageLabel"` \| `"BatteryDetailsLabels"` \| `"BatteryProjectedValue"` \| `"BatteryProjectedLabel"` \| `"ViewPlaceholder"` \| `"FullHeight"` \| `"Title"` \| `"Container"` \| `"Open"` \| `"QuickAccessMenu"` \| `"HeaderContainer"` \| `"Menu"` \| `"HeaderAndFooterVisible"` \| `"TabContentColumn"` \| `"Tabs"` \| `"Tab"` \| `"Selected"` \| `"ItemFocusAnim-darkerGrey"` \| `"ItemFocusAnim-darkerGrey-nocolor"` \| `"VoiceTab"` \| `"ItemFocusAnim-green"` \| `"Blocked"` \| `"TabPanelHidden"` \| `"FriendsTitle"` \| `"FriendsListTabPanel"` \| `"PanelOuterNav"` \| `"PanelExitAnchor"` \| `"TabGroupPanel"` \| `"FooterBoxShadow"` \| `"AllTabContents"` \| `"ContentTransition"` \| `"ActiveTab"` \| `"Up"` \| `"Enter"` \| `"EnterActive"` \| `"Exit"` \| `"ExitActive"` \| `"Down"` \| `"KeyboardButton"` \| `"ItemFocusAnim-darkGrey"` \| `"ItemFocusAnim-grey"` \| `"ItemFocusAnimBorder-darkGrey"` \| `"focusAnimation"` \| `"hoverAnimation"`, `string`\>
+
+Defined in:  [src/deck-components/static-classes.ts:444](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/static-classes.ts#L444)
 
 ---
 
