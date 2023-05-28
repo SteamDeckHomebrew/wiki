@@ -21,7 +21,7 @@
 ```ts
 {
     data?: T;
-    label: string;
+    label: ReactNode;
     position: number;
 }
 ```
@@ -49,7 +49,7 @@ The position of this entry in the list.
 | Member | Type |
 | :------ | :------ |
 | `data`? | `T` |
-| `label` | `string` |
+| `label` | `ReactNode` |
 | `position` | `number` |
 
 Defined in:  [src/custom-components/ReorderableList.tsx:11](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/custom-components/ReorderableList.tsx#L11)
