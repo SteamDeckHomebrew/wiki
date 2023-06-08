@@ -2,7 +2,7 @@
 title: Getting Started
 description: How-To guide about developing a plugin
 published: true
-date: 2023-05-14T22:11:06.486Z
+date: 2023-06-08T00:49:54.856Z
 tags: plugin-dev
 editor: markdown
 dateCreated: 2022-07-03T19:33:01.141Z
@@ -45,7 +45,7 @@ The following fields can be specified:
     
 ## Package Metadata
 
-The plugin.json file is used by decky and the store to determine how things are being displayed and how the plugin behaves. It's required for every plugin.
+The package.json file is used by decky and the store to determine how things are being displayed and how the plugin behaves. It's required for every plugin.
 
 The following fields can be specified:
 - `"name"`: The name of the Plugin as the CI/CLI understands it, make sure this is all lowercase with dashes rather than spaces between words that would appear seperated visually.
