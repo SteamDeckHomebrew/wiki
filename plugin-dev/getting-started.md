@@ -2,7 +2,7 @@
 title: Getting Started
 description: How-To guide about developing a plugin
 published: true
-date: 2023-06-10T19:02:41.789Z
+date: 2023-06-10T19:04:20.476Z
 tags: plugin-dev
 editor: markdown
 dateCreated: 2022-07-03T19:33:01.141Z
@@ -41,7 +41,7 @@ The following fields can be specified:
 - `"publish"`: A object containing various information used by the Decky Store
     - `"tags"`: A list of tags that describe your plugin
     - `"description"`: A short description that will be displayed with your Plugin on the store
-    - `"image"`: A link to an image that will be embedded in the store page
+    - `"image"`: A link to an image (must be a PNG!) that will be embedded in the store page.
     
 ## Package Metadata
 
