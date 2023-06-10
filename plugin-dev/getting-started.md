@@ -2,7 +2,7 @@
 title: Getting Started
 description: How-To guide about developing a plugin
 published: true
-date: 2023-06-08T00:49:54.856Z
+date: 2023-06-10T19:02:41.789Z
 tags: plugin-dev
 editor: markdown
 dateCreated: 2022-07-03T19:33:01.141Z
@@ -33,7 +33,7 @@ Afterwards you can clone your newly created repository and get started.
 The plugin.json file is used by decky and the store to determine how things are being displayed and how the plugin behaves. It's required for every plugin.
 
 The following fields can be specified:
-- `"name"`: The name of the Plugin as it will be displayed in the Decky menu
+- `"name"`: The name of the Plugin as it will be displayed in the Decky menu. This name should not have any spaces, and preferably be all lower-case.
 - `"author"`: The author of the Plugin. That's you!
 - `"flags"`: An array of flags that get used to configure various behaviour for your plugin
     - `"debug"`: Enable various debug capabilities such as auto reload for your plugin
