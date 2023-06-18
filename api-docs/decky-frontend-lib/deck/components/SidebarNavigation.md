@@ -75,7 +75,7 @@ Defined in:  [src/deck-components/SidebarNavigation.tsx:12](https://github.com/S
 
 ##### title
 
-> `string`
+> `ReactNode`
 
 Defined in:  [src/deck-components/SidebarNavigation.tsx:6](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SidebarNavigation.tsx#L6)
 
