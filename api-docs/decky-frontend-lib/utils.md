@@ -69,31 +69,31 @@ Defined in:  [src/utils/react.ts:11](https://github.com/SteamDeckHomebrew/decky-
 
 Re-exports [findInReactTree](react#findinreacttree)
 
-Defined in:  [src/utils/react.ts:91](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/utils/react.ts#L91)
+Defined in:  [src/utils/react.ts:99](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/utils/react.ts#L99)
 
 ### findInTree
 
 Re-exports [findInTree](react#findintree)
 
-Defined in:  [src/utils/react.ts:70](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/utils/react.ts#L70)
+Defined in:  [src/utils/react.ts:78](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/utils/react.ts#L78)
 
 ### findInTreeFilter
 
 Re-exports [findInTreeFilter](react#findintreefilter)
 
-Defined in:  [src/utils/react.ts:68](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/utils/react.ts#L68)
+Defined in:  [src/utils/react.ts:76](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/utils/react.ts#L76)
 
 ### findInTreeOpts
 
 Re-exports [findInTreeOpts](react#findintreeopts)
 
-Defined in:  [src/utils/react.ts:63](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/utils/react.ts#L63)
+Defined in:  [src/utils/react.ts:71](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/utils/react.ts#L71)
 
 ### getReactInstance
 
 Re-exports [getReactInstance](react#getreactinstance)
 
-Defined in:  [src/utils/react.ts:58](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/utils/react.ts#L58)
+Defined in:  [src/utils/react.ts:66](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/utils/react.ts#L66)
 
 ### replacePatch
 
@@ -105,7 +105,7 @@ Defined in:  [src/utils/patcher.ts:62](https://github.com/SteamDeckHomebrew/deck
 
 Re-exports [wrapReactClass](react#wrapreactclass)
 
-Defined in:  [src/utils/react.ts:52](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/utils/react.ts#L52)
+Defined in:  [src/utils/react.ts:56](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/utils/react.ts#L56)
 
 ### wrapReactType
 
