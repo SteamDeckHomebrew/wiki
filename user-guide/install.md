@@ -2,7 +2,7 @@
 title: Installation
 description: How to install the Steam Deck Plugin Loader
 published: true
-date: 2023-07-14T13:34:37.161Z
+date: 2023-07-14T13:37:47.260Z
 tags: user-guide
 editor: markdown
 dateCreated: 2022-04-08T14:18:43.906Z
@@ -37,4 +37,4 @@ curl -L https://github.com/SteamDeckHomebrew/decky-installer/releases/latest/dow
 ``` 
 
 ## Install Plugins
-Plugins can be installed from **[plugins.deckbrew.xyz](https://plugins.deckbrew.xyz)**. For more information, read about the [plugin store](https://deckbrew.xyz/en/user-guide/plugin-store).
+Plugins can be installed from the included plugin store <img src="/wiki/controller-glyphs/store.svg" height=16>
