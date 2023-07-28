@@ -2,7 +2,7 @@
 title: Environment Variables
 description: User configurable environment variables
 published: true
-date: 2023-07-28T20:28:03.455Z
+date: 2023-07-28T21:52:57.921Z
 tags: user-guide, env-vars
 editor: markdown
 dateCreated: 2023-07-28T20:27:21.135Z
@@ -19,7 +19,6 @@ Decky can be given various environment variables on startup which are used to ov
 |String options|||
 |`PRIVILEGED_PATH`|The root of the decky folder|`/home/deck/homebrew`[^1]|
 |`UNPRIVILEGED_PATH`|The root of the decky folder|`/home/deck/homebrew`[^1]|
-|`PLUGIN_PATH`|The plugins directory|`/home/deck/homebrew/plugins`|
 |`SERVER_HOST`|Which IP decky hosts it's server|`127.0.0.1`|
 |`SERVER_PORT`|Which port decky hosts it's server|`1337`|
 |`LOG_LEVEL`|The level of logging|`INFO`[^2]|
@@ -28,4 +27,4 @@ Decky can be given various environment variables on startup which are used to ov
 |`LIVE_RELOAD`|Should plugins automatically reload when changes are detected|`1`|
 |`KEEP_SYSTEMD_SERVICE`|Should the systemd service be kept on decky updates|`0`|
 [^1]: The default values are a little more complex, check the python for more info
-[^2]: The valid options are "CRITICAL", "ERROR", "WARNING", "INFO" and "DEBUG"
+[^2]: The valid options are `CRITICAL`, `ERROR`, `WARNING`, `INFO` and `DEBUG`
