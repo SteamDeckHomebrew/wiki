@@ -2,7 +2,7 @@
 title: Environment Variables
 description: User configurable environment variables
 published: true
-date: 2023-07-28T20:27:21.135Z
+date: 2023-07-28T20:28:03.455Z
 tags: user-guide, env-vars
 editor: markdown
 dateCreated: 2023-07-28T20:27:21.135Z
@@ -22,7 +22,7 @@ Decky can be given various environment variables on startup which are used to ov
 |`PLUGIN_PATH`|The plugins directory|`/home/deck/homebrew/plugins`|
 |`SERVER_HOST`|Which IP decky hosts it's server|`127.0.0.1`|
 |`SERVER_PORT`|Which port decky hosts it's server|`1337`|
-|`LOG_LEVEL`|The level of logging[^2]|`INFO`|
+|`LOG_LEVEL`|The level of logging|`INFO`[^2]|
 |Boolean Options|||
 |`CHOWN_PLUGIN_PATH`|Is the plugin path chowned|`1`|
 |`LIVE_RELOAD`|Should plugins automatically reload when changes are detected|`1`|
