@@ -2,7 +2,7 @@
 title: Route Patching
 description: Using Route Patching to insert new components into the deck UI or edit existing.
 published: true
-date: 2022-10-23T15:06:05.509Z
+date: 2023-08-04T16:02:24.713Z
 tags: route, patch, patching, component, react
 editor: markdown
 dateCreated: 2022-09-11T21:45:14.663Z
@@ -29,9 +29,9 @@ For an example check out the ProtonDB Badges plugin on [GitHub](https://github.c
 
 To start we'll need to turn on Remote CEF Debugging in our Decky Settings `Allow Remote CEF Debugging` and then opening `chrome://inspect` on your development machine.
 
-Here you should see your remote targets. Find the one that has your decks IP. It should have various tabs to inspect such as `Toast`,`QuickAccess`,`MainMenu`,`SP`.
+Here you should see your remote targets. Find the one that has your decks IP. It should have various tabs to inspect such as `notificationtoasts`,`QuickAccess`,`MainMenu`,`Steam_Big_Picture_Mode`,`SharedJSContext`.
 
-Navigate to the page you want to patch on your Steam Deck and then inspect the `SP` Tab in `chrome://inspect`
+Navigate to the page you want to patch on your Steam Deck and then inspect the `SharedJSContext` Tab in `chrome://inspect`
 
 In the address bar of the chrome inspect window you should see something that looks like `https://steamloopback.host/routes/YOUR_ROUTE` with `YOUR_ROUTE` referring to the route you're currently on. The part we want is the address after `https://steamloopback.host/routes`
 
