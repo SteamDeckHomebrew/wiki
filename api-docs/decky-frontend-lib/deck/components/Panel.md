@@ -13,6 +13,7 @@
 
 ### Functions
 
+- Panel
 - PanelSection
 
 ## Interfaces
@@ -33,19 +34,19 @@
 
 > `ReactNode`
 
-Defined in:  [src/deck-components/Panel.tsx:8](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Panel.tsx#L8)
+Defined in:  [src/deck-components/Panel.tsx:13](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Panel.tsx#L13)
 
 ##### spinner?
 
 > `boolean`
 
-Defined in:  [src/deck-components/Panel.tsx:7](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Panel.tsx#L7)
+Defined in:  [src/deck-components/Panel.tsx:12](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Panel.tsx#L12)
 
 ##### title?
 
 > `string`
 
-Defined in:  [src/deck-components/Panel.tsx:6](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Panel.tsx#L6)
+Defined in:  [src/deck-components/Panel.tsx:11](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Panel.tsx#L11)
 
 ---
 
@@ -63,7 +64,7 @@ Defined in:  [src/deck-components/Panel.tsx:6](https://github.com/SteamDeckHomeb
 
 > `ReactNode`
 
-Defined in:  [src/deck-components/Panel.tsx:23](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Panel.tsx#L23)
+Defined in:  [src/deck-components/Panel.tsx:28](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Panel.tsx#L28)
 
 ## Variables
 
@@ -71,9 +72,34 @@ Defined in:  [src/deck-components/Panel.tsx:23](https://github.com/SteamDeckHome
 
 > **`Const`** `any`
 
-Defined in:  [src/deck-components/Panel.tsx:26](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Panel.tsx#L26)
+Defined in:  [src/deck-components/Panel.tsx:31](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Panel.tsx#L31)
 
 ## Functions
+
+### Panel()
+
+#### Signature
+
+```ts
+Panel(props: PropsWithChildren<{
+    children?: ReactNode;
+}>, context?: any): null | ReactElement<any, any>;
+```
+
+#### Parameters
+
+| Name | Type |
+| :------ | :------ |
+| `props` | `PropsWithChildren`\<{     `children`?: `ReactNode`; }\> |
+| `context?` | `any` |
+
+#### Returns
+
+`null` \| `ReactElement`\<`any`, `any`\>
+
+Defined in:  node\_modules/.pnpm/@types+react@16.14.0/node\_modules/@types/react/index.d.ts:544
+
+---
 
 ### PanelSection()
 

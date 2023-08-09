@@ -31,6 +31,7 @@
 - deck-components/Panel
 - deck-components/ProgressBar
 - deck-components/Router
+- deck-components/Scroll
 - deck-components/SidebarNavigation
 - deck-components/SliderField
 - deck-components/Spinner

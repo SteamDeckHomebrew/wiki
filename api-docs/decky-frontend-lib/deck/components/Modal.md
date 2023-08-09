@@ -2,6 +2,10 @@
 
 ## Index
 
+### Modules
+
+- <internal>
+
 ### Interfaces
 
 - ConfirmModalProps
@@ -12,7 +16,9 @@
 ### Functions
 
 - ConfirmModal
+- ModalPosition
 - ModalRoot
+- SimpleModal
 - showModal
 
 ## Interfaces
@@ -564,6 +570,29 @@ Defined in:  node\_modules/.pnpm/@types+react@16.14.0/node\_modules/@types/react
 
 ---
 
+### ModalPosition()
+
+#### Signature
+
+```ts
+ModalPosition(props: PropsWithChildren<SimpleModalProps>, context?: any): null | ReactElement<any, any>;
+```
+
+#### Parameters
+
+| Name | Type |
+| :------ | :------ |
+| `props` | `PropsWithChildren`\<[`SimpleModalProps`](_internal_#simplemodalprops)\> |
+| `context?` | `any` |
+
+#### Returns
+
+`null` \| `ReactElement`\<`any`, `any`\>
+
+Defined in:  node\_modules/.pnpm/@types+react@16.14.0/node\_modules/@types/react/index.d.ts:544
+
+---
+
 ### ModalRoot()
 
 #### Signature
@@ -577,6 +606,29 @@ ModalRoot(props: PropsWithChildren<ModalRootProps>, context?: any): null | React
 | Name | Type |
 | :------ | :------ |
 | `props` | `PropsWithChildren`\<[`ModalRootProps`](Modal#modalrootprops)\> |
+| `context?` | `any` |
+
+#### Returns
+
+`null` \| `ReactElement`\<`any`, `any`\>
+
+Defined in:  node\_modules/.pnpm/@types+react@16.14.0/node\_modules/@types/react/index.d.ts:544
+
+---
+
+### SimpleModal()
+
+#### Signature
+
+```ts
+SimpleModal(props: PropsWithChildren<SimpleModalProps>, context?: any): null | ReactElement<any, any>;
+```
+
+#### Parameters
+
+| Name | Type |
+| :------ | :------ |
+| `props` | `PropsWithChildren`\<[`SimpleModalProps`](_internal_#simplemodalprops)\> |
 | `context?` | `any` |
 
 #### Returns

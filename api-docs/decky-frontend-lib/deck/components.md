@@ -63,12 +63,14 @@
 - MenuItemProps
 - MenuProps
 - MenuStore
+- ModalPosition
 - ModalRoot
 - ModalRootProps
 - MultiDropdownOption
 - NavEntryPositionPreferences
 - Navigation
 - NotchLabel
+- Panel
 - PanelSection
 - PanelSectionProps
 - PanelSectionRow
@@ -81,12 +83,15 @@
 - ProgressBarWithInfoProps
 - QuickAccessTab
 - Router
+- ScrollPanel
+- ScrollPanelGroup
 - ShowModalProps
 - ShowModalResult
 - SideMenu
 - SidebarNavigation
 - SidebarNavigationPage
 - SidebarNavigationProps
+- SimpleModal
 - SingleDropdownOption
 - SliderField
 - SliderFieldProps
@@ -478,6 +483,12 @@ Re-exports [MenuStore](Router#menustore)
 
 Defined in:  [src/deck-components/Router.tsx:68](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Router.tsx#L68)
 
+### ModalPosition
+
+Re-exports [ModalPosition](Modal#modalposition)
+
+Defined in:  [src/deck-components/Modal.tsx:169](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Modal.tsx#L169)
+
 ### ModalRoot
 
 Re-exports [ModalRoot](Modal#modalroot)
@@ -514,29 +525,35 @@ Re-exports [NotchLabel](SliderField#notchlabel)
 
 Defined in:  [src/deck-components/SliderField.tsx:6](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SliderField.tsx#L6)
 
+### Panel
+
+Re-exports [Panel](Panel#panel)
+
+Defined in:  [src/deck-components/Panel.tsx:5](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Panel.tsx#L5)
+
 ### PanelSection
 
 Re-exports [PanelSection](Panel#panelsection)
 
-Defined in:  [src/deck-components/Panel.tsx:20](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Panel.tsx#L20)
+Defined in:  [src/deck-components/Panel.tsx:25](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Panel.tsx#L25)
 
 ### PanelSectionProps
 
 Re-exports [PanelSectionProps](Panel#panelsectionprops)
 
-Defined in:  [src/deck-components/Panel.tsx:5](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Panel.tsx#L5)
+Defined in:  [src/deck-components/Panel.tsx:10](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Panel.tsx#L10)
 
 ### PanelSectionRow
 
 Re-exports [PanelSectionRow](Panel#panelsectionrow)
 
-Defined in:  [src/deck-components/Panel.tsx:26](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Panel.tsx#L26)
+Defined in:  [src/deck-components/Panel.tsx:31](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Panel.tsx#L31)
 
 ### PanelSectionRowProps
 
 Re-exports [PanelSectionRowProps](Panel#panelsectionrowprops)
 
-Defined in:  [src/deck-components/Panel.tsx:22](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Panel.tsx#L22)
+Defined in:  [src/deck-components/Panel.tsx:27](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Panel.tsx#L27)
 
 ### ProgressBar
 
@@ -586,6 +603,18 @@ Re-exports [Router](Router#router)
 
 Defined in:  [src/deck-components/Router.tsx:89](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Router.tsx#L89) [src/deck-components/Router.tsx:104](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Router.tsx#L104)
 
+### ScrollPanel
+
+Re-exports [ScrollPanel](Scroll#scrollpanel)
+
+Defined in:  [src/deck-components/Scroll.tsx:9](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Scroll.tsx#L9)
+
+### ScrollPanelGroup
+
+Re-exports [ScrollPanelGroup](Scroll#scrollpanelgroup)
+
+Defined in:  [src/deck-components/Scroll.tsx:11](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Scroll.tsx#L11)
+
 ### ShowModalProps
 
 Re-exports [ShowModalProps](Modal#showmodalprops)
@@ -621,6 +650,12 @@ Defined in:  [src/deck-components/SidebarNavigation.tsx:5](https://github.com/St
 Re-exports [SidebarNavigationProps](SidebarNavigation#sidebarnavigationprops)
 
 Defined in:  [src/deck-components/SidebarNavigation.tsx:17](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/SidebarNavigation.tsx#L17)
+
+### SimpleModal
+
+Re-exports [SimpleModal](Modal#simplemodal)
+
+Defined in:  [src/deck-components/Modal.tsx:168](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Modal.tsx#L168)
 
 ### SingleDropdownOption
 
