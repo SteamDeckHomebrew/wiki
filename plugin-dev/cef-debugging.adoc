@@ -1,8 +1,8 @@
 # The CEF debugger
 
-The CEF (Chromium Embedded Framework) debugger is very useful for debugging your plugins or looking at valve's internal components. It allows you to view the html, css and js in the browser and edit it live.
+The CEF (Chromium Embedded Framework) debugger is very useful for debugging your plugins or looking at valve's internal components. It allows you to view the html, css and js in the browser and edit it live, as well as run JS code live in the console.
 
-image::/plugin-dev/cef-example.png[cef-example.png]
+image::/plugin-dev/cef-example.png[cef-example.png,920]
 
 There are several tabs, the important ones are (note that there may be extra text at the end of the tab name, like `_uid2`):
 
@@ -15,27 +15,27 @@ There are several tabs, the important ones are (note that there may be extra tex
 TIP: If you aren't on windows, you can use `steamdeck` instead of your steam deck's IP.
 
 ### Standard setup, try this first
-0. Turn on the "Allow Remote CEF Debugging" setting in the Decky settings.
+0. Turn on the "Allow Remote CEF Debugging" setting in Decky's developer settings.
 0. Open a Chromium-based browser (ex. Google Chrome, Microsoft Edge, Brave).
 0. Go to the inspect page of your browser (ex. `chrome://inspect`, `edge://inspect`, `brave://inspect`).
 0. Under "Discover network targets", click "Configure", and enter `DECK_IP:8081`.
-0. You need to be on the same network as your Steam Deck.
-0. You can find the IP of your Steam Deck by going into your internet settings, selecting the currently connected network, and looking at the "IP Address" field.
-0. If working on the same device as you are running steam on, use "localhost:8080"
+- You need to be on the same network as your Steam Deck.
+- You can find the IP of your Steam Deck by going into your internet settings, selecting the currently connected network, and looking at the "IP Address" field.
+- If working on the same device as you are running steam on, use `localhost:8080`
 0. Wait a few seconds, and you will see multiple tabs appear under "Remote Target"
 0. After selecting a tab, you should be able to see the HTML and CSS used for that specific tab, like the screenshot above.
 
 ### Alternate setup
-0. Turn on the "Allow Remote CEF Debugging" setting in the Decky settings.
+0. Turn on the "Allow Remote CEF Debugging" setting in Decky's developer settings.
 0. Open a Chromium-based browser (ex. Google Chrome, Microsoft Edge, Brave).
 0. Enter `http://DECK_IP:8081` in the browser.
-0. You need to be on the same network as your Steam Deck.
-0. You can find the IP of your Steam Deck by going into your internet settings, selecting the currently connected network, and looking at the "IP Address" field.
-0. If working on the same device as you are running steam on, use `http://localhost:8080`
+- You need to be on the same network as your Steam Deck.
+- You can find the IP of your Steam Deck by going into your internet settings, selecting the currently connected network, and looking at the "IP Address" field.
+- If working on the same device as you are running steam on, use `http://localhost:8080`
 0. Select a tab.
 0. After selecting a tab, you should be able to see the HTML and CSS used for that specific tab, like the screenshot above.
 
 ## Usage
 // todo, expand this
 ### Example usage, extracting a colour from the UI
-video::/plugin-dev/cef-example-video.webm[cef-example-video.webm]
+video::/plugin-dev/cef-example-video.webm[cef-example-video.webm,920,opts="loop"]
