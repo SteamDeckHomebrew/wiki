@@ -2,7 +2,7 @@
 
 The CEF (Chromium Embedded Framework) debugger is very useful for debugging your plugins or looking at valve's internal components. It allows you to view the html, css and js in the browser and edit it live.
 
-// ![big image example of the cef debugger]()
+image::/plugin-dev/cef-example.png[cef-example.png]
 
 There are several tabs, the important ones are (note that there may be extra text at the end of the tab name, like `_uid2`):
 
@@ -35,5 +35,7 @@ TIP: If you aren't on windows, you can use `steamdeck` instead of your steam dec
 0. Select a tab.
 0. After selecting a tab, you should be able to see the HTML and CSS used for that specific tab, like the screenshot above.
 
-// ## Usage
-// todo, explain how to use the select element button
+## Usage
+// todo, expand this
+### Example usage, extracting a colour from the UI
+video::/plugin-dev/cef-example-video.webm[cef-example-video.webm]
