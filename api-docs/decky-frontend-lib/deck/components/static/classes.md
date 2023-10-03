@@ -1,3 +1,13 @@
+---
+title: classes
+description: 
+published: true
+date: 2023-05-19T14:05:10.300Z
+tags: 
+editor: markdown
+dateCreated: 2023-02-05T01:15:27.570Z
+---
+
 # deck-components/static-classes
 
 ## Index

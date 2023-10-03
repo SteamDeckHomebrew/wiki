@@ -2,7 +2,7 @@
 title: Plugin Store
 description: How to download and update plugins
 published: true
-date: 2023-04-05T17:27:25.607Z
+date: 2023-04-05T17:27:27.667Z
 tags: user-guide
 editor: markdown
 dateCreated: 2022-07-03T23:01:53.979Z

@@ -1,3 +1,13 @@
+---
+title: components
+description: 
+published: true
+date: 2023-05-19T14:05:07.816Z
+tags: 
+editor: markdown
+dateCreated: 2023-02-05T01:13:48.506Z
+---
+
 # deck-components
 
 ## Index

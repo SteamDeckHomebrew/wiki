@@ -1,3 +1,13 @@
+---
+title: Button
+description: 
+published: true
+date: 2023-04-03T20:53:50.941Z
+tags: 
+editor: markdown
+dateCreated: 2023-02-05T01:13:52.483Z
+---
+
 # deck-components/Button
 
 ## Index

@@ -1,3 +1,13 @@
+---
+title: useParams
+description: 
+published: true
+date: 2023-02-05T01:15:38.955Z
+tags: 
+editor: markdown
+dateCreated: 2023-02-05T01:15:37.027Z
+---
+
 # deck-hooks/useParams
 
 ## Index

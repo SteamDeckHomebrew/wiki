@@ -1,3 +1,13 @@
+---
+title: components
+description: 
+published: true
+date: 2023-04-04T21:27:34.266Z
+tags: 
+editor: markdown
+dateCreated: 2023-02-05T01:13:25.722Z
+---
+
 # custom-components
 
 ## Index

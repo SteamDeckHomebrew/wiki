@@ -1,3 +1,13 @@
+---
+title: _internal_
+description: 
+published: true
+date: 2023-02-05T01:13:40.091Z
+tags: 
+editor: markdown
+dateCreated: 2023-02-05T01:13:38.003Z
+---
+
 # \<internal\>
 
 ## Index

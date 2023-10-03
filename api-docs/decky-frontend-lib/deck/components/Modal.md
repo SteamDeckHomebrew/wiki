@@ -1,3 +1,13 @@
+---
+title: Modal
+description: 
+published: true
+date: 2023-02-05T01:14:43.810Z
+tags: 
+editor: markdown
+dateCreated: 2023-02-05T01:14:41.301Z
+---
+
 # deck-components/Modal
 
 ## Index

@@ -1,3 +1,13 @@
+---
+title: Focusable
+description: 
+published: true
+date: 2023-02-05T01:14:26.430Z
+tags: 
+editor: markdown
+dateCreated: 2023-02-05T01:14:23.503Z
+---
+
 # deck-components/Focusable
 
 ## Index

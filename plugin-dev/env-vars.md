@@ -2,7 +2,7 @@
 title: Environment Variables
 description: Environment Variables Decky provides for as plugins running as subprocesses.
 published: true
-date: 2023-03-28T05:42:24.136Z
+date: 2023-03-28T05:42:30.207Z
 tags: plugin-dev, env-vars
 editor: markdown
 dateCreated: 2023-01-23T00:49:40.156Z

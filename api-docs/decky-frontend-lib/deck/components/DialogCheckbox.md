@@ -1,3 +1,13 @@
+---
+title: DialogCheckbox
+description: 
+published: true
+date: 2023-02-05T01:14:12.199Z
+tags: 
+editor: markdown
+dateCreated: 2023-02-05T01:14:09.703Z
+---
+
 # deck-components/DialogCheckbox
 
 ## Index

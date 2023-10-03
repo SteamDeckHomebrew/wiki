@@ -1,3 +1,13 @@
+---
+title: FooterLegend
+description: 
+published: true
+date: 2023-02-05T01:14:29.976Z
+tags: 
+editor: markdown
+dateCreated: 2023-02-05T01:14:27.473Z
+---
+
 # deck-components/FooterLegend
 
 ## Index

@@ -1,3 +1,13 @@
+---
+title: ColorPickerModal
+description: 
+published: true
+date: 2023-02-05T01:13:34.940Z
+tags: 
+editor: markdown
+dateCreated: 2023-02-05T01:13:28.764Z
+---
+
 # custom-components/ColorPickerModal
 
 ## Index

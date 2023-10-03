@@ -1,3 +1,13 @@
+---
+title: ButtonItem
+description: 
+published: true
+date: 2023-04-03T20:53:53.331Z
+tags: 
+editor: markdown
+dateCreated: 2023-02-05T01:13:56.082Z
+---
+
 # deck-components/ButtonItem
 
 ## Index

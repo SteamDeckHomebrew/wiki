@@ -1,3 +1,13 @@
+---
+title: Dialog
+description: 
+published: true
+date: 2023-04-03T20:53:56.488Z
+tags: 
+editor: markdown
+dateCreated: 2023-02-05T01:14:05.822Z
+---
+
 # deck-components/Dialog
 
 ## Index

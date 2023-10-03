@@ -2,7 +2,7 @@
 title: Snippets and Samples
 description: Here's a few snippets of different HTML tags for use in your plugins!
 published: true
-date: 2023-01-23T00:46:15.184Z
+date: 2023-01-23T00:46:17.551Z
 tags: plugin-dev, snippets
 editor: markdown
 dateCreated: 2022-04-29T03:13:01.951Z

@@ -2,7 +2,7 @@
 title: Submitting Plugins
 description: Guide on how to get your Plugin onto the Store
 published: true
-date: 2023-02-15T21:10:32.233Z
+date: 2023-02-15T21:10:34.317Z
 tags: plugin-dev, store
 editor: markdown
 dateCreated: 2022-07-03T19:53:34.932Z

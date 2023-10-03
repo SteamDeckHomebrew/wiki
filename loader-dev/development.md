@@ -2,7 +2,7 @@
 title: Developing for and Contributing to PluginLoader
 description: How to run the contribution install scripts and run development versions of Plugin Loader
 published: true
-date: 2022-10-15T17:37:22.562Z
+date: 2022-10-15T17:37:24.684Z
 tags: loader-dev
 editor: markdown
 dateCreated: 2022-06-02T20:18:49.956Z

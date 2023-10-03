@@ -1,3 +1,13 @@
+---
+title: Spinner
+description: 
+published: true
+date: 2023-02-05T01:15:05.179Z
+tags: 
+editor: markdown
+dateCreated: 2023-02-05T01:15:03.168Z
+---
+
 # deck-components/Spinner
 
 ## Index

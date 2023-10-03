@@ -1,3 +1,13 @@
+---
+title: hooks
+description: 
+published: true
+date: 2023-02-05T01:15:39.978Z
+tags: 
+editor: markdown
+dateCreated: 2023-02-05T01:15:33.969Z
+---
+
 # deck-hooks
 
 ## Index

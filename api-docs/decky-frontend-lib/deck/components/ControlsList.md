@@ -1,3 +1,13 @@
+---
+title: ControlsList
+description: 
+published: true
+date: 2023-02-05T01:14:04.793Z
+tags: 
+editor: markdown
+dateCreated: 2023-02-05T01:14:02.731Z
+---
+
 # deck-components/ControlsList
 
 ## Index

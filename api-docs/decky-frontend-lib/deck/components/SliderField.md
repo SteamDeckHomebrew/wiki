@@ -1,3 +1,13 @@
+---
+title: SliderField
+description: 
+published: true
+date: 2023-03-07T23:49:08.603Z
+tags: 
+editor: markdown
+dateCreated: 2023-02-05T01:14:59.735Z
+---
+
 # deck-components/SliderField
 
 ## Index

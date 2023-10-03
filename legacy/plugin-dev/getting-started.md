@@ -2,7 +2,7 @@
 title: Getting Started
 description: How to write your first plugin
 published: true
-date: 2023-01-23T00:45:31.078Z
+date: 2023-01-23T00:45:33.427Z
 tags: plugin-dev-legacy
 editor: markdown
 dateCreated: 2022-04-08T14:39:05.332Z

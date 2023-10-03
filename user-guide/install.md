@@ -2,7 +2,7 @@
 title: Installation
 description: How to install the Steam Deck Plugin Loader
 published: true
-date: 2023-07-14T13:37:47.260Z
+date: 2023-07-14T13:37:49.335Z
 tags: user-guide
 editor: markdown
 dateCreated: 2022-04-08T14:18:43.906Z

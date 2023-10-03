@@ -2,7 +2,7 @@
 title: Getting Started
 description: How-To guide about developing a plugin
 published: true
-date: 2023-06-11T03:51:53.943Z
+date: 2023-06-11T03:51:56.134Z
 tags: plugin-dev
 editor: markdown
 dateCreated: 2022-07-03T19:33:01.141Z

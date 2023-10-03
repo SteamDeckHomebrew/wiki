@@ -1,3 +1,13 @@
+---
+title: README
+description: 
+published: true
+date: 2023-06-08T00:41:10.284Z
+tags: 
+editor: markdown
+dateCreated: 2023-06-08T00:41:07.432Z
+---
+
 # Decky Frontend Library
 
 Library used to develop plugins used for use with [decky-loader](https://github.com/SteamDeckHomebrew/decky-loader).
