@@ -2,7 +2,7 @@
 title: Settings Page
 description: 
 published: true
-date: 2023-02-04T19:32:09.722Z
+date: 2023-10-04T20:15:58.820Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-18T19:54:07.105Z
@@ -16,14 +16,10 @@ This will take you to the "settings" for decky-loader which has a few sections.
 This menu provides you with the ability to update to the latest version of the loader, and in upcoming versions you will be able to choose between:
  - release builds (stable builds with extensive testing, for end-users)
  - pre-release builds (handmade pre-releases, curated usually for plugin developers)
- - nightly builds (unstable but helpful for testing)
- 
-![webm of each build]()
  
 ## Plugins
 
 This section is entirely dedicated to managing your plugins, primarily uninstalling plugins. If a plugin is installed but giving you trouble, this is where you go in the UI to cleanly remove it from within the UI.
-![webm of a plugin being installed, then uninstalled]()
 
 ## General cont.
 
