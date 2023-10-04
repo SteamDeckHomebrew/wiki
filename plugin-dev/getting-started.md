@@ -2,7 +2,7 @@
 title: Getting Started
 description: How-To guide about developing a plugin
 published: true
-date: 2023-06-11T03:51:56.134Z
+date: 2023-10-04T20:02:27.406Z
 tags: plugin-dev
 editor: markdown
 dateCreated: 2022-07-03T19:33:01.141Z
@@ -51,6 +51,10 @@ The following fields can be specified:
 - `"name"`: The name of the Plugin as the CI/CLI understands it, make sure this is all lowercase with dashes rather than spaces between words that would appear seperated visually.
   - `Donkey Farm` becomes `donkey-farm` etc.
 - `"version"`: The version of the plugin as the CI/CLI understands it. Make sure to bump it before submitting update PRs etc.
+- `"remote_binary"`: This field is used to ensure plugins with large binary dependencies have their large binary downloaded seperately to prevent issues the developers experienced in the past with Loader choking on large plugin zips. This field has 3 sub fields
+  - `"name"`: Name of the file (including suffix) that the file should be named when downloaded.
+  - `"url"`: Direct URL to file for download. Please note this must be from a project that is entirely FOSS or source publicly available so that the plugin can be audited. If the binary is not provided by a FOSS project, if the file is provided by a large/trusted hardware manufacturer etc the Loader team will have to approve the file.
+  - `"sha256hash"`: SHA256 Hash to meet download requirements. This will be audited by the team if the "remote_binary" field is used.
     
 ## Frontend
 
