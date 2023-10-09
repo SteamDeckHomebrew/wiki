@@ -2,7 +2,7 @@
 title: Route Patching
 description: Using Route Patching to insert new components into the deck UI or edit existing.
 published: true
-date: 2023-08-04T16:02:29.624Z
+date: 2023-10-09T20:59:07.512Z
 tags: route, patch, patching, component, react
 editor: markdown
 dateCreated: 2022-09-11T21:45:14.663Z
@@ -27,7 +27,7 @@ For an example check out the ProtonDB Badges plugin on [GitHub](https://github.c
 
 ### Finding the route we want to patch
 
-To start we'll need to turn on Remote CEF Debugging in our Decky Settings `Allow Remote CEF Debugging` and then opening `chrome://inspect` on your development machine.
+To start we'll need to turn on Remote CEF Debugging in our Decky Settings `Allow Remote CEF Debugging` and then opening `chrome://inspect` on your development machine ([more info on setting up cef debugging](/plugin-dev/cef-debugging)).
 
 Here you should see your remote targets. Find the one that has your decks IP. It should have various tabs to inspect such as `notificationtoasts`,`QuickAccess`,`MainMenu`,`Steam_Big_Picture_Mode`,`SharedJSContext`.
 
