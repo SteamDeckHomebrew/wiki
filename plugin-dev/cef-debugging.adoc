@@ -14,8 +14,11 @@ There are several tabs, the important ones are (note that there may be extra tex
 ## Setup
 TIP: If you aren't on windows, you can use `steamdeck` instead of your steam deck's IP.
 
+NOTE: Only do this on a trusted network, as everyone on your network can get full access to the debugger. 
+
 ### Standard setup, try this first
 0. Turn on the "Allow Remote CEF Debugging" setting in Decky's developer settings.
+a. If you don't have decky installed, you can enable CEF debugging manually by putting an empty file called `.cef-enable-remote-debugging` in `~/.steam/steam/`
 0. Open a Chromium-based browser on your desktop pc (ex. Google Chrome, Microsoft Edge, Brave).
 0. Go to the inspect page of your browser (ex. `chrome://inspect`, `edge://inspect`, `brave://inspect`).
 0. Under "Discover network targets", click "Configure", and enter `DECK_IP:8081`.
@@ -34,6 +37,8 @@ TIP: If you aren't on windows, you can use `steamdeck` instead of your steam dec
 - If working on the same device as you are running steam on, use `http://localhost:8080`
 0. Select a tab.
 0. After selecting a tab, you should be able to see the HTML and CSS used for that specific tab, like the screenshot above.
+
+CAUTION: Remember to disable it after you've finished!
 
 ## Usage
 // todo, expand this
