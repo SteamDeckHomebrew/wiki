@@ -16,7 +16,7 @@ TIP: If you aren't on windows, you can use `steamdeck` instead of your steam dec
 
 ### Standard setup, try this first
 0. Turn on the "Allow Remote CEF Debugging" setting in Decky's developer settings.
-0. Open a Chromium-based browser (ex. Google Chrome, Microsoft Edge, Brave).
+0. Open a Chromium-based browser on your desktop pc (ex. Google Chrome, Microsoft Edge, Brave).
 0. Go to the inspect page of your browser (ex. `chrome://inspect`, `edge://inspect`, `brave://inspect`).
 0. Under "Discover network targets", click "Configure", and enter `DECK_IP:8081`.
 - You need to be on the same network as your Steam Deck.
