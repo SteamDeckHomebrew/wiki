@@ -1,13 +1,3 @@
----
-title: Panel
-description: 
-published: true
-date: 2023-02-23T02:59:49.270Z
-tags: 
-editor: markdown
-dateCreated: 2023-02-05T01:14:44.834Z
----
-
 # deck-components/Panel
 
 ## Index

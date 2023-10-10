@@ -1,13 +1,3 @@
----
-title: Tabs
-description: 
-published: true
-date: 2023-02-05T01:15:16.237Z
-tags: 
-editor: markdown
-dateCreated: 2023-02-05T01:15:13.871Z
----
-
 # deck-components/Tabs
 
 ## Index

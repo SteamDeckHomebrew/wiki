@@ -1,13 +1,3 @@
----
-title: Toggle
-description: 
-published: true
-date: 2023-02-05T01:15:22.585Z
-tags: 
-editor: markdown
-dateCreated: 2023-02-05T01:15:20.503Z
----
-
 # deck-components/Toggle
 
 ## Index

@@ -1,13 +1,3 @@
----
-title: modules
-description: 
-published: true
-date: 2023-02-22T03:43:05.150Z
-tags: 
-editor: markdown
-dateCreated: 2023-02-22T03:43:03.110Z
----
-
 [Readme](README)
 
 # decky-frontend-lib

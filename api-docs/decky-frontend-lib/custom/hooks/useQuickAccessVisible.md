@@ -1,13 +1,3 @@
----
-title: useQuickAccessVisible
-description: 
-published: true
-date: 2023-04-03T22:19:59.661Z
-tags: 
-editor: markdown
-dateCreated: 2023-02-05T01:13:44.330Z
----
-
 # custom-hooks/useQuickAccessVisible
 
 ## Index
@@ -21,14 +11,6 @@ dateCreated: 2023-02-05T01:13:44.330Z
 ### useQuickAccessVisible()
 
 Returns state indicating the visibility of quick access menu.
-
-#### Remarks
-
-During development it is possible to open the quick access menu without giving it
-focus in some cases. In such cases, the quick access menu state is invisible.
-
-This seems to be impossible to replicate when running the deck normally. Even in
-the edge cases it always seems to have a focus.
 
 #### Example
 
@@ -68,6 +50,6 @@ useQuickAccessVisible(): boolean;
 
 `boolean`
 
-`true` if quick access menu is visible (focused) and `false` otherwise.
+`true` if quick access menu is visible and `false` otherwise.
 
-Defined in:  [src/custom-hooks/useQuickAccessVisible.tsx:46](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/custom-hooks/useQuickAccessVisible.tsx#L46)
+Defined in:  [src/custom-hooks/useQuickAccessVisible.tsx:39](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/custom-hooks/useQuickAccessVisible.tsx#L39)

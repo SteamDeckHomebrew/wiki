@@ -1,13 +1,3 @@
----
-title: FocusRing
-description: 
-published: true
-date: 2023-02-05T01:14:22.398Z
-tags: 
-editor: markdown
-dateCreated: 2023-02-05T01:14:20.295Z
----
-
 # deck-components/FocusRing
 
 ## Index

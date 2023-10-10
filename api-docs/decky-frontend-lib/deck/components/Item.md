@@ -1,13 +1,3 @@
----
-title: Item
-description: 
-published: true
-date: 2023-03-07T23:49:03.627Z
-tags: 
-editor: markdown
-dateCreated: 2023-02-05T01:14:30.969Z
----
-
 # deck-components/Item
 
 ## Index

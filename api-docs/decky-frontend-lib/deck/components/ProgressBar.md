@@ -1,13 +1,3 @@
----
-title: ProgressBar
-description: 
-published: true
-date: 2023-03-07T23:49:06.114Z
-tags: 
-editor: markdown
-dateCreated: 2023-02-05T01:14:48.032Z
----
-
 # deck-components/ProgressBar
 
 ## Index

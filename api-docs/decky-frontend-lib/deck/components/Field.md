@@ -1,13 +1,3 @@
----
-title: Field
-description: 
-published: true
-date: 2023-04-03T20:53:59.658Z
-tags: 
-editor: markdown
-dateCreated: 2023-02-05T01:14:16.717Z
----
-
 # deck-components/Field
 
 ## Index

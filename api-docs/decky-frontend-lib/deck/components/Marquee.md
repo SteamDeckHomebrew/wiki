@@ -1,13 +1,3 @@
----
-title: Marquee
-description: 
-published: true
-date: 2023-02-05T01:14:36.329Z
-tags: 
-editor: markdown
-dateCreated: 2023-02-05T01:14:34.152Z
----
-
 # deck-components/Marquee
 
 ## Index
