@@ -4,11 +4,15 @@
 
 ### Type Aliases
 
+- AchievementClasses
 - AppDetailsClasses
 - AppDetailsHeaderClasses
+- GamepadContextMenuClasses
 - GamepadDialogClasses
 - GamepadSliderClasses
+- GamepadTabbedPageClasses
 - GamepadUIClasses
+- MainMenuAppRunningClasses
 - PlaySectionClasses
 - QuickAccessControlsClasses
 - QuickAccessMenuClasses
@@ -16,6 +20,14 @@
 - UpdaterFieldClasses
 
 ## Type Aliases
+
+### AchievementClasses
+
+> `Record`\<`"nAchievementHeight"` \| `"nGlobalAchievementHeight"` \| `"nAchievementsListTitleHeight"` \| `"nAchievementGap"` \| `"AchievementList"` \| `"ListTitle"` \| `"AchievementListItemBase"` \| `"Container"` \| `"Content"` \| `"Right"` \| `"Footer"` \| `"AchievementTitle"` \| `"AchievementDescription"` \| `"AchievementGlobalPercentage"` \| `"InBody"` \| `"VerticalContent"` \| `"UnlockDate"` \| `"AlignEnd"` \| `"ProgressBar"` \| `"ProgressCount"` \| `"AchievementContent"` \| `"HiddenAchievementContent"` \| `"FriendAchievementFooter"` \| `"GlobalPercentage"` \| `"UserUnlockDateTime"` \| `"GlobalAchievementsListHeader"` \| `"SearchField"` \| `"Avatar"` \| `"HeaderText"` \| `"GlobalAchievementListItem"` \| `"UnlockContainer"` \| `"Info"` \| `"Title"` \| `"Description"` \| `"Percent"` \| `"ImageContainer"` \| `"ProgressFill"` \| `"SpoilerWarning"` \| `"Hidden"` \| `"ComparisonAchieverColumn"` \| `"ComparisonAchieverInfo"` \| `"ProgressContainer"` \| `"ProgressLabel"` \| `"Secondary"` \| `"AvatarContainer"` \| `"Unachieved"`, `string`\>
+
+Defined in:  [src/deck-components/static-classes.ts:581](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/static-classes.ts#L581)
+
+---
 
 ### AppDetailsClasses
 
@@ -30,6 +42,14 @@ Defined in:  [src/deck-components/static-classes.ts:408](https://github.com/Stea
 > `Record`\<`"AddBoxSizer"` \| `"Background"` \| `"Bottom"` \| `"BottomCenter"` \| `"BottomLeft"` \| `"BottomRight"` \| `"BoxSizer"` \| `"BoxSizerButtonContainer"` \| `"BoxSizerContainer"` \| `"BoxSizerDelete"` \| `"BoxSizerDragBox"` \| `"BoxSizerEdge"` \| `"BoxSizerGridBox"` \| `"BoxSizerInfo"` \| `"BoxSizerSettings"` \| `"BoxSizerValidRegion"` \| `"CenterCenter"` \| `"DialogButton"` \| `"EdgeDown"` \| `"FallbackArt"` \| `"Features"` \| `"FullscreenEnterActive"` \| `"FullscreenEnterDone"` \| `"FullscreenEnterStart"` \| `"FullscreenExitActive"` \| `"FullscreenExitDone"` \| `"FullscreenExitStart"` \| `"HeaderBackgroundImage"` \| `"ImgBlur"` \| `"ImgBlurBackdrop"` \| `"ImgContainer"` \| `"ImgSrc"` \| `"Left"` \| `"Loaded"` \| `"Middle"` \| `"NoArt"` \| `"PinBox"` \| `"Right"` \| `"SVGTitle"` \| `"SaveBoxSizer"` \| `"TextNameSpace"` \| `"TitleImageContainer"` \| `"TitleLogo"` \| `"TitleSection"` \| `"Top"` \| `"TopCapsule"` \| `"TopGradient"` \| `"TopLeft"` \| `"TopRight"` \| `"UpperCenter"` \| `"UpperLeft"` \| `"duration-app-launch"`, `string`\>
 
 Defined in:  [src/deck-components/static-classes.ts:352](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/static-classes.ts#L352)
+
+---
+
+### GamepadContextMenuClasses
+
+> `Record`\<`"duration-app-launch"` \| `"BasicContextMenuModal"` \| `"BasicContextMenuHeader"` \| `"BasicContextMenuHeaderShrinkableSpacing"` \| `"BasicContextMenuContainer"` \| `"slideInAnimation"` \| `"contextMenu"` \| `"contextMenuContents"` \| `"hasSubMenu"` \| `"contextMenuFade"` \| `"contextMenuItem"` \| `"active"` \| `"Selected"` \| `"Focused"` \| `"Positive"` \| `"Emphasis"` \| `"Destructive"` \| `"Capitalized"` \| `"MenuSectionHeader"` \| `"UpperCase"` \| `"SubMenu"` \| `"ContextMenuSeparator"` \| `"Label"` \| `"Arrow"` \| `"ItemFocusAnim-darkerGrey-nocolor"` \| `"ItemFocusAnim-darkerGrey"` \| `"ItemFocusAnim-darkGrey"` \| `"ItemFocusAnim-grey"` \| `"ItemFocusAnimBorder-darkGrey"` \| `"ItemFocusAnim-green"` \| `"focusAnimation"` \| `"hoverAnimation"`, `string`\>
+
+Defined in:  [src/deck-components/static-classes.ts:545](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/static-classes.ts#L545)
 
 ---
 
@@ -49,11 +69,27 @@ Defined in:  [src/deck-components/static-classes.ts:304](https://github.com/Stea
 
 ---
 
+### GamepadTabbedPageClasses
+
+> `Record`\<`"duration-app-launch"` \| `"headerHeight"` \| `"contentPadding"` \| `"GamepadTabbedPage"` \| `"TabHeaderRowWrapper"` \| `"Floating"` \| `"TabRow"` \| `"TabRowTabs"` \| `"BleedGlyphs"` \| `"TabsRowScroll"` \| `"FixCenterAlignScroll"` \| `"Tab"` \| `"Selected"` \| `"HasAddon"` \| `"RightAddon"` \| `"TabTitle"` \| `"LeftAddon"` \| `"TabCount"` \| `"Active"` \| `"TabBadge"` \| `"TabCountBadge"` \| `"TabRowSpacer"` \| `"Glyphs"` \| `"Show"` \| `"TabContents"` \| `"ContentTransition"` \| `"TabContentsScroll"` \| `"Right"` \| `"Enter"` \| `"EnterActive"` \| `"Exit"` \| `"ExitActive"` \| `"Left"` \| `"TabIcon"`, `string`\>
+
+Defined in:  [src/deck-components/static-classes.ts:507](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/static-classes.ts#L507)
+
+---
+
 ### GamepadUIClasses
 
 > `Record`\<`"duration-app-launch"` \| `"TransitionMenuDelay"` \| `"PanelSection"` \| `"PanelSectionTitle"` \| `"Text"` \| `"PanelSectionRow"` \| `"Label"` \| `"ComingSoon"` \| `"LowBattery"` \| `"ReallyLow"` \| `"LowBatteryGauge"` \| `"Remaining"` \| `"EmptyNotifications"` \| `"BatterySectionContainer"` \| `"BatteryIcon"` \| `"BatteryPercentageLabel"` \| `"BatteryDetailsLabels"` \| `"BatteryProjectedValue"` \| `"BatteryProjectedLabel"` \| `"ViewPlaceholder"` \| `"FullHeight"` \| `"Title"` \| `"Container"` \| `"Open"` \| `"QuickAccessMenu"` \| `"HeaderContainer"` \| `"Menu"` \| `"HeaderAndFooterVisible"` \| `"TabContentColumn"` \| `"Tabs"` \| `"Tab"` \| `"Selected"` \| `"ItemFocusAnim-darkerGrey"` \| `"ItemFocusAnim-darkerGrey-nocolor"` \| `"VoiceTab"` \| `"ItemFocusAnim-green"` \| `"Blocked"` \| `"TabPanelHidden"` \| `"FriendsTitle"` \| `"FriendsListTabPanel"` \| `"PanelOuterNav"` \| `"PanelExitAnchor"` \| `"TabGroupPanel"` \| `"FooterBoxShadow"` \| `"AllTabContents"` \| `"ContentTransition"` \| `"ActiveTab"` \| `"Up"` \| `"Enter"` \| `"EnterActive"` \| `"Exit"` \| `"ExitActive"` \| `"Down"` \| `"KeyboardButton"` \| `"ItemFocusAnim-darkGrey"` \| `"ItemFocusAnim-grey"` \| `"ItemFocusAnimBorder-darkGrey"` \| `"focusAnimation"` \| `"hoverAnimation"`, `string`\>
 
 Defined in:  [src/deck-components/static-classes.ts:444](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/static-classes.ts#L444)
+
+---
+
+### MainMenuAppRunningClasses
+
+> `Record`\<`"duration-app-launch"` \| `"ScrollMask"` \| `"HideMask"` \| `"MainMenuAppRunning"` \| `"MenuOpen"` \| `"NavigationColumn"` \| `"ControllerColumnFocused"` \| `"NavColumnFocused"` \| `"NavigationBox"` \| `"NavigationMenuItem"` \| `"ItemFocusAnim-darkerGrey"` \| `"Active"` \| `"Disabled"` \| `"SwitchAppsTitle"` \| `"SelectableAppWindow"` \| `"ActiveDot"` \| `"NavigationMenuItemSeparator"` \| `"AppColumn"` \| `"FocusedColumn"` \| `"AppColumnContent"` \| `"ActiveContent"` \| `"CurrentGameBackground"` \| `"CurrentGameLogo"` \| `"OverlayAchievements"` \| `"Container"` \| `"OverlayGuides"` \| `"OverlayNotes"` \| `"OverlayInplaceBrowser"` \| `"ItemFocusAnim-darkerGrey-nocolor"` \| `"ItemFocusAnim-darkGrey"` \| `"ItemFocusAnim-grey"` \| `"ItemFocusAnimBorder-darkGrey"` \| `"ItemFocusAnim-green"` \| `"focusAnimation"` \| `"hoverAnimation"`, `string`\>
+
+Defined in:  [src/deck-components/static-classes.ts:631](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/static-classes.ts#L631)
 
 ---
 
