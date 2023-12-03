@@ -7,6 +7,7 @@
 - AchievementClasses
 - AppDetailsClasses
 - AppDetailsHeaderClasses
+- BasicAppDetailsSectionStylerClasses
 - GamepadContextMenuClasses
 - GamepadDialogClasses
 - GamepadSliderClasses
@@ -42,6 +43,14 @@ Defined in:  [src/deck-components/static-classes.ts:408](https://github.com/Stea
 > `Record`\<`"AddBoxSizer"` \| `"Background"` \| `"Bottom"` \| `"BottomCenter"` \| `"BottomLeft"` \| `"BottomRight"` \| `"BoxSizer"` \| `"BoxSizerButtonContainer"` \| `"BoxSizerContainer"` \| `"BoxSizerDelete"` \| `"BoxSizerDragBox"` \| `"BoxSizerEdge"` \| `"BoxSizerGridBox"` \| `"BoxSizerInfo"` \| `"BoxSizerSettings"` \| `"BoxSizerValidRegion"` \| `"CenterCenter"` \| `"DialogButton"` \| `"EdgeDown"` \| `"FallbackArt"` \| `"Features"` \| `"FullscreenEnterActive"` \| `"FullscreenEnterDone"` \| `"FullscreenEnterStart"` \| `"FullscreenExitActive"` \| `"FullscreenExitDone"` \| `"FullscreenExitStart"` \| `"HeaderBackgroundImage"` \| `"ImgBlur"` \| `"ImgBlurBackdrop"` \| `"ImgContainer"` \| `"ImgSrc"` \| `"Left"` \| `"Loaded"` \| `"Middle"` \| `"NoArt"` \| `"PinBox"` \| `"Right"` \| `"SVGTitle"` \| `"SaveBoxSizer"` \| `"TextNameSpace"` \| `"TitleImageContainer"` \| `"TitleLogo"` \| `"TitleSection"` \| `"Top"` \| `"TopCapsule"` \| `"TopGradient"` \| `"TopLeft"` \| `"TopRight"` \| `"UpperCenter"` \| `"UpperLeft"` \| `"duration-app-launch"`, `string`\>
 
 Defined in:  [src/deck-components/static-classes.ts:352](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/static-classes.ts#L352)
+
+---
+
+### BasicAppDetailsSectionStylerClasses
+
+> `Record`\<`"duration-app-launch"` \| `"headerPadding"` \| `"Header"` \| `"AppDetailsContent"` \| `"AppDetailsContainer"` \| `"AppDetailsRoot"` \| `"GameInfoContainer"` \| `"GameInfoQuickLinks"` \| `"GameInfoCollections"` \| `"CollectionsHeader"` \| `"PlaySection"` \| `"ActionRow"` \| `"AppDetailSectionList"` \| `"AppActionButton"` \| `"ActionButtonAndStatusPanel"` \| `"AppButtons"` \| `"InvertFocusedIcon"` \| `"DeckVerifiedFeedbackContainer"` \| `"DeckVerifiedFeedbackConfirmationContainer"` \| `"DeckVerifiedFeedbackButton"` \| `"DeckVerifiedFeedbackQuestion"` \| `"DeckVerifiedFeedbackConfirmation"`, `string`\>
+
+Defined in:  [src/deck-components/static-classes.ts:670](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/static-classes.ts#L670)
 
 ---
 
