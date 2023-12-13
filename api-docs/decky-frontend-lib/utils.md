@@ -15,6 +15,7 @@
 - findInTreeFilter
 - findInTreeOpts
 - getReactInstance
+- getReactRoot
 - replacePatch
 - wrapReactClass
 - wrapReactType
@@ -69,31 +70,37 @@ Defined in:  [src/utils/react.ts:11](https://github.com/SteamDeckHomebrew/decky-
 
 Re-exports [findInReactTree](react#findinreacttree)
 
-Defined in:  [src/utils/react.ts:99](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/utils/react.ts#L99)
+Defined in:  [src/utils/react.ts:111](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/utils/react.ts#L111)
 
 ### findInTree
 
 Re-exports [findInTree](react#findintree)
 
-Defined in:  [src/utils/react.ts:78](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/utils/react.ts#L78)
+Defined in:  [src/utils/react.ts:90](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/utils/react.ts#L90)
 
 ### findInTreeFilter
 
 Re-exports [findInTreeFilter](react#findintreefilter)
 
-Defined in:  [src/utils/react.ts:76](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/utils/react.ts#L76)
+Defined in:  [src/utils/react.ts:88](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/utils/react.ts#L88)
 
 ### findInTreeOpts
 
 Re-exports [findInTreeOpts](react#findintreeopts)
 
-Defined in:  [src/utils/react.ts:71](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/utils/react.ts#L71)
+Defined in:  [src/utils/react.ts:83](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/utils/react.ts#L83)
 
 ### getReactInstance
 
 Re-exports [getReactInstance](react#getreactinstance)
 
-Defined in:  [src/utils/react.ts:66](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/utils/react.ts#L66)
+Defined in:  [src/utils/react.ts:75](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/utils/react.ts#L75)
+
+### getReactRoot
+
+Re-exports [getReactRoot](react#getreactroot)
+
+Defined in:  [src/utils/react.ts:68](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/utils/react.ts#L68)
 
 ### replacePatch
 

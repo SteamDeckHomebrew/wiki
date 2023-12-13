@@ -16,6 +16,7 @@
 - findInReactTree
 - findInTree
 - getReactInstance
+- getReactRoot
 - wrapReactClass
 - wrapReactType
 
@@ -36,13 +37,13 @@
 
 > `string`[]
 
-Defined in:  [src/utils/react.ts:73](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/utils/react.ts#L73)
+Defined in:  [src/utils/react.ts:85](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/utils/react.ts#L85)
 
 ##### walkable?
 
 > `string`[]
 
-Defined in:  [src/utils/react.ts:72](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/utils/react.ts#L72)
+Defined in:  [src/utils/react.ts:84](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/utils/react.ts#L84)
 
 ## Type Aliases
 
@@ -68,7 +69,7 @@ Defined in:  [src/utils/react.ts:72](https://github.com/SteamDeckHomebrew/decky-
 
 `boolean`
 
-Defined in:  [src/utils/react.ts:76](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/utils/react.ts#L76)
+Defined in:  [src/utils/react.ts:88](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/utils/react.ts#L88)
 
 ## Functions
 
@@ -114,7 +115,7 @@ findInReactTree(node: any, filter: findInTreeFilter): any;
 
 `any`
 
-Defined in:  [src/utils/react.ts:99](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/utils/react.ts#L99)
+Defined in:  [src/utils/react.ts:111](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/utils/react.ts#L111)
 
 ---
 
@@ -138,7 +139,7 @@ findInTree(parent: any, filter: findInTreeFilter, opts: findInTreeOpts): any;
 
 `any`
 
-Defined in:  [src/utils/react.ts:78](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/utils/react.ts#L78)
+Defined in:  [src/utils/react.ts:90](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/utils/react.ts#L90)
 
 ---
 
@@ -160,7 +161,29 @@ getReactInstance(o: Node | Element | HTMLElement): any;
 
 `any`
 
-Defined in:  [src/utils/react.ts:66](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/utils/react.ts#L66)
+Defined in:  [src/utils/react.ts:75](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/utils/react.ts#L75)
+
+---
+
+### getReactRoot()
+
+#### Signature
+
+```ts
+getReactRoot(o: Node | Element | HTMLElement): any;
+```
+
+#### Parameters
+
+| Name | Type |
+| :------ | :------ |
+| `o` | [`Node`]( https://developer.mozilla.org/en-US/docs/Web/API/Node ) \| [`Element`]( https://developer.mozilla.org/en-US/docs/Web/API/Element ) \| [`HTMLElement`]( https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement ) |
+
+#### Returns
+
+`any`
+
+Defined in:  [src/utils/react.ts:68](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/utils/react.ts#L68)
 
 ---
 
