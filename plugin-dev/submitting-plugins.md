@@ -2,7 +2,7 @@
 title: Submitting Plugins
 description: Guide on how to get your Plugin onto the Store
 published: true
-date: 2023-02-15T21:10:34.317Z
+date: 2023-12-18T18:48:45.313Z
 tags: plugin-dev, store
 editor: markdown
 dateCreated: 2022-07-03T19:53:34.932Z
@@ -10,7 +10,8 @@ dateCreated: 2022-07-03T19:53:34.932Z
 
 # Submitting Plugins
 
-The project-curated "store" for plugins is located at https://beta.deckbrew.xyz. 
+The project-curated "store" for plugins is located at https://plugins.deckbrew.xyz. Some plugins will be on https://testing.deckbrew.xyz while going through the submission process.
+
 You can submit your own plugins there by following the instructions below. Keep in mind that plugins listed on the store must be approved by one of the Loader Team Members. This is done to ensure that plugins do not break the Deck or the Loader or are outright malicious, and is mostly done to protect the less tech-savvy users, who don't have the knowledge to audit plugins. You can obviously still install whatever you want, by copying folders to your plugin path or by using the `Manual plugin install` functionality in the [Loader Settings](/en/user-guide/settings).
 Manual install is completely fine, but not recommended for security reasons.
 
