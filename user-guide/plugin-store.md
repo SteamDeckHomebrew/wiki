@@ -2,7 +2,7 @@
 title: Plugin Store
 description: How to download and update plugins
 published: true
-date: 2023-04-05T17:27:27.667Z
+date: 2023-12-18T18:58:50.007Z
 tags: user-guide
 editor: markdown
 dateCreated: 2022-07-03T23:01:53.979Z
@@ -34,3 +34,9 @@ You will notice a little "shop-front" button on the top right, that will take yo
 Once you find a plugin you like all you have to do is select the plugin you want by pressing "A" to select the plugin and then selecting and pressing "A" on **Install**.
 ![webm of selecting and installing a plugin]()
 You will be given a modal to "Install or Cancel". Give about a second for the dialog to install the plugin, then take you back to the Quick Acess Menu (QAM) where your plugin will have appeared in the tab.
+
+## Further info
+
+The JSON response for each store can be viewed at [/plugins](https://plugins.deckbrew.xyz/plugins). This includes information about the number of 'downloads' (downloads from users who did not yet have the plugin installed, aka initial installs) and the number of 'updates' (downloads from people who already have the plugin installed).
+
+Older versions of plugins can be downloaded from the web at [/admin](https://plugins.deckbrew.xyz/admin).
