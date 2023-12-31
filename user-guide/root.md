@@ -2,7 +2,7 @@
 title: Root Access
 description: What root access means for plugins
 published: true
-date: 2023-01-22T22:46:04.083Z
+date: 2023-12-31T22:47:09.466Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-17T00:40:18.024Z
@@ -25,6 +25,6 @@ Many Decky plugins modify your system in ways that cannot be done using typical 
 
 # Security
 
-The Decky Loader team have reviewed all plugins that use root permission on the Decky Plugin Store. Using these plugins should be safe, but you should always be careful installing software from the internet. You can view the source code of all plugins by visiting the [Decky Plugin Database](https://github.com/SteamDeckHomebrew/decky-plugin-database).
+The Decky Loader team have reviewed all plugins and plugin updates on the official Decky Plugin Store. Using these plugins should be safe, but you should always be careful installing software from the internet. You can view the source code of all plugins by visiting the [Decky Plugin Database](https://github.com/SteamDeckHomebrew/decky-plugin-database).
 
 You are responsible for the security of your Steam Deck. The Decky Loader Team offers no guarantees regarding the safety of Decky plugins.
