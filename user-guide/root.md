@@ -2,7 +2,7 @@
 title: Root Access
 description: What root access means for plugins
 published: true
-date: 2023-12-31T22:47:09.466Z
+date: 2023-12-31T22:54:09.692Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-17T00:40:18.024Z
