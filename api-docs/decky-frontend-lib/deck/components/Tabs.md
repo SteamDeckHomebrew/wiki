@@ -7,7 +7,7 @@
 - Tab
 - TabsProps
 
-### Variables
+### Functions
 
 - Tabs
 
@@ -172,13 +172,28 @@ Defined in:  [src/deck-components/Tabs.tsx:64](https://github.com/SteamDeckHomeb
 
 Defined in:  [src/deck-components/Tabs.tsx:62](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Tabs.tsx#L62)
 
-## Variables
+## Functions
 
-### Tabs
+### Tabs()
 
-> **`Const`** `any`
-
-Tabs component as used in the library and media tabs. See [TabsProps](Tabs#tabsprops)
+Tabs component as used in the library and media tabs. See [TabsProps](Tabs#tabsprops).
 Unlike other components in `decky-frontend-lib`, this requires Decky Loader to be running.
 
-Defined in:  [src/deck-components/Tabs.tsx:118](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Tabs.tsx#L118)
+#### Signature
+
+```ts
+Tabs(props: PropsWithChildren<TabsProps>, context?: any): null | ReactElement<any, any>;
+```
+
+#### Parameters
+
+| Name | Type |
+| :------ | :------ |
+| `props` | `PropsWithChildren`\<[`TabsProps`](Tabs#tabsprops)\> |
+| `context?` | `any` |
+
+#### Returns
+
+`null` \| `ReactElement`\<`any`, `any`\>
+
+Defined in:  node\_modules/.pnpm/@types+react@16.14.0/node\_modules/@types/react/index.d.ts:544
