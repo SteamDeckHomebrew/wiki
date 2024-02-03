@@ -492,7 +492,7 @@ Defined in:  [src/deck-components/Router.tsx:68](https://github.com/SteamDeckHom
 
 Re-exports [ModalPosition](Modal#modalposition)
 
-Defined in:  [src/deck-components/Modal.tsx:169](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Modal.tsx#L169)
+Defined in:  [src/deck-components/Modal.tsx:186](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Modal.tsx#L186)
 
 ### ModalRoot
 
@@ -612,13 +612,13 @@ Defined in:  [src/deck-components/Router.tsx:89](https://github.com/SteamDeckHom
 
 Re-exports [ScrollPanel](Scroll#scrollpanel)
 
-Defined in:  [src/deck-components/Scroll.tsx:9](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Scroll.tsx#L9)
+Defined in:  [src/deck-components/Scroll.tsx:15](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Scroll.tsx#L15)
 
 ### ScrollPanelGroup
 
 Re-exports [ScrollPanelGroup](Scroll#scrollpanelgroup)
 
-Defined in:  [src/deck-components/Scroll.tsx:11](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Scroll.tsx#L11)
+Defined in:  [src/deck-components/Scroll.tsx:17](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Scroll.tsx#L17)
 
 ### ShowModalProps
 
@@ -660,7 +660,7 @@ Defined in:  [src/deck-components/SidebarNavigation.tsx:17](https://github.com/S
 
 Re-exports [SimpleModal](Modal#simplemodal)
 
-Defined in:  [src/deck-components/Modal.tsx:168](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Modal.tsx#L168)
+Defined in:  [src/deck-components/Modal.tsx:181](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Modal.tsx#L181)
 
 ### SingleDropdownOption
 
