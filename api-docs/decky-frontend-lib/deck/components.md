@@ -492,7 +492,7 @@ Defined in:  [src/deck-components/Router.tsx:68](https://github.com/SteamDeckHom
 
 Re-exports [ModalPosition](Modal#modalposition)
 
-Defined in:  [src/deck-components/Modal.tsx:186](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Modal.tsx#L186)
+Defined in:  [src/deck-components/Modal.tsx:178](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Modal.tsx#L178)
 
 ### ModalRoot
 
@@ -660,7 +660,7 @@ Defined in:  [src/deck-components/SidebarNavigation.tsx:17](https://github.com/S
 
 Re-exports [SimpleModal](Modal#simplemodal)
 
-Defined in:  [src/deck-components/Modal.tsx:181](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Modal.tsx#L181)
+Defined in:  [src/deck-components/Modal.tsx:173](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/Modal.tsx#L173)
 
 ### SingleDropdownOption
 
