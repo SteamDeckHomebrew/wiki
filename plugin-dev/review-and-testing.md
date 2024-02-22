@@ -2,7 +2,7 @@
 title: Review and Testing Process
 description: More information on how we review your plugin before it can make it to users.
 published: true
-date: 2023-05-14T23:11:09.930Z
+date: 2024-02-22T13:22:29.186Z
 tags: plugin-dev, testing
 editor: markdown
 dateCreated: 2022-11-13T21:56:22.344Z
@@ -10,7 +10,7 @@ dateCreated: 2022-11-13T21:56:22.344Z
 
 # Review Process
 
-Upon initial PR to the Decky Plugin Database, we go through these steps to review your plugin.
+Upon initial PR to the [Decky Plugin Database](https://github.com/SteamDeckHomebrew/decky-plugin-database), we go through these steps to review your plugin.
 Please go through them yourself as well to make sure that we don't have to flag any issues and so your plugin can make it to the testing server quickly.
 
 
