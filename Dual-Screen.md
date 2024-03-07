@@ -2,7 +2,7 @@
 title: Dual Screen Project
 description: A short write-up of a project to mount a second screen to the Steam Deck with touch support and easy removal, without 3D printing anything.
 published: true
-date: 2024-03-07T13:06:40.302Z
+date: 2024-03-07T13:10:03.761Z
 tags: homebrew, hardware
 editor: markdown
 dateCreated: 2024-03-07T11:36:12.779Z
@@ -80,7 +80,7 @@ Run that command, and touch input should be aligned correctly. I recommend keepi
 
 We are however done! Depending on your screen, you may need some colour correction. I personally recommend redshift for this, I set it up to only adjust the bottom panel to 5500k to offset some overly strong blue tones. This is screen-dependent though, hopefully you get a better calibrated screen!
 
-# Emulation
+## Emulation
 This project was mostly made to use with a certain (now defunct, within an hour of me finishing this project, go figure) lemony emulator for a certain clamshell dual-screen system. The only thing you really need to configure in that, is to enable the separate windows layout, and move the bottom screen to the external panel and the top to the internal. You can switch on fullscreen to make the top screen fullscreen, but this won't affect the window for the bottom screen.
 
 To remedy this, we can use KDE's window rules! Right click the title bar for the second screen window, select "More Actions", and then "Configure Special Window Settings..."
@@ -91,7 +91,7 @@ Add a title match, and add screen and fullscreen rules both set to force in orde
 
 This should result in both windows being fullscreen! You may also want to enable "Hide mouse on inactivity" in the lemony emulator's settings, and any graphical enhancements (I personally run at 3x resolution) you wish. This should be all there is to it! I haven't tried this with CEMU but provided it separates the windows, it should be roughly the same.
 
-# Closing Thoughts
+## Closing Thoughts
 This was a really fun project to sink my teeth into. I have since played a full game with this, and enjoyed it immensely. It was fun figuring out FPV drone cables, and I adore the modularity of this whole system. Yes, it's heavier, but - so? I can remove it when I don't need it! I hope this was easy to follow, and if you do follow this project to make this yourself, I'd love to see it!
 
 If you'd like to find me elsewhere, you can find me on the Fediverse on my self-hosted instance at https://hollypop.xyz/holly - I talk about a lot of weird tech projects I dive into, but be warned that it is still a personal account, and I talk a lot about a lot more than *just* tech! 
