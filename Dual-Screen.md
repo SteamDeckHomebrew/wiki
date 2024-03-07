@@ -2,7 +2,7 @@
 title: Dual Screen Project
 description: A short write-up of a project to mount a second screen to the Steam Deck with touch support and easy removal, without 3D printing anything.
 published: true
-date: 2024-03-07T13:10:03.761Z
+date: 2024-03-07T13:22:37.801Z
 tags: homebrew, hardware
 editor: markdown
 dateCreated: 2024-03-07T11:36:12.779Z
