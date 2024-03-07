@@ -2,7 +2,7 @@
 title: Dual Screen Project
 description: A short write-up of a project to mount a second screen to the Steam Deck with touch support and easy removal, without 3D printing anything.
 published: true
-date: 2024-03-07T13:22:37.801Z
+date: 2024-03-07T20:31:08.588Z
 tags: homebrew, hardware
 editor: markdown
 dateCreated: 2024-03-07T11:36:12.779Z
@@ -20,7 +20,7 @@ This section is surprisingly simple.
 
 First off, we need a way to mount a new screen. I've seen multiple prints of mounts, each of varying quality, size and weight, but for this I decided on the [Mechanism Deckmate](https://getmechanism.com/) - specifically the phone mount bundle. The reason I chose this, is that the clip can be left on and the phone mount easily removed, to allow this to remain *very* easy to detatch. It's also pretty lightweight and sturdy enough, though the phone mount can wobble a little. 
 
-Next, we need a screen. A good way to find a decent screen is to search for ones made for Raspberry Pi devices. The one I'm using it unfortunately one of those high-point Scrabble word names from Amazon, but my general rules were that it doesn't need to be high resolution, needs touch, and also importantly ***must have a backplate***.
+Next, we need a screen. A good way to find a decent screen is to search for ones made for Raspberry Pi devices. The one I'm using it unfortunately one of those high-point Scrabble word names from Amazon, but my general rules were that it doesn't need to be high resolution, needs touch, and also importantly ***must have a backplate***. Quite a lot of the Pi screens have exposed components and chips on the back, so we need a plate above that to attach our magsafe ring to for mounting.
 
 The screen I settled on is a 7 inch 1024x600 IPS panel intended for a Raspberry Pi 4, that has a nice, strong shell and minimal bezels. It has a full shell, 3 extremely low profile OSD buttons and uses micro USB and a mini-HDMI port.
 
