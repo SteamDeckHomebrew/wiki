@@ -2,7 +2,7 @@
 title: Dual Screen Project
 description: A short write-up of a project to mount a second screen to the Steam Deck with touch support and easy removal, without 3D printing anything.
 published: true
-date: 2024-03-07T23:41:20.221Z
+date: 2024-03-08T11:08:45.281Z
 tags: homebrew, hardware
 editor: markdown
 dateCreated: 2024-03-07T11:36:12.779Z
@@ -94,6 +94,6 @@ This should result in both windows being fullscreen! You may also want to enable
 ## Closing Thoughts
 This was a really fun project to sink my teeth into. I have since played a full game with this, and enjoyed it immensely. It was fun figuring out FPV drone cables, and I adore the modularity of this whole system. Yes, it's heavier, but - so? I can remove it when I don't need it! I hope this was easy to follow, and if you do follow this project to make this yourself, I'd love to see it!
 
-If you'd like to find me elsewhere, you can find me on the Fediverse on my self-hosted instance at https://hollypop.xyz/holly - I talk about a lot of weird tech projects I dive into, but be warned that it is still a personal account, and I talk a lot about a lot more than *just* tech! 
+If you'd like to find me elsewhere, you can find me on the Fediverse on my self-hosted instance at @holly@hollypop.xyz - I talk about a lot of weird tech projects I dive into, but be warned that it is still a personal account, and I talk a lot about a lot more than *just* tech! 
 
 I'd also like to thank a few friends for their help figuring out the software issues - namely, Ada, RedCyberPandaz, and Syphist. My knowledge of Linux is limited (I like to bend the will of Windows to my own) and they were a huge help getting the alignment sorted out.
