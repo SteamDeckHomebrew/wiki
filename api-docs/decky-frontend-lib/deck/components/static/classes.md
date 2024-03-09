@@ -32,7 +32,7 @@
 
 > **`Const`** [`AchievementClasses`](_internal_#achievementclasses)
 
-Defined in:  [src/deck-components/static-classes.ts:740](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/static-classes.ts#L740)
+Defined in:  [src/deck-components/static-classes.ts:741](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/static-classes.ts#L741)
 
 ---
 
@@ -40,7 +40,7 @@ Defined in:  [src/deck-components/static-classes.ts:740](https://github.com/Stea
 
 > **`Const`** [`AppDetailsClasses`](_internal_#appdetailsclasses)
 
-Defined in:  [src/deck-components/static-classes.ts:728](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/static-classes.ts#L728)
+Defined in:  [src/deck-components/static-classes.ts:729](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/static-classes.ts#L729)
 
 ---
 
@@ -48,7 +48,7 @@ Defined in:  [src/deck-components/static-classes.ts:728](https://github.com/Stea
 
 > **`Const`** [`AppDetailsHeaderClasses`](_internal_#appdetailsheaderclasses)
 
-Defined in:  [src/deck-components/static-classes.ts:725](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/static-classes.ts#L725)
+Defined in:  [src/deck-components/static-classes.ts:726](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/static-classes.ts#L726)
 
 ---
 
@@ -56,7 +56,7 @@ Defined in:  [src/deck-components/static-classes.ts:725](https://github.com/Stea
 
 > **`Const`** [`BasicAppDetailsSectionStylerClasses`](_internal_#basicappdetailssectionstylerclasses)
 
-Defined in:  [src/deck-components/static-classes.ts:746](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/static-classes.ts#L746)
+Defined in:  [src/deck-components/static-classes.ts:747](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/static-classes.ts#L747)
 
 ---
 
@@ -64,7 +64,7 @@ Defined in:  [src/deck-components/static-classes.ts:746](https://github.com/Stea
 
 > **`Const`** [`GamepadContextMenuClasses`](_internal_#gamepadcontextmenuclasses)
 
-Defined in:  [src/deck-components/static-classes.ts:737](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/static-classes.ts#L737)
+Defined in:  [src/deck-components/static-classes.ts:738](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/static-classes.ts#L738)
 
 ---
 
@@ -72,7 +72,7 @@ Defined in:  [src/deck-components/static-classes.ts:737](https://github.com/Stea
 
 > **`Const`** [`GamepadDialogClasses`](_internal_#gamepaddialogclasses)
 
-Defined in:  [src/deck-components/static-classes.ts:710](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/static-classes.ts#L710)
+Defined in:  [src/deck-components/static-classes.ts:711](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/static-classes.ts#L711)
 
 ---
 
@@ -80,7 +80,7 @@ Defined in:  [src/deck-components/static-classes.ts:710](https://github.com/Stea
 
 > **`Const`** [`GamepadSliderClasses`](_internal_#gamepadsliderclasses)
 
-Defined in:  [src/deck-components/static-classes.ts:722](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/static-classes.ts#L722)
+Defined in:  [src/deck-components/static-classes.ts:723](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/static-classes.ts#L723)
 
 ---
 
@@ -88,7 +88,7 @@ Defined in:  [src/deck-components/static-classes.ts:722](https://github.com/Stea
 
 > **`Const`** [`GamepadTabbedPageClasses`](_internal_#gamepadtabbedpageclasses)
 
-Defined in:  [src/deck-components/static-classes.ts:734](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/static-classes.ts#L734)
+Defined in:  [src/deck-components/static-classes.ts:735](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/static-classes.ts#L735)
 
 ---
 
@@ -96,7 +96,7 @@ Defined in:  [src/deck-components/static-classes.ts:734](https://github.com/Stea
 
 > **`Const`** [`GamepadUIClasses`](_internal_#gamepaduiclasses)
 
-Defined in:  [src/deck-components/static-classes.ts:731](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/static-classes.ts#L731)
+Defined in:  [src/deck-components/static-classes.ts:732](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/static-classes.ts#L732)
 
 ---
 
@@ -104,7 +104,7 @@ Defined in:  [src/deck-components/static-classes.ts:731](https://github.com/Stea
 
 > **`Const`** [`MainMenuAppRunningClasses`](_internal_#mainmenuapprunningclasses)
 
-Defined in:  [src/deck-components/static-classes.ts:743](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/static-classes.ts#L743)
+Defined in:  [src/deck-components/static-classes.ts:744](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/static-classes.ts#L744)
 
 ---
 
@@ -112,7 +112,7 @@ Defined in:  [src/deck-components/static-classes.ts:743](https://github.com/Stea
 
 > **`Const`** [`PlaySectionClasses`](_internal_#playsectionclasses)
 
-Defined in:  [src/deck-components/static-classes.ts:719](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/static-classes.ts#L719)
+Defined in:  [src/deck-components/static-classes.ts:720](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/static-classes.ts#L720)
 
 ---
 
@@ -120,7 +120,7 @@ Defined in:  [src/deck-components/static-classes.ts:719](https://github.com/Stea
 
 > **`Const`** [`QuickAccessControlsClasses`](_internal_#quickaccesscontrolsclasses)
 
-Defined in:  [src/deck-components/static-classes.ts:713](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/static-classes.ts#L713)
+Defined in:  [src/deck-components/static-classes.ts:714](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/static-classes.ts#L714)
 
 ---
 
@@ -168,4 +168,4 @@ Defined in:  [src/deck-components/static-classes.ts:702](https://github.com/Stea
 
 > **`Const`** [`UpdaterFieldClasses`](_internal_#updaterfieldclasses)
 
-Defined in:  [src/deck-components/static-classes.ts:716](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/static-classes.ts#L716)
+Defined in:  [src/deck-components/static-classes.ts:717](https://github.com/SteamDeckHomebrew/decky-frontend-lib/blob/-/src/deck-components/static-classes.ts#L717)
