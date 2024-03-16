@@ -2,7 +2,7 @@
 title: Installation
 description: How to install the Steam Deck Plugin Loader
 published: true
-date: 2023-07-14T13:37:49.335Z
+date: 2024-03-16T18:53:36.244Z
 tags: user-guide
 editor: markdown
 dateCreated: 2022-04-08T14:18:43.906Z
@@ -35,6 +35,18 @@ dateCreated: 2022-04-08T14:18:43.906Z
 ```
 curl -L https://github.com/SteamDeckHomebrew/decky-installer/releases/latest/download/install_release.sh | sh
 ``` 
+
+## Manual Installation
+> This should only be done if the cli and gui installers above do not work.
+{.is-info}
+
+1. Turn on CEF debugging either by enabling the setting in steam developer settings or making a `~/.steam/steam/.cef-enable-remote-debugging` file.
+1. Download the most recent PluginLoader binary from [the github releases page](https://github.com/SteamDeckHomebrew/decky-loader/releases). (or download a build from [github actions](https://github.com/SteamDeckHomebrew/decky-loader/actions/workflows/build.yml) if you want an extremely unstable version)
+
+1. Place the binary in `~/homebrew/services` (making the folder if it does not exist) and mark it as executable `chmod +x ~/homebrew/services`.
+1. Make a script to start decky up on boot. There's a [premade one for systemd in the repo](https://github.com/SteamDeckHomebrew/decky-loader/blob/main/dist/plugin_loader-release.service).
+
+
 
 ## Install Plugins
 Plugins can be installed from the included plugin store <img src="/wiki/controller-glyphs/store.svg" height=16>
