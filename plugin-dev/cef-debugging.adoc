@@ -42,11 +42,11 @@ CAUTION: Remember to disable it after you've finished!
 
 ## Usage
 ### Testing out code live
-The SharedJSContext page can be used for running JS live (the other windows do not work for running JS). Within it, the SteamClient is available as a global object (`window.SteamClient`) and information about many of it's functions can be viewed link:https://github.com/SteamDeckHomebrew/decky-frontend-lib/pull/92/files[here]. Decky loader also exposes all of decky frontend lib as `window.DFL`.
+The SharedJSContext page can be used for running JS live (the other windows do not work for running JS). Within it, the SteamClient is available as a global object (`window.SteamClient`) and information about many of its functions can be viewed link:https://github.com/SteamDeckHomebrew/decky-frontend-lib/pull/92/files[here]. Decky loader also exposes all of decky frontend lib as `window.DFL`.
 
 video::/plugin-dev/cefdebugger-compressed6.mp4[cefdebugger-compressed6.mp4]
 
-### Example usage, extracting a colour from the UI
-The element picker in the top left of the debugger menu can be used to easily select any element in the UI, and then the style menu at the bottom can be used for extracting or editing css live.
+### Editing CSS live
+The element picker in the top left of the debugger menu can be used to easily select any element in the UI, and then the style menu at the bottom can be used for extracting or editing css live. In the example below a colour is extracted from the UI. More information on how to use it for this purpose can be viewed in the link:https://docs.deckthemes.com/CSSLoader/theming_step_by_step/#using-the-cef-debugger-effectively[CSS loader docs].
 
 video::/plugin-dev/cef-example-video.webm[cef-example-video.webm,920,opts="loop"]
