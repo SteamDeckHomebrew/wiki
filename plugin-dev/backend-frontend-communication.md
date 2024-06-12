@@ -1,8 +1,8 @@
 ---
-title: [ for websockets ] Frontend/Backend Communication
+title: Frontend/Backend Communication
 description: How to communicate between the frontend and backend.
-published: false
-date: 2024-06-12T11:51:10.773Z
+published: true
+date: 2024-06-12T11:52:48.096Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-12T11:51:10.773Z
