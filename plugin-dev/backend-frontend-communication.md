@@ -2,7 +2,7 @@
 title: Frontend/Backend Communication
 description: How to communicate between the frontend and backend.
 published: true
-date: 2024-06-12T11:52:48.096Z
+date: 2024-06-12T12:44:16.088Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-12T11:51:10.773Z
@@ -11,10 +11,10 @@ dateCreated: 2024-06-12T11:51:10.773Z
 > This page is about the new plugin API which is not yet implemented in mainline decky. Do not reference this in any actual plugins. It is subject to change.
 {.is-warning}
 
-## Frontend -> Backend communication
+## Frontend -> Backend Communication
 
 First, you have to write a backend function.
-This is done by just adding a new method to your Plugin class:
+This is done by just adding a new method to your `Plugin` class:
 ```python
 class Plugin:
     async def my_backend_function(self) -> int:
@@ -23,7 +23,7 @@ class Plugin:
     async def backend_addition(self, parameter_a: int, parameter_b: int) -> str:
         return str(parameter_a + parameter_b)
 ```
-You can have as many perameters as you like, and \*args should (TODO CHECK) also work, but \*\*kwargs will not.
+You can have as many parameters as you like, and \*args should (TODO CHECK) also work, but \*\*kwargs will not.
 You do not *need* to provide types for the parameters.
 You can return any data that is serializable to JSON, so dictionaries, lists, ints, floats, strings, etc.
 
@@ -32,7 +32,7 @@ Then, `@decky/api` provides two functions for calling backend methods. Just like
 ### call()
 
 `call` runs a backend function and asynchronously returns the result.
-It takes in the name of the backend function, and then all of the perameters to pass in.
+It takes in the name of the backend function, and then all of the parameters to pass in.
 It must be awaited if you want the returned data, but if you don't need the result you do not need to await it, it will still run.
 
 ```typescript
@@ -68,8 +68,8 @@ let data2 = await call<[a: number, b: number], string>('backend_addition', 5, 5)
 import { callable } from '@decky/api';
 
 const adder = callable('backend_addition');
-let data = await adder(5, 5);
 // data = "10";
+let data = await adder(5, 5);
 ```
 
 Like `call` it can also be given types.
@@ -78,14 +78,18 @@ In this example, you give it two numbers (a and b) and it returns a string.
 import { callable } from '@decky/api';
 
 const adder = callable<[a: number, b: number], string>('backend_addition');
-let data = await adder(5, 5);
 // data = "10";
+let data = await adder(5, 5);
 ```
 
-## Backend -> Frontend communication
+---
+
+## Backend -> Frontend Communication
 
 Sometimes, data from the backend needs to be delivered to the frontend, like the percentage for a progress bar.
-These can be sent using events.
+These can be sent using events. The primary differences between events and calling functions are: 
+- Events can trigger multiple functions run that are totally separate from each other.
+- Events do not return any information to the caller.
 
 ### Frontend
 
