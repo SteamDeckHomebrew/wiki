@@ -2,7 +2,7 @@
 title: Migrating to the new decky API
 description: Steps for migrating an existing plugin to the new websocket-based system.
 published: true
-date: 2024-06-14T01:08:58.119Z
+date: 2024-06-14T11:48:30.877Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-14T00:00:11.855Z
@@ -28,6 +28,7 @@ For calling the backend, *ServerAPI.callPluginMethod* has been replaced by *call
 ```typescript
 // before
 import { ServerAPI } from "decky-frontend-lib";
+interface AddMethodArgs { a: number; b: number; }
 const res = await serverAPI.callPluginMethod<AddMethodArgs, number>("add", {a: 1, b: 2});
 if (res.success) {
 	console.log(res.result);
@@ -35,7 +36,7 @@ if (res.success) {
 
 // after
 import { call } from "@decky/api";
-const res = await call("add", 1, 2);
+const res = await call<[a: number, b: number], number>("add", 1, 2);
 console.log(res);
 ``` 
 
