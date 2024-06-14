@@ -2,7 +2,7 @@
 title: Migrating to the new decky API
 description: Steps for migrating an existing plugin to the new websocket-based system.
 published: true
-date: 2024-06-14T00:00:11.855Z
+date: 2024-06-14T00:16:43.444Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-14T00:00:11.855Z
@@ -13,15 +13,31 @@ You can see a full migration example [here](https://github.com/SteamDeckHomebrew
 
 The python library `decky_plugin` has been renamed to just `decky`, and all existing methods are unchanged there, so a simple rename replace will work.
 
-In the frontend, `decky-frontend-lib` has been split into two libraries, `@decky/api` and `@decky/ui`. 
+In the frontend, `decky-frontend-lib` has been split into two libraries, `@decky/api` and `@decky/ui`. DFL's *ServerAPI* has been completely removed, and replaced by new functions in `@decky/api`.
 
 ## @decky/ui
 
-`@decky/ui` contains all the react components and similar from DFL, largely unchanged. The *ServerAPI* has been removed, and replaced by `@decky/api`. Aside from replacing all *ServerAPI* usage and a couple other functions, you a simple rename should work.
+`@decky/ui` contains all the react components and similar from DFL, largely unchanged. Aside from replacing all *ServerAPI* usage and a couple other functions, a simple rename should work.
 
 ## @decky/api
 
-*ServerAPI.callPluginMethod* has been replaced by *call* with a very similar interface, but it returns its result directly, instead of through an intermediary interface. Any errors will bubble up as actual JS errors. 
+`@decky/api` contains all the other functions that aren't just react elements. 
+
+For calling the backend, *ServerAPI.callPluginMethod* has been replaced by *call* which has a very similar interface, but it returns its result directly, instead of through an intermediary interface. Any errors will bubble up as actual JS errors.
+
+```typescript
+// before
+import { ServerAPI } from "decky-frontend-lib";
+const res = await serverAPI.callPluginMethod<AddMethodArgs, number("add", {a: 1, b: 2});
+if (res.success) {
+	console.log(res.result);
+}
+
+// after
+import { call } from "@decky/api";
+const res = await call("add", 1, 2);
+console.log(res);
+``` 
 
 Various methods like *toaster*, *routerHook*, *openFilePicker*, *executeInTab*, *injectCssIntoTab*, *removeCssFromTab*, *fetchNoCors*, *getExternalResourceURL* and *definePlugin* have been moved to `@decky/api`. They are unchanged so you will just need to change where you import them from.
 
