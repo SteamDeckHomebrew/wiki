@@ -2,7 +2,7 @@
 title: Frontend/Backend Communication
 description: How to communicate between the frontend and backend.
 published: true
-date: 2024-06-12T12:44:16.088Z
+date: 2024-06-14T00:07:25.326Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-12T11:51:10.773Z
@@ -23,7 +23,7 @@ class Plugin:
     async def backend_addition(self, parameter_a: int, parameter_b: int) -> str:
         return str(parameter_a + parameter_b)
 ```
-You can have as many parameters as you like, and \*args should (TODO CHECK) also work, but \*\*kwargs will not.
+You can have as many parameters as you like, and \*args should (TODO: check this) also work, but \*\*kwargs will not.
 You do not *need* to provide types for the parameters.
 You can return any data that is serializable to JSON, so dictionaries, lists, ints, floats, strings, etc.
 
@@ -33,6 +33,7 @@ Then, `@decky/api` provides two functions for calling backend methods. Just like
 
 `call` runs a backend function and asynchronously returns the result.
 It takes in the name of the backend function, and then all of the parameters to pass in.
+If the backend function errors then `call` will raise an error, and will include the python traceback. (TODO: this might not actually work for plugins)
 It must be awaited if you want the returned data, but if you don't need the result you do not need to await it, it will still run.
 
 ```typescript
