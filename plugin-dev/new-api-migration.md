@@ -2,7 +2,7 @@
 title: Migrating to the new decky API
 description: Steps for migrating an existing plugin to the new websocket-based system.
 published: true
-date: 2024-06-14T01:08:12.296Z
+date: 2024-06-14T01:08:58.119Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-14T00:00:11.855Z
@@ -23,7 +23,7 @@ In the frontend, `decky-frontend-lib` has been split into two libraries, `@decky
 
 `@decky/api` contains all the other functions that aren't just react elements. 
 
-For calling the backend, *ServerAPI.callPluginMethod* has been replaced by *call* which has a very similar interface, but it returns its result directly, instead of through an intermediary interface. Any errors will bubble up as actual JS errors.
+For calling the backend, *ServerAPI.callPluginMethod* has been replaced by *call* which has a very similar interface, but it returns its result directly, instead of through an intermediary interface. Any backend errors will be raised and bubble up as JS errors.
 
 ```typescript
 // before
