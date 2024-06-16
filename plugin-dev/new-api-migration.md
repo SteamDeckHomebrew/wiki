@@ -2,7 +2,7 @@
 title: Migrating to the new decky API
 description: Steps for migrating an existing plugin to the new websocket-based system.
 published: true
-date: 2024-06-14T11:48:30.877Z
+date: 2024-06-16T14:59:56.041Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-14T00:00:11.855Z
@@ -11,7 +11,7 @@ dateCreated: 2024-06-14T00:00:11.855Z
 # Migration
 You can see a full migration example [here](https://github.com/SteamDeckHomebrew/decky-plugin-template/compare/main...aa/websockets) (although this also makes some actual functional changes as well). REMEMBER TO CHANGE THIS TO POINT TO COMMITS LATER (:
 
-The python library `decky_plugin` has been renamed to just `decky`, and all existing methods are unchanged there, so a simple rename replace will work.
+The python library `decky_plugin` has been renamed to `decky`, but all pre-existing methods are unchanged there and the old `decky_plugin` name is still provided for convenience, so no changes should be required on the python end.
 
 In the frontend, `decky-frontend-lib` has been split into two libraries, `@decky/api` and `@decky/ui`. DFL's *ServerAPI* has been completely removed, and replaced by new functions in `@decky/api`.
 
