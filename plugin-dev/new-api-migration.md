@@ -2,7 +2,7 @@
 title: Migrating to the new decky API
 description: Steps for migrating an existing plugin to the new websocket-based system.
 published: true
-date: 2024-06-27T00:09:04.767Z
+date: 2024-06-27T00:09:26.295Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-14T00:00:11.855Z
