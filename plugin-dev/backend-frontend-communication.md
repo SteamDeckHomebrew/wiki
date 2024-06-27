@@ -2,7 +2,7 @@
 title: Frontend/Backend Communication
 description: How to communicate between the frontend and backend.
 published: true
-date: 2024-06-27T10:33:40.187Z
+date: 2024-06-27T10:34:41.538Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-12T11:51:10.773Z
@@ -24,7 +24,7 @@ You can have as many parameters as you like, and \*args should (TODO: check this
 You do not *need* to provide types for the parameters.
 You can return any data that is serializable to JSON, so dictionaries, lists, ints, floats, strings, etc.
 
-Then, `@decky/api` provides two functions for calling backend methods. Just like for returning values, you can send any JSON serializable data as parameters, like plain objects, arrays, numbers, strings, etc.
+Then, in the frontend, `@decky/api` provides two functions for calling backend methods. Just like for returning values, you can send any JSON serializable data as parameters, like plain objects, arrays, numbers, strings, etc.
 
 ### call()
 
