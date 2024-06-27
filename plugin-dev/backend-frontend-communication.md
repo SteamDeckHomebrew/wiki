@@ -2,14 +2,11 @@
 title: Frontend/Backend Communication
 description: How to communicate between the frontend and backend.
 published: true
-date: 2024-06-14T00:07:25.326Z
+date: 2024-06-27T10:33:40.187Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-12T11:51:10.773Z
 ---
-
-> This page is about the new plugin API which is not yet implemented in mainline decky. Do not reference this in any actual plugins. It is subject to change.
-{.is-warning}
 
 ## Frontend -> Backend Communication
 
