@@ -2,11 +2,14 @@
 title: Migrating to the new decky API
 description: Steps for migrating an existing plugin to the new websocket-based system.
 published: true
-date: 2024-06-16T14:59:56.041Z
+date: 2024-06-27T00:09:04.767Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-14T00:00:11.855Z
 ---
+
+> Migration is totally optional, and backwards compatibility is intended to be kept for a long time to come. It is recommended, as the new api is easier to use and adds new features, but there is no major rush to get this done.
+{.is-info}
 
 # Migration
 You can see a full migration example [here](https://github.com/SteamDeckHomebrew/decky-plugin-template/compare/main...aa/websockets) (although this also makes some actual functional changes as well). REMEMBER TO CHANGE THIS TO POINT TO COMMITS LATER (:
