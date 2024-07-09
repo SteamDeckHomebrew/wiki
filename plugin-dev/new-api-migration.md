@@ -2,13 +2,13 @@
 title: Migrating to the new decky API
 description: Steps for migrating an existing plugin to the new websocket-based system.
 published: true
-date: 2024-06-27T00:09:26.295Z
+date: 2024-07-09T08:23:30.384Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-14T00:00:11.855Z
 ---
 
-> Migration is totally optional, and backwards compatibility is intended to be kept for a long time to come. It is recommended, as the new api is easier to use and adds new features, but there is no major rush to get this done.
+> Migration is totally optional, and backwards compatibility is intended to be kept for as long as we can. It is recommended to migrate, as the new api is easier to use and adds new features, but there is no major rush to get this done.
 {.is-info}
 
 # Migration
@@ -20,7 +20,7 @@ In the frontend, `decky-frontend-lib` has been split into two libraries, `@decky
 
 ## @decky/ui
 
-`@decky/ui` contains all the react components and similar from DFL, largely unchanged. Aside from replacing all *ServerAPI* usage and a couple other functions, a simple rename should work.
+`@decky/ui` contains all the react components and similar from DFL, largely unchanged. Aside from removing all *ServerAPI* usage and a couple other functions, a simple rename of `decky-frontend-lib` should work.
 
 ## @decky/api
 
@@ -45,19 +45,31 @@ console.log(res);
 
 Various methods like *toaster*, *routerHook*, *openFilePicker*, *executeInTab*, *injectCssIntoTab*, *removeCssFromTab*, *fetchNoCors*, *getExternalResourceURL* and *definePlugin* have been moved to `@decky/api`. They are unchanged so you will just need to change where you import them from.
 
-> You can read more information about the new api [here](/plugin-dev/backend-frontend-communication).
+> You can read more information about using the new api [here](/plugin-dev/backend-frontend-communication).
 {.is-info}
 
 ## Important file changes
 
 ### plugin.json
-You need to add `"api_version": 1`
+You need to add `"api_version": 1`.
 
-### package.json / pnpm-lock.yaml
-As mentioned above, you need to replace `decky-frontend-lib` with `@decky/api` and `@decky/ui`. You also need to add `"type": "module"`.
+### package.json (/ pnpm-lock.yaml)
+Remove `decky-frontend-lib` from the file completely.
+Add `@decky/api` and `@decky/ui` to your `dependencies`. 
+Add `@decky/rollup` to your `devDependencies`.
+Add `"type": "module"` just below where you set the name and description.
 
 ### decky_plugin.pyi → decky.pyi
-The file has been renamed, and has extra fields. Copy it in from the template.
+The file has been renamed (because the library was renamed), and has extra fields for the new backend functions. Copy it in from [the template](https://github.com/SteamDeckHomebrew/decky-plugin-template/blob/aa/websockets/decky.pyi) or from [decky](https://github.com/SteamDeckHomebrew/decky-loader/blob/main/backend/decky_loader/plugin/imports/decky.pyi).
 
 ### rollup.config.js
-The file has changed, and the changes are needed for the plugin to build properly. Copy it in from the template.
+The new `@decky/rollup` dependency you added means this is all set up properly for you by just importing `deckyPlugin` and using that as your rollup config.
+```ts
+import deckyPlugin from "@decky/rollup";
+
+export default deckyPlugin({
+
+  // Add your extra Rollup options here
+
+)
+```
