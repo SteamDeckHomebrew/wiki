@@ -2,7 +2,7 @@
 title: Submitting Plugins
 description: Guide on how to get your Plugin onto the Store
 published: true
-date: 2024-08-01T22:05:54.408Z
+date: 2024-08-01T22:06:07.969Z
 tags: plugin-dev, store
 editor: markdown
 dateCreated: 2022-07-03T19:53:34.932Z
@@ -63,7 +63,7 @@ Your plugin will undergo a review process specified in [Review Process](/en/plug
 > - Yes/No: I am using a tool or software from a 3rd party FOSS project that does not have it's dependencies statically linked.
 > - Yes/No: I am using a custom binary that has all of it's dependencies statically linked.
 
-### Submitting an Update
+## Submitting an Update
 
 To update your plugin, follow the same process as above and just make the submodule of your repository point to the new commit you want to submit.
 
