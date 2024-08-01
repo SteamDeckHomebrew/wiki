@@ -2,7 +2,7 @@
 title: Submitting Plugins
 description: Guide on how to get your Plugin onto the Store
 published: true
-date: 2024-08-01T22:06:07.969Z
+date: 2024-08-01T22:29:04.407Z
 tags: plugin-dev, store
 editor: markdown
 dateCreated: 2022-07-03T19:53:34.932Z
@@ -31,6 +31,10 @@ Here are some guiding rules if you want to submit a plugin that requires financi
 *Likely to be accepted.* - If a feature is important to the core reason users will install your plugin, then it should be accessible for free (ex. paid access to enable/disable themes in a customization app would likely be denied).
 
 Approval of paid features within plugins is at the discretion of Steam Deck Homebrew developers. Though this brief list is used to establish precedent, each plugin is evaluated separately. Please ask a developer *before* working on a paid feature if you have any questions as to whether or not it would be accepted.
+
+## "AI", LLMs and so on
+
+No. We do not accept any plugin that uses any LLM based code as these models do not comply with the GPL license (of which we are one of many many users) and thus cannot in good conscience accept plugins which have scraped or actively scrape the work of human beings without proper credit, permission and or compensation. This will not be a debate. Any LLM focused plugins will be rejected outright and there will be no appeals.
 
 ## Submission 
 
