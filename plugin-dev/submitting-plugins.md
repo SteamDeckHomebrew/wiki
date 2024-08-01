@@ -2,7 +2,7 @@
 title: Submitting Plugins
 description: Guide on how to get your Plugin onto the Store
 published: true
-date: 2024-02-09T05:11:04.320Z
+date: 2024-08-01T22:04:11.405Z
 tags: plugin-dev, store
 editor: markdown
 dateCreated: 2022-07-03T19:53:34.932Z
@@ -53,6 +53,14 @@ All plugins submitted must include a license, provided as either ``LICENSE`` or 
 
 
 Your plugin will undergo a review process specified in [Review Process](/en/plugin-dev/review-and-testing). Please review the steps to make sure you are in compliance already which will make the review process far quicker for you.
+
+> As a part of this review process, you must have your plugin tested by someone using a Steam Deck running SteamOS. Specifically on the Beta or Preview branches if your plugin does falls under the "Beta/Preview testing required" specifications (see below). Otherwise Stable is preferred but not always required.
+{.is-warning}
+
+> Plugin Backend Checklist
+> - Yes/No: I am using a custom backend other than Python.
+> - Yes/No: I am using a tool or software from a 3rd party FOSS project that does not have it's dependencies statically linked.
+> - Yes/No: I am using a custom binary that has all of it's dependencies statically linked.
 
 ### Submitting an Update
 
