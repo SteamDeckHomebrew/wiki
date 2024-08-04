@@ -2,7 +2,7 @@
 title: Windows Installation
 description: UNSTABLE, MAY BRAKE
 published: true
-date: 2024-08-04T23:14:04.434Z
+date: 2024-08-04T23:15:05.659Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-04T22:47:16.479Z
@@ -20,13 +20,14 @@ dateCreated: 2024-08-04T22:47:16.479Z
 
 # Installation on windows
 1. Read the warnings above before installing and understand you may experience instability.
+0. Put an empty text file called `.cef-enable-debugging` in `C:\Program Files (x86)\Steam` (this enables [cef debugging](/plugin-dev/cef-debugging) which decky needs to work).
 0. Visit the [build-win/main](https://github.com/SteamDeckHomebrew/decky-loader/actions/workflows/build-win.yml?query=branch%3Amain++) page.
 0. Click on the first link.
 ![builder-win.jpg](/wiki/builder-win.jpg)
-0. Download the `PluginLoader Win` file.
+0. Download the `PluginLoader Win` zip file and open it.
 ![builder-win2.jpg](/wiki/builder-win2.jpg)
-0. Put an empty text file called `.cef-enable-debugging` in `C:\Program Files (x86)\Steam` (this enables [cef debugging](/plugin-dev/cef-debugging) which decky needs to work).
-0. Run the `PluginLoader.exe` (or `PluginLoader_noconsole.exe`, which is the same but does not open a console window) zip file and open it.
+
+0. Run the `PluginLoader.exe` (or `PluginLoader_noconsole.exe`, which is the same but does not open a console window) file.
 0. Restart steam and decky should now show up until you close `PluginLoader.exe`. If you want decky available permanently, you will need to set it to load on boot however you prefer.
 
 ### Alternative download
