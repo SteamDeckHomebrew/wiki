@@ -2,13 +2,13 @@
 title: Windows Installation
 description: UNSTABLE, MAY BRAKE
 published: true
-date: 2024-08-04T22:47:16.479Z
+date: 2024-08-04T22:56:06.850Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-04T22:47:16.479Z
 ---
 
-> Decky is not supported on windows, and may be unstable or break at any time. We appreciate bug reports from our windows users, but issues will not get fixed with urgency, as it is not our target platform.
+> Decky is not supported on windows, so some features may not work and it may be unstable or break at any time. We appreciate bug reports from our windows users, but issues will not get fixed with urgency, as it is not our target platform.
 {.is-danger}
 
 > As plugins are not tested for windows before going onto the store, many may be completely non-functional on windows. Please do not complain to plugin developers if their plugins don't work on windows, and be understanding if they do not wish to support windows.
