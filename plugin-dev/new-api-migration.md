@@ -2,14 +2,11 @@
 title: Migrating to the new decky API
 description: Steps for migrating an existing plugin to the new websocket-based system.
 published: true
-date: 2024-07-14T09:44:07.124Z
+date: 2024-09-12T10:03:22.416Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-14T00:00:11.855Z
 ---
-
-> This page is about the new plugin API. (Currently only available in prerelease decky) 
-> {.is-warning}
 
 > Migration is totally optional, and backwards compatibility is intended to be kept for as long as we can. It is recommended to migrate, as the new api is easier to use and adds new features, but there is no major rush to get this done.
 > {.is-info}
