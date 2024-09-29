@@ -2,7 +2,7 @@
 title: Frontend/Backend Communication
 description: How to communicate between the frontend and backend.
 published: true
-date: 2024-09-12T10:02:37.628Z
+date: 2024-09-29T19:01:48.091Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-12T11:51:10.773Z
@@ -151,3 +151,6 @@ And if you wanted to pass some data along with the event, like for the progress 
 await emit("progress_update", 50, "half way there!")
 ```
 `emit` is similar to `call`, the first parameter is the event name, and all other parameters are passed to the frontend. And again, data sent along with events must be JSON serializable.
+
+### The full chain of function calls for a plugin event
+![plugin_events.drawio.svg](/plugin-dev/plugin_events.drawio.svg)
