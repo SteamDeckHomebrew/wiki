@@ -2,7 +2,7 @@
 title: Testing
 description: Instructions for testing new Decky Loader versions and plugins.
 published: true
-date: 2023-07-14T13:14:05.231Z
+date: 2025-01-16T19:42:28.135Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-17T15:59:00.047Z
@@ -40,12 +40,42 @@ Once you feel you've completely tested the features of a plugin, you should now 
 
 Based off of this format:
 
-> Decky version(s), SteamOS version(s)
-> A) Any major blocking issues that you encountered, if any.
-> B) Any minor issues that you encountered (usually cosmetic, don't harm functionality).
-> C) A list of currently installed plugins (Name and version preferred)
-> (This list is needed due to potential conflicts between plugins etc).
-> D) Yay/nay on to send to the production store or if it requires more testing.
+
+```
+# Plugin Testing Report
+
+## Installed Plugins
+<!--
+    Post all currently installed plugins and their versions below this comment block. For example...
+    - Free Loader - 1.3.0-6f8f352
+    - Decky Terminal - 0.4.1
+-->
+- NameHere - VersionHere
+
+## Specifications
+<!--
+    Post your SteamOS, Steam, and Decky versions below this comment block. For example...
+    - SteamOS 3.6.20_20241030.1 (Stable OR Beta OR Preview OR Main)
+    - Steam 1733265492 (Stable OR Beta)
+    - Decky 3.0.5 (Stable OR Pre-Release)
+-->
+- SteamOS VersionHere (BranchHere)
+- Steam VersionHere (BranchHere)
+- Decky VersionHere (BranchHere)
+
+## Issues
+<!--
+    Uncomment at least one of the following, leaving the bolded text unchanged if applicable.
+-->
+<!-- **Has the following major blocking issue(s):** IssuesGoHere -->
+<!-- **Has the following minor non-blocking issue(s):** IssuesGoHere -->
+<!-- No issues were noticed. -->
+
+## Summary
+<!--
+    Leave a brief summary of how you tested the plugin and your experience using it below this comment block. For example, "Tested by installing themes and using the new theme features in an example provided by the developers. Worked as expected".
+-->
+```
 
 Once you've filed your report as a comment on the PR, we can either mark a plugin as being tested on a SteamOS update channel or as requiring a fix, or request more information from yourself or the plugin developer as needed.
 
