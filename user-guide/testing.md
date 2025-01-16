@@ -2,7 +2,7 @@
 title: Testing
 description: Instructions for testing new Decky Loader versions and plugins.
 published: true
-date: 2025-01-16T19:46:21.847Z
+date: 2025-01-16T19:46:48.825Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-17T15:59:00.047Z
@@ -73,7 +73,8 @@ Based off of this format:
 <!--
     Leave a brief summary of how you tested the plugin.
     Please include your experience using it below this comment block.
-    For example, "Tested by installing themes and using the new theme features in an example provided by the developers. 
+    For example, "Tested by installing themes and using the...
+    new theme features in an example provided by the developers. 
     Worked as expected".
 -->
 ```
