@@ -2,7 +2,7 @@
 title: Testing
 description: Instructions for testing new Decky Loader versions and plugins.
 published: true
-date: 2025-01-16T19:46:48.825Z
+date: 2025-01-25T19:20:17.544Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-17T15:59:00.047Z
@@ -43,6 +43,11 @@ Based off of this format:
 
 ```
 # Plugin Testing Report
+<!--
+    Make sure you replace all text with "REPLACE_WITH" in it. You can
+    check for text that needs updating by searching for "REPLACE_WITH"
+    in a text editor or web browser before submitting.
+-->
 
 ## Installed Plugins
 <!--
@@ -51,7 +56,7 @@ Based off of this format:
     - Free Loader - 1.3.0-6f8f352
     - Decky Terminal - 0.4.1
 -->
-- NameHere - VersionHere
+- REPLACE_WITH_PLUGIN_NAME - REPLACE_WITH_PLUGIN_VERSION
 
 ## Specifications
 <!--
@@ -61,13 +66,13 @@ Based off of this format:
     - Steam 1733265492 (Stable OR Beta)
     - Decky 3.0.5 (Stable OR Pre-Release)
 -->
-- SteamOS VersionHere (BranchHere)
-- Steam VersionHere (BranchHere)
-- Decky VersionHere (BranchHere)
+- SteamOS REPLACE_WITH_STEAMOS_VERSION (REPLACE_WITH_STEAMOS_BRANCH)
+- Steam REPLACE_WITH_STEAM_VERSION (REPLACE_WITH_STEAM_BRANCH)
+- Decky REPLACE_WITH_DECKY_VERSION (REPLACE_WITH_DECKY_BRANCH)
 
 ## Issues
-**Has the following major blocking issue(s):** IssuesGoHere
-**Has the following minor non-blocking issue(s):** IssuesGoHere
+**Has the following major blocking issue(s):** REPLACE_WITH_MAJOR_ISSUES
+**Has the following minor non-blocking issue(s):** REPLACE_WITH_MINOR_ISSUES
 
 ## Summary
 <!--
@@ -77,6 +82,7 @@ Based off of this format:
     new theme features in an example provided by the developers. 
     Worked as expected".
 -->
+REPLACE_WITH_SUMMARY
 ```
 
 Once you've filed your report as a comment on the PR, we can either mark a plugin as being tested on a SteamOS update channel or as requiring a fix, or request more information from yourself or the plugin developer as needed.
