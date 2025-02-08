@@ -2,7 +2,7 @@
 title: Getting Started
 description: How-To guide about developing a plugin
 published: true
-date: 2025-02-02T02:21:32.525Z
+date: 2025-02-08T22:56:08.727Z
 tags: plugin-dev
 editor: markdown
 dateCreated: 2022-07-03T19:33:01.141Z
@@ -51,7 +51,7 @@ The following fields can be specified:
 - `"name"`: The name of the Plugin as the CI/CLI understands it, make sure this is all lowercase with dashes rather than spaces between words that would appear seperated visually.
   - `Donkey Farm` becomes `donkey-farm` etc.
 - `"version"`: The version of the plugin as the CI/CLI understands it. Make sure to bump it before submitting update PRs etc.
-- `"remote_binary_bundling"`: Currently an experimental feature. If set to false, will prevent decky-cli from bundling external dependencies during CI/CD.
+- `"remote_binary_bundling"`: Interacts with our CLI tool, behavior is false by default. If set to true, will allow decky-cli to bundle external dependencies into the bin folder during CI/CD.
   - This is useful for plugins with large remote binary dependencies uploading to the store to keep their upload size down and allow Decky Loader to download these binaries during install of the plugin.
 - `"remote_binary"`: This field is used to ensure plugins with large binary dependencies have their large binary downloaded seperately to prevent issues the developers experienced in the past with Loader choking on large plugin zips. This field has 3 sub fields
   - `"name"`: Name of the file (including suffix) that the file should be named when downloaded.
