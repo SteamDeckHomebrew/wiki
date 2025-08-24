@@ -2,7 +2,7 @@
 title: Environment Variables
 description: Environment Variables Decky provides for as plugins running as subprocesses.
 published: true
-date: 2025-08-24T01:23:08.454Z
+date: 2025-08-24T01:28:49.072Z
 tags: plugin-dev, env-vars
 editor: markdown
 dateCreated: 2023-01-23T00:49:40.156Z
@@ -34,7 +34,7 @@ From Pre-Release 2.5.2-pre1 onward, decky provides these environment variables t
 |`DECKY_PLUGIN_SETTINGS_DIR`|The recommended path in which to store configuration files (created automatically)|v2.5.2-pre1+|`/home/deck/homebrew/settings/<plugin-name>`|
 |`DECKY_PLUGIN_RUNTIME_DIR`|The recommended path in which to store runtime data (created automatically)|v2.5.2-pre1+|`/home/deck/homebrew/data/<plugin-name>`|
 |`DECKY_PLUGIN_LOG_DIR`|The recommended path in which to store persistent logs (created automatically)|v2.5.2-pre1+|`/home/deck/homebrew/logs/<plugin-name>`|
-|`DECKY_PLUGIN_DIR`|The root of the plugin's directory|v2.5.2-pre1+|`/home/deck/homebrew/plugins/<plugin-name>`|
+|`DECKY_PLUGIN_DIR`|The root of the plugin's directory (created automatically on plugin install) |v2.5.2-pre1+ |`/home/deck/homebrew/plugins/<plugin-name>` |
 |`DECKY_PLUGIN_NAME`|The name of the plugin as specified in the `plugin.json`|v2.5.2-pre1+|`Example Plugin`|
 |`DECKY_PLUGIN_AUTHOR`|The author of the plugin as specified in the `plugin.json`|v2.5.2-pre1+|`John Doe`|
 |`DECKY_PLUGIN_VERSION`|The version of the plugin as specified in the `package.json`|v2.5.2-pre1+|`0.0.1`|
