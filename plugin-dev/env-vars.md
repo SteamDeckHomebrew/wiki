@@ -2,7 +2,7 @@
 title: Environment Variables
 description: Environment Variables Decky provides for as plugins running as subprocesses.
 published: true
-date: 2023-03-28T05:42:30.207Z
+date: 2025-08-24T01:23:08.454Z
 tags: plugin-dev, env-vars
 editor: markdown
 dateCreated: 2023-01-23T00:49:40.156Z
@@ -39,3 +39,20 @@ From Pre-Release 2.5.2-pre1 onward, decky provides these environment variables t
 |`DECKY_PLUGIN_AUTHOR`|The author of the plugin as specified in the `plugin.json`|v2.5.2-pre1+|`John Doe`|
 |`DECKY_PLUGIN_VERSION`|The version of the plugin as specified in the `package.json`|v2.5.2-pre1+|`0.0.1`|
 [^1]: If `root` is specified in the plugin's flags, this returns the root user's information, otherwise the user whose home decky resides in.
+
+Decky can be given various environment variables on startup which are used to overwrite various settings. On a standard install you'd do this by editing the .service file. For more info, the code for these can be viewed in the 3 localplatform python files in the backend folder.
+
+|---|---|---|
+| Environment Variable | Description | Default Value |
+|String options|||
+|`PRIVILEGED_PATH`|The root of the decky folder|`/home/deck/homebrew`[^1]|
+|`UNPRIVILEGED_PATH`|The root of the decky folder|`/home/deck/homebrew`[^1]|
+|`SERVER_HOST`|The host for decky's server|`127.0.0.1`|
+|`SERVER_PORT`|Which port decky runs the server on|`1337`|
+|`LOG_LEVEL`|The level of logging|`INFO`[^2]|
+|Boolean Options|||
+|`CHOWN_PLUGIN_PATH`|Is the plugin path chowned|`1`|
+|`LIVE_RELOAD`|Should plugins automatically reload when changes are detected|`1`|
+|`KEEP_SYSTEMD_SERVICE`|Should the systemd service be kept on decky updates|`0`|
+[^1]: The default values are a little more complex, check the python for more info
+[^2]: The valid options are `CRITICAL`, `ERROR`, `WARNING`, `INFO` and `DEBUG`
