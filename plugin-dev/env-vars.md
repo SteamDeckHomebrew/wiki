@@ -2,7 +2,7 @@
 title: Environment Variables
 description: Environment Variables Decky provides for as plugins running as subprocesses.
 published: true
-date: 2025-08-24T01:28:49.072Z
+date: 2025-08-24T01:29:13.225Z
 tags: plugin-dev, env-vars
 editor: markdown
 dateCreated: 2023-01-23T00:49:40.156Z
@@ -51,7 +51,7 @@ Decky can be given various environment variables on startup which are used to ov
 |`SERVER_PORT`|Which port decky runs the server on|`1337`|
 |`LOG_LEVEL`|The level of logging|`INFO`[^2]|
 |Boolean Options|||
-|`CHOWN_PLUGIN_PATH`|Is the plugin path chowned|`1`|
+|`CHOWN_PLUGIN_PATH`|Is the plugin path chowned to root:root|`1`|
 |`LIVE_RELOAD`|Should plugins automatically reload when changes are detected|`1`|
 |`KEEP_SYSTEMD_SERVICE`|Should the systemd service be kept on decky updates|`0`|
 [^1]: The default values are a little more complex, check the python for more info
