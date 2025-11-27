@@ -2,7 +2,7 @@
 title: Submitting Plugins
 description: Guide on how to get your Plugin onto the Store
 published: true
-date: 2025-11-27T17:37:29.268Z
+date: 2025-11-27T17:39:37.645Z
 tags: plugin-dev, store
 editor: markdown
 dateCreated: 2022-07-03T19:53:34.932Z
@@ -38,10 +38,10 @@ No. We do not accept any plugin that uses any LLM based code as these models do 
 
 ## Ethical Considerations
 
-- Plugins cannot link to keystores (sites for users to sell Steam keys) but may link to authorized key sellers (ex. sites from IsThereAnyDeal). This is to protect our users and discourage fraud against game developers.
-	- Many sites that catalog keystores [mention a risk](https://gg.deals/page/keyshops-risks/#goto-marketplace) of buying "fraudulently obtained keys" which "may be removed from your library in the future".
-	- Some game developers have also [said that piracy is better than using keystores](https://www.pcgamer.com/developers-tell-people-to-pirate-their-games-instead-of-using-g2a/) since they encourage credit card chargebacks, fraudulently requesting free keys, and requesting unofficial support through official means.
-	- In one instance, G2A [gave statistics](https://www.pcgamer.com/g2a-has-paid-factorio-studio-nearly-dollar40000-over-sale-of-illegitimate-keys/) showing 61.6% of all illegitimate Factorio keys were attributed to G2A. This number includes users who fraudulently obtained keys for themselves.
+- Plugins cannot link to keyshops (sites for users to sell Steam keys) but may link to authorized key sellers (ex. sites from IsThereAnyDeal). This is to protect our users and discourage fraud against game developers.
+	- Many sites that catalog keyshops [mention a risk](https://gg.deals/page/keyshops-risks/#goto-marketplace) of buying "fraudulently obtained keys" which "may be removed from your library in the future".
+	- Some game developers have also [said that piracy is better than using keyshops](https://www.pcgamer.com/developers-tell-people-to-pirate-their-games-instead-of-using-g2a/) since they encourage credit card chargebacks, fraudulently requesting free keys, and requesting unofficial support through official means.
+	- In one instance, the keyshop G2A [gave statistics](https://www.pcgamer.com/g2a-has-paid-factorio-studio-nearly-dollar40000-over-sale-of-illegitimate-keys/) showing 61.6% of all illegitimate Factorio keys were attributed to G2A. This number includes users who fraudulently obtained keys for themselves.
 
 ## Submission 
 
