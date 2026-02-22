@@ -2,7 +2,7 @@
 title: Plugin Safety
 description: A brief guide on recommended safety steps when installing plugins
 published: true
-date: 2026-02-22T17:03:28.342Z
+date: 2026-02-22T17:04:08.682Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-19T19:59:37.020Z
@@ -31,7 +31,7 @@ Plugins are denied for a variety of reasons, including:
 
 Below are some commonly installed plugins which have been previously denied or removed from the Decky Plugin Store.
 
-> The following summaries are written by individual members of the team with the intent of providing an impartial. They may not represent the views of the entire Steam Deck Homebrew team.
+> The following summaries are written by individual members of the team with the intent of providing an impartial view. They may not represent the views of the entire Steam Deck Homebrew team.
 {.is-info}
 
 ## NonSteamLaunchers
