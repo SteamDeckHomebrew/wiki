@@ -2,7 +2,7 @@
 title: Plugin Safety
 description: A brief guide on recommended safety steps when installing plugins
 published: true
-date: 2026-02-20T01:45:57.066Z
+date: 2026-02-22T17:03:28.342Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-19T19:59:37.020Z
@@ -45,3 +45,12 @@ Outside of using Steam directly, some unaffiliated alternatives include:
 - [Heroic Games Launcher](https://heroicgameslauncher.com/) (software)
 - [Junk Store](https://github.com/ebenbruyns/junkstore) (Decky plugin)
 - [Lutris](https://lutris.net/) (software)
+
+# Installing non-plugin store plugins
+> As previously stated, installing from a ZIP file or URL is a developer setting for a reason. We do not recommend installing a plugin using these methods for any other reason, including plugin testing (use the testing plugin store).
+{.is-warning}
+
+If you are absolutely sure you want to install a plugin from outside of the plugin store, we recommend taking the following steps first. We will not provide further support regarding plugins installed from outside of the Decky Plugin Store.
+- Ensure the plugin is open-source and accessible via GitHub, GitLab, or another Git host
+- Download the plugin from somewhere reputable, like GitHub releases and not a website specific to the plugin
+- If you have lag or other issues after installing the plugin, uninstall it immediately
