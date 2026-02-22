@@ -2,7 +2,7 @@
 title: Testing
 description: Instructions for testing new Decky Loader versions and plugins.
 published: true
-date: 2025-01-25T19:20:17.544Z
+date: 2026-02-22T16:37:20.558Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-17T15:59:00.047Z
@@ -35,6 +35,9 @@ Once a plugin is submitted/a plugin has an update submitted, it needs to meet a 
 {.is-info}
 
 ## Submitting a Test Report
+
+> Do NOT submit a test report unless the plugin you're testing is already on the testing plugin store. Otherwise, it will be hidden by our team and confuse other testers into believing the plugin has already been tested.
+{.is-warning}
 
 Once you feel you've completely tested the features of a plugin, you should now submit a testing report, otherwise all your effort has been for naught! Since you've already noted what SteamOS update channel(s) and Decky Loader branch(es) you used while testing this should be easy!
 
