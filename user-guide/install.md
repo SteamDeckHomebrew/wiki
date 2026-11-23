@@ -2,7 +2,7 @@
 title: Installation
 description: How to install the Steam Deck Plugin Loader
 published: true
-date: 2024-03-16T18:53:36.244Z
+date: 2026-11-23T22:47:34.443Z
 tags: user-guide
 editor: markdown
 dateCreated: 2022-04-08T14:18:43.906Z
@@ -33,7 +33,7 @@ dateCreated: 2022-04-08T14:18:43.906Z
 
 - There is also a fast install for those who can use Konsole:
 ```
-curl -L https://github.com/SteamDeckHomebrew/decky-installer/releases/latest/download/install_release.sh | sh
+curl -L https://github.com/SteamDeckHomebrew/decky-installer/releases/latest/download/install.sh | bash
 ``` 
 
 ## Manual Installation
