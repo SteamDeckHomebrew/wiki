@@ -2,7 +2,7 @@
 title: Developing for and Contributing to PluginLoader
 description: How to run the contribution install scripts and run development versions of Plugin Loader
 published: true
-date: 2026-11-23T22:49:55.054Z
+date: 2026-11-23T22:53:19.540Z
 tags: loader-dev
 editor: markdown
 dateCreated: 2022-06-02T20:18:49.956Z
@@ -34,6 +34,9 @@ Contributors can install development versions a few ways.
    - e.g ``git clone https://github.com/SteamDeckHomebrew/decky-loader``
 
 ---
+
+> **BELOW IS OUT OF DATE, THESE SCRIPTS ARE NO LONGER USED**
+{.is-warning}
 
 ### Contrib Scripts
 
