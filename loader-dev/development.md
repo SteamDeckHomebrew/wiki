@@ -2,7 +2,7 @@
 title: Developing for and Contributing to PluginLoader
 description: How to run the contribution install scripts and run development versions of Plugin Loader
 published: true
-date: 2022-10-15T17:37:24.684Z
+date: 2026-11-23T22:49:55.054Z
 tags: loader-dev
 editor: markdown
 dateCreated: 2022-06-02T20:18:49.956Z
@@ -32,12 +32,6 @@ Contributors can install development versions a few ways.
 2. From VSCode/Code/Codium Tasks found in ``.vscode``.
    - These require the user to be working with a cloned repository.
    - e.g ``git clone https://github.com/SteamDeckHomebrew/decky-loader``
-
-----
-
-### Build Tasks
-
-WIP, come back later!
 
 ---
 
